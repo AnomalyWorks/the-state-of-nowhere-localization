@@ -1,0 +1,1309 @@
+# ============================================================================
+# [KEY]
+# ESTADISTICAS#0
+
+# [ENGLISH]
+# Statistics
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+统计数据
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#1
+
+# [ENGLISH]
+# Infractions committed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+发生的违规次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#2
+
+# [ENGLISH]
+# Unprotected sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+无保护性行为
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#3
+
+# [ENGLISH]
+# Sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+性行为次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#4
+
+# [ENGLISH]
+# Sexual encounters offered
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+提供的性交次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#5
+
+# [ENGLISH]
+# Sexual encounters received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+接收的性邂逅
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#6
+
+# [ENGLISH]
+# Alcohol consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+酒精消费
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#7
+
+# [ENGLISH]
+# Drug consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+毒品消费量
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#8
+
+# [ENGLISH]
+# Embezzlements
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+挪用公款
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#9
+
+# [ENGLISH]
+# Cash shortages
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+現金短缺
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#10
+
+# [ENGLISH]
+# Household debts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+家庭债务
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#11
+
+# [ENGLISH]
+# Citizens completed correctly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+正确处理的公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#12
+
+# [ENGLISH]
+# Citizens completed incorrectly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+错误处理的公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#13
+
+# [ENGLISH]
+# Alcohol blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+酒精导致的昏迷
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#14
+
+# [ENGLISH]
+# Drug-induced blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+药物导致的昏迷
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#15
+
+# [ENGLISH]
+# Confirmed citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+已确认的公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#16
+
+# [ENGLISH]
+# Rejected citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+被拒绝的公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#17
+
+# [ENGLISH]
+# Citizens neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+被中和的公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#18
+
+# [ENGLISH]
+# Citizens arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+被拘留的公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#19
+
+# [ENGLISH]
+# Drug deliveries
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+毒品运送
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#20
+
+# [ENGLISH]
+# Health pamphlets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Chinese Simplified: 健康宣传册
+
+# [TRANSLATION]
+<<<
+健康宣传册已发放
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#21
+
+# [ENGLISH]
+# Addiction brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ADICTION_BROCHURE
+# English: Addiction Brochure
+# Chinese Simplified: 成瘾宣传册
+
+# [TRANSLATION]
+<<<
+成瘾宣传册已发放
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#22
+
+# [ENGLISH]
+# Intolerance brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: INTOLERANCES_BROCHURE
+# English: Intolerances Brochure
+# Chinese Simplified: 不耐受宣传册
+
+# [TRANSLATION]
+<<<
+不耐受宣传册已发放
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#23
+
+# [ENGLISH]
+# Malignism leaflets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Chinese Simplified: 马利格诺主义宣传册
+
+# [TRANSLATION]
+<<<
+马利格诺主义宣传册已发放
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#24
+
+# [ENGLISH]
+# Obesity brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: OBESITY_BROCHURE
+# English: Obesity Brochure
+# Chinese Simplified: 肥胖宣传册
+
+# [TRANSLATION]
+<<<
+肥胖宣传册已发放
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#25
+
+# [ENGLISH]
+# Blood pressure brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_BROCHURE
+# English: Blood Pressure Brochure
+# Chinese Simplified: 血压宣传册
+
+# [TRANSLATION]
+<<<
+血压宣传册已发放
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#26
+
+# [ENGLISH]
+# Wanted Criminals reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+
+# [TRANSLATION]
+<<<
+通缉犯来电报告已收到
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#27
+
+# [ENGLISH]
+# Missing Persons reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+
+# [TRANSLATION]
+<<<
+失踪人员来电报告已收到
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#28
+
+# [ENGLISH]
+# Arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+逮捕令已接收
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#29
+
+# [ENGLISH]
+# Undercover arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+秘密逮捕令已接收
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#30
+
+# [ENGLISH]
+# Resisting arrest charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因抵抗被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#31
+
+# [ENGLISH]
+# Attempted crime charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因未遂被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#32
+
+# [ENGLISH]
+# Single homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因普通杀人被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#33
+
+# [ENGLISH]
+# Multiple homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因连环杀人被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#34
+
+# [ENGLISH]
+# Drug-related charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因毒品被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#35
+
+# [ENGLISH]
+# Exhibitionism charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因暴露狂行为被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#36
+
+# [ENGLISH]
+# Criminal association charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因非法结社被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#37
+
+# [ENGLISH]
+# Forgery charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因伪造被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#38
+
+# [ENGLISH]
+# Prostitution charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因卖淫被逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#39
+
+# [ENGLISH]
+# Theft charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+收到的盗窃逮捕次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#40
+
+# [ENGLISH]
+# Packages delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Chinese Simplified: 秘密警察
+
+# [TRANSLATION]
+<<<
+交给秘密警察的包裹数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#41
+
+# [ENGLISH]
+# Packages delivered to rebels
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+交给反叛军的包裹数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#42
+
+# [ENGLISH]
+# Information delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Chinese Simplified: 秘密警察
+
+# [TRANSLATION]
+<<<
+交给秘密警察的信息数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#43
+
+# [ENGLISH]
+# Incorrect info delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Chinese Simplified: 秘密警察
+
+# [TRANSLATION]
+<<<
+错误地向秘密警察提供信息
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#44
+
+# [ENGLISH]
+# Unpaid rent
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未付的租金
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#45
+
+# [ENGLISH]
+# Unpaid household expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未付的家庭开支
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#46
+
+# [ENGLISH]
+# Unpaid taxes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未付的税款
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#47
+
+# [ENGLISH]
+# Unpaid Arrest Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未付的逮捕费用
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#48
+
+# [ENGLISH]
+# Unpaid Medical Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未支付医疗费用
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#49
+
+# [ENGLISH]
+# Unpaid condoms
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未支付避孕套
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#50
+
+# [ENGLISH]
+# Change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+零钱盗窃
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#51
+
+# [ENGLISH]
+# Detected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+被发现的零钱盗窃
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#52
+
+# [ENGLISH]
+# Undetected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未被发现的零钱盗窃
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#53
+
+# [ENGLISH]
+# Accepted bribes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+接受的贿赂
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#54
+
+# [ENGLISH]
+# Drug deliveries to addicts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+向吸毒者提供毒品
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#55
+
+# [ENGLISH]
+# Thieves not arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未被捕的小偷
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#56
+
+# [ENGLISH]
+# Thief rejections
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+小偷的拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#57
+
+# [ENGLISH]
+# Poor not rejected
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未拒绝的穷人
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#58
+
+# [ENGLISH]
+# Robber thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Chinese Simplified: 劫匪
+
+# [TRANSLATION]
+<<<
+劫匪抢劫
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#59
+
+# [ENGLISH]
+# Robbers neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Chinese Simplified: 劫匪
+
+# [TRANSLATION]
+<<<
+劫匪被中和
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#60
+
+# [ENGLISH]
+# Minor inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+轻度闲置惩罚
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#61
+
+# [ENGLISH]
+# Major inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+重度闲置惩罚
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#62
+
+# [ENGLISH]
+# Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+住院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#63
+
+# [ENGLISH]
+# Fake bill scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+假钞诈骗
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#64
+
+# [ENGLISH]
+# Cloned card scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+克隆卡诈骗
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#65
+
+# [ENGLISH]
+# Alcohol tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+酒精测试已进行
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#66
+
+# [ENGLISH]
+# Blood pressure tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+压力测试次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#67
+
+# [ENGLISH]
+# Body scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+身体扫描次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#68
+
+# [ENGLISH]
+# Fingerprint scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+足印扫描次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#69
+
+# [ENGLISH]
+# Thieves arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+抓获小偷数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#70
+
+# [ENGLISH]
+# Bets placed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+下注次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#71
+
+# [ENGLISH]
+# Bets won
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+赢注次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#72
+
+# [ENGLISH]
+# Bets lost
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+输注次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#73
+
+# [ENGLISH]
+# Gift purchases
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+礼物购买数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#74
+
+# [ENGLISH]
+# Times in debt
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+负债次数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#75
+
+# [ENGLISH]
+# Injury Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因殴打住院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#76
+
+# [ENGLISH]
+# Sex-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因性行为住院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#77
+
+# [ENGLISH]
+# Alcohol-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因酒精住院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#78
+
+# [ENGLISH]
+# Drug-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因毒品住院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#79
+
+# [ENGLISH]
+# Firearm-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+因枪伤住院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#80
+
+# [ENGLISH]
+# Product cancellations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+商品取消
+>>>

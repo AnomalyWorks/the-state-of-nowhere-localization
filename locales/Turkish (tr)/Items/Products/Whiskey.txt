@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#1
+
+# [ENGLISH]
+# Whiskey
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Viski
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#2
+
+# [ENGLISH]
+# Do you like whiskey? // On the rocks or off the rocks? // Shut up? // Ok.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Viskiden hoşlanır mısın? // Buzlu mu buzsuz mu? // Susmamı mı istiyorsun? // Tamam
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#3
+
+# [ENGLISH]
+# 'Whiskey Don Maligno' // 'Drink in moderation' // Yes... // Maybe next month...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Turkish: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno Viskisi' // 'Ölçülü için' // Evet... // Belki gelecek ay...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#4
+
+# [ENGLISH]
+# I'll take that bottle of whiskey to drink tonight.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bu şişe viskiyi bu gece içmek için alacağım
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#5
+
+# [ENGLISH]
+# Do you like whiskey? // You don't drink alcohol? // Ok.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Viskiden hoşlanır mısın? // Alkol içmiyor musun? // Tamam
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#6
+
+# [ENGLISH]
+# Hey! // I thought I'd have that whiskey with a friend.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey! // Bu viskiyi bir arkadaşımla içmeyi düşünüyordum
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#7
+
+# [ENGLISH]
+# Anyway // I guess I'll lay off that whiskey.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Neyse // Sanırım bu viskiyi bırakacağım
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#8
+
+# [ENGLISH]
+# What now? // This is the fourth time you won't let me buy my whiskey!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Şimdi ne olacak? // Viskimi almama izin vermedikleri dördüncü sefer bu!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#9
+
+# [ENGLISH]
+# What about my whiskey? // Stop drinking? // Never.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Peki ya viskim? // İçmeyi bırakmam mı gerekiyor? // Asla
+>>>

@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#1
+
+# [ENGLISH]
+# Canned Fruits
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+水果罐头
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#2
+
+# [ENGLISH]
+# I'm bringing a can of fruit to eat for dessert today.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我今天带了一罐水果当甜点
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#3
+
+# [ENGLISH]
+# I didn't get fresh fruit // So I'm bringing a can of fruit.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我没找到新鲜水果 // 所以带了一罐水果
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#4
+
+# [ENGLISH]
+# Fresh fruit rots // That's why I'll take them in a can
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我的新鲜水果烂了 // 所以我带了一罐水果
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#5
+
+# [ENGLISH]
+# 'Don Maligno fruit can' // 'Provides all the benefits of fruit in one can' // 'For superior breeds only' // Cool.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Simplified: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno 水果罐头' // '一罐即享所有水果益处' // '仅限优越种族' // 太棒了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#6
+
+# [ENGLISH]
+# Very well // If Maligno says I can't eat a can of fruit... // I won't complain
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+好吧 // 如果Maligno说我不能吃水果罐头... // 我不会抱怨
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#7
+
+# [ENGLISH]
+# Wow... // I didn't get fresh fruit // And I can't carry canned fruit either...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这样啊... // 没找到新鲜水果 // 而且还不能带水果罐头...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#8
+
+# [ENGLISH]
+# No! // My can of fruit... // There will be no dessert today...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不！ // 我的水果罐头... // 今天没有甜点了...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#9
+
+# [ENGLISH]
+# Too bad... // I had cream ready for that can of fruit...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+真可惜... // 我为那罐水果准备了奶油...
+>>>

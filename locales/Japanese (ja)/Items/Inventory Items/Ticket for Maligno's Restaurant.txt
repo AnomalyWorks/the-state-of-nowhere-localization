@@ -1,0 +1,239 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#1
+
+# [ENGLISH]
+# Ticket for Maligno's Restaurant
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TICKET_MALIGNO_RESTAURANT
+# English: Ticket for Maligno's Restaurant
+# Japanese: Maligno's Restaurantのチケット
+
+# [TRANSLATION]
+<<<
+Maligno's Restaurantのチケット
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#2
+
+# [ENGLISH]
+# Ticket for two people in the best restaurant. Maligno's Restaurant, a superior restaurant
+
+# [CONTEXT]
+# Description of the Ticket for Maligno's Restaurant inventory item
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# Japanese: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+最高級レストラン2名分の入場券。Maligno's Restaurant、格調高いレストラン
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#3
+
+# [ENGLISH]
+# I'd love to accept it... // But a guy like me... // In that place...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+喜んで受け取りたい... // でも俺みたいな奴が... // あんな場所で...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#4
+
+# [ENGLISH]
+# Thanks // But I'm not worthy enough to go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ありがとう // でも俺には入る資格がない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#5
+
+# [ENGLISH]
+# I'm sure they'll kick me out if I show up...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+行ったらたぶん叩き出されるだろう...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#6
+
+# [ENGLISH]
+# A superior restaurant // for superior people // I couldn't go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+格上レストラン... // 上流の人々のために... // オレには入れない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#7
+
+# [ENGLISH]
+# The new Maligno's Restaurant! // I wish I was worthy enough
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# Japanese: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+新しいMaligno's Restaurantだ！ // 僕も十分ふさわしければな
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#8
+
+# [ENGLISH]
+# Thanks // But that restaurant is too much for me
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ありがとう // でもあのレストランは俺には手が届かない...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#9
+
+# [ENGLISH]
+# A policeman has no time for such things
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+警察官にはそんなことをしている時間はない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#10
+
+# [ENGLISH]
+# Get away from me // And stick to your job
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+俺から離れろ // お前の仕事に集中しろ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#11
+
+# [ENGLISH]
+# You better continue working // If you don't want to be arrested
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+仕事を続けろ // それとも逮捕されたいのか?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#12
+
+# [ENGLISH]
+# I'm the authority here // Behave // Or I will put you in a cell
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ここでは俺が権力者だ // 素直にしろ // さもないと独房に放り込むぞ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#13
+
+# [ENGLISH]
+# What are you trying to do handsome? // Are you trying to distract me? // Nothing distracts me more than you
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+何しようとしてる、美人？ // 注意をそらすつもり？ // 君以外に注意をそらすものはない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#14
+
+# [ENGLISH]
+# Can I tell you something? // You look irresistible // For someone like you I'd be capable of committing a crime
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ちょっと聞いてくれるか？ // 君は魅力的だ // 君のためになら犯罪も犯せる
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#15
+
+# [ENGLISH]
+# Buddy // Look at me // Do you think someone like me could get into that place?
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+相棒 // オレを見ろ // オレみたいな奴があんなところに入れると思うか?
+>>>

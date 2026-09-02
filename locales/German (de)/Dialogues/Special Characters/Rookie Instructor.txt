@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Ich bin der Ausbilder für Neulinge // Ich bin gekommen, um dir einen allgemeinen Überblick darüber zu geben, was du an deinem ersten Tag tun musst // Zuerst musst du den Bürger identifizieren // Dafür musst du die Identifikationskarte des Bürgers lesen
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Aber bevor du das tust, öffne den Inspektionstisch // Dort kannst du die Dokumente genauer ansehen // Versuch, die Identifikationskarte mit einem Rechtsklick umzudrehen, und komm dann hierher zurück
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# German: Lesegerät für Identifikationskarten
+
+# [TRANSLATION]
+<<<
+Wurde auch Zeit // Steck jetzt die Karte in das Lesegerät für Identifikationskarten, um den Bürger zu identifizieren
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# German: Produktaufruf
+
+# [TRANSLATION]
+<<<
+Du hast es geschafft! // Ich kann es nicht glauben // Jetzt ist es an der Zeit, die Produkte des Bürgers zu bearbeiten // Aktiviere den Produktaufruf
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# German: Produktleser
+
+# [TRANSLATION]
+<<<
+Jetzt musst du sie einlesen // Zieh das Produkt zum Produktleser, um zu beginnen
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Wow // Du bist schneller, als du aussiehst // Und ich hatte keinen Glauben an dich // Jetzt ist es Zeit, die Zahlung zu bearbeiten // Aber nehmen wir an, ich lege die Zahlung nicht vor // Was du bei einer solchen Unregelmäßigkeit immer tun musst, ist, sie zu melden // Melde, dass der Bürger die Zahlung nicht vorgelegt hat
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Gut // Jetzt ist es Zeit, die Zahlung zu bearbeiten // Denk daran, das richtige Wechselgeld herauszugeben und sie dann anzunehmen
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# German: Kassenbon
+
+# [TRANSLATION]
+<<<
+Wir sind fast fertig // Jetzt musst du mir den Kassenbon geben, um die Transaktion abzuschließen
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# German: Aktion
+#
+# ID: REJECT
+# English: Reject
+# German: Zurückweisen
+
+# [TRANSLATION]
+<<<
+Unter normalen Umständen wird das den Kauf genehmigen und der Bürger wird mit den Produkten gehen // Behalte das im Hinterkopf // Jetzt lass mich dir nur noch etwas sagen // Du kannst Aktionen an Bürgern ausführen // Führe die Aktion Zurückweisen aus, damit ich gehe
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# German: Handbuch
+
+# [TRANSLATION]
+<<<
+Das ist alles // Du bist nicht der aufgeweckteste Arbeiter // Aber ich glaube, du wirst damit zurechtkommen // Von jetzt an bist du auf dich allein gestellt // Lies das Handbuch, wenn du nicht weißt, wie man etwas macht
+>>>

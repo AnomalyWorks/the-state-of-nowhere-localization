@@ -1,0 +1,607 @@
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#1
+
+# [ENGLISH]
+# How? // My ID card is fake? // It must be a mistake.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ne? // Kimlik kartım sahte mi? // Bir hata olmalı
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#2
+
+# [ENGLISH]
+# Wow // You discovered my fake ID card... // I congratulate you
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Vay be // Sahte kimlik kartımı keşfettin... // Tebrik ederim
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#3
+
+# [ENGLISH]
+# My ID card is not fake // You are wrong
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Kimlik kartım sahte değil // Yanılıyorsun
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#4
+
+# [ENGLISH]
+# You figured me out buddy // The ID card is fake // You're very good.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Beni yakaladın, dostum // Kimlik kartı sahte // Çok iyisin
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#5
+
+# [ENGLISH]
+# My ID card is not a fake // Check it out // It has the stamps on it.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Kimlik kartım sahte değil // İyice bak // Üzerinde Orijinallik Mühürleri var
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#6
+
+# [ENGLISH]
+# Oh... // You realized... // I won't forge again // Please don't rat me out...
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oh... // Fark ettin... // Bir daha sahtecilik yapmayacağım // Lütfen beni ele verme
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#7
+
+# [ENGLISH]
+# How? // It can't be // I was told it was an undetectable replica.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ne? // Olamaz // Bana bunun tespit edilemez bir kopya olduğunu söylediler
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#8
+
+# [ENGLISH]
+# What do you mean, fakes? // No way // The guy who sold me the falsifications told me that nobody would notice.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nasıl yani, sahte mi? // Olamaz // Bana sahteleri satan adam kimsenin fark etmeyeceğini söyledi
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#9
+
+# [ENGLISH]
+# False? // Must be an error // Check it again
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sahte mi? // Bir hata olmalı // Tekrar kontrol et
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#10
+
+# [ENGLISH]
+# But it's an exact replica // How could you tell?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ama bu kusursuz bir kopya // Nasıl fark ettin?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#11
+
+# [ENGLISH]
+# That the bill is counterfeit? // It must be a mistake!
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Banknot sahte mi? // Bir hata olmalı!
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#12
+
+# [ENGLISH]
+# Counterfeit? // You're crazy // That bill is real.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Sahte mi? // Delirmişsin // Bu banknot gerçek
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#13
+
+# [ENGLISH]
+# But this is a new bill! // Maligno announced it recently // Didn't you hear about it?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Turkish: Maligno
+#
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Ama bu banknot yeni! // Maligno bunu kısa süre önce duyurdu // Haberın yok mu?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#14
+
+# [ENGLISH]
+# It can't be // They just handed me that bill.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Olamaz // Bu banknotu bana daha yeni verdiler
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#15
+
+# [ENGLISH]
+# How did you figure it out // I made that bill myself // With the latest technology
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Bunu nasıl anladın? // Bu banknotu kendim yaptım // En son teknolojiyle
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#16
+
+# [ENGLISH]
+# It's authentic! // Isn't that the seal of authenticity?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Gerçek! // Bu Orijinallik Mührü değil mi?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#17
+
+# [ENGLISH]
+# Counterfeit? // But I just got it // Look // It has the seal of authenticity.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Sahte mi? // Ama bunu bana daha yeni verdiler // Bak // Üzerinde Orijinallik Mührü var
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#18
+
+# [ENGLISH]
+# What do you mean it's a fake? // But it has all the stamps // I made sure to put them on properly
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Nasıl sahte olur? // Ama üzerinde tüm Orijinallik Mühürleri var // Onları düzgünce yapıştırmakla bizzat ben ilgilendim
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#19
+
+# [ENGLISH]
+# Fake? // But look // It has Nowhere's seal of authenticity.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Turkish: Nowhere
+#
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Sahte mi? // Ama bak // Üzerinde Nowhere'in Orijinallik Mührü var
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#20
+
+# [ENGLISH]
+# You noticed // You're the first one // What gave it away // The seals of authenticity?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Fark ettin // İlk sensin // Neydi onlar? // Orijinallik Mühürleri mi?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#21
+
+# [ENGLISH]
+# My credit note is fake? // How can this be possible?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Alacak dekontum sahte mi? // Bu nasıl mümkün olabilir?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#22
+
+# [ENGLISH]
+# This credit note is authentic // Check again
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bu alacak dekontu gerçek // Tekrar kontrol et
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#23
+
+# [ENGLISH]
+# I didn't forge that credit note... // Well, yes, I did
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+O alacak dekontunu ben sahtelemedim... // Gerçi sahteledim
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#24
+
+# [ENGLISH]
+# Come on // It's not a fake credit note // It says it right there // 'This is not a forgery'
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hadi ama // Bu sahte bir alacak dekontu değil // Orada yazıyor // 'Bu bir sahtecilik değil'
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#25
+
+# [ENGLISH]
+# Yes // I forged that credit note // So what?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Evet // O alacak dekontunu sahteledim // Ne olmuş?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#26
+
+# [ENGLISH]
+# The coupon is authentic // Check it again please
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bu gerçek bir kupon // Lütfen tekrar kontrol et
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#27
+
+# [ENGLISH]
+# What? // Don't look at me like that // I didn't forge that coupon.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ne? // Bana öyle bakma // O kuponu ben sahtelemedim
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#28
+
+# [ENGLISH]
+# Shoot // The guy who gave me that coupon said that they wouldn't notice.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Kahretsin // Bana o kuponu veren adam fark etmeyeceklerini söyledi
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#29
+
+# [ENGLISH]
+# Oh... // You got me, buddy // Don't rat me out // I'll never fake coupons again.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oh... // Beni yakaladın dostum // Beni ihbar etme // Bir daha kupon sahteciliği yapmayacağım
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#30
+
+# [ENGLISH]
+# That my coupon is fake? // Do you know how crazy that sounds? // ...
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Kuponum sahte mi? // Bunun ne kadar saçma geldiğini biliyor musun? // ...
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#31
+
+# [ENGLISH]
+# Alright // What do you say if I give you some bills // And you forget about that fake card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Peki // Sana birkaç Banknot versem ne dersin // Ve şu sahte kartı unutsan
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#32
+
+# [ENGLISH]
+# Please don't arrest me // Ignore my fake ID card // I'll pay you
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Lütfen beni tutuklama // Sahte kimlik kartımı görmezden gel // Sana ödeme yapacağım
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#33
+
+# [ENGLISH]
+# Are you going to arrest me for the fake card? // Maybe a bribe will change your mind
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sahte kart yüzünden beni tutuklayacak mısın? // Belki bir rüşvet fikrini değiştirir
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#34
+
+# [ENGLISH]
+# Hey // I could give you money // If you overlook that fake card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey // Sana para verebilirim // Şu sahte kart meselesini görmezden gelirsen
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#35
+
+# [ENGLISH]
+# Come on // Let me give you some money to forget about it // It's just a fake ID card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hadi // Unutman için sana biraz para vereyim // Bu sadece sahte bir kimlik kartı
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#36
+
+# [ENGLISH]
+# Please // I can't go to prison // I'm just a humble counterfeiter // Let me give you money
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Lütfen // Hapse gidemem // Ben mütevazı bir kalpazanım // Sana para vermeme izin ver
+>>>

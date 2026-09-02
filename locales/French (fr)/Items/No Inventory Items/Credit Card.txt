@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#1
+
+# [ENGLISH]
+# Credit Card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# French: Carte de crédit
+
+# [TRANSLATION]
+<<<
+Carte de crédit
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#3
+
+# [ENGLISH]
+# That's my credit card // To pay for the purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# French: Carte de crédit
+
+# [TRANSLATION]
+<<<
+C'est ma carte de crédit // Pour payer l'achat
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#4
+
+# [ENGLISH]
+# That's my credit card // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# French: Carte de crédit
+
+# [TRANSLATION]
+<<<
+C'est ma carte de crédit // Tu dois la traiter
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#5
+
+# [ENGLISH]
+# No // It's for the payment // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Non // C'est pour le paiement // C'est toi qui dois le traiter
+>>>

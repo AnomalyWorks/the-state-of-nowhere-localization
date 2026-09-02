@@ -1,0 +1,1309 @@
+# ============================================================================
+# [KEY]
+# ESTADISTICAS#0
+
+# [ENGLISH]
+# Statistics
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Estatísticas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#1
+
+# [ENGLISH]
+# Infractions committed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Infrações cometidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#2
+
+# [ENGLISH]
+# Unprotected sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Encontros sexuais sem proteção
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#3
+
+# [ENGLISH]
+# Sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Encontros sexuais
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#4
+
+# [ENGLISH]
+# Sexual encounters offered
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Encontros sexuais oferecidos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#5
+
+# [ENGLISH]
+# Sexual encounters received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Encontros sexuais recebidos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#6
+
+# [ENGLISH]
+# Alcohol consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Consumo de álcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#7
+
+# [ENGLISH]
+# Drug consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Consumo de drogas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#8
+
+# [ENGLISH]
+# Embezzlements
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Desvios de dinheiro
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#9
+
+# [ENGLISH]
+# Cash shortages
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Faltas de caixa
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#10
+
+# [ENGLISH]
+# Household debts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Dívidas do lar
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#11
+
+# [ENGLISH]
+# Citizens completed correctly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Cidadãos finalizados corretamente
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#12
+
+# [ENGLISH]
+# Citizens completed incorrectly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Cidadãos finalizados incorretamente
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#13
+
+# [ENGLISH]
+# Alcohol blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Desmaios por álcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#14
+
+# [ENGLISH]
+# Drug-induced blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Desmaios por drogas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#15
+
+# [ENGLISH]
+# Confirmed citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Cidadãos confirmados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#16
+
+# [ENGLISH]
+# Rejected citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Cidadãos rejeitados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#17
+
+# [ENGLISH]
+# Citizens neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Cidadãos neutralizados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#18
+
+# [ENGLISH]
+# Citizens arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Cidadãos detidos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#19
+
+# [ENGLISH]
+# Drug deliveries
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Entregas de droga
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#20
+
+# [ENGLISH]
+# Health pamphlets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Portuguese: Folhetos de Saúde
+
+# [TRANSLATION]
+<<<
+Folhetos de Saúde entregues
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#21
+
+# [ENGLISH]
+# Addiction brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ADICTION_BROCHURE
+# English: Addiction Brochure
+# Portuguese: Folheto sobre Dependência
+
+# [TRANSLATION]
+<<<
+Folhetos sobre Dependência entregues
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#22
+
+# [ENGLISH]
+# Intolerance brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: INTOLERANCES_BROCHURE
+# English: Intolerances Brochure
+# Portuguese: Folheto sobre Intolerâncias
+
+# [TRANSLATION]
+<<<
+Folhetos sobre Intolerâncias entregues
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#23
+
+# [ENGLISH]
+# Malignism leaflets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Portuguese: Folheto Malignismo
+
+# [TRANSLATION]
+<<<
+Folhetos Malignismo entregues
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#24
+
+# [ENGLISH]
+# Obesity brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: OBESITY_BROCHURE
+# English: Obesity Brochure
+# Portuguese: Folheto sobre Obesidade
+
+# [TRANSLATION]
+<<<
+Folhetos sobre Obesidade entregues
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#25
+
+# [ENGLISH]
+# Blood pressure brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_BROCHURE
+# English: Blood Pressure Brochure
+# Portuguese: Folheto sobre Pressão Arterial
+
+# [TRANSLATION]
+<<<
+Folhetos sobre Pressão Arterial entregues
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#26
+
+# [ENGLISH]
+# Wanted Criminals reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+
+# [TRANSLATION]
+<<<
+Criminosos Procurados denunciados por chamada
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#27
+
+# [ENGLISH]
+# Missing Persons reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+
+# [TRANSLATION]
+<<<
+Pessoas Desaparecidas denunciadas por chamada
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#28
+
+# [ENGLISH]
+# Arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#29
+
+# [ENGLISH]
+# Undercover arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões disfarçadas recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#30
+
+# [ENGLISH]
+# Resisting arrest charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por resistência recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#31
+
+# [ENGLISH]
+# Attempted crime charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por tentativa recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#32
+
+# [ENGLISH]
+# Single homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por homicídio simples recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#33
+
+# [ENGLISH]
+# Multiple homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por homicídio múltiplo recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#34
+
+# [ENGLISH]
+# Drug-related charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por drogas recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#35
+
+# [ENGLISH]
+# Exhibitionism charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por exibicionismo recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#36
+
+# [ENGLISH]
+# Criminal association charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por associação ilícita recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#37
+
+# [ENGLISH]
+# Forgery charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por falsificação recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#38
+
+# [ENGLISH]
+# Prostitution charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por prostituição recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#39
+
+# [ENGLISH]
+# Theft charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prisões por furto recebidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#40
+
+# [ENGLISH]
+# Packages delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Portuguese: Polícia Secreta
+
+# [TRANSLATION]
+<<<
+Pacotes entregues à Polícia Secreta
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#41
+
+# [ENGLISH]
+# Packages delivered to rebels
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Pacotes entregues aos rebeldes
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#42
+
+# [ENGLISH]
+# Information delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Portuguese: Polícia Secreta
+
+# [TRANSLATION]
+<<<
+Informações entregues à Polícia Secreta
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#43
+
+# [ENGLISH]
+# Incorrect info delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Portuguese: Polícia Secreta
+
+# [TRANSLATION]
+<<<
+Entrega incorreta de informações à Polícia Secreta
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#44
+
+# [ENGLISH]
+# Unpaid rent
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Aluguel não pago
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#45
+
+# [ENGLISH]
+# Unpaid household expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Despesas domésticas não pagas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#46
+
+# [ENGLISH]
+# Unpaid taxes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Impostos não pagos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#47
+
+# [ENGLISH]
+# Unpaid Arrest Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Despesas por prisões não pagas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#48
+
+# [ENGLISH]
+# Unpaid Medical Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Despesas médicas não pagas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#49
+
+# [ENGLISH]
+# Unpaid condoms
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Preservativos não pagos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#50
+
+# [ENGLISH]
+# Change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Roubos de troco
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#51
+
+# [ENGLISH]
+# Detected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Roubos de troco detetados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#52
+
+# [ENGLISH]
+# Undetected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Roubos de troco não detetados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#53
+
+# [ENGLISH]
+# Accepted bribes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Subornos aceites
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#54
+
+# [ENGLISH]
+# Drug deliveries to addicts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Entregas de droga a toxicodependentes
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#55
+
+# [ENGLISH]
+# Thieves not arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Ladrões não presos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#56
+
+# [ENGLISH]
+# Thief rejections
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Rejeições de ladrões
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#57
+
+# [ENGLISH]
+# Poor not rejected
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Pobres não rejeitados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#58
+
+# [ENGLISH]
+# Robber thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Portuguese: Assaltantes
+
+# [TRANSLATION]
+<<<
+Roubos de Assaltantes
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#59
+
+# [ENGLISH]
+# Robbers neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Portuguese: Assaltantes
+
+# [TRANSLATION]
+<<<
+Neutralizações de Assaltantes
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#60
+
+# [ENGLISH]
+# Minor inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Penalização menor por inatividade
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#61
+
+# [ENGLISH]
+# Major inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Penalização maior por inatividade
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#62
+
+# [ENGLISH]
+# Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hospitalizações
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#63
+
+# [ENGLISH]
+# Fake bill scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Fraudes com notas falsas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#64
+
+# [ENGLISH]
+# Cloned card scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Fraudes com cartões clonados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#65
+
+# [ENGLISH]
+# Alcohol tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Testes de álcool realizados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#66
+
+# [ENGLISH]
+# Blood pressure tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Testes de pressão realizados
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#67
+
+# [ENGLISH]
+# Body scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Escaneamentos corporais
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#68
+
+# [ENGLISH]
+# Fingerprint scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Escaneamentos de impressões digitais
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#69
+
+# [ENGLISH]
+# Thieves arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Ladrões detidos
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#70
+
+# [ENGLISH]
+# Bets placed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Apostas realizadas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#71
+
+# [ENGLISH]
+# Bets won
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Apostas ganhas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#72
+
+# [ENGLISH]
+# Bets lost
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Apostas perdidas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#73
+
+# [ENGLISH]
+# Gift purchases
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Compras de presentes
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#74
+
+# [ENGLISH]
+# Times in debt
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Vezes endividado
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#75
+
+# [ENGLISH]
+# Injury Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hospitalizações por agressões
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#76
+
+# [ENGLISH]
+# Sex-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hospitalizações por causas sexuais
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#77
+
+# [ENGLISH]
+# Alcohol-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hospitalizações por álcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#78
+
+# [ENGLISH]
+# Drug-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hospitalizações por drogas
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#79
+
+# [ENGLISH]
+# Firearm-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hospitalizações por arma de fogo
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#80
+
+# [ENGLISH]
+# Product cancellations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Anulação de produtos
+>>>

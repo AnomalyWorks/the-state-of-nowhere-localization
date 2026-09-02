@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#1
+
+# [ENGLISH]
+# Rebel Package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_PACKAGE
+# English: Rebel Package
+# Russian: Пакет повстанцев
+
+# [TRANSLATION]
+<<<
+Пакет повстанцев
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#2
+
+# [ENGLISH]
+# Contains encrypted information. Deliver to:
+
+# [CONTEXT]
+# Description of the Rebel Package inventory item
+
+# [TRANSLATION]
+<<<
+Содержит зашифрованную информацию. Доставить:
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#3
+
+# [ENGLISH]
+# What's this? // No thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Что это? // Нет, спасибо
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#4
+
+# [ENGLISH]
+# What does this mean? // Deliver to...?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Что это значит? // Доставить...?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#5
+
+# [ENGLISH]
+# What's that? // I have no idea
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Что это? // Понятия не имею
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#6
+
+# [ENGLISH]
+# What is it for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Для чего это нужно?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#7
+
+# [ENGLISH]
+# I don't understand what it is
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я не понимаю, что это
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#8
+
+# [ENGLISH]
+# What is it supposed to be used for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Для чего это должно служить?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#9
+
+# [ENGLISH]
+# Glory to the resistance! // End the regime! // End Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Слава сопротивлению! // Да здохнет режим! // Да здохнет Maligno!
+>>>

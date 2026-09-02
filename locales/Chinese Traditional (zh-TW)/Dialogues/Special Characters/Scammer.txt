@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# Chinese Traditional: 騙子
+
+# [TRANSLATION]
+<<<
+騙子
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好朋友 // 想賺點外快嗎？ // 成為一個大騙子？ // 如果你決定了 // 打電話給我
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+好的 // 我能去的時候會過去的
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Traditional: 收銀機
+
+# [TRANSLATION]
+<<<
+你好 // 所以你決定了... // 要踏入詐騙的世界... // 好吧 // 我給你帶了點能幫你入門的東西... // 這個漂亮玩意就裝在你的收銀機旁邊 // 只要按一下按鈕，就能神不知鬼不覺地弄出假錢 // 當然，你每騙一次，我都會抽一小筆佣金... // 不過先別說這個... // 你得保持警惕 // 有些人可能會發現你的騙局 // 然後舉報你 // 如果舉報太多，惹來太多注意，你可能會被逮捕 // 專挑小孩和老人下手 // 他們不會察覺 // 還有，朋友，千萬別想著去騙警察... // 總之 // 祝你好運
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Chinese Traditional: 信用卡讀卡機
+
+# [TRANSLATION]
+<<<
+你好，朋友 // 看來你的詐騙生意做得很不錯啊... // 給你個好東西... // 這台漂亮的機器可以裝在你的信用卡讀卡機上 // 它有什麼用？ // 它會複製你輸入的信用卡資料，然後發給我 // 每複製一張卡，你就能賺一筆額外收入，朋友 // 還有，記住 // 離警察遠點... // 祝你好運
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Traditional: Mark Shadow
+
+# [TRANSLATION]
+<<<
+你好，朋友 // 我一聽到消息就跑來告訴你了... // 你得非常小心 // 有個臥底警察在附近轉悠 // 假裝成普通市民... // 怎麼認出他？ // 好在我的線人打聽到了他的名字... // Mark Shadow // 記住他 // 不用擔心 // 只要保持警惕，別幹蠢事就行... // 好了 // 就這些 // 再見
+>>>

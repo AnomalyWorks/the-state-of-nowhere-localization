@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#1
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+
+# [TRANSLATION]
+<<<
+食品券
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#3
+
+# [ENGLISH]
+# It's my food coupon // It's worth one purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+
+# [TRANSLATION]
+<<<
+這是我的食品券 // 可兌換一次購買
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#4
+
+# [ENGLISH]
+# It's my food coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+
+# [TRANSLATION]
+<<<
+這是我的食品券 // 你必須進行處理
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不 // 你必須自己處理
+>>>

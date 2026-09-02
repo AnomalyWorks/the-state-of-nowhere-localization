@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#1
+
+# [ENGLISH]
+# Beer
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Bier
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#2
+
+# [ENGLISH]
+# Do you like beer? // Wow... // How delicate
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Magst du Bier? // Na ja... // Wie empfindlich
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#3
+
+# [ENGLISH]
+# 'Don Maligno's beer' // 'Brewed from grains of a superior race' // The best grains...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno-Bier' // 'Gebraut mit Körnern höherer Rasse' // Die besten Körner...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#4
+
+# [ENGLISH]
+# I worked hard today // I will really enjoy that beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Heute habe ich hart gearbeitet // Dieses Bier werde ich richtig genießen
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#5
+
+# [ENGLISH]
+# Do you drink beer? // Non-alcoholic beer? // Are you one of those...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Trinkst du Bier? // Alkoholfreies Bier? // Du bist einer von denen...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#6
+
+# [ENGLISH]
+# Hey! // Not my beer! // Nooooo!!!!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey! // Nicht mein Bier! // Neeeein!!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#7
+
+# [ENGLISH]
+# Please don't! // Everything but my beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nein, bitte! // Alles außer meinem Bier!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#8
+
+# [ENGLISH]
+# Well... // I guess I'll go with pizza without beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Na ja... // Ich schätze, ich werde die Pizza ohne Bier essen
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#9
+
+# [ENGLISH]
+# My beer... // Breaks my heart... // It breaks my heart...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mein Bier... // Es bricht mir das Herz... // Es bricht es...
+>>>

@@ -1,0 +1,7766 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#1
+
+# [ENGLISH]
+# Return
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+戻る
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#2
+
+# [ENGLISH]
+# Yes
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+はい
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#3
+
+# [ENGLISH]
+# No
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+いいえ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#4
+
+# [ENGLISH]
+# Are you sure?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+本当によろしいですか？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#5
+
+# [ENGLISH]
+# Start game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+ゲーム開始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#6
+
+# [ENGLISH]
+# Settings
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+設定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#7
+
+# [ENGLISH]
+# Achievements
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+実績
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#8
+
+# [ENGLISH]
+# Exit
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+終了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#9
+
+# [ENGLISH]
+# Press any key to continue
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+キーを押して続ける
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#10
+
+# [ENGLISH]
+# Select Game Slot
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+セーブデータ選択
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#11
+
+# [ENGLISH]
+# New Game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+新規ゲーム
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#12
+
+# [ENGLISH]
+# Delete game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+項目を削除
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#13
+
+# [ENGLISH]
+# Load game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+ゲームをロード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#14
+
+# [ENGLISH]
+# Select day
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+日付を選択
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#15
+
+# [ENGLISH]
+# Last played
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+最終プレイ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#16
+
+# [ENGLISH]
+# Crt.
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+クレジット.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#17
+
+# [ENGLISH]
+# Day
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+日
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#18
+
+# [ENGLISH]
+# Empty
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+空
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#19
+
+# [ENGLISH]
+# Delete a game to start a new one
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+項目を削除して新しく作成してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#20
+
+# [ENGLISH]
+# JAN
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+1月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#21
+
+# [ENGLISH]
+# FEB
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+2月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#22
+
+# [ENGLISH]
+# MAR
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+3月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#23
+
+# [ENGLISH]
+# APR
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+4月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#24
+
+# [ENGLISH]
+# MAY
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+5月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#25
+
+# [ENGLISH]
+# JUN
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+6月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#26
+
+# [ENGLISH]
+# JUL
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+7月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#27
+
+# [ENGLISH]
+# AUG
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+8月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#28
+
+# [ENGLISH]
+# SEP
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+9月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#29
+
+# [ENGLISH]
+# OCT
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+10月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#30
+
+# [ENGLISH]
+# NOV
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+11月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#31
+
+# [ENGLISH]
+# DEC
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+12月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#32
+
+# [ENGLISH]
+# Return to the game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+ゲームに戻る
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#33
+
+# [ENGLISH]
+# Exit to main menu
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+メインメニューへ戻る
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#34
+
+# [ENGLISH]
+# Exit to desktop
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+デスクトップへ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#35
+
+# [ENGLISH]
+# Language
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+言語
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#36
+
+# [ENGLISH]
+# English
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+英語
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#37
+
+# [ENGLISH]
+# Spanish
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+スペイン語
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#39
+
+# [ENGLISH]
+# Full screen
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+フルスクリーン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#40
+
+# [ENGLISH]
+# Sound effects
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+効果音
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#41
+
+# [ENGLISH]
+# Ambient music
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+アンビエント音楽
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#42
+
+# [ENGLISH]
+# Unlocked endings
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+解放されたエンディング
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#43
+
+# [ENGLISH]
+# Do you want to delete this game?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+ゲームを削除しますか?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#44
+
+# [ENGLISH]
+# Do you want to start a new game?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+新しいゲームを開始しますか？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#45
+
+# [ENGLISH]
+# Counterfeit bills received as change
+
+# [CONTEXT]
+# Text related to counterfeit bills received as change in a typical retail transaction
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+偽札の両替
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#46
+
+# [ENGLISH]
+# Credit Card cloner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: CLONER
+# English: Cloner
+# Japanese: 複製機
+
+# [TRANSLATION]
+<<<
+クレジットカード複製機
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#47
+
+# [ENGLISH]
+# Restrictions: Age
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [TRANSLATION]
+<<<
+販売制限：年齢
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#48
+
+# [ENGLISH]
+# Status ( Bills )
+
+# [CONTEXT]
+# Refers to the physical condition of the bills. Keep the format of the parentheses and the spaces between words
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+状態 ( 紙幣 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#49
+
+# [ENGLISH]
+# Credit Card Control: Brand and Banks
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+クレジットカード管理：ブランドと銀行
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#50
+
+# [ENGLISH]
+# President
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+大統領
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#51
+
+# [ENGLISH]
+# Our president
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+私たちの大統領
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#52
+
+# [ENGLISH]
+# Together
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+一緒に
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#53
+
+# [ENGLISH]
+# Change
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+変化
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#54
+
+# [ENGLISH]
+# Together for change
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+一緒に変化のために
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#55
+
+# [ENGLISH]
+# State
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+国家
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#56
+
+# [ENGLISH]
+# State Office of Nowhere
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere官公署
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#57
+
+# [ENGLISH]
+# Jobs
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+仕事
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#58
+
+# [ENGLISH]
+# Floor
+
+# [CONTEXT]
+# Building floor
+
+# [TRANSLATION]
+<<<
+フロア
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#59
+
+# [ENGLISH]
+# Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+税金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#60
+
+# [ENGLISH]
+# More taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+追加税
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#61
+
+# [ENGLISH]
+# New object received
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+
+# [TRANSLATION]
+<<<
+新しい物品を入手
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#62
+
+# [ENGLISH]
+# Amount of money obtained
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+金額を入手
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#63
+
+# [ENGLISH]
+# Money is a limited resource. Use it wisely
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+お金は限られた資源です。賢く使いましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#64
+
+# [ENGLISH]
+# New telephone entry
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+新しい電話着信
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#65
+
+# [ENGLISH]
+# Contact available for telephone calls
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+通話可能な連絡先
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#66
+
+# [ENGLISH]
+# New mail entry
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+
+# [TRANSLATION]
+<<<
+新しい郵便着信
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#67
+
+# [ENGLISH]
+# Contact available for mailing packages
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+郵便送付可能な連絡先
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#68
+
+# [ENGLISH]
+# New features available
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+新機能利用可能
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#69
+
+# [ENGLISH]
+# New rules in force
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+新規則施行中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#70
+
+# [ENGLISH]
+# Refer to the manual for more information
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+詳細はマニュアルを参照
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#71
+
+# [ENGLISH]
+# Scale
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+
+# [TRANSLATION]
+<<<
+はかり
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#72
+
+# [ENGLISH]
+# manual product reader
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+
+# [TRANSLATION]
+<<<
+手動商品リーダー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#73
+
+# [ENGLISH]
+# Inventory
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+
+# [TRANSLATION]
+<<<
+インベントリ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#74
+
+# [ENGLISH]
+# Missing persons
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+行方不明者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#75
+
+# [ENGLISH]
+# Wanted criminals
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指名手配犯
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#76
+
+# [ENGLISH]
+# Cities control
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+都市管理
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#77
+
+# [ENGLISH]
+# Body scanner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BODY_SCANNER
+# English: Body Scanner
+# Japanese: ボディスキャナー
+
+# [TRANSLATION]
+<<<
+ボディスキャナー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#78
+
+# [ENGLISH]
+# Restrictions: Food Intolerances
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [GLOSSARY]
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Japanese: 食物不耐症
+
+# [TRANSLATION]
+<<<
+販売制限：食物不耐症
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#79
+
+# [ENGLISH]
+# Neutralization system
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Japanese: 無力化
+
+# [TRANSLATION]
+<<<
+無力化システム
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#80
+
+# [ENGLISH]
+# Credit card reader
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Japanese: クレジットカードリーダー
+
+# [TRANSLATION]
+<<<
+クレジットカードリーダー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#81
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+クレジットノート
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#82
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+食料クーポン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#83
+
+# [ENGLISH]
+# Discount coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+割引クーポン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#84
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Japanese: 虫眼鏡
+
+# [TRANSLATION]
+<<<
+虫眼鏡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#85
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+
+# [TRANSLATION]
+<<<
+電話
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#87
+
+# [ENGLISH]
+# Blood pressure test
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_TEST
+# English: Blood Pressure Test
+# Japanese: 血圧検査
+
+# [TRANSLATION]
+<<<
+血圧検査
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#88
+
+# [ENGLISH]
+# Breathalyzer Test
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BREATHALYZER_TEST
+# English: Breathalyzer Test
+# Japanese: アルコール検査
+
+# [TRANSLATION]
+<<<
+アルコール検査
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#89
+
+# [ENGLISH]
+# Health pamphlets
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Japanese: 健康パンフレット
+
+# [TRANSLATION]
+<<<
+健康パンフレット
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#90
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+
+# [TRANSLATION]
+<<<
+郵便
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#91
+
+# [ENGLISH]
+# Fingerprint scanner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FINGERPRINT_SCANNER
+# English: Fingerprint Scanner
+# Japanese: 指紋スキャナー
+
+# [TRANSLATION]
+<<<
+指紋スキャナー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#92
+
+# [ENGLISH]
+# Slide the product code through the reader
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+製品のバーコードをリーダーに通してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#93
+
+# [ENGLISH]
+# Reading area
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+読取エリア
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#94
+
+# [ENGLISH]
+# Waiting for reading
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+読み込み待ち
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#95
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+読み取りエラー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#96
+
+# [ENGLISH]
+# Product read
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+製品を読み込みました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#97
+
+# [ENGLISH]
+# Try again
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+もう一度お試しください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#98
+
+# [ENGLISH]
+# In case of intoxication consult your doctor
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+中毒した場合は医師にご相談ください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#99
+
+# [ENGLISH]
+# Enter Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+コードを入力してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#100
+
+# [ENGLISH]
+# Printed Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+印刷されたコード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#101
+
+# [ENGLISH]
+# Accepted Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+コード承認済み
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#102
+
+# [ENGLISH]
+# Code List
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+コード一覧
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#103
+
+# [ENGLISH]
+# Reveal numeric Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+数字コードを表示
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#104
+
+# [ENGLISH]
+# Scanned fingerprint
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋スキャン完了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#105
+
+# [ENGLISH]
+# Fingerprint File
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋ファイル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#106
+
+# [ENGLISH]
+# Waiting for fingerprint scan
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋スキャン待ち
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#107
+
+# [ENGLISH]
+# Refer to the fingerprint file
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋ファイルを確認してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#108
+
+# [ENGLISH]
+# Keep finger here
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指をここに保ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#109
+
+# [ENGLISH]
+# Fingerprint scan completed
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋読み取り完了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#110
+
+# [ENGLISH]
+# Insert a valid identification card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+身分証明書を入力する必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#111
+
+# [ENGLISH]
+# Scanning
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+スキャン中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#112
+
+# [ENGLISH]
+# Check for irregularities
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+不整合を確認してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#113
+
+# [ENGLISH]
+# Discount coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+割引クーポン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#114
+
+# [ENGLISH]
+# Discount amount
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+割引額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#115
+
+# [ENGLISH]
+# Valid until
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+有効期限
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#116
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+食料クーポン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#117
+
+# [ENGLISH]
+# Name
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+名前
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#118
+
+# [ENGLISH]
+# Citizen code
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民コード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#119
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+クレジットノート
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#120
+
+# [ENGLISH]
+# Description
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+説明
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#121
+
+# [ENGLISH]
+# Amount
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#122
+
+# [ENGLISH]
+# Invoice code
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [GLOSSARY]
+# ID: INVOICE
+# English: Invoice
+# Japanese: 請求書
+
+# [TRANSLATION]
+<<<
+購入請求書
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#123
+
+# [ENGLISH]
+# Total amount
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+合計金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#150
+
+# [ENGLISH]
+# Total due
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+支払総額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#151
+
+# [ENGLISH]
+# Money received
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+支払金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#152
+
+# [ENGLISH]
+# Change to be given
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+お釣り
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#153
+
+# [ENGLISH]
+# Select the change to give
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+渡すお釣りを選択
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#154
+
+# [ENGLISH]
+# Swipe the card to start
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+カードをスワイプして開始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#155
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+読み取りエラー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#156
+
+# [ENGLISH]
+# Enter the last 4 digits of the card code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+カードコードの最後の4桁を入力してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#157
+
+# [ENGLISH]
+# Enter the security code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+セキュリティコードを入力してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#158
+
+# [ENGLISH]
+# Invalid code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+無効なコード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#159
+
+# [ENGLISH]
+# Code accepted
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+コード受け取り済み
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#160
+
+# [ENGLISH]
+# Print receipt
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Japanese: レシート
+
+# [TRANSLATION]
+<<<
+レシート印刷
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#161
+
+# [ENGLISH]
+# Citizen signature
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民署名
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#162
+
+# [ENGLISH]
+# Credit card accepted
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+クレジットカード受け取り済み
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#163
+
+# [ENGLISH]
+# Try again
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+もう一度お試しください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#164
+
+# [ENGLISH]
+# Insufficient funds
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+残高不足
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#165
+
+# [ENGLISH]
+# Sign ticket
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+領収書に署名
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#166
+
+# [ENGLISH]
+# Validate ticket
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+領収書を確認
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#167
+
+# [ENGLISH]
+# Take a capture of the card to clone
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+カードを複製するにはキャプチャを行ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#168
+
+# [ENGLISH]
+# Take a picture of the front
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+表側の写真を撮ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#169
+
+# [ENGLISH]
+# Take a picture of the back
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+裏面の写真を撮ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#170
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+キャプチャエラー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#171
+
+# [ENGLISH]
+# Capture successful
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+キャプチャ成功
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#172
+
+# [ENGLISH]
+# Data ready to be sent
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+データ送信の準備完了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#173
+
+# [ENGLISH]
+# Data sent
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+データ送信完了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#174
+
+# [ENGLISH]
+# Cloning successful
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+クローン成功
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#175
+
+# [ENGLISH]
+# Take the next capture
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+次のキャプチャを取ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#176
+
+# [ENGLISH]
+# Package shipment rejected
+
+# [CONTEXT]
+# Mailing process
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Japanese: 荷物
+
+# [TRANSLATION]
+<<<
+荷物の配送拒否
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#177
+
+# [ENGLISH]
+# The addressee has refused the shipment of your package containing:
+
+# [CONTEXT]
+# Mailing process
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Japanese: 荷物
+
+# [TRANSLATION]
+<<<
+荷物の配送が拒否されました。内容物:
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#178
+
+# [ENGLISH]
+# Enter number
+
+# [CONTEXT]
+# Phone call process
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+
+# [TRANSLATION]
+<<<
+電話を入力してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#179
+
+# [ENGLISH]
+# Select contact
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+連絡先を選択してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#180
+
+# [ENGLISH]
+# Calling
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+通話中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#181
+
+# [ENGLISH]
+# Number does not exist
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+存在しない番号
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#182
+
+# [ENGLISH]
+# report irregularity
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Japanese: 不備
+
+# [TRANSLATION]
+<<<
+不備を通知する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#183
+
+# [ENGLISH]
+# General
+
+# [CONTEXT]
+# Rule category
+
+# [TRANSLATION]
+<<<
+一般
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#184
+
+# [ENGLISH]
+# Identification card
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+身分証明書
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#185
+
+# [ENGLISH]
+# Products
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#186
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#187
+
+# [ENGLISH]
+# Credit card
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+クレジットカード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#188
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+クレジットノート
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#189
+
+# [ENGLISH]
+# Coupons
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: COUPON
+# English: Coupon
+# Japanese: クーポン
+
+# [TRANSLATION]
+<<<
+クーポン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#190
+
+# [ENGLISH]
+# Select the violated rule to report to the citizen
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民に報告する違反した規則を選択してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#191
+
+# [ENGLISH]
+# No rules in force
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+有効な規則なし
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#192
+
+# [ENGLISH]
+# Revealing code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+コードを解読中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#193
+
+# [ENGLISH]
+# Move the scanner
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+スキャナをスライドさせてください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#194
+
+# [ENGLISH]
+# Perform the scan
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+スキャンを実行してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#195
+
+# [ENGLISH]
+# Punch here
+
+# [CONTEXT]
+# Text related to the hole punch
+
+# [TRANSLATION]
+<<<
+ここで穴を開けてください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#196
+
+# [ENGLISH]
+# No documents
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+文書はありません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#197
+
+# [ENGLISH]
+# Invoices
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INVOICE
+# English: Invoice
+# Japanese: 請求書
+
+# [TRANSLATION]
+<<<
+請求書
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#198
+
+# [ENGLISH]
+# Stamp here
+
+# [CONTEXT]
+# Text related to document stamping
+
+# [TRANSLATION]
+<<<
+ここで判を押してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#199
+
+# [ENGLISH]
+# Arrested
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#200
+
+# [ENGLISH]
+# Allowed credit cards
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+利用可能なクレジットカード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#201
+
+# [ENGLISH]
+# These rules are subject to constant changes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+これらの規則は絶えず変更されることがあります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#202
+
+# [ENGLISH]
+# Credit Cards
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+クレジットカード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#203
+
+# [ENGLISH]
+# Infraction
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Japanese: 違反
+
+# [TRANSLATION]
+<<<
+違反
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#204
+
+# [ENGLISH]
+# Violation of rule
+
+# [CONTEXT]
+# Text related to an infraction document
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+規則違反
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#205
+
+# [ENGLISH]
+# Fine amount
+
+# [CONTEXT]
+# Text related to an infraction document
+
+# [TRANSLATION]
+<<<
+罰金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#206
+
+# [ENGLISH]
+# Map
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Japanese: 地図
+
+# [TRANSLATION]
+<<<
+地図
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#207
+
+# [ENGLISH]
+# Restricted cities
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+制限都市
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#208
+
+# [ENGLISH]
+# City
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+都市
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#209
+
+# [ENGLISH]
+# Ref
+
+# [CONTEXT]
+# Reference abbreviation, must be exactly 3 letters. If there is no equivalent, leave it in English
+
+# [TRANSLATION]
+<<<
+参照
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#210
+
+# [ENGLISH]
+# Map of Nowhere
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Japanese: 地図
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere 地図
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#213
+
+# [ENGLISH]
+# 'Missing Persons' has correctly registered your report // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+'行方不明者'があなたの報告書を正しく登録しました // その有効性を評価し、すぐにご連絡します // MalignoはNowhere州の'行方不明者'サービスをご利用いただきありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#214
+
+# [ENGLISH]
+# 'Missing Persons' already has a pending report associated with you // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+「行方不明者」はすでに貴方に関連する報告書の保留が登録されています // 私たちはその有効性を評価し、すぐにご連絡いたします // MalignoはNowhere州の「行方不明者」サービスをご利用いただきありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#215
+
+# [ENGLISH]
+# 'Wanted Criminals' has correctly registered your report // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+「指名手配犯」はあなたの報告書を正しく登録しました // 私たちはその有効性を評価し、すぐにご連絡いたします // MalignoはNowhere州の「指名手配犯」サービスをご利用いただきありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#216
+
+# [ENGLISH]
+# 'Wanted Criminals' already has a pending report associated with you // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+「指名手配犯」はすでに貴方に関連する報告書の保留が登録されています // 私たちはその有効性を評価し、すぐにご連絡いたします // MalignoはNowhere州の「指名手配犯」サービスをご利用いただきありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#217
+
+# [ENGLISH]
+# Welcome to 'Easy Fast Cash'! // Nowhere's number one pyramid scheme // By this call, you consent to 'Easy Fast Cash' disposing of all your assets to be invested by our skilled team of experts // Please // If you want to be part of the winning team by investing your future and money with 'Easy Fast Cash' press the 0 key on your phone // If you are content with being a broke and hopeless ignoramus press 1 // Awaiting response... // Congratulations! // You have just secured a prosperous future by joining 'Easy Fast Cash' // We will immediately take control of all your assets // Now you just have to wait for the great benefits this successful investment program will bring you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# Japanese: Easy Fast Cash
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+「Easy Fast Cash」へようこそ！ // Nowhere最高のピラミッド詐欺プログラムです // この通話を通じて、貴方は訓練された専門家グループによって投資するために「Easy Fast Cash」が貴方の全資産を処分することに同意するものとします // どうぞ // 「Easy Fast Cash」に貴方の未来とお金を投資して勝利チームの一員になりたい場合は、電話の0キーを押してください // 逆に金も希望もない無知のままで満足する場合は1キーを押してください // 応答をお待ちしています... // おめでとうございます！ // 「Easy Fast Cash」に参加して、繁栄する未来を確保されました // 直ちに貴方の全資産を処分します // この成功した投資プログラムが提供する莫大な利益を待つだけです
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#218
+
+# [ENGLISH]
+# We apologize // 'Easy Fast Cash' phone services are currently unavailable // If you are a beneficiary of our program don't worry // Your money is generating great benefits // Just sit back and wait // Soon you will be on a paradise island enjoying the pleasures of life without any worries
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# Japanese: Easy Fast Cash
+
+# [TRANSLATION]
+<<<
+申し訳ありません // 「Easy Fast Cash」の電話サービスは現在利用できません // もし貴方が私たちのプログラムの受益者であれば、ご心配なく // 貴方のお金は莫大な利益を生み出しています // 座って待つだけです // まもなく貴方は何の悩みもないまま、 Life の喜びを楽しむ楽園の島にいることでしょう
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#219
+
+# [ENGLISH]
+# 'Missing Persons' was unable to generate the report // Please // Verify that a citizen is present at the station when making the report // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+'行方不明者'サービスは報告書を作成できませんでした // ご報告の際、該当地点に市民がいることを確認してください // MalignoはNowhere州の'行方不明者'サービスをご利用いただきありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#220
+
+# [ENGLISH]
+# 'Wanted Criminals' was unable to generate the report // Please // Verify that a citizen is present at the station when making the report // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+'指名手配犯'サービスは報告書を作成できませんでした // ご報告の際、該当地点に市民がいることを確認してください // MalignoはNowhere州の'指名手配犯'サービスをご利用いただきありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#221
+
+# [ENGLISH]
+# Report Resolution
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+報告書の要旨
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#222
+
+# [ENGLISH]
+# Dear
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+拝啓
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#223
+
+# [ENGLISH]
+# In order to inform you of the resolution of the report submitted, we hereby notify you that
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: REPORT
+# English: Report
+# Japanese: 報告書
+
+# [TRANSLATION]
+<<<
+提出された報告書の要約結果をお伝えするため、下記の通りお知らせ申し上げます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#224
+
+# [ENGLISH]
+# The individual specified does not correspond with any entries in our missing persons records
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+指定された人物は、弊社の行方不明者データベースに登録されている人物と一致しません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#225
+
+# [ENGLISH]
+# You have contributed to the discovery of a missing person and the reward was credited to your account yesterday
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+貴殿は人物の発見に寄与され、報奨金が昨日貴殿の口座に振り込まれました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#226
+
+# [ENGLISH]
+# The individual specified does not match any entries in our wanted criminals records
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指定された人物は、弊社の指名手配犯データベースに登録されている人物と一致しません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#227
+
+# [ENGLISH]
+# You have contributed to the apprehension of a wanted criminal and the reward was credited to your account yesterday
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+貴殿は犯罪者の発見に寄与され、報奨金が昨日貴殿の口座に振り込まれました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#228
+
+# [ENGLISH]
+# UV codes of bills
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣のUVコード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#229
+
+# [ENGLISH]
+# under surveillance
+
+# [CONTEXT]
+# Related to UV codes of bills
+
+# [TRANSLATION]
+<<<
+追跡中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#230
+
+# [ENGLISH]
+# Last 4 digits
+
+# [CONTEXT]
+# Related to UV codes of bills
+
+# [TRANSLATION]
+<<<
+最後の4桁
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#231
+
+# [ENGLISH]
+# Products
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+製品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#232
+
+# [ENGLISH]
+# Output
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+搬出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#233
+
+# [ENGLISH]
+# Depot
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+倉庫
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#234
+
+# [ENGLISH]
+# Tests performed
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+実施されたテスト
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#235
+
+# [ENGLISH]
+# BMI
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Japanese: BMI
+
+# [TRANSLATION]
+<<<
+BMI
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#236
+
+# [ENGLISH]
+# n/a
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: N_A
+# English: n/a
+# Japanese: n/a
+
+# [TRANSLATION]
+<<<
+n/a
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#237
+
+# [ENGLISH]
+# Food references
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_REFERENCES
+# English: Food References
+# Japanese: 食品参考資料
+
+# [TRANSLATION]
+<<<
+食品参考資料
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#238
+
+# [ENGLISH]
+# General categories
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+一般カテゴリ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#239
+
+# [ENGLISH]
+# Dairy
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+乳製品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#240
+
+# [ENGLISH]
+# meat
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+肉
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#241
+
+# [ENGLISH]
+# fruits
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+果物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#242
+
+# [ENGLISH]
+# vegetables
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+野菜
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#243
+
+# [ENGLISH]
+# canned goods
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+缶詰
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#244
+
+# [ENGLISH]
+# beverages
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+飲み物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#245
+
+# [ENGLISH]
+# baked goods
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+パン類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#246
+
+# [ENGLISH]
+# miscellaneous
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+その他
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#247
+
+# [ENGLISH]
+# by weight
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+重量別
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#248
+
+# [ENGLISH]
+# Not suitable for obese
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Japanese: 肥満者
+
+# [TRANSLATION]
+<<<
+肥満者に適さない
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#249
+
+# [ENGLISH]
+# not suitable for severely obese
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Japanese: 重度肥満者
+
+# [TRANSLATION]
+<<<
+重度肥満者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#250
+
+# [ENGLISH]
+# by composition
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+成分別に
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#251
+
+# [ENGLISH]
+# Contains gluten
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+グルテンを含む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#252
+
+# [ENGLISH]
+# contains fructose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+果糖を含む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#253
+
+# [ENGLISH]
+# contains sucrose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+ショ糖を含む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#254
+
+# [ENGLISH]
+# contains lactose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+乳糖を含む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#255
+
+# [ENGLISH]
+# contains salt
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+塩を含む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#256
+
+# [ENGLISH]
+# contains alcohol
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+アルコールを含む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#257
+
+# [ENGLISH]
+# by age
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+年齢別
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#258
+
+# [ENGLISH]
+# not suitable for minors
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Japanese: 未成年者
+
+# [TRANSLATION]
+<<<
+未成年者向けではない
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#259
+
+# [ENGLISH]
+# not suitable for elderly
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Japanese: 高齢者
+
+# [TRANSLATION]
+<<<
+高齢者向けではない
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#260
+
+# [ENGLISH]
+# Considerations
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+注意事項
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#261
+
+# [ENGLISH]
+# none as of today's date
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+現時点なし
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#262
+
+# [ENGLISH]
+# Citizens will be considered under any of the following conditions
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民は以下の条件のいずれかに該当する場合に考慮されます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#263
+
+# [ENGLISH]
+# obese
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Japanese: 肥満者
+
+# [TRANSLATION]
+<<<
+肥満
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#264
+
+# [ENGLISH]
+# if BMI is between 21 and 23.99
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Japanese: BMI
+
+# [TRANSLATION]
+<<<
+BMIが21.0〜23.99の場合
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#265
+
+# [ENGLISH]
+# severely obese
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Japanese: 重度肥満者
+
+# [TRANSLATION]
+<<<
+重度肥満
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#266
+
+# [ENGLISH]
+# if BMI is 24 or higher
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Japanese: BMI
+
+# [TRANSLATION]
+<<<
+BMIが24.0以上の場合
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#267
+
+# [ENGLISH]
+# hypertensive
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Japanese: 高血圧患者
+
+# [TRANSLATION]
+<<<
+高血圧患者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#268
+
+# [ENGLISH]
+# if blood pressure is 125 or higher
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+血圧が125以上の場合
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#269
+
+# [ENGLISH]
+# minors
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Japanese: 未成年者
+
+# [TRANSLATION]
+<<<
+未成年者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#270
+
+# [ENGLISH]
+# if age is under 18
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+年齢が18歳未満の場合
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#271
+
+# [ENGLISH]
+# elderly
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Japanese: 高齢者
+
+# [TRANSLATION]
+<<<
+高齢者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#272
+
+# [ENGLISH]
+# if age is 60 or older
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+年齢が60歳以上の場合
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#273
+
+# [ENGLISH]
+# order list
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+
+# [TRANSLATION]
+<<<
+注文リスト
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#274
+
+# [ENGLISH]
+# Irregularity found in this area
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+該当エリアに不規則性が見つかりました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#275
+
+# [ENGLISH]
+# No irregularity was found in this area
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+該当エリアに不規則性は見つかりませんでした
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#276
+
+# [ENGLISH]
+# Hospitalized
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+入院
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#277
+
+# [ENGLISH]
+# Arrested
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#278
+
+# [ENGLISH]
+# Improv.: Scale (Auto Complete)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+#
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Japanese: Auto Complete
+
+# [TRANSLATION]
+<<<
+改善: はかり (Auto Complete)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#279
+
+# [ENGLISH]
+# Improv.: Scale (Auto Search)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+#
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Japanese: Auto Search
+
+# [TRANSLATION]
+<<<
+改善: はかり (Auto Search)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#280
+
+# [ENGLISH]
+# Improv.: Manual Product Entry
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+
+# [TRANSLATION]
+<<<
+改善: 手動で商品を入力
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#281
+
+# [ENGLISH]
+# Discord Server
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Discordサーバー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#282
+
+# [ENGLISH]
+# Website
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ウェブサイト
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#283
+
+# [ENGLISH]
+# X Account
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Xアカウント
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#284
+
+# [ENGLISH]
+# Pay
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支払い
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#285
+
+# [ENGLISH]
+# Ignore
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+無視
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#286
+
+# [ENGLISH]
+# very satisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常に同意
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#287
+
+# [ENGLISH]
+# satisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+同意
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#288
+
+# [ENGLISH]
+# dissatisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+同意しない
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#289
+
+# [ENGLISH]
+# very dissatisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常に同意しない
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#290
+
+# [ENGLISH]
+# Sick
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+病気
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#291
+
+# [ENGLISH]
+# Divorced
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+離婚した
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#292
+
+# [ENGLISH]
+# Emancipated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+解放された
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#293
+
+# [ENGLISH]
+# Dead
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+死んだ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#294
+
+# [ENGLISH]
+# Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WIFE
+# English: Wife
+# Japanese: 妻
+
+# [TRANSLATION]
+<<<
+妻
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#295
+
+# [ENGLISH]
+# Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Japanese: 息子
+
+# [TRANSLATION]
+<<<
+息子
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#296
+
+# [ENGLISH]
+# Income generated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+発生した収入
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#297
+
+# [ENGLISH]
+# Expense Management
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支出管理
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#298
+
+# [ENGLISH]
+# Manage your cash wisely
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+お金を慎重に管理してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#299
+
+# [ENGLISH]
+# Amount
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#300
+
+# [ENGLISH]
+# QTY
+
+# [CONTEXT]
+# Quantity abbreviation
+
+# [TRANSLATION]
+<<<
+数量
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#301
+
+# [ENGLISH]
+# UP
+
+# [CONTEXT]
+# Unit price abbreviation
+
+# [TRANSLATION]
+<<<
+単価
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#302
+
+# [ENGLISH]
+# Tot
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+合計
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#303
+
+# [ENGLISH]
+# Available cash
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+利用可能な資金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#304
+
+# [ENGLISH]
+# Continue
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+続ける
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#305
+
+# [ENGLISH]
+# Paid
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支払い済み
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#306
+
+# [ENGLISH]
+# Ignored
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+無視済み
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#307
+
+# [ENGLISH]
+# Available cash is insufficient to complete the payment
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支払いを完了するのに十分なお金がありません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#308
+
+# [ENGLISH]
+# Infractions
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Japanese: 違反
+
+# [TRANSLATION]
+<<<
+違反
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#309
+
+# [ENGLISH]
+# Social Contributions and Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+社会保険料と税金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#310
+
+# [ENGLISH]
+# Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LOVER
+# English: Lover
+# Japanese: 愛人
+
+# [TRANSLATION]
+<<<
+愛人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#311
+
+# [ENGLISH]
+# Son (Lover)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Japanese: 息子
+#
+# ID: LOVER
+# English: Lover
+# Japanese: 愛人
+
+# [TRANSLATION]
+<<<
+息子 (愛人)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#312
+
+# [ENGLISH]
+# Son (Sexual Encounter)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Japanese: 息子
+
+# [TRANSLATION]
+<<<
+息子 (性的出会い)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#313
+
+# [ENGLISH]
+# Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PET
+# English: Pet
+# Japanese: ペット
+
+# [TRANSLATION]
+<<<
+ペット
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#314
+
+# [ENGLISH]
+# Son (Supervisor's Wife)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Japanese: 息子
+#
+# ID: SUPERVISOR_WIFE
+# English: Supervisor's Wife
+# Japanese: 監督官の妻
+
+# [TRANSLATION]
+<<<
+息子 (監督官の妻)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#315
+
+# [ENGLISH]
+# Family
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+家族
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#316
+
+# [ENGLISH]
+# Abandoned
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+遺棄された
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#317
+
+# [ENGLISH]
+# Shift register
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+シフト記録
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#318
+
+# [ENGLISH]
+# Insert the card to start the working day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+カードを差し出して勤務を開始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#319
+
+# [ENGLISH]
+# Insert the card to finish the working day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+カードを差し出して勤務を終了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#320
+
+# [ENGLISH]
+# successful registration
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+登録成功
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#321
+
+# [ENGLISH]
+# Entry
+
+# [CONTEXT]
+# Text related to work shift entry and exit
+
+# [TRANSLATION]
+<<<
+出勤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#322
+
+# [ENGLISH]
+# Exit
+
+# [CONTEXT]
+# Text related to work shift entry and exit
+
+# [TRANSLATION]
+<<<
+退勤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#323
+
+# [ENGLISH]
+# New family members have been added
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+新しい家族メンバーが追加されました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#324
+
+# [ENGLISH]
+# Family members have been terminated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+家族メンバーが完了しました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#325
+
+# [ENGLISH]
+# Credits
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+クレジット
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#326
+
+# [ENGLISH]
+# Resume
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+再開
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#327
+
+# [ENGLISH]
+# final unlocked
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+エンディング解除
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#328
+
+# [ENGLISH]
+# Improv.: Cash Register (Change Calc.)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+#
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Japanese: Change Calc.
+
+# [TRANSLATION]
+<<<
+改善: レジ (Change Calc.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#329
+
+# [ENGLISH]
+# Improv.: Cash Register (Change Accum.)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+#
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Japanese: Change Accum.
+
+# [TRANSLATION]
+<<<
+改善: レジ (Change Accum.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#330
+
+# [ENGLISH]
+# Sales Restrictions: Product Codes / Product Categories
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: PRODUCT_CODES
+# English: Product Codes
+# Japanese: 商品コード
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Japanese: 商品カテゴリー
+
+# [TRANSLATION]
+<<<
+販売制限: 商品コード / 商品カテゴリー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#331
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Japanese: 印付き紙幣
+
+# [TRANSLATION]
+<<<
+印付き紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#332
+
+# [ENGLISH]
+# Patreon
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Patreon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#333
+
+# [ENGLISH]
+# Embezzle
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+横領
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#334
+
+# [ENGLISH]
+# Run away
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+逃げる
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#335
+
+# [ENGLISH]
+# Improv.: Wanted (Quick Viewer)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: WANTED
+# English: Wanted
+# Japanese: 指名手配
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+改善: 指名手配 (Quick Viewer)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#336
+
+# [ENGLISH]
+# Improv.: Missing (Quick Viewer)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: MISSING
+# English: Missing
+# Japanese: 行方不明
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+改善: 行方不明 (Quick Viewer)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#337
+
+# [ENGLISH]
+# Added to the family
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+家族に加わりました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#338
+
+# [ENGLISH]
+# Improv.: Telephone (Frequent Numbers)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+#
+# ID: FREQUENT_NUMBERS
+# English: Frequent Numbers
+# Japanese: よく使う番号
+
+# [TRANSLATION]
+<<<
+改善: 電話 (よく使う番号)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#339
+
+# [ENGLISH]
+# Frequent Numbers
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FREQUENT_NUMBERS
+# English: Frequent Numbers
+# Japanese: よく使う番号
+
+# [TRANSLATION]
+<<<
+よく使う番号
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#340
+
+# [ENGLISH]
+# Skip
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+スキップ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#341
+
+# [ENGLISH]
+# Payments
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支払い
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#342
+
+# [ENGLISH]
+# Magnifying glass ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Japanese: 虫眼鏡
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+虫眼鏡 ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#343
+
+# [ENGLISH]
+# ID card ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+身分証明書 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#344
+
+# [ENGLISH]
+# Bills ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+紙幣 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#345
+
+# [ENGLISH]
+# Authenticity seal ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Japanese: 真正性の印章
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+真正性の印章 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#346
+
+# [ENGLISH]
+# Navigation Control ( Main Monitor )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Japanese: ナビゲーションコントロール
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+
+# [TRANSLATION]
+<<<
+ナビゲーションコントロール ( メインモニター )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#347
+
+# [ENGLISH]
+# Arrest ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+#
+# ID: ARREST
+# English: Arrest
+# Japanese: 逮捕する
+
+# [TRANSLATION]
+<<<
+逮捕する ( アクションユニット )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#348
+
+# [ENGLISH]
+# Product denier ( Inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Japanese: 商品拒否装置
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+商品拒否装置 ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#349
+
+# [ENGLISH]
+# Auxiliary Documents Tray ( inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Japanese: 補助書類トレイ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+補助書類トレイ ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#350
+
+# [ENGLISH]
+# Order list ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+注文リスト ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#351
+
+# [ENGLISH]
+# Food references ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_REFERENCES
+# English: Food References
+# Japanese: 食品参考資料
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+食品参考資料 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#352
+
+# [ENGLISH]
+# Obesity ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: OBESITY
+# English: Obesity
+# Japanese: 肥満
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Japanese: 食品参考資料
+
+# [TRANSLATION]
+<<<
+肥満 ( 食品参考資料 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#353
+
+# [ENGLISH]
+# BMI ( Station actions )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Japanese: BMI
+#
+# ID: STATION_ACTIONS
+# English: Station Actions
+# Japanese: 作業ステーションのアクション
+
+# [TRANSLATION]
+<<<
+BMI ( 作業ステーションのアクション )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#354
+
+# [ENGLISH]
+# Performed Tests Viewer ( inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Japanese: 実施済み検査ビューア
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+実施済み検査ビューア ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#355
+
+# [ENGLISH]
+# Food Coupon ( Documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+食料クーポン ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#356
+
+# [ENGLISH]
+# Stamp ( Inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Japanese: スタンプ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+スタンプ ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#357
+
+# [ENGLISH]
+# Neutralize ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Japanese: 無力化する
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+無力化する ( アクションユニット )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#358
+
+# [ENGLISH]
+# Food Intolerances ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Japanese: 食物不耐症
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Japanese: 食品参考資料
+
+# [TRANSLATION]
+<<<
+食物不耐症 ( 食品参考資料 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#359
+
+# [ENGLISH]
+# demo version
+
+# [CONTEXT]
+# Game demo version
+
+# [TRANSLATION]
+<<<
+デモ版
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#360
+
+# [ENGLISH]
+# I invite you to share any feedback on the Steam forums
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Steamフォrumでフィードバックを共有してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#361
+
+# [ENGLISH]
+# Map of Cities ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Japanese: 地図
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+地図 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#362
+
+# [ENGLISH]
+# Credit note ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+クレジットノート ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#363
+
+# [ENGLISH]
+# Stapler ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Japanese: ホッチキス
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+ホッチキス ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#364
+
+# [ENGLISH]
+# List of UV Codes ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Japanese: UVコード一覧
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+UVコード一覧 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#365
+
+# [ENGLISH]
+# Credit Card ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+クレジットカード ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#366
+
+# [ENGLISH]
+# Discount coupon ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+割引クーポン ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#367
+
+# [ENGLISH]
+# Hole Punch ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Japanese: 穴あけパンチ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+穴あけパンチ ( 検査台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#368
+
+# [ENGLISH]
+# Credit Cards List ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Japanese: クレジットカード一覧
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+クレジットカード一覧 ( 書類 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#369
+
+# [ENGLISH]
+# Scan Body ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SCAN_BODY
+# English: Scan Body
+# Japanese: 身体をスキャン
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+身体をスキャン ( アクションユニット )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#370
+
+# [ENGLISH]
+# Weight Gauge
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WEIGHT_GAUGE
+# English: Weight Gauge
+# Japanese: 重量計
+
+# [TRANSLATION]
+<<<
+重量計
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#371
+
+# [ENGLISH]
+# Age ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AGE
+# English: Age
+# Japanese: 年齢
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Japanese: 食品参考資料
+
+# [TRANSLATION]
+<<<
+年齢 ( 食品参考資料 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#372
+
+# [ENGLISH]
+# Measure Alcohol ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Japanese: アルコール測定
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+アルコール測定 ( アクションユニット )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#373
+
+# [ENGLISH]
+# Stamp here to void
+
+# [CONTEXT]
+# Stamping a document with an ink stamp
+
+# [TRANSLATION]
+<<<
+ここにスタンプを押して無効にする
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#374
+
+# [ENGLISH]
+# Scan fingerprints ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SCAN_FINGERPRINTS
+# English: Scan Fingerprints
+# Japanese: 指紋をスキャン
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+指紋をスキャン ( アクションユニット )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#375
+
+# [ENGLISH]
+# Measure Blood Pressure ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MEASURE_BLOOD_PRESSURE
+# English: Measure Blood Pressure
+# Japanese: 血圧測定
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+血圧測定 ( アクションユニット )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#376
+
+# [ENGLISH]
+# Press repeatedly
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+連続して押してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#377
+
+# [ENGLISH]
+# Health pamphlets ( Inventory )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Japanese: 健康パンフレット
+#
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+
+# [TRANSLATION]
+<<<
+健康パンフレット ( インベントリ )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#378
+
+# [ENGLISH]
+# Pamphlets to distribute to citizens with different health problems and raise awareness
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+市民に様々な健康問題についてのパンフレットを配布し、意識を高めるためのもの
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#379
+
+# [ENGLISH]
+# Counterfeit bill change ( Cash Register )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: COUNTERFEIT_BILL_CHANGE
+# English: Counterfeit Bill Change
+# Japanese: 偽札の両替
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+
+# [TRANSLATION]
+<<<
+偽札の両替 ( レジ )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#380
+
+# [ENGLISH]
+# Card cloner ( Credit Card Reader )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CARD_CLONER
+# English: Card Cloner
+# Japanese: カード複製機
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Japanese: クレジットカードリーダー
+
+# [TRANSLATION]
+<<<
+カード複製機 ( クレジットカードリーダー )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#381
+
+# [ENGLISH]
+# Age - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: AGE
+# English: Age
+# Japanese: 年齢
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+年齢 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#382
+
+# [ENGLISH]
+# Obesity - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: OBESITY
+# English: Obesity
+# Japanese: 肥満
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+肥満 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#383
+
+# [ENGLISH]
+# Hypertension - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: HYPERTENSION
+# English: Hypertension
+# Japanese: 高血圧
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+高血圧 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#384
+
+# [ENGLISH]
+# Alcoholism - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: ALCOHOLISM
+# English: Alcoholism
+# Japanese: アルコール依存症
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+アルコール依存症 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#385
+
+# [ENGLISH]
+# Intolerances - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: INTOLERANCES
+# English: Intolerances
+# Japanese: 不耐症
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+不耐症 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#386
+
+# [ENGLISH]
+# Category/Code - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: CATEGORY
+# English: Category
+# Japanese: カテゴリー
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+カテゴリー/コード - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#387
+
+# [ENGLISH]
+# Game progress is saved at the end of each day.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ゲームの進行状況は毎日の終わりに保存されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#388
+
+# [ENGLISH]
+# Tutorial
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+チュートリアル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#389
+
+# [ENGLISH]
+# Infinite mode
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+インフィニティモード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#390
+
+# [ENGLISH]
+# Game settings
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ゲーム設定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#391
+
+# [ENGLISH]
+# New Game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ゲームを作成
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#392
+
+# [ENGLISH]
+# Do you accept creating a game and being a disposable instrument of the state?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ゲームを作成し、国家の使い捨ての道具となることに同意しますか？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#393
+
+# [ENGLISH]
+# Obsolete game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+廃れたゲーム
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#394
+
+# [ENGLISH]
+# Dialogue log
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+対話記録
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#395
+
+# [ENGLISH]
+# No dialogues have been recorded yet
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+まだ対話は記録されていません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#396
+
+# [ENGLISH]
+# Paused Game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ゲーム一時停止
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#397
+
+# [ENGLISH]
+# Work Time
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+勤務時間
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#398
+
+# [ENGLISH]
+# Manual Pop-up
+
+# [CONTEXT]
+# Option that enables/disables the game manual from appearing at the start of the workday
+
+# [TRANSLATION]
+<<<
+ポップアップマニュアル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#399
+
+# [ENGLISH]
+# Station dialogue speed
+
+# [CONTEXT]
+# Maintain a text length equivalent to the English version. Abbreviate if necessary
+
+# [TRANSLATION]
+<<<
+駅 ダイアログ速度
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#400
+
+# [ENGLISH]
+# Very Slow
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常に遅い
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#401
+
+# [ENGLISH]
+# Slow
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+遅い
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#402
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ノーマル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#403
+
+# [ENGLISH]
+# Fast
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+速い
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#404
+
+# [ENGLISH]
+# Very fast
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常に速い
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#405
+
+# [ENGLISH]
+# Don Maligno Gifts
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+プレゼント Don Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#406
+
+# [ENGLISH]
+# Unknown
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+不明
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#407
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // We inform you that your bet has been successfully registered // Tomorrow you will know the results.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Japanese: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+'Maligno Bet'へようこそ。Nowhereで最高のベット会社です // あなたのベットが正しく登録されたことをお知らせします // 明日結果がわかります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#408
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // You currently have a bet registered in the system // Tomorrow you will know the results.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Japanese: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+'Maligno Bet'へようこそ。Nowhereで最高のベット会社です // 現在、システムにベットが登録されています // 明日結果がわかります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#409
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // We inform you that you do not have sufficient balance to place a bet // Please try again when you have funds.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Japanese: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+'Maligno Bet'へようこそ。Nowhereで最高のベット会社です // ベットを置くのに十分な残高がありません // 資金があるときに再試行してください。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#410
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // Your order has been successfully registered // 'Don Maligno Gifts' awaits payment confirmation at the end of the day to proceed with the process // Have a good day.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+「Don Malignoの贈り物」！物質的なものがいつだって一番大切ですから // ご注文は正常に登録されました // 「Don Malignoの贈り物」は手続きを続けるため、一日の終わりに支払いの確認を待ちます // 良い一日を。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#411
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // We inform you that you currently have a pending order // Have a good day.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+「Don Malignoの贈り物」！物質的なものがいつだって一番大切ですから // 現在、処理待ちのご注文があることをお知らせします // 良い一日を。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#412
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // We inform you that the service is temporarily unavailable // Please try again later.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+「Don Malignoの贈り物」！物質的なものがいつだって一番大切ですから // サービスは一時的にご利用いただけません // 後でもう一度お試しください。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#413
+
+# [ENGLISH]
+# Nowherians! United we will triumph! // And as always, we will shout from the heart! // Long live Maligno! // Long live Maligno! // For that great Nowherian who knew how to win over the great masses of the people by defending capital! // Long live Maligno! // Long live Maligno!
+
+# [CONTEXT]
+# Song. Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+¡ノーウェア人！ ¡全員団結して勝利するだろう！ // そしていつも心から叫びをあげるだろう！ // ¡Maligno万歳！ // ¡Maligno万歳！ // あの偉大なノーウェア人のために、彼は大衆を征服し資本を守った！ // ¡Maligno万歳！ // ¡Maligno万歳！
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#414
+
+# [ENGLISH]
+# ... // Unit 4... // Proceed // ... // There's too much interference // ...
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+... // ユニット4... // 続行してください // ... // 干渉が多すぎます // ...
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#415
+
+# [ENGLISH]
+# The signal has stabilized // We need your help, citizen // We need you to deliver some samples to a law enforcement officer // We cannot compromise our identity // Someone will approach your station with the samples soon.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+信号が安定しました // 市民の皆さん、協力が必要です // 法の担当者にサンプルを届けていただけませんか // 私たちの身元を危険にさらすことはできません // すぐに誰かがサンプルを持って作業ステーションに来るでしょう。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#416
+
+# [ENGLISH]
+# Hello? // Who is this? // You must help me, please! // Someone is holding me captive and will only release me if someone pays them a ransom, and I have no one else to turn to // Please // Help me // I promise I'll pay you back... // They're coming... I have to hang up.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+もしもし？ // 誰ですか？ // 助けてください！ // 誰かが私を捕まえていて、誰かが身代金を支払わないと解放してくれず、頼る人がいません // お願いします // 助けて // 支払うと約束します... // もう来ます... 電話を切らなければなりません。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#417
+
+# [ENGLISH]
+# Bet on Maligno Bet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Japanese: Maligno Bet
+
+# [TRANSLATION]
+<<<
+賭け Maligno Bet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#418
+
+# [ENGLISH]
+# Unlock All
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+すべて解除
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#419
+
+# [ENGLISH]
+# Difficulty
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+難易度
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#420
+
+# [ENGLISH]
+# Very Easy
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常に簡単
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#421
+
+# [ENGLISH]
+# Easy
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+簡単
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#422
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ノーマル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#423
+
+# [ENGLISH]
+# Hard
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+難しい
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#424
+
+# [ENGLISH]
+# Very Hard
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常に難しい
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#425
+
+# [ENGLISH]
+# Adjusts times, fine amounts, and income
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Japanese: 違反
+
+# [TRANSLATION]
+<<<
+時間、違反の金額、収入を調整します
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#426
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: NORMAL
+# English: Normal
+# Japanese: ノーマル
+
+# [TRANSLATION]
+<<<
+ノーマル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#427
+
+# [ENGLISH]
+# Recommended for new players
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+新しいプレーヤーに推奨
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#428
+
+# [ENGLISH]
+# Infinite
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFINITE
+# English: Infinite
+# Japanese: 無限
+
+# [TRANSLATION]
+<<<
+無限
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#429
+
+# [ENGLISH]
+# Recommended for experienced players who want to enjoy an endless experience
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+終わらない体験を楽しみたい熟練したプレーヤーに推奨
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#430
+
+# [ENGLISH]
+# Flawless
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FLAWLESS
+# English: Flawless
+# Japanese: 完璧
+
+# [TRANSLATION]
+<<<
+完璧
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#431
+
+# [ENGLISH]
+# Only for the most experienced. If you receive any infraction, the game ends
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Japanese: 違反
+
+# [TRANSLATION]
+<<<
+最も経験豊富な人のみ。違反を受けるとゲームは終了します
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#432
+
+# [ENGLISH]
+# Solvency
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SOLVENCY
+# English: Solvency
+# Japanese: 支払能力
+
+# [TRANSLATION]
+<<<
+支払能力
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#433
+
+# [ENGLISH]
+# For those who are strict with their personal finances. If you run out of money, the game will end
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+個人の財政に最も厳格な人のため。お金がなくなるとゲームは終了します
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#434
+
+# [ENGLISH]
+# Select the type of game you want to create
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+作成したいゲームのタイプを選択してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#435
+
+# [ENGLISH]
+# Bet Resolution
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+ベット結果
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#436
+
+# [ENGLISH]
+# To inform you about the result of the bet placed, we hereby notify you that
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+お客様のベット結果をお知らせするために、本通知をお送りいたします
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#437
+
+# [ENGLISH]
+# You have won!
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+見事勝利されました！
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#438
+
+# [ENGLISH]
+# You have lost.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+負けられました。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#439
+
+# [ENGLISH]
+# The funds have been credited to your account. We appreciate your participation.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+資金がお客様の口座に入金されました。ご参加いただきありがとうございます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#440
+
+# [ENGLISH]
+# The funds have been debited as agreed. We appreciate your participation.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+ご合意に基づき、資金が引き落とされました。ご参加いただきありがとうございます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#441
+
+# [ENGLISH]
+# New / Updated Procedures
+
+# [CONTEXT]
+# Keep text format with / and spaces
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Japanese: 手順
+
+# [TRANSLATION]
+<<<
+新しい手順 / 更新された手順
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#442
+
+# [ENGLISH]
+# Welcome to 'Maligno Pet' // Your application has been successfully processed // You will shortly receive one of our magnificent pets at your home address.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# Japanese: Maligno Pet
+
+# [TRANSLATION]
+<<<
+Maligno Petへようこそ // お客様のリクエストは正常に処理されました // まもなく、素晴らしいペットの1匹をお届けいたします
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#443
+
+# [ENGLISH]
+# Welcome to 'Maligno Pet' // We inform you that due to high demand from the citizens of Nowhere // The number of pets that can be requested per person is limited to one // Thank you very much.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# Japanese: Maligno Pet
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+Maligno Petへようこそ // Nowhereの市民からの高い需要のため // 一人あたり申込可能なペットの数は一匹に制限させていただきます // ありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#444
+
+# [ENGLISH]
+# Maligno's Dates! The number one dating service in Nowhere // Analyzing citizen profile... // Analyzing citizen profile... // Congratulations! // An encounter with the love of your life has been successfully scheduled for tonight // Thank you very much for using our service.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# Japanese: Maligno's Dates
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+Maligno's Dates! Nowhereナンバーワンのデートプログラム // 市民のプロフィールを分析中... // 市民のプロフィールを分析中... // おめでとうございます！ // 今夜、人生の愛との出会いが正常に予約されました // 当サービスをご利用いただき誠にありがとうございます.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#445
+
+# [ENGLISH]
+# Maligno's Dates! The number one dating program in Nowhere // We inform you that you currently already have a partner assigned // Thank you very much.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# Japanese: Maligno's Dates
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+Maligno's Dates! Nowhereナンバーワンのデートプログラム // 現在、すでにパートナーが割り当てられています // ありがとうございます.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#446
+
+# [ENGLISH]
+# Oh // I was hoping for your call // I'll see you again tonight sweetheart // Goodbye
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ああ // 待っていたわ // 今夜また会うわね愛しい人 // さようなら
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#447
+
+# [ENGLISH]
+# Hi handsome // Finally you called // I'll be there tonight // I promise that tonight I'll give you an unforgettable night // See you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちはハンサム // やっと電話してくれた // 今夜そこにいるわ // 今夜忘れられない夜にしてあげる // 会いましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#448
+
+# [ENGLISH]
+# I was waiting for your call sweetie // I'll bring something special tonight // I'll be waiting impatiently
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+電話を待っていたわ、あなた // 今夜特別なものを持っていくわ // 待ちきれないわ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#449
+
+# [ENGLISH]
+# Hi // I am not available at the moment // Please try again later // Thank you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは // ただいま電話に出られません // 後でもう一度おかけください // ありがとうございます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#450
+
+# [ENGLISH]
+# gluten
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+グルテン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#451
+
+# [ENGLISH]
+# fructose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+フルクトーズ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#452
+
+# [ENGLISH]
+# sucrose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+スクロース
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#453
+
+# [ENGLISH]
+# lactose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+ラクトース
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#454
+
+# [ENGLISH]
+# Duplicate game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+セーブデータを複製
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#455
+
+# [ENGLISH]
+# Revert to a previous day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+前の日に戻る
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#456
+
+# [ENGLISH]
+# Do you want to duplicate this game?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+セーブデータを複製しますか?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#457
+
+# [ENGLISH]
+# This game has no earlier days to revert to
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+戻れる日がありません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#458
+
+# [ENGLISH]
+# Revert to a day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+日付に戻る
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#459
+
+# [ENGLISH]
+# Select the day you wish to revert to
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+戻りたい日を選択してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#460
+
+# [ENGLISH]
+# Reverting to a previous day will erase game progress
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+数日前に戻るとゲームの進行状況が消えます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#461
+
+# [ENGLISH]
+# Are you sure you want to continue?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+続行しますか?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#462
+
+# [ENGLISH]
+# Maligno Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# Japanese: Maligno Pet
+
+# [TRANSLATION]
+<<<
+Maligno Pet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#463
+
+# [ENGLISH]
+# Maligno's Dates
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# Japanese: Maligno's Dates
+
+# [TRANSLATION]
+<<<
+Maligno's Dates
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#464
+
+# [ENGLISH]
+# Maligno Bet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Japanese: Maligno Bet
+
+# [TRANSLATION]
+<<<
+Maligno Bet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#465
+
+# [ENGLISH]
+# Easy Fast Cash
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# Japanese: Easy Fast Cash
+
+# [TRANSLATION]
+<<<
+Easy Fast Cash
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#466
+
+# [ENGLISH]
+# City Code
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITY_CODE
+# English: City Code
+# Japanese: 都市コード
+
+# [TRANSLATION]
+<<<
+都市コード
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#467
+
+# [ENGLISH]
+# This code represents the city associated with the card. Information about the different codes and their cities can be found on the map.
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+このコードはカードに関連する都市を表します。異なるコードとその都市に関する情報は地図で確認できます.
+>>>

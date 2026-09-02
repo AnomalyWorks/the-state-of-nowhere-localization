@@ -1,0 +1,288 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#1
+
+# [ENGLISH]
+# Rebel Resistance Leaflet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_RESISTANCE_LEAFLET
+# English: Rebel Resistance Leaflet
+# Korean: 반군 저항군 전단지
+
+# [TRANSLATION]
+<<<
+반군 저항군 전단지
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#2
+
+# [ENGLISH]
+# Resistance leaflet with someone's fingerprints on it. On it is written: You can make the real change! Join us and together we will overthrow Maligno!
+
+# [CONTEXT]
+# Description of the Rebel Resistance Leaflet inventory item
+
+# [GLOSSARY]
+# ID: REBEL_RESISTANCE_LEAFLET
+# English: Rebel Resistance Leaflet
+# Korean: 반군 저항군 전단지
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+반군 저항군 전단지에 누군가의 지문이 찍혀 있습니다. 그 안에는 이렇게 쓰여 있습니다: 당신은 진정한 변화를 만들 수 있습니다! 우리와 함께하세요, 그리고 함께 Maligno을 전복시킵시다!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#3
+
+# [ENGLISH]
+# Keep that // I don't want to get into trouble
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+가세요 // 나는 문제가 생기고 싶지 않아요
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#4
+
+# [ENGLISH]
+# Put that away // Do you want to get in trouble?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+그것을 내려놓으세요 // 문제가 생기고 싶으세요?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#5
+
+# [ENGLISH]
+# What? // Put that away // Do you want to end up in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+뭐? // 그것을 보관하세요 // 교도소에 가고 싶으세요?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#6
+
+# [ENGLISH]
+# Do you know what they do // To those who question Maligno?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+그들에게 무슨 일을 하는지 알아요? // Maligno을 의심하는 사람들에게?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#7
+
+# [ENGLISH]
+# You will end up in prison // if you keep showing that to anybody
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+감옥에 가게 될 거야 // 계속 누구에게나 그걸 보여주면
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#8
+
+# [ENGLISH]
+# Be careful with that my friend // Do you want to end up in a cell?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+조심해 친구야 // 감방에 가고 싶어?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#9
+
+# [ENGLISH]
+# We have to overthrow Maligno, my friend
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno를 타도해야 해, 친구
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#10
+
+# [ENGLISH]
+# We will overthrow the regime!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+우리는 정권을 전복시킬 거예요!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#11
+
+# [ENGLISH]
+# We have to take down Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+우리는 Maligno을 끝내야 합니다!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#12
+
+# [ENGLISH]
+# Maligno's regime will burn!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno의 정권이 타오를 거예요!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#13
+
+# [ENGLISH]
+# Traitor! // You're a damn traitor! // I will call the police on you!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+배신자! // 당신은 빌어먹을 배신자야! // 경찰을 부를 거야!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#14
+
+# [ENGLISH]
+# You must be careful with that, handsome // You could get into trouble // I couldn't bear the thought of losing you
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+아름다운 친구, 조심해야 해요 // 문제가 생길 수 있어요 // 당신을 잃는다는 생각은 참을 수 없어요
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#15
+
+# [ENGLISH]
+# I'm not drunk enough for that buddy // Hiccup!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+나는 그것을 할 만큼 충분히 취하지 않았어 친구 // 딸꾹!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#16
+
+# [ENGLISH]
+# It's about time someone stood up against this state that oppresses the helpless
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이제 누군가가 힘없는 사람들을 억압하는 이 국가에 맞서 싸울 때가 되었어요
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#17
+
+# [ENGLISH]
+# Be careful with that buddy // Do you want to get into trouble? // Do you know what they'd do to you if they catch you with that?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+친구, 조심해요 // 문제가 생기고 싶으세요? // 그것을 가지고 잡히면 무슨 일을 당할지 알아요?
+>>>

@@ -1,0 +1,188 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#1
+
+# [ENGLISH]
+# Sub-Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Romanian: Subsupervizor
+
+# [TRANSLATION]
+<<<
+Subsupervizor
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#2
+
+# [ENGLISH]
+# Hello Employee 100411 // I am the sub-supervisor // I'm in charge here—well, second in charge // The supervisor is above me // But soon I will take his position... // One day he will make a mistake and I'll be there ready to seize the opportunity... // Muahahahaha // Sorry // Get back to work 100411
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+#
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Romanian: Subsupervizor
+
+# [TRANSLATION]
+<<<
+Bună Angajat 100411 // Sunt Subsupervizorul // Sunt persoana cu cel mai înalt rang aici // După Supervizor, desigur... // Dar în curând îi voi lua postul... // Într-o zi va face o greșeală și voi fi acolo, gata să profit de ocazie... // Muahahahaha // Scuze // Continuă-ți treaba 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#4
+
+# [ENGLISH]
+# 100411 // There are new rules // People from certain cities will not be allowed // You should check your manual
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Romanian: Manual
+
+# [TRANSLATION]
+<<<
+100411 // Sunt reguli noi // Persoanele din anumite orașe nu vor fi admise // Ar trebui să-ți consulți Manualul
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#5
+
+# [ENGLISH]
+# 100411 // There are more regulations regarding product sales // You will have to verify the citizens' age when selling them products // Check your manual for more information
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Romanian: Manual
+
+# [TRANSLATION]
+<<<
+100411 // Există mai multe reguli privind vânzarea produselor // Va trebui să verifici vârsta cetățenilor atunci când le vinzi produse // Consultă Manualul pentru mai multe informații
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#11
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You must inform yourself about them and their procedures in the manual // Now get to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+
+# [TRANSLATION]
+<<<
+Ciao, 100411 // După cum probabil ai aflat // Cupoane de reducere au fost puse în circulație // Trebuie să te informezi despre ele și despre modul lor de funcționare în manual // Acum apucă-te de treabă
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#13
+
+# [ENGLISH]
+# 100411 // Due to the tragic outcome of that family // Starting today, your duty will be to conduct alcohol breath tests // You must consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // Din cauza deznodământului tragic al acelei familii // De astăzi, sarcina ta va fi să efectuezi controale de alcoolemie // Trebuie să consulți manualul pentru mai multe informații // Acum întoarce-te la muncă
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // Starting today, we have made available different types of leaflets // To be distributed among the citizens // Although it's not mandatory // That is all // Return to your work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Angajat 100411 // De astăzi am pus la dispoziție diferite tipuri de pliante // Pentru a fi distribuite cetățenilor // Deși nu este obligatoriu // Atât // Întoarce-te la muncă
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#18
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // The supervisor will take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+100411 // Acel biet nenorocit pe care l-ai neutralizat nu a supraviețuit // Acum poate să cerșească mâncare pe lumea cealaltă // Întoarce-te liniștit acasă // Supervizorul se va ocupa să aranjeze totul ca să nu ai probleme
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // Today we have received multiple calls // Our bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But the supervisor has managed to save you // Since you are a very hard worker // He blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish the supervisor's boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Salut, 100411 // Astăzi am primit numeroase apeluri // Șefii noștri sunt nemulțumiți // Știi de ce? // Ai ordonat arestarea fiului ministrului // Îți voiau capul... // Dar Supervizorul a reușit să te salveze // Pentru că ești foarte muncitor // A învinovățit pe altcineva pentru greșeala ta // Acel biet nenorocit... // Dacă s-ar fi străduit puțin mai mult la muncă, nu ar fi hrană pentru pești acum // În fine... // Pentru această greșeală va trebui să lustruiți cizmele Supervizorului în fiecare zi înainte să pleci acasă // Acum întoarce-te la muncă
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // We found out that someone robbed this station // And that you let them steal without putting up any resistance... // If you want to keep working here // You'd better do your job... // We'll see you tomorrow
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Salut 100411 // Am aflat că cineva a jefuit această secție // Și că l-ai lăsat să fure fără să opui rezistență... // Dacă vrei să continui să lucrezi aici // Ar fi mai bine să-ți faci treaba... // Ne vedem mâine
+>>>

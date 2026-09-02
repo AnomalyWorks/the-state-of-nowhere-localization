@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+위반
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+유효한 시민을 수용해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+
+# [TRANSLATION]
+<<<
+제품을 훔치는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Korean: 강도
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Korean: 무력화됨
+
+# [TRANSLATION]
+<<<
+강도는 무력화되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+시민은 신분증으로 처리해야 하며, 이를 제시하지 않을 경우 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+유효기간이 지난 신분증을 가진 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+시민이 타인의 신분증을 제시하는 경우 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+시민이 위조된 신분증을 제시하는 경우 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+
+# [TRANSLATION]
+<<<
+제한된 도시 출신의 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+
+# [TRANSLATION]
+<<<
+수배 범죄자들은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+
+# [TRANSLATION]
+<<<
+혈중 알코올 농도가 높은 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+제품은 해당 코드로 처리되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Korean: 미성년자
+
+# [TRANSLATION]
+<<<
+미성년자에게 부적합한 제품의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Korean: 노인
+
+# [TRANSLATION]
+<<<
+노인에게 부적합한 제품의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Korean: 비만인
+
+# [TRANSLATION]
+<<<
+비만인에게 부적합한 제품의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Korean: 고도 비만인
+
+# [TRANSLATION]
+<<<
+고도 비만인에게 부적합한 제품의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Korean: 고혈압 환자
+
+# [TRANSLATION]
+<<<
+고혈압 환자에게 소금이 함유된 제품의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+알코올이 함유된 제품의 판매는 검사 양성 반응 시민에게 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Korean: 음식 불내증
+
+# [TRANSLATION]
+<<<
+과당이 함유된 제품의 판매는 음식 불내증 시민에게 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Korean: 음식 불내증
+
+# [TRANSLATION]
+<<<
+자당이 함유된 제품의 판매는 음식 불내증 시민에게 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Korean: 음식 불내증
+
+# [TRANSLATION]
+<<<
+유당이 함유된 제품의 판매는 음식 불내증 시민에게 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Korean: 음식 불내증
+
+# [TRANSLATION]
+<<<
+글루텐이 함유된 제품의 판매는 음식 불내증 시민에게 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Korean: 출입 금지자 목록
+
+# [TRANSLATION]
+<<<
+시민의 금지 제품 목록에 있는 제품의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Korean: 출입 금지자 목록
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Korean: 제품 카테고리
+
+# [TRANSLATION]
+<<<
+시민의 금지 제품 카테고리 목록에 있는 제품 카테고리의 판매는 금지됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+
+# [TRANSLATION]
+<<<
+시민은 지불 수단을 제시해야 하며, 그렇지 않으면 거부됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민은 지불에 있어 돈 부족을 제시해서는 안 됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+위조 지폐를 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+찢어지거나 얼룩진 또는 훼손된 지폐로 지불을 고집하는 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+표시된 지폐를 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+남의 신용카드를 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+금지 마크가 있는 신용카드를 제시하는 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+금지된 은행의 신용카드를 제시하는 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+잔액이 없는 신용카드를 제시하는 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+
+# [TRANSLATION]
+<<<
+남의 대변전표를 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+
+# [TRANSLATION]
+<<<
+만료된 대변전표를 제시하는 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+
+# [TRANSLATION]
+<<<
+위조 대변전표를 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+남의 식품 쿠폰을 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+위조 식품 쿠폰을 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: REJECTED
+# English: Rejected
+# Korean: 거부됨
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+만료된 식품 쿠폰을 제시하는 시민은 거부되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ARRESTED
+# English: Arrested
+# Korean: 체포됨
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+위조 할인 쿠폰을 제시하는 시민은 체포되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+유효기간이 지난 할인 쿠폰은 받아들이지 말고 무효화해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+수락된 할인 쿠폰은 지정된 영역에 구멍을 내야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+
+# [TRANSLATION]
+<<<
+대변전표는 해당 송장과 함께 지정된 영역에 스테이플링해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+식품 쿠폰은 지정된 영역에 날인되어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+거스름돈을 초과 지급하여 금전 부족이 발생해서는 안 됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+할인 쿠폰은 수락하거나 무효화해야 합니다
+>>>

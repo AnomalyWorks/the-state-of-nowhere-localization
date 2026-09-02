@@ -1,0 +1,69 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETAIDENTIFICACION#1
+
+# [ENGLISH]
+# Identification card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# French: Carte d'identification
+
+# [TRANSLATION]
+<<<
+Carte d'identification
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETAIDENTIFICACION#3
+
+# [ENGLISH]
+# It is my identification card // You should process it // Right?
+
+# [CONTEXT]
+# Dialogue associated with giving the Identification Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# French: Carte d'identification
+
+# [TRANSLATION]
+<<<
+C'est ma Carte d'identification // Tu dois la traiter // Non ?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETAIDENTIFICACION#4
+
+# [ENGLISH]
+# No // You have to process that yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Identification Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Non // C'est toi qui dois le traiter
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETAIDENTIFICACION#5
+
+# [ENGLISH]
+# Aren't you supposed to use it yourself?
+
+# [CONTEXT]
+# Dialogue associated with giving the Identification Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce n'est pas toi qui es censé l'utiliser ?
+>>>

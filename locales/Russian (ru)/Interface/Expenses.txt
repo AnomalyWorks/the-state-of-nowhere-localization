@@ -1,0 +1,802 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#1
+
+# [ENGLISH]
+# Rent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Аренда
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#2
+
+# [ENGLISH]
+# Food
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Еда
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#3
+
+# [ENGLISH]
+# Household expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+
+# [TRANSLATION]
+<<<
+Расходы на домашнее хозяйство
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#4
+
+# [ENGLISH]
+# Nowhere State Taxes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Налоги штата Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#5
+
+# [ENGLISH]
+# Maligno Premium TV Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_TV
+# English: Maligno Premium TV Pack
+# Russian: Maligno Premium TV Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium TV Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#6
+
+# [ENGLISH]
+# Maligno Ultra Gold Internet Pack 256kbps
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_INTERNET
+# English: Maligno Ultra Gold Internet Pack 256kbps
+# Russian: Maligno Ultra Gold Internet Pack 256kbps
+
+# [TRANSLATION]
+<<<
+Maligno Ultra Gold Internet Pack 256kbps
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#7
+
+# [ENGLISH]
+# Maligno Premium XXX Pack + Feet Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_XXX
+# English: Maligno Premium XXX Pack + Feet Pack
+# Russian: Maligno Premium XXX Pack + Feet Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium XXX Pack + Feet Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#8
+
+# [ENGLISH]
+# Maligno insurance
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno Страхование
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#9
+
+# [ENGLISH]
+# Medical expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+
+# [TRANSLATION]
+<<<
+Медицинские расходы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#10
+
+# [ENGLISH]
+# Arrest expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+
+# [TRANSLATION]
+<<<
+Расходы за арест
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#11
+
+# [ENGLISH]
+# Gift for Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: WIFE
+# English: Wife
+# Russian: Жена
+
+# [TRANSLATION]
+<<<
+Подарок для Жены
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#12
+
+# [ENGLISH]
+# Gift for Supervisor's ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Подарок для бывшей жены Руководителя
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#13
+
+# [ENGLISH]
+# Gift for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+#
+# ID: LOVER
+# English: Lover
+# Russian: Любовник
+
+# [TRANSLATION]
+<<<
+Подарок для Сына (Любовник)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#14
+
+# [ENGLISH]
+# Gift son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Подарок для Сына (бывшая жена Руководителя)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#15
+
+# [ENGLISH]
+# Gift for Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+
+# [TRANSLATION]
+<<<
+Подарок для Сына
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#16
+
+# [ENGLISH]
+# Gift for Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: LOVER
+# English: Lover
+# Russian: Любовник
+
+# [TRANSLATION]
+<<<
+Подарок для Любовника
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#17
+
+# [ENGLISH]
+# Gift for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+#
+# ID: PET
+# English: Pet
+# Russian: Домашнее животное
+
+# [TRANSLATION]
+<<<
+Подарок для Домашнего животного
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#18
+
+# [ENGLISH]
+# son's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+
+# [TRANSLATION]
+<<<
+Расходы Сына
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#19
+
+# [ENGLISH]
+# son's expenses (lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+#
+# ID: LOVER
+# English: Lover
+# Russian: Любовник
+
+# [TRANSLATION]
+<<<
+Расходы Сына (Любовник)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#20
+
+# [ENGLISH]
+# Son exp. (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Расходы Сына (бывшая жена Руководителя)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#21
+
+# [ENGLISH]
+# wife's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: WIFE
+# English: Wife
+# Russian: Жена
+
+# [TRANSLATION]
+<<<
+Расходы жены
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#22
+
+# [ENGLISH]
+# Sup. ex-Wife expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Расходы бывшей жены (руководитель)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#23
+
+# [ENGLISH]
+# pet expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: PET
+# English: Pet
+# Russian: Домашнее животное
+
+# [TRANSLATION]
+<<<
+Расходы на домашнее животное
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#24
+
+# [ENGLISH]
+# lover's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Russian: Расход
+#
+# ID: LOVER
+# English: Lover
+# Russian: Любовник
+
+# [TRANSLATION]
+<<<
+Расходы на любовника
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#25
+
+# [ENGLISH]
+# Medicines for son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+
+# [TRANSLATION]
+<<<
+Лекарства для сына
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#26
+
+# [ENGLISH]
+# Medicines for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+#
+# ID: LOVER
+# English: Lover
+# Russian: Любовник
+
+# [TRANSLATION]
+<<<
+Лекарства для сына (любовник)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#27
+
+# [ENGLISH]
+# Med. son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: SON
+# English: Son
+# Russian: Сын
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Лекарства для сына (бывшая жена, руководитель)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#28
+
+# [ENGLISH]
+# Medicines for wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: WIFE
+# English: Wife
+# Russian: Жена
+
+# [TRANSLATION]
+<<<
+Лекарства для жены
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#29
+
+# [ENGLISH]
+# Med. Sup. ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Лекарства для бывшей жены (руководитель)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#30
+
+# [ENGLISH]
+# Medicines for lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: LOVER
+# English: Lover
+# Russian: Любовник
+
+# [TRANSLATION]
+<<<
+Лекарства для любовника
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#31
+
+# [ENGLISH]
+# Medicines for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Russian: Лекарства
+#
+# ID: PET
+# English: Pet
+# Russian: Домашнее животное
+
+# [TRANSLATION]
+<<<
+Лекарства для домашнего животного
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#32
+
+# [ENGLISH]
+# Condoms sexual serv. provided
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Презервативы (оказание секс. услуг)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#33
+
+# [ENGLISH]
+# Condoms sexual serv. received
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Презервативы (получение секс. услуг)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#34
+
+# [ENGLISH]
+# Gift pack for the entire family
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+
+# [TRANSLATION]
+<<<
+Набор подарков для всей семьи
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#35
+
+# [ENGLISH]
+# Don Maligno Gift Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Russian: Подарок
+
+# [TRANSLATION]
+<<<
+Набор подарков Don Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#36
+
+# [ENGLISH]
+# Kidnapping ransom
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Спасение из плена
+>>>

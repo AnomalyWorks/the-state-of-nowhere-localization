@@ -1,0 +1,802 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#1
+
+# [ENGLISH]
+# Rent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+租金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#2
+
+# [ENGLISH]
+# Food
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+食物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#3
+
+# [ENGLISH]
+# Household expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+
+# [TRANSLATION]
+<<<
+家庭支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#4
+
+# [ENGLISH]
+# Nowhere State Taxes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere州税
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#5
+
+# [ENGLISH]
+# Maligno Premium TV Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_TV
+# English: Maligno Premium TV Pack
+# Chinese Simplified: Maligno Premium TV Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium TV Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#6
+
+# [ENGLISH]
+# Maligno Ultra Gold Internet Pack 256kbps
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_INTERNET
+# English: Maligno Ultra Gold Internet Pack 256kbps
+# Chinese Simplified: Maligno Ultra Gold Internet Pack 256kbps
+
+# [TRANSLATION]
+<<<
+Maligno Ultra Gold Internet Pack 256kbps
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#7
+
+# [ENGLISH]
+# Maligno Premium XXX Pack + Feet Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_XXX
+# English: Maligno Premium XXX Pack + Feet Pack
+# Chinese Simplified: Maligno Premium XXX Pack + Feet Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium XXX Pack + Feet Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#8
+
+# [ENGLISH]
+# Maligno insurance
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno保险
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#9
+
+# [ENGLISH]
+# Medical expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+
+# [TRANSLATION]
+<<<
+医疗支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#10
+
+# [ENGLISH]
+# Arrest expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+
+# [TRANSLATION]
+<<<
+逮捕支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#11
+
+# [ENGLISH]
+# Gift for Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: WIFE
+# English: Wife
+# Chinese Simplified: 妻子
+
+# [TRANSLATION]
+<<<
+给妻子的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#12
+
+# [ENGLISH]
+# Gift for Supervisor's ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+给主管前妻的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#13
+
+# [ENGLISH]
+# Gift for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+#
+# ID: LOVER
+# English: Lover
+# Chinese Simplified: 情人
+
+# [TRANSLATION]
+<<<
+给儿子（情人）的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#14
+
+# [ENGLISH]
+# Gift son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+给儿子（主管前妻）的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#15
+
+# [ENGLISH]
+# Gift for Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+
+# [TRANSLATION]
+<<<
+给儿子的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#16
+
+# [ENGLISH]
+# Gift for Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: LOVER
+# English: Lover
+# Chinese Simplified: 情人
+
+# [TRANSLATION]
+<<<
+给情人的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#17
+
+# [ENGLISH]
+# Gift for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+#
+# ID: PET
+# English: Pet
+# Chinese Simplified: 宠物
+
+# [TRANSLATION]
+<<<
+给宠物的礼物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#18
+
+# [ENGLISH]
+# son's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+
+# [TRANSLATION]
+<<<
+儿子的支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#19
+
+# [ENGLISH]
+# son's expenses (lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+#
+# ID: LOVER
+# English: Lover
+# Chinese Simplified: 情人
+
+# [TRANSLATION]
+<<<
+儿子的支出（情人）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#20
+
+# [ENGLISH]
+# Son exp. (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+儿子的支出（主管前妻）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#21
+
+# [ENGLISH]
+# wife's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: WIFE
+# English: Wife
+# Chinese Simplified: 妻子
+
+# [TRANSLATION]
+<<<
+妻子的支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#22
+
+# [ENGLISH]
+# Sup. ex-Wife expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+前妻（主管）支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#23
+
+# [ENGLISH]
+# pet expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: PET
+# English: Pet
+# Chinese Simplified: 宠物
+
+# [TRANSLATION]
+<<<
+宠物支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#24
+
+# [ENGLISH]
+# lover's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Chinese Simplified: 支出
+#
+# ID: LOVER
+# English: Lover
+# Chinese Simplified: 情人
+
+# [TRANSLATION]
+<<<
+情人支出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#25
+
+# [ENGLISH]
+# Medicines for son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+
+# [TRANSLATION]
+<<<
+儿子的药品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#26
+
+# [ENGLISH]
+# Medicines for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+#
+# ID: LOVER
+# English: Lover
+# Chinese Simplified: 情人
+
+# [TRANSLATION]
+<<<
+儿子的药品（情人）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#27
+
+# [ENGLISH]
+# Med. son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: SON
+# English: Son
+# Chinese Simplified: 儿子
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+儿子的药品（前妻、主管）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#28
+
+# [ENGLISH]
+# Medicines for wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: WIFE
+# English: Wife
+# Chinese Simplified: 妻子
+
+# [TRANSLATION]
+<<<
+妻子的药品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#29
+
+# [ENGLISH]
+# Med. Sup. ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+前妻（主管）的药品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#30
+
+# [ENGLISH]
+# Medicines for lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: LOVER
+# English: Lover
+# Chinese Simplified: 情人
+
+# [TRANSLATION]
+<<<
+药品（情人用）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#31
+
+# [ENGLISH]
+# Medicines for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Chinese Simplified: 药品
+#
+# ID: PET
+# English: Pet
+# Chinese Simplified: 宠物
+
+# [TRANSLATION]
+<<<
+药品（宠物用）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#32
+
+# [ENGLISH]
+# Condoms sexual serv. provided
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+安全套（性服务提供）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#33
+
+# [ENGLISH]
+# Condoms sexual serv. received
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+安全套（性服务获取）
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#34
+
+# [ENGLISH]
+# Gift pack for the entire family
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+
+# [TRANSLATION]
+<<<
+全家礼物套装
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#35
+
+# [ENGLISH]
+# Don Maligno Gift Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Chinese Simplified: 礼物
+
+# [TRANSLATION]
+<<<
+Don Maligno 礼物套装
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#36
+
+# [ENGLISH]
+# Kidnapping ransom
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+人质营救
+>>>

@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#1
+
+# [ENGLISH]
+# Soda
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Сода
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#2
+
+# [ENGLISH]
+# What flavor sodas do you like? // Grape? // You're weird.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Какого вкуса тебе нравятся соды? // Виноградный? // Ты странный
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#3
+
+# [ENGLISH]
+# Do you like sodas? // What's it to me? // Unfriendly
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Тебе нравятся соды? // А мне что? // Неприятный
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#4
+
+# [ENGLISH]
+# 'Don Maligno's Soda' // 'More effervescent than the competitors' // 'If there was such a thing' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Russian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Сода Don Maligno' // 'Более газированная, чем у конкурентов' // 'Если бы она существовала' // Гениально
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#5
+
+# [ENGLISH]
+# I'll bring a soda to go with the meal
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я возьму соду, чтобы сопровождать еду
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#6
+
+# [ENGLISH]
+# Can't I bring soda? // That's too bad
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я не могу взять соду? // Какой плохой
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#7
+
+# [ENGLISH]
+# Where's my soda? // I can't take it // Damn.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+А моя сода? // Что, я не могу её взять? // Проклятье
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#8
+
+# [ENGLISH]
+# It's okay... // If you say I can't bring soda... // I'm not complaining
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ладно... // Если ты говоришь, что я не могу взять соду... // Я не жалуюсь
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#9
+
+# [ENGLISH]
+# And the soda? // That's too bad // I'll have to drink water with my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+А сода? // Как жаль // Придётся есть с водой
+>>>

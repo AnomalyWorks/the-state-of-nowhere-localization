@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# Russian: Мошенник
+
+# [TRANSLATION]
+<<<
+Мошенник
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет друг // Ты заинтересован заработать немного дополнительных денег? // Стать великим мошенником? // Если решишься // Позвони мне
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Хорошо // Я приду туда, когда смогу
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+
+# [TRANSLATION]
+<<<
+Привет // Значит, ты решил... // войти в мир мошенничества... // Ну что ж // Я принёс тебе кое-что, что пригодится для начала... // Эта красотка устанавливается рядом с твоим кассовым аппаратом // И по нажатию кнопки выдаёт фальшивые деньги, не вызывая подозрений // Конечно, я буду брать небольшую комиссию с каждого твоего мошенничества... // Но не будем об этом... // Тебе нужно быть начеку // Некоторые люди могут заметить твою аферу // И могут сообщить о тебе // Если из-за жалоб ты привлечёшь слишком много внимания, тебя могут арестовать // Сосредоточься на детях и стариках // Они ничего не замечают // И даже не думай обманывать полицейских, друг... // В общем // Удачи
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Russian: Считыватель кредитных карт
+
+# [TRANSLATION]
+<<<
+Привет, друг // Вижу, твой мошеннический бизнес идёт отлично... // Позволь мне кое-что тебе дать... // Эта милая машинка крепится к твоему считывателю кредитных карт // И что она делает? // Она копирует данные кредитных карт, которые ты вводишь, и отправляет их мне // За каждую скопированную карту ты получишь дополнительный доход, друг // И помни // Держись подальше от полицейских... // Удачи
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Russian: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Привет, друг // Я прибежал предупредить тебя, как только узнал... // Тебе нужно быть очень осторожным // Поблизости бродит полицейский под прикрытием // Он притворяется обычным гражданином... // И как его распознать? // К счастью, мои контакты смогли узнать его имя... // Mark Shadow // Запомни его // Не волнуйся // Просто будь начеку и не делай никаких глупостей... // Ну что ж // Это всё // Пока
+>>>

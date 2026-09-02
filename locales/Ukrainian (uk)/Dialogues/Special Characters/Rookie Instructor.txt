@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Ukrainian: Посвідчення особи
+
+# [TRANSLATION]
+<<<
+Я інструктор для новачків // Я прийшов дати вам загальний огляд того, що вам потрібно робити у свій перший день // Перше - це ідентифікувати громадянина // Для цього потрібно прочитати посвідчення особи громадянина
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Ukrainian: Посвідчення особи
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Ukrainian: Інспекційний стіл
+
+# [TRANSLATION]
+<<<
+Але перш ніж це зробити, відкрийте інспекційний стіл // Там ви можете уважніше розглянути документи // Спробуйте повернути посвідчення особи правою кнопкою миші, а потім поверніться сюда
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Ukrainian: Зчитувач посвідчень особи
+
+# [TRANSLATION]
+<<<
+Нарешті // Тепер вставте карту у зчитувач посвідчень особи, щоб ідентифікувати громадянина
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Ukrainian: Виклик товарів
+
+# [TRANSLATION]
+<<<
+Ви впоралися! // Не можу повірити // Тепер час обробити товари громадянина // Активуйте виклик товарів
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Ukrainian: Зчитувач товарів
+
+# [TRANSLATION]
+<<<
+Тепер ви повинні їх прочитати // Перетягніть товар до Зчитувача товарів, щоб почати
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Ого // Ви швидші, ніж здаєтеся // А я ж у вас не вірив // Тепер час обробити оплату // Але припустімо, що я не пред'явив оплату // При такій невідповідності ви завжди повинні повідомити про неї // Повідомте, що громадянин не пред'явив оплату
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Добре // Тепер час обробити оплату // Не забудьте дати решту правильно, а потім прийняти її
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Ukrainian: Чек
+
+# [TRANSLATION]
+<<<
+Ми майже закінчили // Тепер, щоб завершити транзакцію, ви повинні вручити мені Чек
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Ukrainian: Дія
+#
+# ID: REJECT
+# English: Reject
+# Ukrainian: Відхилити
+
+# [TRANSLATION]
+<<<
+За нормальних обставин це схвалить покупку, і громадянин піде з товарами // Майте це на увазі // Тепер просто дозвольте мені сказати вам ще кое-що // Ви можете виконувати Дії над громадянами // Виконайте Дію Відхилити, щоб я пішов
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Ukrainian: Посібник
+
+# [TRANSLATION]
+<<<
+Це все // Ти не найспритніший оператор // Але я думаю, що ти зможеш впоратися з цим // З цього моменту ти один // прочитай посібник, якщо не знаєш, що робити
+>>>

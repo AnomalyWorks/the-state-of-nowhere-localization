@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#1
+
+# [ENGLISH]
+# Rebel Package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_PACKAGE
+# English: Rebel Package
+# Japanese: 反乱軍パッケージ
+
+# [TRANSLATION]
+<<<
+反乱軍パッケージ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#2
+
+# [ENGLISH]
+# Contains encrypted information. Deliver to:
+
+# [CONTEXT]
+# Description of the Rebel Package inventory item
+
+# [TRANSLATION]
+<<<
+暗号化された情報を含む。届け先：
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#3
+
+# [ENGLISH]
+# What's this? // No thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+これ何？ // いや、結構です
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#4
+
+# [ENGLISH]
+# What does this mean? // Deliver to...?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+これはどういう意味？ // 届ける...？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#5
+
+# [ENGLISH]
+# What's that? // I have no idea
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+これ何？ // わからない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#6
+
+# [ENGLISH]
+# What is it for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+これ何のため？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#7
+
+# [ENGLISH]
+# I don't understand what it is
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+これが何なのかわからない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#8
+
+# [ENGLISH]
+# What is it supposed to be used for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+これって何に使えばいいの？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#9
+
+# [ENGLISH]
+# Glory to the resistance! // End the regime! // End Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+レジスタンスに栄光あれ！ // 政権よ滅びろ！ // Malignoよ滅びろ！
+>>>

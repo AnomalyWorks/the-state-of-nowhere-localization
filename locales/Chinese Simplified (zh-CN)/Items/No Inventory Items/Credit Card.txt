@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#1
+
+# [ENGLISH]
+# Credit Card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+信用卡
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#3
+
+# [ENGLISH]
+# That's my credit card // To pay for the purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+这是我的信用卡 // 用于支付购物款
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#4
+
+# [ENGLISH]
+# That's my credit card // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+这是我的信用卡 // 你需要处理它
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#5
+
+# [ENGLISH]
+# No // It's for the payment // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不 // 这是用于支付 // 你需要自己处理它
+>>>

@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#1
+
+# [ENGLISH]
+# Cheese
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Brânză
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#2
+
+# [ENGLISH]
+# Cheese is one of the best foods // Who says so? // Your mother
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Brânza este unul dintre cele mai bune alimente // Cine spune asta? // Mama ta
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#3
+
+# [ENGLISH]
+# Today I will prepare cheese stuffed meatballs // Never tried?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Astăzi voi pregăti chiftele umplute cu brânză // N-ai gustat niciodată?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#4
+
+# [ENGLISH]
+# I will bring cheese to prepare some pizzas // They turn out delicious.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Voi lua brânză ca să pregătesc niște pizza // Îmi ies delicioase
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#5
+
+# [ENGLISH]
+# 'Don Maligno Cheese' // 'The government of Nowhere is not responsible for any adverse effects that may result from the consumption of this product' // Sounds good.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Romanian: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+'Brânză Don Maligno' // 'Guvernul Nowhere nu își asumă răspunderea pentru efectele adverse pe care le-ar putea produce consumul acestui produs' // Sună bine
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#6
+
+# [ENGLISH]
+# This must be the fifth time I've been refused cheese // Damn it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Trebuie să fie a cincea oară când nu mă lasă să iau brânză // Blestemat
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#7
+
+# [ENGLISH]
+# Hey // I was thinking of making some cheese-stuffed meatballs... // Wicked
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hei // Mă gândeam să fac niște chiftele umplute cu brânză... // Ticălosule
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#8
+
+# [ENGLISH]
+# What cheese will I put on my pizzas now?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce brânză voi mai pune acum pe pizza mea?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#9
+
+# [ENGLISH]
+# Can't I bring cheese // Dang it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nu pot lua brânză? // La naiba
+>>>

@@ -1,0 +1,7766 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#1
+
+# [ENGLISH]
+# Return
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Zurück
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#2
+
+# [ENGLISH]
+# Yes
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Ja
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#3
+
+# [ENGLISH]
+# No
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Nein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#4
+
+# [ENGLISH]
+# Are you sure?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Sind Sie sicher?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#5
+
+# [ENGLISH]
+# Start game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Spiel starten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#6
+
+# [ENGLISH]
+# Settings
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Einstellungen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#7
+
+# [ENGLISH]
+# Achievements
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Erfolge
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#8
+
+# [ENGLISH]
+# Exit
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Beenden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#9
+
+# [ENGLISH]
+# Press any key to continue
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Drücken Sie eine beliebige Taste, um fortzufahren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#10
+
+# [ENGLISH]
+# Select Game Slot
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Spielstand auswählen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#11
+
+# [ENGLISH]
+# New Game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Spiel erstellen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#12
+
+# [ENGLISH]
+# Delete game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Spielstand löschen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#13
+
+# [ENGLISH]
+# Load game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Spielstand laden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#14
+
+# [ENGLISH]
+# Select day
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Tag auswählen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#15
+
+# [ENGLISH]
+# Last played
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Letztes Mal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#16
+
+# [ENGLISH]
+# Crt.
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Erst.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#17
+
+# [ENGLISH]
+# Day
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Tag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#18
+
+# [ENGLISH]
+# Empty
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Leer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#19
+
+# [ENGLISH]
+# Delete a game to start a new one
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Löschen Sie einen Spielstand, um einen neuen zu erstellen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#20
+
+# [ENGLISH]
+# JAN
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+JAN
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#21
+
+# [ENGLISH]
+# FEB
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+FEB
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#22
+
+# [ENGLISH]
+# MAR
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+MÄR
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#23
+
+# [ENGLISH]
+# APR
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+APR
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#24
+
+# [ENGLISH]
+# MAY
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+MAI
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#25
+
+# [ENGLISH]
+# JUN
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+JUN
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#26
+
+# [ENGLISH]
+# JUL
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+JUL
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#27
+
+# [ENGLISH]
+# AUG
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+AUG
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#28
+
+# [ENGLISH]
+# SEP
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+SEP
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#29
+
+# [ENGLISH]
+# OCT
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+OKT
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#30
+
+# [ENGLISH]
+# NOV
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+NOV
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#31
+
+# [ENGLISH]
+# DEC
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+DEZ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#32
+
+# [ENGLISH]
+# Return to the game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Zurück zum Spiel
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#33
+
+# [ENGLISH]
+# Exit to main menu
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Zum Hauptmenü
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#34
+
+# [ENGLISH]
+# Exit to desktop
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Zum Desktop
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#35
+
+# [ENGLISH]
+# Language
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Sprache
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#36
+
+# [ENGLISH]
+# English
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Englisch
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#37
+
+# [ENGLISH]
+# Spanish
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Spanisch
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#39
+
+# [ENGLISH]
+# Full screen
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Vollbild
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#40
+
+# [ENGLISH]
+# Sound effects
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Soundeffekte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#41
+
+# [ENGLISH]
+# Ambient music
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Hintergrundmusik
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#42
+
+# [ENGLISH]
+# Unlocked endings
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Freigeschaltete Enden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#43
+
+# [ENGLISH]
+# Do you want to delete this game?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Möchten Sie den Spielstand löschen?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#44
+
+# [ENGLISH]
+# Do you want to start a new game?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+Möchten Sie ein neues Spiel starten?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#45
+
+# [ENGLISH]
+# Counterfeit bills received as change
+
+# [CONTEXT]
+# Text related to counterfeit bills received as change in a typical retail transaction
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Wechselgeld für Falschgeld
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#46
+
+# [ENGLISH]
+# Credit Card cloner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+#
+# ID: CLONER
+# English: Cloner
+# German: Kloner
+
+# [TRANSLATION]
+<<<
+Kreditkartenkloner
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#47
+
+# [ENGLISH]
+# Restrictions: Age
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [TRANSLATION]
+<<<
+Verkaufsbeschränkungen: Alter
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#48
+
+# [ENGLISH]
+# Status ( Bills )
+
+# [CONTEXT]
+# Refers to the physical condition of the bills. Keep the format of the parentheses and the spaces between words
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Zustand ( Banknoten )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#49
+
+# [ENGLISH]
+# Credit Card Control: Brand and Banks
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Kreditkartenkontrolle: Marken und Banken
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#50
+
+# [ENGLISH]
+# President
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Präsident
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#51
+
+# [ENGLISH]
+# Our president
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Unser Präsident
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#52
+
+# [ENGLISH]
+# Together
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zusammen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#53
+
+# [ENGLISH]
+# Change
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Veränderung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#54
+
+# [ENGLISH]
+# Together for change
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gemeinsam für den Wandel
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#55
+
+# [ENGLISH]
+# State
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Staatlich
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#56
+
+# [ENGLISH]
+# State Office of Nowhere
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Staatsbüro von Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#57
+
+# [ENGLISH]
+# Jobs
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Arbeitsplätze
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#58
+
+# [ENGLISH]
+# Floor
+
+# [CONTEXT]
+# Building floor
+
+# [TRANSLATION]
+<<<
+Stockwerk
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#59
+
+# [ENGLISH]
+# Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Steuern
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#60
+
+# [ENGLISH]
+# More taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Mehr Steuern
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#61
+
+# [ENGLISH]
+# New object received
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# German: Gegenstand
+
+# [TRANSLATION]
+<<<
+Neuer Gegenstand erhalten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#62
+
+# [ENGLISH]
+# Amount of money obtained
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Geldbetrag erhalten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#63
+
+# [ENGLISH]
+# Money is a limited resource. Use it wisely
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Geld ist eine begrenzte Ressource. Verwalten Sie es klug
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#64
+
+# [ENGLISH]
+# New telephone entry
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Neuer Telefonbucheintrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#65
+
+# [ENGLISH]
+# Contact available for telephone calls
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Kontakt für Telefonanrufe verfügbar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#66
+
+# [ENGLISH]
+# New mail entry
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# German: Post
+
+# [TRANSLATION]
+<<<
+Neuer Posteingang
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#67
+
+# [ENGLISH]
+# Contact available for mailing packages
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Kontakt für den Versand von Paketen per Post verfügbar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#68
+
+# [ENGLISH]
+# New features available
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Neue Funktionen verfügbar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#69
+
+# [ENGLISH]
+# New rules in force
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# German: Vorschrift
+
+# [TRANSLATION]
+<<<
+Neue Vorschriften in Kraft
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#70
+
+# [ENGLISH]
+# Refer to the manual for more information
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# German: Handbuch
+
+# [TRANSLATION]
+<<<
+Weitere Informationen finden Sie im Handbuch
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#71
+
+# [ENGLISH]
+# Scale
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SCALE
+# English: Scale
+# German: Waage
+
+# [TRANSLATION]
+<<<
+Waage
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#72
+
+# [ENGLISH]
+# manual product reader
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# German: Manueller Produktleser
+
+# [TRANSLATION]
+<<<
+Manueller Produktleser
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#73
+
+# [ENGLISH]
+# Inventory
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# German: Inventar
+
+# [TRANSLATION]
+<<<
+Inventar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#74
+
+# [ENGLISH]
+# Missing persons
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# German: Vermisste Personen
+
+# [TRANSLATION]
+<<<
+Vermisste Personen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#75
+
+# [ENGLISH]
+# Wanted criminals
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# German: Gesuchte Kriminelle
+
+# [TRANSLATION]
+<<<
+Gesuchte Kriminelle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#76
+
+# [ENGLISH]
+# Cities control
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Städtekontrolle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#77
+
+# [ENGLISH]
+# Body scanner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BODY_SCANNER
+# English: Body Scanner
+# German: Körperscanner
+
+# [TRANSLATION]
+<<<
+Körperscanner
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#78
+
+# [ENGLISH]
+# Restrictions: Food Intolerances
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [GLOSSARY]
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# German: Lebensmittelunverträglichkeiten
+
+# [TRANSLATION]
+<<<
+Verkaufsbeschränkungen: Lebensmittelunverträglichkeiten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#79
+
+# [ENGLISH]
+# Neutralization system
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# German: Neutralisierung
+
+# [TRANSLATION]
+<<<
+Neutralisierungssystem
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#80
+
+# [ENGLISH]
+# Credit card reader
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# German: Kreditkartenleser
+
+# [TRANSLATION]
+<<<
+Kreditkartenleser
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#81
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Gutschrift
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#82
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+
+# [TRANSLATION]
+<<<
+Lebensmittelgutschein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#83
+
+# [ENGLISH]
+# Discount coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Rabattgutschein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#84
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# German: Lupe
+
+# [TRANSLATION]
+<<<
+Lupe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#85
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# German: Telefon
+
+# [TRANSLATION]
+<<<
+Telefon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#87
+
+# [ENGLISH]
+# Blood pressure test
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_TEST
+# English: Blood Pressure Test
+# German: Blutdrucktest
+
+# [TRANSLATION]
+<<<
+Blutdrucktest
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#88
+
+# [ENGLISH]
+# Breathalyzer Test
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BREATHALYZER_TEST
+# English: Breathalyzer Test
+# German: Alkoholtest
+
+# [TRANSLATION]
+<<<
+Alkoholtest
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#89
+
+# [ENGLISH]
+# Health pamphlets
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# German: Gesundheitsbroschüren
+
+# [TRANSLATION]
+<<<
+Gesundheitsbroschüren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#90
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# German: Post
+
+# [TRANSLATION]
+<<<
+Post
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#91
+
+# [ENGLISH]
+# Fingerprint scanner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FINGERPRINT_SCANNER
+# English: Fingerprint Scanner
+# German: Fingerabdruckscanner
+
+# [TRANSLATION]
+<<<
+Fingerabdruckscanner
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#92
+
+# [ENGLISH]
+# Slide the product code through the reader
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+Ziehen Sie den Produktcode durch den Leser
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#93
+
+# [ENGLISH]
+# Reading area
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+Lesebereich
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#94
+
+# [ENGLISH]
+# Waiting for reading
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+Warten auf Lesung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#95
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+Lesefehler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#96
+
+# [ENGLISH]
+# Product read
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+Produkt gelesen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#97
+
+# [ENGLISH]
+# Try again
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+Versuchen Sie es erneut
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#98
+
+# [ENGLISH]
+# In case of intoxication consult your doctor
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Bei Vergiftung Arzt aufsuchen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#99
+
+# [ENGLISH]
+# Enter Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Code eing.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#100
+
+# [ENGLISH]
+# Printed Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gedruckter Code
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#101
+
+# [ENGLISH]
+# Accepted Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Code akzeptiert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#102
+
+# [ENGLISH]
+# Code List
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Codeliste
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#103
+
+# [ENGLISH]
+# Reveal numeric Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zahlencode anzeigen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#104
+
+# [ENGLISH]
+# Scanned fingerprint
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+Fingerabdruck gescannt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#105
+
+# [ENGLISH]
+# Fingerprint File
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+Fingerabdruckdatei
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#106
+
+# [ENGLISH]
+# Waiting for fingerprint scan
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+Warte auf Fingerabdruckscan
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#107
+
+# [ENGLISH]
+# Refer to the fingerprint file
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+Überprüfen Sie die Fingerabdruckdatei
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#108
+
+# [ENGLISH]
+# Keep finger here
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+Finger hier halten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#109
+
+# [ENGLISH]
+# Fingerprint scan completed
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+Fingerabdrucklesung abgeschlossen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#110
+
+# [ENGLISH]
+# Insert a valid identification card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Sie müssen eine Identifikationskarte eingeben
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#111
+
+# [ENGLISH]
+# Scanning
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Scannen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#112
+
+# [ENGLISH]
+# Check for irregularities
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Überprüfen Sie auf Unregelmäßigkeiten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#113
+
+# [ENGLISH]
+# Discount coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Rabattgutschein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#114
+
+# [ENGLISH]
+# Discount amount
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Rabattbetrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#115
+
+# [ENGLISH]
+# Valid until
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gültig bis
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#116
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+
+# [TRANSLATION]
+<<<
+Lebensmittelgutschein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#117
+
+# [ENGLISH]
+# Name
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Name
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#118
+
+# [ENGLISH]
+# Citizen code
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Bürgercode
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#119
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Gutschrift
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#120
+
+# [ENGLISH]
+# Description
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+Beschreibung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#121
+
+# [ENGLISH]
+# Amount
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+Betrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#122
+
+# [ENGLISH]
+# Invoice code
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [GLOSSARY]
+# ID: INVOICE
+# English: Invoice
+# German: Rechnung
+
+# [TRANSLATION]
+<<<
+Kaufrechnung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#123
+
+# [ENGLISH]
+# Total amount
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+Gesamtbetrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#150
+
+# [ENGLISH]
+# Total due
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+Zu zahlender Gesamtbetrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#151
+
+# [ENGLISH]
+# Money received
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+Übergebenes Geld
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#152
+
+# [ENGLISH]
+# Change to be given
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+Herauszugebendes Wechselgeld
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#153
+
+# [ENGLISH]
+# Select the change to give
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+Wählen Sie das herauszugebende Wechselgeld
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#154
+
+# [ENGLISH]
+# Swipe the card to start
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Ziehen Sie die Karte durch, um zu beginnen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#155
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Lesefehler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#156
+
+# [ENGLISH]
+# Enter the last 4 digits of the card code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Geben Sie die letzten 4 Ziffern des Kartencodes ein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#157
+
+# [ENGLISH]
+# Enter the security code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Geben Sie den Sicherheitscode ein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#158
+
+# [ENGLISH]
+# Invalid code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Ungültiger Code
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#159
+
+# [ENGLISH]
+# Code accepted
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Code akzeptiert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#160
+
+# [ENGLISH]
+# Print receipt
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# German: Kassenbon
+
+# [TRANSLATION]
+<<<
+Kassenbon drucken
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#161
+
+# [ENGLISH]
+# Citizen signature
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Unterschrift des Bürgers
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#162
+
+# [ENGLISH]
+# Credit card accepted
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Kreditkarte akzeptiert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#163
+
+# [ENGLISH]
+# Try again
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Versuchen Sie es erneut
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#164
+
+# [ENGLISH]
+# Insufficient funds
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Keine Deckung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#165
+
+# [ENGLISH]
+# Sign ticket
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Ticket de caisse unterschreiben
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#166
+
+# [ENGLISH]
+# Validate ticket
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+Ticket de caisse bestätigen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#167
+
+# [ENGLISH]
+# Take a capture of the card to clone
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Zum Klonen machen Sie ein Foto der Karte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#168
+
+# [ENGLISH]
+# Take a picture of the front
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Machen Sie ein Foto der Vorderseite
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#169
+
+# [ENGLISH]
+# Take a picture of the back
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Fotografieren Sie die Rückseite
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#170
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Erfassungsfehler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#171
+
+# [ENGLISH]
+# Capture successful
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Erfassung erfolgreich
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#172
+
+# [ENGLISH]
+# Data ready to be sent
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Daten bereit zum Senden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#173
+
+# [ENGLISH]
+# Data sent
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Daten gesendet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#174
+
+# [ENGLISH]
+# Cloning successful
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Klonen erfolgreich
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#175
+
+# [ENGLISH]
+# Take the next capture
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+Machen Sie die nächste Aufnahme
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#176
+
+# [ENGLISH]
+# Package shipment rejected
+
+# [CONTEXT]
+# Mailing process
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# German: Paket
+
+# [TRANSLATION]
+<<<
+Paketversand abgelehnt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#177
+
+# [ENGLISH]
+# The addressee has refused the shipment of your package containing:
+
+# [CONTEXT]
+# Mailing process
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# German: Paket
+
+# [TRANSLATION]
+<<<
+Der Versand Ihres Pakets, das Folgendes enthielt, wurde abgelehnt:
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#178
+
+# [ENGLISH]
+# Enter number
+
+# [CONTEXT]
+# Phone call process
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# German: Telefon
+
+# [TRANSLATION]
+<<<
+Nummer eingeben
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#179
+
+# [ENGLISH]
+# Select contact
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+Kontakt auswählen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#180
+
+# [ENGLISH]
+# Calling
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+Anruf läuft
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#181
+
+# [ENGLISH]
+# Number does not exist
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+Nummer existiert nicht
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#182
+
+# [ENGLISH]
+# report irregularity
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# German: Unregelmäßigkeit
+
+# [TRANSLATION]
+<<<
+Unregelmäßigkeit melden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#183
+
+# [ENGLISH]
+# General
+
+# [CONTEXT]
+# Rule category
+
+# [TRANSLATION]
+<<<
+Allgemein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#184
+
+# [ENGLISH]
+# Identification card
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Identifikationskarte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#185
+
+# [ENGLISH]
+# Products
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#186
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Banknoten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#187
+
+# [ENGLISH]
+# Credit card
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Kreditkarte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#188
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Gutschrift
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#189
+
+# [ENGLISH]
+# Coupons
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: COUPON
+# English: Coupon
+# German: Gutschein
+
+# [TRANSLATION]
+<<<
+Gutscheine
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#190
+
+# [ENGLISH]
+# Select the violated rule to report to the citizen
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# German: Vorschrift
+#
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Wählen Sie die verletzte Vorschrift aus, die dem Bürger gemeldet werden soll
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#191
+
+# [ENGLISH]
+# No rules in force
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# German: Vorschrift
+
+# [TRANSLATION]
+<<<
+Keine Vorschriften in Kraft
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#192
+
+# [ENGLISH]
+# Revealing code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Code wird sichtbar gemacht
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#193
+
+# [ENGLISH]
+# Move the scanner
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Bewegen Sie den Scanner
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#194
+
+# [ENGLISH]
+# Perform the scan
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Führen Sie den Scan durch
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#195
+
+# [ENGLISH]
+# Punch here
+
+# [CONTEXT]
+# Text related to the hole punch
+
+# [TRANSLATION]
+<<<
+Hier lochen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#196
+
+# [ENGLISH]
+# No documents
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Keine Dokumente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#197
+
+# [ENGLISH]
+# Invoices
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INVOICE
+# English: Invoice
+# German: Rechnung
+
+# [TRANSLATION]
+<<<
+Rechnungen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#198
+
+# [ENGLISH]
+# Stamp here
+
+# [CONTEXT]
+# Text related to document stamping
+
+# [TRANSLATION]
+<<<
+Hier stempeln
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#199
+
+# [ENGLISH]
+# Arrested
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Verhaftet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#200
+
+# [ENGLISH]
+# Allowed credit cards
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Zulässige Kreditkarten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#201
+
+# [ENGLISH]
+# These rules are subject to constant changes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# German: Vorschrift
+
+# [TRANSLATION]
+<<<
+Diese Vorschriften unterliegen ständigen Änderungen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#202
+
+# [ENGLISH]
+# Credit Cards
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Kreditkarten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#203
+
+# [ENGLISH]
+# Infraction
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# German: Verstoß
+
+# [TRANSLATION]
+<<<
+Verstoß
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#204
+
+# [ENGLISH]
+# Violation of rule
+
+# [CONTEXT]
+# Text related to an infraction document
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# German: Vorschrift
+
+# [TRANSLATION]
+<<<
+Regelverstoß
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#205
+
+# [ENGLISH]
+# Fine amount
+
+# [CONTEXT]
+# Text related to an infraction document
+
+# [TRANSLATION]
+<<<
+Bußgeldbetrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#206
+
+# [ENGLISH]
+# Map
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# German: Karte
+
+# [TRANSLATION]
+<<<
+Karte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#207
+
+# [ENGLISH]
+# Restricted cities
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gesperrte Städte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#208
+
+# [ENGLISH]
+# City
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Stadt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#209
+
+# [ENGLISH]
+# Ref
+
+# [CONTEXT]
+# Reference abbreviation, must be exactly 3 letters. If there is no equivalent, leave it in English
+
+# [TRANSLATION]
+<<<
+Ref
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#210
+
+# [ENGLISH]
+# Map of Nowhere
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# German: Karte
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Karte von Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#213
+
+# [ENGLISH]
+# 'Missing Persons' has correctly registered your report // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# German: Vermisste Personen
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+'Vermisste Personen' hat Ihren Bericht korrekt registriert // Wir werden dessen Gültigkeit prüfen und uns schnellstmöglich mit Ihnen in Verbindung setzen // Maligno dankt Ihnen für die Nutzung des Dienstes 'Vermisste Personen' des Staates Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#214
+
+# [ENGLISH]
+# 'Missing Persons' already has a pending report associated with you // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# German: Vermisste Personen
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+'Vermisste Personen' hat bereits einen ausstehenden Bericht zu Ihrer Person registriert // Wir werden dessen Gültigkeit prüfen und uns schnellstmöglich mit Ihnen in Verbindung setzen // Maligno dankt Ihnen für die Nutzung des Dienstes 'Vermisste Personen' des Staates Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#215
+
+# [ENGLISH]
+# 'Wanted Criminals' has correctly registered your report // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# German: Gesuchte Kriminelle
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+'Gesuchte Kriminelle' hat Ihren Bericht korrekt registriert // Wir werden dessen Gültigkeit prüfen und uns schnellstmöglich mit Ihnen in Verbindung setzen // Maligno dankt Ihnen für die Nutzung des Dienstes 'Gesuchte Kriminelle' des Staates Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#216
+
+# [ENGLISH]
+# 'Wanted Criminals' already has a pending report associated with you // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# German: Gesuchte Kriminelle
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+'Gesuchte Kriminelle' hat bereits einen ausstehenden Bericht zu Ihrer Person registriert // Wir werden dessen Gültigkeit prüfen und uns schnellstmöglich mit Ihnen in Verbindung setzen // Maligno dankt Ihnen für die Nutzung des Dienstes 'Gesuchte Kriminelle' des Staates Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#217
+
+# [ENGLISH]
+# Welcome to 'Easy Fast Cash'! // Nowhere's number one pyramid scheme // By this call, you consent to 'Easy Fast Cash' disposing of all your assets to be invested by our skilled team of experts // Please // If you want to be part of the winning team by investing your future and money with 'Easy Fast Cash' press the 0 key on your phone // If you are content with being a broke and hopeless ignoramus press 1 // Awaiting response... // Congratulations! // You have just secured a prosperous future by joining 'Easy Fast Cash' // We will immediately take control of all your assets // Now you just have to wait for the great benefits this successful investment program will bring you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# German: Easy Fast Cash
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Willkommen bei 'Easy Fast Cash'! // Das Nummer-eins-Schneeballsystem von Nowhere // Mit diesem Anruf stimmen Sie zu, dass 'Easy Fast Cash' über all Ihr Vermögen verfügt, damit es von unserer qualifizierten Expertengruppe investiert wird // Bitte // Wenn Sie Teil des Gewinnerteams sein wollen, indem Sie Ihre Zukunft und Ihr Geld bei 'Easy Fast Cash' investieren, drücken Sie die Taste 0 auf Ihrem Telefon // Wenn Sie sich hingegen damit zufriedengeben, ein Ignorant ohne Geld und jegliche Hoffnung zu sein, drücken Sie 1 // Warte auf eine Antwort... // Glückwunsch! // Sie haben sich gerade eine erfolgreiche Zukunft gesichert, indem Sie 'Easy Fast Cash' beigetreten sind // Wir werden sofort über Ihr gesamtes Vermögen verfügen // Jetzt müssen Sie nur noch auf die großen Vorteile warten, die Ihnen dieses erfolgreiche Investitionsprogramm verschaffen wird
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#218
+
+# [ENGLISH]
+# We apologize // 'Easy Fast Cash' phone services are currently unavailable // If you are a beneficiary of our program don't worry // Your money is generating great benefits // Just sit back and wait // Soon you will be on a paradise island enjoying the pleasures of life without any worries
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# German: Easy Fast Cash
+
+# [TRANSLATION]
+<<<
+Wir entschuldigen uns // Die Telefondienste von 'Easy Fast Cash' sind derzeit nicht verfügbar // Wenn Sie Begünstigter unseres Programms sind, machen Sie sich keine Sorgen // Ihr Geld erwirtschaftet große Gewinne // Sie müssen sich nur zurücklehnen und warten // Bald werden Sie auf einer paradiesischen Insel sein und die Freuden des Lebens ohne jede Sorge genießen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#219
+
+# [ENGLISH]
+# 'Missing Persons' was unable to generate the report // Please // Verify that a citizen is present at the station when making the report // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# German: Vermisste Personen
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+'Vermisste Personen' konnte den Bericht nicht erstellen // Bitte // Stellen Sie sicher, dass sich zum Zeitpunkt der Erstellung des Berichts ein Bürger an der Station befindet // Maligno dankt Ihnen für die Nutzung des Dienstes 'Vermisste Personen' des Staates Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#220
+
+# [ENGLISH]
+# 'Wanted Criminals' was unable to generate the report // Please // Verify that a citizen is present at the station when making the report // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# German: Gesuchte Kriminelle
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+'Gesuchte Kriminelle' konnte den Bericht nicht erstellen // Bitte // Stellen Sie sicher, dass sich zum Zeitpunkt der Erstellung des Berichts ein Bürger an der Station befindet // Maligno dankt Ihnen für die Nutzung des Dienstes 'Gesuchte Kriminelle' des Staates Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#221
+
+# [ENGLISH]
+# Report Resolution
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+Entscheidung zum Bericht
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#222
+
+# [ENGLISH]
+# Dear
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+Sehr geehrte/r
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#223
+
+# [ENGLISH]
+# In order to inform you of the resolution of the report submitted, we hereby notify you that
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: REPORT
+# English: Report
+# German: Bericht
+
+# [TRANSLATION]
+<<<
+Um Sie über die Entscheidung bezüglich des eingereichten Berichts zu informieren, wird Ihnen dieses Schreiben zugesandt, um Ihnen mitzuteilen, dass
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#224
+
+# [ENGLISH]
+# The individual specified does not correspond with any entries in our missing persons records
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# German: Vermisste Personen
+
+# [TRANSLATION]
+<<<
+Die angegebene Person stimmt mit keiner in unseren Akten zu Vermissten Personen registrierten Person überein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#225
+
+# [ENGLISH]
+# You have contributed to the discovery of a missing person and the reward was credited to your account yesterday
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+Sie haben zum Auffinden einer Person beigetragen, und die Belohnung wurde gestern Ihrem Konto gutgeschrieben
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#226
+
+# [ENGLISH]
+# The individual specified does not match any entries in our wanted criminals records
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# German: Gesuchte Kriminelle
+
+# [TRANSLATION]
+<<<
+Die angegebene Person stimmt mit keiner in unseren Akten zu Gesuchten Kriminellen registrierten Person überein
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#227
+
+# [ENGLISH]
+# You have contributed to the apprehension of a wanted criminal and the reward was credited to your account yesterday
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+Sie haben zum Auffinden eines Kriminellen beigetragen, und die Belohnung wurde gestern Ihrem Konto gutgeschrieben
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#228
+
+# [ENGLISH]
+# UV codes of bills
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+UV-Codes von Banknoten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#229
+
+# [ENGLISH]
+# under surveillance
+
+# [CONTEXT]
+# Related to UV codes of bills
+
+# [TRANSLATION]
+<<<
+unter Beobachtung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#230
+
+# [ENGLISH]
+# Last 4 digits
+
+# [CONTEXT]
+# Related to UV codes of bills
+
+# [TRANSLATION]
+<<<
+Letzte 4 Ziffern
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#231
+
+# [ENGLISH]
+# Products
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#232
+
+# [ENGLISH]
+# Output
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+Ausgang
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#233
+
+# [ENGLISH]
+# Depot
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+Lager
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#234
+
+# [ENGLISH]
+# Tests performed
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gemachte Tests
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#235
+
+# [ENGLISH]
+# BMI
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# German: BMI
+
+# [TRANSLATION]
+<<<
+BMI
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#236
+
+# [ENGLISH]
+# n/a
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: N_A
+# English: n/a
+# German: n/a
+
+# [TRANSLATION]
+<<<
+n/a
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#237
+
+# [ENGLISH]
+# Food references
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_REFERENCES
+# English: Food References
+# German: Lebensmittelreferenzen
+
+# [TRANSLATION]
+<<<
+Lebensmittelreferenzen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#238
+
+# [ENGLISH]
+# General categories
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Allgemeine Kategorien
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#239
+
+# [ENGLISH]
+# Dairy
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Milchprodukte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#240
+
+# [ENGLISH]
+# meat
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Fleisch
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#241
+
+# [ENGLISH]
+# fruits
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Obst
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#242
+
+# [ENGLISH]
+# vegetables
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Gemüse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#243
+
+# [ENGLISH]
+# canned goods
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Konserven
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#244
+
+# [ENGLISH]
+# beverages
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Getränke
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#245
+
+# [ENGLISH]
+# baked goods
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Backwaren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#246
+
+# [ENGLISH]
+# miscellaneous
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+Verschiedenes
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#247
+
+# [ENGLISH]
+# by weight
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+nach Gewicht
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#248
+
+# [ENGLISH]
+# Not suitable for obese
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# German: Adipöse
+
+# [TRANSLATION]
+<<<
+nicht geeignet für Adipöse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#249
+
+# [ENGLISH]
+# not suitable for severely obese
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# German: Schwer Adipöse
+
+# [TRANSLATION]
+<<<
+nicht geeignet für Schwer Adipöse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#250
+
+# [ENGLISH]
+# by composition
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+nach Zusammensetzung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#251
+
+# [ENGLISH]
+# Contains gluten
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+mit Gluten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#252
+
+# [ENGLISH]
+# contains fructose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+mit Fruktose
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#253
+
+# [ENGLISH]
+# contains sucrose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+mit Saccharose
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#254
+
+# [ENGLISH]
+# contains lactose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+mit Laktose
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#255
+
+# [ENGLISH]
+# contains salt
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+mit Salz
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#256
+
+# [ENGLISH]
+# contains alcohol
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+mit Alkohol
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#257
+
+# [ENGLISH]
+# by age
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+nach Alter
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#258
+
+# [ENGLISH]
+# not suitable for minors
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# German: Minderjährige
+
+# [TRANSLATION]
+<<<
+nicht für Minderjährige geeignet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#259
+
+# [ENGLISH]
+# not suitable for elderly
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# German: Ältere Menschen
+
+# [TRANSLATION]
+<<<
+nicht für ältere Menschen geeignet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#260
+
+# [ENGLISH]
+# Considerations
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Anmerkungen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#261
+
+# [ENGLISH]
+# none as of today's date
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+keine bis zum heutigen Tag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#262
+
+# [ENGLISH]
+# Citizens will be considered under any of the following conditions
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Bürger werden unter einer der folgenden Bedingungen berücksichtigt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#263
+
+# [ENGLISH]
+# obese
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# German: Adipöse
+
+# [TRANSLATION]
+<<<
+adipös
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#264
+
+# [ENGLISH]
+# if BMI is between 21 and 23.99
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# German: BMI
+
+# [TRANSLATION]
+<<<
+wenn sein BMI zwischen 21.0 und 23.99 liegt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#265
+
+# [ENGLISH]
+# severely obese
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# German: Schwer Adipöse
+
+# [TRANSLATION]
+<<<
+schwer adipös
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#266
+
+# [ENGLISH]
+# if BMI is 24 or higher
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# German: BMI
+
+# [TRANSLATION]
+<<<
+wenn sein BMI größer oder gleich 24.0 ist
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#267
+
+# [ENGLISH]
+# hypertensive
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# German: Hypertoniker
+
+# [TRANSLATION]
+<<<
+Hypertoniker
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#268
+
+# [ENGLISH]
+# if blood pressure is 125 or higher
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+wenn Ihr Blutdruck 125 oder höher ist
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#269
+
+# [ENGLISH]
+# minors
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# German: Minderjährige
+
+# [TRANSLATION]
+<<<
+Minderjährige
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#270
+
+# [ENGLISH]
+# if age is under 18
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+wenn Ihr Alter unter 18 liegt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#271
+
+# [ENGLISH]
+# elderly
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# German: Ältere Menschen
+
+# [TRANSLATION]
+<<<
+Ältere Menschen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#272
+
+# [ENGLISH]
+# if age is 60 or older
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+wenn Ihr Alter 60 oder älter ist
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#273
+
+# [ENGLISH]
+# order list
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ORDER_LIST
+# English: Order List
+# German: Bestellliste
+
+# [TRANSLATION]
+<<<
+Bestellliste
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#274
+
+# [ENGLISH]
+# Irregularity found in this area
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Unregelmäßigkeit im Bereich gefunden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#275
+
+# [ENGLISH]
+# No irregularity was found in this area
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Keine Unregelmäßigkeit im Bereich gefunden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#276
+
+# [ENGLISH]
+# Hospitalized
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Hospitalisiert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#277
+
+# [ENGLISH]
+# Arrested
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Verhaftet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#278
+
+# [ENGLISH]
+# Improv.: Scale (Auto Complete)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: SCALE
+# English: Scale
+# German: Waage
+#
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# German: Auto Complete
+
+# [TRANSLATION]
+<<<
+Verbesser.: Waage (Auto Complete)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#279
+
+# [ENGLISH]
+# Improv.: Scale (Auto Search)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: SCALE
+# English: Scale
+# German: Waage
+#
+# ID: AUTO_SEARCH
+# English: Auto Search
+# German: Auto Search
+
+# [TRANSLATION]
+<<<
+Verbesser.: Waage (Auto Search)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#280
+
+# [ENGLISH]
+# Improv.: Manual Product Entry
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+
+# [TRANSLATION]
+<<<
+Verbesser.: Manuelle Produkteingabe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#281
+
+# [ENGLISH]
+# Discord Server
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Discord-Server
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#282
+
+# [ENGLISH]
+# Website
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Webseite
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#283
+
+# [ENGLISH]
+# X Account
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+X-Konto
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#284
+
+# [ENGLISH]
+# Pay
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Bezahlen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#285
+
+# [ENGLISH]
+# Ignore
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ignorieren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#286
+
+# [ENGLISH]
+# very satisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sehr zufrieden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#287
+
+# [ENGLISH]
+# satisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zufrieden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#288
+
+# [ENGLISH]
+# dissatisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Unzufrieden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#289
+
+# [ENGLISH]
+# very dissatisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sehr unzufrieden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#290
+
+# [ENGLISH]
+# Sick
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Krank
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#291
+
+# [ENGLISH]
+# Divorced
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Geschieden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#292
+
+# [ENGLISH]
+# Emancipated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Emanzipiert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#293
+
+# [ENGLISH]
+# Dead
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Tot
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#294
+
+# [ENGLISH]
+# Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WIFE
+# English: Wife
+# German: Ehefrau
+
+# [TRANSLATION]
+<<<
+Ehefrau
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#295
+
+# [ENGLISH]
+# Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# German: Sohn
+
+# [TRANSLATION]
+<<<
+Sohn
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#296
+
+# [ENGLISH]
+# Income generated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Generierte Einnahmen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#297
+
+# [ENGLISH]
+# Expense Management
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ausgabenverwaltung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#298
+
+# [ENGLISH]
+# Manage your cash wisely
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Verwalten Sie Ihr Geld klug
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#299
+
+# [ENGLISH]
+# Amount
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Betrag
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#300
+
+# [ENGLISH]
+# QTY
+
+# [CONTEXT]
+# Quantity abbreviation
+
+# [TRANSLATION]
+<<<
+Anz.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#301
+
+# [ENGLISH]
+# UP
+
+# [CONTEXT]
+# Unit price abbreviation
+
+# [TRANSLATION]
+<<<
+Stk.-Preis
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#302
+
+# [ENGLISH]
+# Tot
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gesamt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#303
+
+# [ENGLISH]
+# Available cash
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Verfügbares Geld
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#304
+
+# [ENGLISH]
+# Continue
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Fortsetzen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#305
+
+# [ENGLISH]
+# Paid
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Bezahlt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#306
+
+# [ENGLISH]
+# Ignored
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ignoriert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#307
+
+# [ENGLISH]
+# Available cash is insufficient to complete the payment
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Das verfügbare Geld reicht nicht aus, um die Zahlung abzuschließen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#308
+
+# [ENGLISH]
+# Infractions
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# German: Verstoß
+
+# [TRANSLATION]
+<<<
+Verstöße
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#309
+
+# [ENGLISH]
+# Social Contributions and Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sozialabgaben und Steuern
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#310
+
+# [ENGLISH]
+# Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LOVER
+# English: Lover
+# German: Geliebte
+
+# [TRANSLATION]
+<<<
+Geliebte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#311
+
+# [ENGLISH]
+# Son (Lover)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# German: Sohn
+#
+# ID: LOVER
+# English: Lover
+# German: Geliebte
+
+# [TRANSLATION]
+<<<
+Sohn (Geliebte)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#312
+
+# [ENGLISH]
+# Son (Sexual Encounter)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# German: Sohn
+
+# [TRANSLATION]
+<<<
+Sohn (Sexuelles Treffen)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#313
+
+# [ENGLISH]
+# Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PET
+# English: Pet
+# German: Haustier
+
+# [TRANSLATION]
+<<<
+Haustier
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#314
+
+# [ENGLISH]
+# Son (Supervisor's Wife)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# German: Sohn
+#
+# ID: SUPERVISOR_WIFE
+# English: Supervisor's Wife
+# German: Ehefrau des Vorgesetzten
+
+# [TRANSLATION]
+<<<
+Sohn (Ehefrau des Vorgesetzten)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#315
+
+# [ENGLISH]
+# Family
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Familie
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#316
+
+# [ENGLISH]
+# Abandoned
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Verlassen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#317
+
+# [ENGLISH]
+# Shift register
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Schichtprotokoll
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#318
+
+# [ENGLISH]
+# Insert the card to start the working day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Karte einführen, um den Arbeitstag zu beginnen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#319
+
+# [ENGLISH]
+# Insert the card to finish the working day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Karte einführen, um den Arbeitstag zu beenden
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#320
+
+# [ENGLISH]
+# successful registration
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Erfolgreich erfasst
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#321
+
+# [ENGLISH]
+# Entry
+
+# [CONTEXT]
+# Text related to work shift entry and exit
+
+# [TRANSLATION]
+<<<
+Beginn
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#322
+
+# [ENGLISH]
+# Exit
+
+# [CONTEXT]
+# Text related to work shift entry and exit
+
+# [TRANSLATION]
+<<<
+Ende
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#323
+
+# [ENGLISH]
+# New family members have been added
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Neue Familienmitglieder wurden hinzugefügt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#324
+
+# [ENGLISH]
+# Family members have been terminated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Familienmitglieder wurden entfernt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#325
+
+# [ENGLISH]
+# Credits
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Credits
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#326
+
+# [ENGLISH]
+# Resume
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Fortsetzen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#327
+
+# [ENGLISH]
+# final unlocked
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ende freigeschaltet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#328
+
+# [ENGLISH]
+# Improv.: Cash Register (Change Calc.)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# German: Registrierkasse
+#
+# ID: CHANGE_CALC
+# English: Change Calc.
+# German: Change Calc.
+
+# [TRANSLATION]
+<<<
+Verbesser.: Registrierkasse (Change Calc.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#329
+
+# [ENGLISH]
+# Improv.: Cash Register (Change Accum.)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# German: Registrierkasse
+#
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# German: Change Accum.
+
+# [TRANSLATION]
+<<<
+Verbesser.: Registrierkasse (Change Accum.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#330
+
+# [ENGLISH]
+# Sales Restrictions: Product Codes / Product Categories
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: PRODUCT_CODES
+# English: Product Codes
+# German: Produktcodes
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# German: Produktkategorien
+
+# [TRANSLATION]
+<<<
+Verkaufsbeschränkungen: Produktcodes / Produktkategorien
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#331
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# German: Markierte Geldscheine
+
+# [TRANSLATION]
+<<<
+Markierte Geldscheine
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#332
+
+# [ENGLISH]
+# Patreon
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Patreon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#333
+
+# [ENGLISH]
+# Embezzle
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Veruntreuen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#334
+
+# [ENGLISH]
+# Run away
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Fliehen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#335
+
+# [ENGLISH]
+# Improv.: Wanted (Quick Viewer)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: WANTED
+# English: Wanted
+# German: Gesucht
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# German: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Verbesser.: Gesucht (Quick Viewer)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#336
+
+# [ENGLISH]
+# Improv.: Missing (Quick Viewer)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: MISSING
+# English: Missing
+# German: Vermisst
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# German: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Verbesser.: Vermisst (Quick Viewer)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#337
+
+# [ENGLISH]
+# Added to the family
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zur Familie hinzugefügt:
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#338
+
+# [ENGLISH]
+# Improv.: Telephone (Frequent Numbers)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# German: Verbesser.
+#
+# ID: TELEPHONE
+# English: Telephone
+# German: Telefon
+#
+# ID: FREQUENT_NUMBERS
+# English: Frequent Numbers
+# German: Häufige Nummern
+
+# [TRANSLATION]
+<<<
+Verbesser.: Telefon (Häufige Nummern)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#339
+
+# [ENGLISH]
+# Frequent Numbers
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FREQUENT_NUMBERS
+# English: Frequent Numbers
+# German: Häufige Nummern
+
+# [TRANSLATION]
+<<<
+Häufige Nummern
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#340
+
+# [ENGLISH]
+# Skip
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Übers.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#341
+
+# [ENGLISH]
+# Payments
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zahlungen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#342
+
+# [ENGLISH]
+# Magnifying glass ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# German: Lupe
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Lupe ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#343
+
+# [ENGLISH]
+# ID card ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Identifikationskarte ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#344
+
+# [ENGLISH]
+# Bills ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Banknoten ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#345
+
+# [ENGLISH]
+# Authenticity seal ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Echtheitssiegel ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#346
+
+# [ENGLISH]
+# Navigation Control ( Main Monitor )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# German: Navigationssteuerung
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# German: Hauptmonitor
+
+# [TRANSLATION]
+<<<
+Navigationssteuerung ( Hauptmonitor )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#347
+
+# [ENGLISH]
+# Arrest ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# German: Aktionseinheit
+#
+# ID: ARREST
+# English: Arrest
+# German: Festnehmen
+
+# [TRANSLATION]
+<<<
+Festnehmen ( Aktionseinheit )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#348
+
+# [ENGLISH]
+# Product denier ( Inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# German: Produktablehner
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Produktablehner ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#349
+
+# [ENGLISH]
+# Auxiliary Documents Tray ( inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# German: Ablage für Hilfsdokumente
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Ablage für Hilfsdokumente ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#350
+
+# [ENGLISH]
+# Order list ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: ORDER_LIST
+# English: Order List
+# German: Bestellliste
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Bestellliste ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#351
+
+# [ENGLISH]
+# Food references ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_REFERENCES
+# English: Food References
+# German: Lebensmittelreferenzen
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Lebensmittelreferenzen ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#352
+
+# [ENGLISH]
+# Obesity ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: OBESITY
+# English: Obesity
+# German: Adipositas
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# German: Lebensmittelreferenzen
+
+# [TRANSLATION]
+<<<
+Adipositas ( Lebensmittelreferenzen )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#353
+
+# [ENGLISH]
+# BMI ( Station actions )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# German: BMI
+#
+# ID: STATION_ACTIONS
+# English: Station Actions
+# German: Stationsaktionen
+
+# [TRANSLATION]
+<<<
+BMI ( Stationsaktionen )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#354
+
+# [ENGLISH]
+# Performed Tests Viewer ( inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# German: Anzeige durchgeführter Tests
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Anzeige durchgeführter Tests ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#355
+
+# [ENGLISH]
+# Food Coupon ( Documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Lebensmittelgutschein ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#356
+
+# [ENGLISH]
+# Stamp ( Inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# German: Stempel
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Stempel ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#357
+
+# [ENGLISH]
+# Neutralize ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# German: Neutralisieren
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# German: Aktionseinheit
+
+# [TRANSLATION]
+<<<
+Neutralisieren ( Aktionseinheit )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#358
+
+# [ENGLISH]
+# Food Intolerances ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# German: Lebensmittelunverträglichkeiten
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# German: Lebensmittelreferenzen
+
+# [TRANSLATION]
+<<<
+Lebensmittelunverträglichkeiten ( Lebensmittelreferenzen )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#359
+
+# [ENGLISH]
+# demo version
+
+# [CONTEXT]
+# Game demo version
+
+# [TRANSLATION]
+<<<
+Demoversion
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#360
+
+# [ENGLISH]
+# I invite you to share any feedback on the Steam forums
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ich lade dich ein, jegliches Feedback in den Steam-Foren zu teilen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#361
+
+# [ENGLISH]
+# Map of Cities ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# German: Karte
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Karte der Städte ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#362
+
+# [ENGLISH]
+# Credit note ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Gutschrift ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#363
+
+# [ENGLISH]
+# Stapler ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# German: Heftgerät
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Heftgerät ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#364
+
+# [ENGLISH]
+# List of UV Codes ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# German: Liste der UV-Codes
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Liste der UV-Codes ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#365
+
+# [ENGLISH]
+# Credit Card ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Kreditkarte ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#366
+
+# [ENGLISH]
+# Discount coupon ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Rabattgutschein ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#367
+
+# [ENGLISH]
+# Hole Punch ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# German: Locher
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# German: Inspektionstisch
+
+# [TRANSLATION]
+<<<
+Locher ( Inspektionstisch )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#368
+
+# [ENGLISH]
+# Credit Cards List ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# German: Liste der Kreditkarten
+#
+# ID: DOCUMENTS
+# English: Documents
+# German: Dokumente
+
+# [TRANSLATION]
+<<<
+Liste der Kreditkarten ( Dokumente )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#369
+
+# [ENGLISH]
+# Scan Body ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SCAN_BODY
+# English: Scan Body
+# German: Körper scannen
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# German: Aktionseinheit
+
+# [TRANSLATION]
+<<<
+Körper scannen ( Aktionseinheit )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#370
+
+# [ENGLISH]
+# Weight Gauge
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WEIGHT_GAUGE
+# English: Weight Gauge
+# German: Gewichtsanzeige
+
+# [TRANSLATION]
+<<<
+Gewichtsanzeige
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#371
+
+# [ENGLISH]
+# Age ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AGE
+# English: Age
+# German: Alter
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# German: Lebensmittelreferenzen
+
+# [TRANSLATION]
+<<<
+Alter ( Lebensmittelreferenzen )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#372
+
+# [ENGLISH]
+# Measure Alcohol ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# German: Alkohol messen
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# German: Aktionseinheit
+
+# [TRANSLATION]
+<<<
+Alkohol messen ( Aktionseinheit )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#373
+
+# [ENGLISH]
+# Stamp here to void
+
+# [CONTEXT]
+# Stamping a document with an ink stamp
+
+# [TRANSLATION]
+<<<
+Hier stempeln, um zu entwerten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#374
+
+# [ENGLISH]
+# Scan fingerprints ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SCAN_FINGERPRINTS
+# English: Scan Fingerprints
+# German: Fingerabdrücke scannen
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# German: Aktionseinheit
+
+# [TRANSLATION]
+<<<
+Fingerabdrücke scannen ( Aktionseinheit )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#375
+
+# [ENGLISH]
+# Measure Blood Pressure ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MEASURE_BLOOD_PRESSURE
+# English: Measure Blood Pressure
+# German: Blutdruck messen
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# German: Aktionseinheit
+
+# [TRANSLATION]
+<<<
+Blutdruck messen ( Aktionseinheit )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#376
+
+# [ENGLISH]
+# Press repeatedly
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Wiederholt drücken
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#377
+
+# [ENGLISH]
+# Health pamphlets ( Inventory )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# German: Gesundheitsbroschüren
+#
+# ID: INVENTORY
+# English: Inventory
+# German: Inventar
+
+# [TRANSLATION]
+<<<
+Gesundheitsbroschüren ( Inventar )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#378
+
+# [ENGLISH]
+# Pamphlets to distribute to citizens with different health problems and raise awareness
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Broschüren zur Ausgabe an Bürger mit verschiedenen Gesundheitsproblemen, um Bewusstsein zu schaffen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#379
+
+# [ENGLISH]
+# Counterfeit bill change ( Cash Register )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: COUNTERFEIT_BILL_CHANGE
+# English: Counterfeit Bill Change
+# German: Wechselgeld für Falschgeld
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# German: Registrierkasse
+
+# [TRANSLATION]
+<<<
+Wechselgeld für Falschgeld ( Registrierkasse )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#380
+
+# [ENGLISH]
+# Card cloner ( Credit Card Reader )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CARD_CLONER
+# English: Card Cloner
+# German: Kartenkopierer
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# German: Kreditkartenleser
+
+# [TRANSLATION]
+<<<
+Kartenkopierer ( Kreditkartenleser )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#381
+
+# [ENGLISH]
+# Age - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: AGE
+# English: Age
+# German: Alter
+#
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Alter - Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#382
+
+# [ENGLISH]
+# Obesity - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: OBESITY
+# English: Obesity
+# German: Adipositas
+#
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Adipositas - Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#383
+
+# [ENGLISH]
+# Hypertension - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: HYPERTENSION
+# English: Hypertension
+# German: Bluthochdruck
+#
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Bluthochdruck - Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#384
+
+# [ENGLISH]
+# Alcoholism - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: ALCOHOLISM
+# English: Alcoholism
+# German: Alkoholismus
+#
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Alkoholismus - Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#385
+
+# [ENGLISH]
+# Intolerances - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: INTOLERANCES
+# English: Intolerances
+# German: Unverträglichkeiten
+#
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Unverträglichkeiten - Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#386
+
+# [ENGLISH]
+# Category/Code - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: CATEGORY
+# English: Category
+# German: Kategorie
+#
+# ID: CODE
+# English: Code
+# German: Code
+#
+# ID: PRODUCT
+# English: Product
+# German: Produkt
+
+# [TRANSLATION]
+<<<
+Kategorie/Code - Produkte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#387
+
+# [ENGLISH]
+# Game progress is saved at the end of each day.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Der Spielfortschritt wird am Ende jedes Tages gespeichert.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#388
+
+# [ENGLISH]
+# Tutorial
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Tutorial
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#389
+
+# [ENGLISH]
+# Infinite mode
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Endlosmodus
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#390
+
+# [ENGLISH]
+# Game settings
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Spieleinstellungen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#391
+
+# [ENGLISH]
+# New Game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Spiel erstellen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#392
+
+# [ENGLISH]
+# Do you accept creating a game and being a disposable instrument of the state?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Akzeptieren Sie, ein Spiel zu erstellen und ein entbehrliches Instrument des Staates zu sein?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#393
+
+# [ENGLISH]
+# Obsolete game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Veraltetes Spiel
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#394
+
+# [ENGLISH]
+# Dialogue log
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Dialogprotokoll
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#395
+
+# [ENGLISH]
+# No dialogues have been recorded yet
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Noch keine Dialoge aufgezeichnet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#396
+
+# [ENGLISH]
+# Paused Game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Spiel pausiert
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#397
+
+# [ENGLISH]
+# Work Time
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Dienstzeit
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#398
+
+# [ENGLISH]
+# Manual Pop-up
+
+# [CONTEXT]
+# Option that enables/disables the game manual from appearing at the start of the workday
+
+# [TRANSLATION]
+<<<
+Handbuch-Popup
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#399
+
+# [ENGLISH]
+# Station dialogue speed
+
+# [CONTEXT]
+# Maintain a text length equivalent to the English version. Abbreviate if necessary
+
+# [TRANSLATION]
+<<<
+Dialogtempo Station
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#400
+
+# [ENGLISH]
+# Very Slow
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sehr langsam
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#401
+
+# [ENGLISH]
+# Slow
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Langsam
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#402
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Normal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#403
+
+# [ENGLISH]
+# Fast
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Schnell
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#404
+
+# [ENGLISH]
+# Very fast
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sehr schnell
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#405
+
+# [ENGLISH]
+# Don Maligno Gifts
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+Don Malignos Geschenke
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#406
+
+# [ENGLISH]
+# Unknown
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Unbekannt
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#407
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // We inform you that your bet has been successfully registered // Tomorrow you will know the results.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# German: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Willkommen bei 'Maligno Bet'. Das beste Wettbüro in ganz Nowhere // Wir informieren Sie, dass Ihre Wette erfolgreich registriert wurde // Morgen erfahren Sie die Ergebnisse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#408
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // You currently have a bet registered in the system // Tomorrow you will know the results.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# German: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Willkommen bei 'Maligno Bet'. Das beste Wettbüro in ganz Nowhere // Derzeit haben Sie bereits eine Wette im System registriert // Morgen erfahren Sie die Ergebnisse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#409
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // We inform you that you do not have sufficient balance to place a bet // Please try again when you have funds.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# German: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Willkommen bei 'Maligno Bet'. Das beste Wettbüro in ganz Nowhere // Wir informieren Sie, dass Ihr Guthaben für eine Wette nicht ausreicht // Versuchen Sie es erneut, wenn Sie über genügend Geld verfügen.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#410
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // Your order has been successfully registered // 'Don Maligno Gifts' awaits payment confirmation at the end of the day to proceed with the process // Have a good day.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+!'Don Malignos Geschenke'! Denn Materielles ist immer das Wichtigste // Ihre Bestellung wurde erfolgreich registriert // 'Don Malignos Geschenke' wartet am Ende des Tages auf die Zahlungsbestätigung, um den Vorgang fortzusetzen // Einen schönen Tag noch.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#411
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // We inform you that you currently have a pending order // Have a good day.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+!'Don Malignos Geschenke'! Denn Materielles ist immer das Wichtigste // Wir informieren Sie, dass Sie derzeit bereits eine offene Bestellung haben // Einen schönen Tag noch.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#412
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // We inform you that the service is temporarily unavailable // Please try again later.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+!'Don Malignos Geschenke'! Denn Materielles ist immer das Wichtigste // Wir informieren Sie, dass der Dienst momentan nicht verfügbar ist // Versuchen Sie es später erneut.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#413
+
+# [ENGLISH]
+# Nowherians! United we will triumph! // And as always, we will shout from the heart! // Long live Maligno! // Long live Maligno! // For that great Nowherian who knew how to win over the great masses of the people by defending capital! // Long live Maligno! // Long live Maligno!
+
+# [CONTEXT]
+# Song. Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# German: Nowherianer
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+
+# [TRANSLATION]
+<<<
+Die Nowherianer! Gemeinsam werden wir siegen! // Und wie immer werden wir einen Schrei aus tiefstem Herzen ausstoßen! // Es lebe Maligno! // Es lebe Maligno! // Für diesen großen Nowherianer, der es verstand, die große Masse des Volkes zu erobern, indem er das Kapital verteidigte! // Es lebe Maligno! // Es lebe Maligno!
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#414
+
+# [ENGLISH]
+# ... // Unit 4... // Proceed // ... // There's too much interference // ...
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+... // Einheit 4... // Fahren Sie fort // ... // Es gibt zu viele Störungen // ...
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#415
+
+# [ENGLISH]
+# The signal has stabilized // We need your help, citizen // We need you to deliver some samples to a law enforcement officer // We cannot compromise our identity // Someone will approach your station with the samples soon.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# German: Arbeitsstation
+
+# [TRANSLATION]
+<<<
+Das Signal wurde stabilisiert // Wir benötigen Ihre Hilfe, Bürger // Wir benötigen Sie, um einige Proben einem Gesetzeshüter zu übergeben // Wir können unsere Identität nicht gefährden // Bald wird sich jemand mit den Proben Ihrer Arbeitsstation nähern.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#416
+
+# [ENGLISH]
+# Hello? // Who is this? // You must help me, please! // Someone is holding me captive and will only release me if someone pays them a ransom, and I have no one else to turn to // Please // Help me // I promise I'll pay you back... // They're coming... I have to hang up.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hallo? // Wer spricht? // Du musst mir bitte helfen! // Jemand hält mich gefangen und wird mich nur freilassen, wenn ihm jemand ein Lösegeld zahlt, und ich habe niemanden, an den ich mich wenden kann // Bitte // Hilf mir // Ich verspreche, dich zu bezahlen... // Er kommt schon... Ich muss auflegen.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#417
+
+# [ENGLISH]
+# Bet on Maligno Bet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# German: Maligno Bet
+
+# [TRANSLATION]
+<<<
+Maligno Bet Wette
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#418
+
+# [ENGLISH]
+# Unlock All
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Alles freischalten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#419
+
+# [ENGLISH]
+# Difficulty
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Schwierigkeit
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#420
+
+# [ENGLISH]
+# Very Easy
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sehr leicht
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#421
+
+# [ENGLISH]
+# Easy
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Leicht
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#422
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Normal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#423
+
+# [ENGLISH]
+# Hard
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Schwierig
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#424
+
+# [ENGLISH]
+# Very Hard
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sehr schwer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#425
+
+# [ENGLISH]
+# Adjusts times, fine amounts, and income
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# German: Verstoß
+
+# [TRANSLATION]
+<<<
+Passt Zeiten, Beträge für Verstöße und Einkommen an
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#426
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: NORMAL
+# English: Normal
+# German: Normal
+
+# [TRANSLATION]
+<<<
+Normal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#427
+
+# [ENGLISH]
+# Recommended for new players
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Empfohlen für neue Spieler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#428
+
+# [ENGLISH]
+# Infinite
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFINITE
+# English: Infinite
+# German: Unendlich
+
+# [TRANSLATION]
+<<<
+Unendlich
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#429
+
+# [ENGLISH]
+# Recommended for experienced players who want to enjoy an endless experience
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Empfohlen für erfahrene Spieler, die ein endloses Spielerlebnis genießen möchten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#430
+
+# [ENGLISH]
+# Flawless
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FLAWLESS
+# English: Flawless
+# German: Makellos
+
+# [TRANSLATION]
+<<<
+Makellos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#431
+
+# [ENGLISH]
+# Only for the most experienced. If you receive any infraction, the game ends
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# German: Verstoß
+
+# [TRANSLATION]
+<<<
+Nur für die Erfahrensten. Wenn Sie einen Verstoß erhalten, endet das Spiel
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#432
+
+# [ENGLISH]
+# Solvency
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SOLVENCY
+# English: Solvency
+# German: Solvenz
+
+# [TRANSLATION]
+<<<
+Solvenz
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#433
+
+# [ENGLISH]
+# For those who are strict with their personal finances. If you run out of money, the game will end
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Für diejenigen, die bei ihren persönlichen Finanzen am strengsten sind. Wenn dir das Geld ausgeht, endet das Spiel
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#434
+
+# [ENGLISH]
+# Select the type of game you want to create
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Wählen Sie den Spieltyp, den Sie erstellen möchten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#435
+
+# [ENGLISH]
+# Bet Resolution
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+Wettauflösung
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#436
+
+# [ENGLISH]
+# To inform you about the result of the bet placed, we hereby notify you that
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+Um Sie über die getätigte Wette zu informieren, senden wir Ihnen dieses Schreiben, um Ihnen mitzuteilen, dass
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#437
+
+# [ENGLISH]
+# You have won!
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+Sie haben gewonnen!
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#438
+
+# [ENGLISH]
+# You have lost.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+Sie haben verloren.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#439
+
+# [ENGLISH]
+# The funds have been credited to your account. We appreciate your participation.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+Die Gelder wurden Ihrem Konto gutgeschrieben. Wir danken Ihnen für Ihre Teilnahme.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#440
+
+# [ENGLISH]
+# The funds have been debited as agreed. We appreciate your participation.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+Die Gelder wurden wie vereinbart abgebucht. Wir danken Ihnen für Ihre Teilnahme.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#441
+
+# [ENGLISH]
+# New / Updated Procedures
+
+# [CONTEXT]
+# Keep text format with / and spaces
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# German: Verfahren
+
+# [TRANSLATION]
+<<<
+Neue / aktualisierte Verfahren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#442
+
+# [ENGLISH]
+# Welcome to 'Maligno Pet' // Your application has been successfully processed // You will shortly receive one of our magnificent pets at your home address.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# German: Maligno Pet
+
+# [TRANSLATION]
+<<<
+Willkommen bei 'Maligno Pet' // Ihre Anfrage wurde erfolgreich bearbeitet // In Kürze erhalten Sie eines unserer großartigen Haustiere zu Ihnen nach Hause.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#443
+
+# [ENGLISH]
+# Welcome to 'Maligno Pet' // We inform you that due to high demand from the citizens of Nowhere // The number of pets that can be requested per person is limited to one // Thank you very much.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# German: Maligno Pet
+#
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Willkommen bei 'Maligno Pet' // Wir informieren Sie, dass aufgrund der hohen Nachfrage von Bürgern aus Nowhere // Die Anzahl der Haustiere, die pro Person beantragt werden können, auf eins begrenzt ist // Vielen Dank.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#444
+
+# [ENGLISH]
+# Maligno's Dates! The number one dating service in Nowhere // Analyzing citizen profile... // Analyzing citizen profile... // Congratulations! // An encounter with the love of your life has been successfully scheduled for tonight // Thank you very much for using our service.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# German: Maligno's Dates
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Maligno's Dates! Das Datingprogramm Nummer eins in Nowhere // Bürgerprofil wird analysiert... // Bürgerprofil wird analysiert... // Herzlichen Glückwunsch! // Ein Treffen mit der Liebe Ihres Lebens wurde erfolgreich für heute Abend vereinbart // Vielen Dank, dass Sie unseren Dienst nutzen.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#445
+
+# [ENGLISH]
+# Maligno's Dates! The number one dating program in Nowhere // We inform you that you currently already have a partner assigned // Thank you very much.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# German: Maligno's Dates
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+Maligno's Dates! Das Datingprogramm Nummer eins von Nowhere // Wir informieren Sie, dass Ihnen derzeit bereits ein Partner zugewiesen ist // Vielen Dank.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#446
+
+# [ENGLISH]
+# Oh // I was hoping for your call // I'll see you again tonight sweetheart // Goodbye
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oh // Ich habe auf deinen Anruf gewartet // Ich sehe dich heute Abend wieder, mein Herz // Tschüss
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#447
+
+# [ENGLISH]
+# Hi handsome // Finally you called // I'll be there tonight // I promise that tonight I'll give you an unforgettable night // See you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hallo, Hübscher // Endlich rufst du an // Ich werde heute Abend da sein // Ich verspreche dir, dass ich dir heute eine unvergessliche Nacht bescheren werde // Bis bald
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#448
+
+# [ENGLISH]
+# I was waiting for your call sweetie // I'll bring something special tonight // I'll be waiting impatiently
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich habe auf deinen Anruf gewartet, Süße // Ich bringe heute Abend etwas Besonderes mit // Ich werde ungeduldig warten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#449
+
+# [ENGLISH]
+# Hi // I am not available at the moment // Please try again later // Thank you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hallo // Ich bin momentan nicht erreichbar // Bitte versuche es später noch einmal // Danke
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#450
+
+# [ENGLISH]
+# gluten
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Gluten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#451
+
+# [ENGLISH]
+# fructose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Fruktose
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#452
+
+# [ENGLISH]
+# sucrose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Saccharose
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#453
+
+# [ENGLISH]
+# lactose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Laktose
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#454
+
+# [ENGLISH]
+# Duplicate game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Spiel duplizieren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#455
+
+# [ENGLISH]
+# Revert to a previous day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zu einem vorherigen Tag zurückkehren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#456
+
+# [ENGLISH]
+# Do you want to duplicate this game?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Möchten Sie das Spiel duplizieren?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#457
+
+# [ENGLISH]
+# This game has no earlier days to revert to
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Der Spielstand verfügt über keine Tage, zu denen man zurückkehren kann
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#458
+
+# [ENGLISH]
+# Revert to a day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zu einem Tag zurückkehren
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#459
+
+# [ENGLISH]
+# Select the day you wish to revert to
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Wählen Sie den Tag aus, zu dem Sie zurückkehren möchten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#460
+
+# [ENGLISH]
+# Reverting to a previous day will erase game progress
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Das Zurückkehren um Tage wird den Fortschritt im Spiel löschen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#461
+
+# [ENGLISH]
+# Are you sure you want to continue?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sind Sie sicher, dass Sie fortfahren möchten?
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#462
+
+# [ENGLISH]
+# Maligno Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# German: Maligno Pet
+
+# [TRANSLATION]
+<<<
+Maligno Pet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#463
+
+# [ENGLISH]
+# Maligno's Dates
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# German: Maligno's Dates
+
+# [TRANSLATION]
+<<<
+Maligno's Dates
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#464
+
+# [ENGLISH]
+# Maligno Bet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# German: Maligno Bet
+
+# [TRANSLATION]
+<<<
+Maligno Bet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#465
+
+# [ENGLISH]
+# Easy Fast Cash
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# German: Easy Fast Cash
+
+# [TRANSLATION]
+<<<
+Easy Fast Cash
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#466
+
+# [ENGLISH]
+# City Code
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITY_CODE
+# English: City Code
+# German: Stadtcode
+
+# [TRANSLATION]
+<<<
+Stadtcode
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#467
+
+# [ENGLISH]
+# This code represents the city associated with the card. Information about the different codes and their cities can be found on the map.
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# German: Code
+
+# [TRANSLATION]
+<<<
+Dieser Code steht für die Stadt, der die Karte zugeordnet ist. Die Informationen zu den verschiedenen Codes und ihren Städten können auf der Karte gefunden werden.
+>>>

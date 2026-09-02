@@ -1,0 +1,239 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#1
+
+# [ENGLISH]
+# Ticket for Maligno's Restaurant
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TICKET_MALIGNO_RESTAURANT
+# English: Ticket for Maligno's Restaurant
+# Ukrainian: Квиток до Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Квиток до Maligno's Restaurant
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#2
+
+# [ENGLISH]
+# Ticket for two people in the best restaurant. Maligno's Restaurant, a superior restaurant
+
+# [CONTEXT]
+# Description of the Ticket for Maligno's Restaurant inventory item
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# Ukrainian: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Квиток на двох у найкращий ресторан. Maligno's Restaurant — ресторан вищого класу
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#3
+
+# [ENGLISH]
+# I'd love to accept it... // But a guy like me... // In that place...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я б із радістю прийняв... // Але такий чоловік як я... // У такому місці...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#4
+
+# [ENGLISH]
+# Thanks // But I'm not worthy enough to go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Дякую // Але я недостатньо хороший, щоб туди потрапити
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#5
+
+# [ENGLISH]
+# I'm sure they'll kick me out if I show up...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Мене напевно виженуть звідти, якщо я з'явлюся...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#6
+
+# [ENGLISH]
+# A superior restaurant // for superior people // I couldn't go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ресторан вищого класу... // Для людей вищого класу... // Я б туди не потрапив
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#7
+
+# [ENGLISH]
+# The new Maligno's Restaurant! // I wish I was worthy enough
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# Ukrainian: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Новий Maligno's Restaurant! // Шкода, що я недостатньо гідний
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#8
+
+# [ENGLISH]
+# Thanks // But that restaurant is too much for me
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Дякую // Але цей ресторан — це занадто для мене...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#9
+
+# [ENGLISH]
+# A policeman has no time for such things
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Поліцейському ніколи займатися такими речами
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#10
+
+# [ENGLISH]
+# Get away from me // And stick to your job
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Відійди від мене // Займися своєю роботою
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#11
+
+# [ENGLISH]
+# You better continue working // If you don't want to be arrested
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Краще продовжуй працювати // Або хочеш, щоб я тебе заарештував?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#12
+
+# [ENGLISH]
+# I'm the authority here // Behave // Or I will put you in a cell
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я тут головний // Поводься пристойно // Або я тебе в камеру закрию
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#13
+
+# [ENGLISH]
+# What are you trying to do handsome? // Are you trying to distract me? // Nothing distracts me more than you
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Що ти намагаєшся, гарненька? // Відволікти мене? // Ніщо мене не відволікає більше, ніж ти
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#14
+
+# [ENGLISH]
+# Can I tell you something? // You look irresistible // For someone like you I'd be capable of committing a crime
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Можу я тобі кое-що сказати? // Ти неперевершена // Ради такої як ти я здатен на злочин
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#15
+
+# [ENGLISH]
+# Buddy // Look at me // Do you think someone like me could get into that place?
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Друже // Подивись на мене // Думаєш, хтось на зразок мене міг би туди потрапити?
+>>>

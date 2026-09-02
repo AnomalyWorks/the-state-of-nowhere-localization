@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#1
+
+# [ENGLISH]
+# Whiskey
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+ウイスキー
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#2
+
+# [ENGLISH]
+# Do you like whiskey? // On the rocks or off the rocks? // Shut up? // Ok.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ウイスキーは好きか？ // オンザロックか？ // 黙れって？ // わかった
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#3
+
+# [ENGLISH]
+# 'Whiskey Don Maligno' // 'Drink in moderation' // Yes... // Maybe next month...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno ウイスキー' // '適量を守ってお飲みください' // そうですね... // 来月かもしれません...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#4
+
+# [ENGLISH]
+# I'll take that bottle of whiskey to drink tonight.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今夜飲むためにこのウィスキーのボトルを持って帰ります
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#5
+
+# [ENGLISH]
+# Do you like whiskey? // You don't drink alcohol? // Ok.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ウイスキーは好きですか？ // お酒は飲まないのですか？ // わかりました
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#6
+
+# [ENGLISH]
+# Hey! // I thought I'd have that whiskey with a friend.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ちょっと！ // そのウイスキーは友達と飲もうと思ってたのに
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#7
+
+# [ENGLISH]
+# Anyway // I guess I'll lay off that whiskey.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+まあ // そのウイスキーはやめておくかな
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#8
+
+# [ENGLISH]
+# What now? // This is the fourth time you won't let me buy my whiskey!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+さて、どうする？ // ウイスキーを持たせてもらえないのが4回目だよ！
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#9
+
+# [ENGLISH]
+# What about my whiskey? // Stop drinking? // Never.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+じゃあ、俺のウイスキーは？ // 飲むのをやめろだって？ // 絶対ダメ
+>>>

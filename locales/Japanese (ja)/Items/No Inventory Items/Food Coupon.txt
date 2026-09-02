@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#1
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+食料クーポン
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#3
+
+# [ENGLISH]
+# It's my food coupon // It's worth one purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+これは私の食料クーポンです // 1回の購入に有効です
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#4
+
+# [ENGLISH]
+# It's my food coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+これは私の食料クーポンです // 処理する必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+いいえ // あなたが自分で処理する必要があります
+>>>

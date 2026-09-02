@@ -1,0 +1,99 @@
+# ============================================================================
+# [KEY]
+# NO-COM_NARCOTRAFICANTE#1
+
+# [ENGLISH]
+# Drug trafficker
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_DRUG_TRAF
+# English: Drug Trafficker
+# Ukrainian: Наркоторговець
+
+# [TRANSLATION]
+<<<
+Наркоторговець
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_NARCOTRAFICANTE#2
+
+# [ENGLISH]
+# Hello friend! // Are you interested in earning a little extra money? // I have a magic product for you to sell... // Call me if you decide to do so
+
+# [CONTEXT]
+# Drug trafficker's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привіт, друже! // Цікаво заробити трохи грошей додатково? // У мене є дивовижний товар для продажу... // Якщо вирішиш, зателефонуй мені
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_NARCOTRAFICANTE#3
+
+# [ENGLISH]
+# I was waiting for your call, my friend... // I'll be there when I can
+
+# [CONTEXT]
+# Drug trafficker's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я чекав твого дзвінка, друже... // Коли зможу, приїду туди
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_NARCOTRAFICANTE#4
+
+# [ENGLISH]
+# Welcome to the business my friend // Here // When someone asks you for the product hand it over // Just do that // I'll handle the money // By the way // Watch out for the police // Keep the product out of sight // Or you might get us in trouble... // Anyway // That's it buddy // We'll make a lot of money together // Good luck.
+
+# [CONTEXT]
+# Drug trafficker's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ласкаво просимо до справи, друже // Тримай // Коли хтось попросить товар, віддай йому // Тобі потрібно робити лише це // Грошима займатимуся я // До речі // Будь обережний з поліцією // Тримай товар подалі від чужих очей // Інакше можеш накликати на нас неприємності... // Загалом // Це все, друже // Разом ми заробимо купу грошей // Удачі
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_NARCOTRAFICANTE#5
+
+# [ENGLISH]
+# Hello friend // I'm here to tell you something // Some citizens are worried // They think it's convenient to use a code word for buying drugs // You know // For security // It's very possible that some of them will use the code word repeatedly to get you to sell them drugs // Yeah? // So pay attention // By the way // The code word is... // 'The house special' // Remember that // 'The house special' // I'm leaving // Good luck to you
+
+# [CONTEXT]
+# Drug trafficker's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привіт, друже // Я прийшов, щоб попередити // Деякі містяни стурбовані // Вони вважають за необхідне використовувати кодове слово для купівлі наркотиків // Ти розумієш // Для безпеки // Цілком можливо, що хтось із них буде використовувати кодове слово багаторазово, щоб ти продавав їм наркотики // Так? // Тож зверни увагу // До речі // Кодове слово... // 'Особлива страва дому' // Запам'ятай його // 'Особлива страва дому' // Я йду // Удачі тобі
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_NARCOTRAFICANTE#6
+
+# [ENGLISH]
+# Hi // I've come to warn you // There's an undercover cop on the prowl // Posing as one of our citizens // I've been digging around with my contacts // And I was able to find out his name // It's Mark Shadow // Be careful with him // Or he could ruin our business... // I've got to go now
+
+# [CONTEXT]
+# Drug trafficker's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Ukrainian: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Привіт // Я прийшов попередити // Поблизу нишпорить поліцейський під прикриттям // Прикидається одним з наших містян // Я з'ясовував через свої контакти // І зміг дізнатися його ім'я // Це Mark Shadow // Будь з ним обережний // Інакше він може зруйнувати наш бізнес... // Мені пора йти
+>>>

@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Sunt instructorul pentru începători // Am venit să-ți fac o prezentare generală a ceea ce trebuie să faci în prima ta zi // Primul lucru este să identifici cetățeanul // Pentru asta trebuie citită Cartea de identificare a cetățeanului
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+Dar înainte de a face asta deschide Masa de inspecție // Acolo poți observa documentele mai detaliat // Încearcă să întorci Cartea de identificare cu clic dreapta, apoi revino aici
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Romanian: Cititor de carduri de identificare
+
+# [TRANSLATION]
+<<<
+Era și timpul // Acum introdu cardul în Cititorul de carduri de identificare pentru a identifica cetățeanul
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Romanian: Apel de produse
+
+# [TRANSLATION]
+<<<
+Ai reușit! // Nu pot să cred // Acum e momentul să procesezi produsele cetățeanului // Activează Apelul de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Romanian: Cititor de produse
+
+# [TRANSLATION]
+<<<
+Acum trebuie să le scanezi // Trage produsul spre Cititorul de produse pentru a începe
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Uau // Ești mai rapid decât pari // Și eu care nu aveam încredere în tine // Acum este timpul să procesezi plata // Dar să presupunem că nu prezint plata // Ceea ce trebuie să faci întotdeauna în fața unei astfel de nereguli este să o raportezi // Raportează că cetățeanul nu a prezentat plata
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Bine // Acum e timpul să procesezi plata // Nu uita să dai restul corect și apoi să o accepți
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Romanian: Bon fiscal
+
+# [TRANSLATION]
+<<<
+Aproape am terminat // Acum, pentru a finaliza tranzacția, trebuie să-mi dai Bonul fiscal
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+#
+# ID: REJECT
+# English: Reject
+# Romanian: Refuză
+
+# [TRANSLATION]
+<<<
+În condiții normale, asta va aproba cumpărarea, iar cetățeanul va pleca cu produsele // Ține cont de asta // Acum lasă-mă să-ți mai spun ceva // Poți executa Acțiuni asupra cetățenilor // Execută acțiunea Refuză ca să plec
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Romanian: Manual
+
+# [TRANSLATION]
+<<<
+Asta e tot // Nu ești cel mai ager muncitor // Dar cred că te vei descurca cu asta // De acum înainte ești pe cont propriu // Citește Manualul dacă nu știi cum să faci ceva
+>>>

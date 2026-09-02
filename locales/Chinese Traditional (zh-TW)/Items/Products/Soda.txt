@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#1
+
+# [ENGLISH]
+# Soda
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+蘇打
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#2
+
+# [ENGLISH]
+# What flavor sodas do you like? // Grape? // You're weird.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你喜歡什麼口味的蘇打？ // 葡萄味？ // 你真奇怪
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#3
+
+# [ENGLISH]
+# Do you like sodas? // What's it to me? // Unfriendly
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你喜歡蘇打嗎？ // 關我什麼事？ // 不友好
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#4
+
+# [ENGLISH]
+# 'Don Maligno's Soda' // 'More effervescent than the competitors' // 'If there was such a thing' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+
+# [TRANSLATION]
+<<<
+'蘇打 Don Maligno' // '比競爭對手更有氣泡' // '如果存在的話' // 太好了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#5
+
+# [ENGLISH]
+# I'll bring a soda to go with the meal
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我會帶蘇打來搭配食物
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#6
+
+# [ENGLISH]
+# Can't I bring soda? // That's too bad
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我不能帶蘇打嗎？ // 太壞了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#7
+
+# [ENGLISH]
+# Where's my soda? // I can't take it // Damn.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我的蘇打呢？ // 我不能帶走嗎？ // 可惡
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#8
+
+# [ENGLISH]
+# It's okay... // If you say I can't bring soda... // I'm not complaining
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+好吧... // 如果你說我不能帶蘇打... // 我不抱怨
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#9
+
+# [ENGLISH]
+# And the soda? // That's too bad // I'll have to drink water with my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+蘇打呢？ // 真糟糕 // 我得用水配食物了
+>>>

@@ -1,0 +1,2388 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#1
+
+# [ENGLISH]
+# Personal Data
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Date personale
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#2
+
+# [ENGLISH]
+# Name
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Nume
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#3
+
+# [ENGLISH]
+# Sex
+
+# [CONTEXT]
+# Gender
+
+# [TRANSLATION]
+<<<
+Sex
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#4
+
+# [ENGLISH]
+# Cod
+
+# [CONTEXT]
+# Abbreviation for ID code
+
+# [TRANSLATION]
+<<<
+Cod
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#5
+
+# [ENGLISH]
+# Age
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Vârstă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#6
+
+# [ENGLISH]
+# Exp
+
+# [CONTEXT]
+# Abbreviation for expiration date
+
+# [TRANSLATION]
+<<<
+Exp.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#7
+
+# [ENGLISH]
+# Weight
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Greutate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#8
+
+# [ENGLISH]
+# City
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Oraș
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#9
+
+# [ENGLISH]
+# Intolerances
+
+# [CONTEXT]
+# Food intolerances
+
+# [TRANSLATION]
+<<<
+Intoleranțe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#10
+
+# [ENGLISH]
+# Prohibited Products
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Interdicții de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#11
+
+# [ENGLISH]
+# Product categories
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Romanian: Categorii de produse
+
+# [TRANSLATION]
+<<<
+Categorii de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#12
+
+# [ENGLISH]
+# Product codes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Coduri de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#14
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Romanian: Manual
+
+# [TRANSLATION]
+<<<
+Manual
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#16
+
+# [ENGLISH]
+# Wanted
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WANTED
+# English: Wanted
+# Romanian: Căutați
+
+# [TRANSLATION]
+<<<
+Căutați
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#17
+
+# [ENGLISH]
+# Missing
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MISSING
+# English: Missing
+# Romanian: Dispăruți
+
+# [TRANSLATION]
+<<<
+Dispăruți
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#18
+
+# [ENGLISH]
+# Loves us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Ne iubește
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#19
+
+# [ENGLISH]
+# Takes care of us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Are grijă de noi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#20
+
+# [ENGLISH]
+# Protects us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Ne protejează
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#21
+
+# [ENGLISH]
+# Is the future
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Este viitorul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#22
+
+# [ENGLISH]
+# Will save Nowhere
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Va salva Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#23
+
+# [ENGLISH]
+# He will end Evil
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Va pune capăt răului
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#24
+
+# [ENGLISH]
+# He is prosperity
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Este prosperitate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#25
+
+# [ENGLISH]
+# He is salvation
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Este salvarea
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#26
+
+# [ENGLISH]
+# He is watching us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Ne observă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#27
+
+# [ENGLISH]
+# Monday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Luni
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#28
+
+# [ENGLISH]
+# Tuesday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Marți
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#29
+
+# [ENGLISH]
+# Wednesday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Miercuri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#30
+
+# [ENGLISH]
+# Thursday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Joi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#31
+
+# [ENGLISH]
+# Friday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Vineri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#32
+
+# [ENGLISH]
+# Saturday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Sâmbătă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#33
+
+# [ENGLISH]
+# Sunday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Duminică
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#34
+
+# [ENGLISH]
+# MON
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+LUN
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#35
+
+# [ENGLISH]
+# TUE
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+MAR
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#36
+
+# [ENGLISH]
+# WED
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+MIE
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#37
+
+# [ENGLISH]
+# THU
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+JOI
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#38
+
+# [ENGLISH]
+# FRI
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+VIN
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#39
+
+# [ENGLISH]
+# SAT
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+SÂM
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#40
+
+# [ENGLISH]
+# SUN
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+DUM
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#41
+
+# [ENGLISH]
+# Day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+zi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#42
+
+# [ENGLISH]
+# Classification of food products
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Clasificarea produselor alimentare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#43
+
+# [ENGLISH]
+# General
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+General
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#44
+
+# [ENGLISH]
+# Dairy products
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Lactate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#45
+
+# [ENGLISH]
+# Meat
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Carne
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#46
+
+# [ENGLISH]
+# Fruits
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Fructe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#47
+
+# [ENGLISH]
+# Vegetables
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Legume
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#48
+
+# [ENGLISH]
+# Canned goods
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conserve
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#49
+
+# [ENGLISH]
+# Drinks
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Băuturi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#50
+
+# [ENGLISH]
+# baked goods
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+panificație
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#51
+
+# [ENGLISH]
+# miscellaneous
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+diverse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#52
+
+# [ENGLISH]
+# By composition
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+După compoziție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#53
+
+# [ENGLISH]
+# Contains Gluten
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conține gluten
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#54
+
+# [ENGLISH]
+# Contains Fructose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conține fructoză
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#55
+
+# [ENGLISH]
+# Contains Sucrose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conține zaharoză
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#56
+
+# [ENGLISH]
+# Contains Lactose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conține lactoză
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#57
+
+# [ENGLISH]
+# Contains Salt
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conține sare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#58
+
+# [ENGLISH]
+# Contains Alcohol
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Conține alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#59
+
+# [ENGLISH]
+# By age
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+După vârstă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#60
+
+# [ENGLISH]
+# Not suitable for minors
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Nu este potrivit pentru minori
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#61
+
+# [ENGLISH]
+# Not suitable for the elderly
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Nu este potrivit pentru vârstnici
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#62
+
+# [ENGLISH]
+# By Citizen weight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+După greutatea cetățenilor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#63
+
+# [ENGLISH]
+# Not suitable for moderate overweight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Nu este potrivit pentru supraponderalii moderați
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#64
+
+# [ENGLISH]
+# Not suitable for severe overweight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Nu este potrivit pentru supraponderalii severi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#65
+
+# [ENGLISH]
+# By sales method
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+După modalitatea de vânzare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#66
+
+# [ENGLISH]
+# By unit
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Pe unitate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#67
+
+# [ENGLISH]
+# By weight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+La greutate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#68
+
+# [ENGLISH]
+# Residence
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Reședință
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#69
+
+# [ENGLISH]
+# None
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Niciunul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#70
+
+# [ENGLISH]
+# Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Cod
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#71
+
+# [ENGLISH]
+# Unit price
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Preț unitar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#72
+
+# [ENGLISH]
+# Quantity
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Cantitate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#73
+
+# [ENGLISH]
+# Total price
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Preț total
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#74
+
+# [ENGLISH]
+# Dead or alive
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Viu sau mort
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#75
+
+# [ENGLISH]
+# Only alive
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Doar viu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#78
+
+# [ENGLISH]
+# Additional info
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Info suplim.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#79
+
+# [ENGLISH]
+# Get the device ready
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Pregătiți dispozitivul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#80
+
+# [ENGLISH]
+# Device ready
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Dispozitiv pregătit
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#81
+
+# [ENGLISH]
+# Analyzing
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Analiză
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#82
+
+# [ENGLISH]
+# Pressure
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Presiune
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#83
+
+# [ENGLISH]
+# Alcohol
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#84
+
+# [ENGLISH]
+# None
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Nul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#85
+
+# [ENGLISH]
+# Low
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Scăzut
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#86
+
+# [ENGLISH]
+# High
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Ridicat
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#87
+
+# [ENGLISH]
+# Our President
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Președintele nostru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#88
+
+# [ENGLISH]
+# Welcome to the
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Bun venit la
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#89
+
+# [ENGLISH]
+# Station 65
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Stație 65
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#90
+
+# [ENGLISH]
+# Distribution Center South 3412
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Romanian: Centru de distribuție
+
+# [TRANSLATION]
+<<<
+Centru de distribuție sud 3412
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#91
+
+# [ENGLISH]
+# Comply with current regulations
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Respectați reglementările în vigoare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#92
+
+# [ENGLISH]
+# Consult the manual if you have any question
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Romanian: Manual
+
+# [TRANSLATION]
+<<<
+Consultați Manualul pentru orice nelămurire
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#93
+
+# [ENGLISH]
+# Honour Maligno
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Romanian: Maligno
+
+# [TRANSLATION]
+<<<
+Onorați-l pe Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#94
+
+# [ENGLISH]
+# No contacts available for sending packages
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Romanian: Colet
+
+# [TRANSLATION]
+<<<
+Nu aveți contacte pentru a trimite Colete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#95
+
+# [ENGLISH]
+# Prepare the package for shipment
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Romanian: Colet
+
+# [TRANSLATION]
+<<<
+Pregătiți Coletul pentru expediere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#96
+
+# [ENGLISH]
+# Enter the object to be sent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Introduceți obiectul de trimis
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#97
+
+# [ENGLISH]
+# Cover the package with the wrapping
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Romanian: Colet
+
+# [TRANSLATION]
+<<<
+Acoperiți Coletul cu ambalajul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#98
+
+# [ENGLISH]
+# Select the target contact and print the label
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LABEL
+# English: Label
+# Romanian: Etichetă
+
+# [TRANSLATION]
+<<<
+Selectați contactul destinatar și imprimați Eticheta
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#99
+
+# [ENGLISH]
+# Affix the label to the package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LABEL
+# English: Label
+# Romanian: Etichetă
+#
+# ID: PACKAGE
+# English: Package
+# Romanian: Colet
+
+# [TRANSLATION]
+<<<
+Lipiți Eticheta pe Colet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#100
+
+# [ENGLISH]
+# Package ready for shipment
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Romanian: Colet
+
+# [TRANSLATION]
+<<<
+Colet gata de expediere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#101
+
+# [ENGLISH]
+# Package sent to selected contact
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Romanian: Colet
+
+# [TRANSLATION]
+<<<
+Colet trimis contactului selectat
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#102
+
+# [ENGLISH]
+# Female
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Feminin
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#103
+
+# [ENGLISH]
+# Male
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Masculin
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#104
+
+# [ENGLISH]
+# place here
+
+# [CONTEXT]
+# For attaching a label
+
+# [TRANSLATION]
+<<<
+Lipi aici
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#105
+
+# [ENGLISH]
+# Reward
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Recompensă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#106
+
+# [ENGLISH]
+# Call the number provided if you see this person and you will receive a reward.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Sunați la numărul indicat dacă vedeți această persoană și veți primi o recompensă.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#107
+
+# [ENGLISH]
+# Son of an important minister of Nowhere. He was last seen heading to a pharmacy in search of his medication. Any information will be greatly rewarded.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Fiul unui important ministru din Nowhere. A fost văzut ultima dată în drum spre o farmacie să-și ia medicamentele. Orice informație va fi bine recompensată.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#108
+
+# [ENGLISH]
+# He is wanted for multiple cold-blooded murders, kidnappings, and resisting authority. Dangerous individual, proceed with caution.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru multiple crime comise cu sânge rece, răpiri și opunere față de autoritate. Subiect periculos, procedați cu prudență.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#109
+
+# [ENGLISH]
+# Wanted for fraud in various cities of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru fraudă în diferite orașe din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#110
+
+# [ENGLISH]
+# Wanted for tax evasion
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru evaziune fiscală
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#111
+
+# [ENGLISH]
+# Wanted for fraud. He calls himself a 'defender of the unprotected'. Proceed without mercy
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru escrocherie. Se autointitulează 'apărătorul celor neajutorați'. Procedați fără milă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#112
+
+# [ENGLISH]
+# Wanted for inflicting injuries on an important and well-known businessman in Nowhere. Proceed with violence
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru rănirea unui important și renumit om de afaceri din Nowhere. Procedați cu violență
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#113
+
+# [ENGLISH]
+# Wanted for multiple robberies from important citizens of Nowhere. Any information will be highly rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru multiple furturi comise asupra unor importanți cetățeni din Nowhere. Orice tip de informație va fi generos recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#114
+
+# [ENGLISH]
+# Wanted for treason against the state of Nowhere. Any information leading to his capture will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru trădare împotriva statului Nowhere. Orice informație care contribuie la capturarea sa va fi recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#115
+
+# [ENGLISH]
+# Wanted for spreading slander about our esteemed President Maligno
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Romanian: Maligno
+
+# [TRANSLATION]
+<<<
+Căutat pentru răspândirea de insulte la adresa președintelui nostru mult prea excelent Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#116
+
+# [ENGLISH]
+# Wanted for questioning the sexual prowess of our esteemed President of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru punerea la îndoială a capacității sexuale în pat a mult prea excelentului nostru președinte din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#117
+
+# [ENGLISH]
+# Wanted for spreading slander about the late mother of our beloved President Maligno. Proceed without mercy
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Romanian: Maligno
+
+# [TRANSLATION]
+<<<
+Căutat pentru răspândirea de insulte la adresa defunctei mame a iubitului nostru președinte Maligno. Procedați fără milă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#118
+
+# [ENGLISH]
+# Wanted for sleeping on benches in front of high-end citizens' businesses. Outrageous
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru dormit pe bănci în fața magazinelor unor cetățeni cu putere de cumpărare ridicată. Inaudibil
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#119
+
+# [ENGLISH]
+# Wanted for encouraging aspirations that are not appropriate for their low social class to others of the same condition
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru încurajarea altora aflați în aceeași situație să aibă aspirații nepotrivite clasei lor sociale inferioare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#120
+
+# [ENGLISH]
+# Wanted for attempting to cause confusion among the citizens of Nowhere, using terms such as 'indoctrination' and 'mind control'
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru încercarea de a crea confuzie printre cetățenii din Nowhere, folosind termeni precum 'îndoctrinare' și 'control mental'
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#121
+
+# [ENGLISH]
+# Wanted for the theft of a food truck
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru furtul unui camion cu alimente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#122
+
+# [ENGLISH]
+# Wanted for robbing a wealthy family in Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru jaful unei familii înstărite din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#123
+
+# [ENGLISH]
+# Wanted for indecent exposure oneself shirtless while shouting 'Bocaaaaa'
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons. Do not translate the expression 'Bocaaaaa'. It is an expression referring to the chant of a Boca Juniors football club supporter
+
+# [TRANSLATION]
+<<<
+'Bocaaaaa' strigând, pentru expunere obscenă fără cămașă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#124
+
+# [ENGLISH]
+# Wanted for resisting authority
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru opunere față de autoritate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#125
+
+# [ENGLISH]
+# Wanted for obscenely exposing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru exhibiționism obscen
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#126
+
+# [ENGLISH]
+# Wanted for attacking a police officer
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Căutat pentru atacarea unui ofițer de poliție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#127
+
+# [ENGLISH]
+# Wanted for slandering the honorable state of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru calomnierea onorabilului stat Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#128
+
+# [ENGLISH]
+# Wanted for urinating on an informational sign of the state of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Căutat pentru urinare pe un panou informativ al statului Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#129
+
+# [ENGLISH]
+# Missing person. Last seen leaving a renowned spa center
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Persoană dispărută. Văzută ultima dată la ieșirea dintr-un renumit centru spa
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#130
+
+# [ENGLISH]
+# Son of a very wealthy family from Nowhere missing. Any kind of information will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Fiul unei familii foarte înstărite din Nowhere a dispărut. Orice informație va fi recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#131
+
+# [ENGLISH]
+# Prominent real estate businessman missing. Any information leading to his whereabouts will be generously rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Important om de afaceri din sectorul imobiliar dispărut. Orice informație care duce la găsirea lui va fi bine recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#132
+
+# [ENGLISH]
+# Last seen leaving a party
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Văzut ultima dată la ieșirea de la o petrecere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#133
+
+# [ENGLISH]
+# Missing while surfing on the beaches of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Dispărut în timp ce făcea surf pe plajele din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#134
+
+# [ENGLISH]
+# Missing while driving his luxury car back to his mansion
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Dispărut în timp ce se întorcea la conacul său cu mașina de lux
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#135
+
+# [ENGLISH]
+# Missing while practicing skydiving
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Dispărut în timp ce făcea parașutism
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#136
+
+# [ENGLISH]
+# Missing while taking a walk through the shopping center of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Dispărut în timp ce se plimba prin centrul comercial din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#137
+
+# [ENGLISH]
+# Missing after leaving a prominent restaurant
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Dispărut la ieșirea dintr-un restaurant important
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#138
+
+# [ENGLISH]
+# Missing while performing maintenance tasks at the state offices of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Dispărut în timp ce efectua lucrări de întreținere în birourile de stat din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#139
+
+# [ENGLISH]
+# Missing while performing cleaning tasks at the state offices of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Dispărut în timp ce efectua lucrări de curățenie în birourile de stat din Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#140
+
+# [ENGLISH]
+# Renowned hunter of exotic species missing. Any kind of information will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Renumit vânător de specii exotice dispărut. Orice informație va fi recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#141
+
+# [ENGLISH]
+# Renowned stockbroker missing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Renumit agent de bursă dispărut
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#142
+
+# [ENGLISH]
+# Renowned businessman missing. Last seen at the laundromat in his city
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Renumit om de afaceri dispărut. Văzut ultima dată la spălătoria din orașul său
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#143
+
+# [ENGLISH]
+# Ranch hand missing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Muncitor de fermă dispărut
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#144
+
+# [ENGLISH]
+# Any information leading to the whereabouts of the missing person will be greatly rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Orice informație care duce la găsirea persoanei dispărute va fi foarte bine recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#145
+
+# [ENGLISH]
+# Any precise information that helps discover the whereabouts of this person will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Orice informație precisă care ajută la descoperirea locului unde se află această persoană va fi recompensată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#146
+
+# [ENGLISH]
+# The individual may exhibit behaviors associated with mental illness
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Individul poate manifesta comportamente asociate cu alienarea mintală
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#147
+
+# [ENGLISH]
+# The missing subject may exhibit delusional ideas and extremely disorganized behaviors
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Persoana dispărută poate prezenta idei delirante și comportamente extrem de dezorganizate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#148
+
+# [ENGLISH]
+# Renowned abstract artist missing. Last seen at an art exhibition of crushed apples
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Renumit artist abstract dispărut. Văzut ultima dată la o expoziție artistică de mere zdrobite
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#149
+
+# [ENGLISH]
+# Food Products
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Produse alimentare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#150
+
+# [ENGLISH]
+# Foods with high nutritional value
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Alimente cu valoare nutritivă ridicată
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#151
+
+# [ENGLISH]
+# Approval Zone
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zonă de aprobare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#152
+
+# [ENGLISH]
+# Disapproval Zone
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Zonă de anulare
+>>>

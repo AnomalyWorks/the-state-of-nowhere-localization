@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+Încălcare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățenii valizi trebuie acceptați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+
+# [TRANSLATION]
+<<<
+Cetățenii care fură produse trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Romanian: Jefuitori
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Romanian: Neutralizat
+
+# [TRANSLATION]
+<<<
+Jefuitorii trebuie neutralizați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Cetățenii trebuie procesați cu o Carte de identificare și refuzați dacă nu o prezintă
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Cetățenii cu o Carte de identificare expirată trebuie refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă o Carte de identificare a altei persoane trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă o Carte de identificare falsă trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+
+# [TRANSLATION]
+<<<
+Cetățenii din orașe restricționate trebuie refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+
+# [TRANSLATION]
+<<<
+Infractorii căutați trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+
+# [TRANSLATION]
+<<<
+Cetățenii cu un nivel ridicat de alcoolemie trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Produsele trebuie procesate cu codul corespunzător
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Romanian: Minori
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea produselor nepotrivite Minorilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Romanian: Persoane în vârstă
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse nepotrivite pentru Persoane în vârstă
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Romanian: Obezi
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse nepotrivite pentru Obezi
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Romanian: Obezi severi
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse nepotrivite pentru Obezi severi
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Romanian: Hipertensivi
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse care conțin sare către Hipertensivi
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse care conțin alcool către Cetățeni cu test pozitiv
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Romanian: Intoleranțe alimentare
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse cu fructoză către Cetățeni cu Intoleranțe alimentare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Romanian: Intoleranțe alimentare
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse cu zaharoză către Cetățeni cu Intoleranțe alimentare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Romanian: Intoleranțe alimentare
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse cu lactoză către Cetățeni cu Intoleranțe alimentare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Romanian: Intoleranțe alimentare
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse cu gluten către Cetățeni cu Intoleranțe alimentare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Romanian: Lista persoanelor interzise
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de produse din Lista persoanelor interzise a Cetățeanului
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Romanian: Lista persoanelor interzise
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Romanian: Categorii de produse
+
+# [TRANSLATION]
+<<<
+Este interzisă vânzarea de Categorii de produse din Lista persoanelor interzise a Cetățeanului
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+
+# [TRANSLATION]
+<<<
+Cetățenii trebuie să prezinte o metodă de plată sau vor fi Refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățenii nu trebuie să aibă bani insuficienți la plăți
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Bancnote false trebuie Arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Cetățenii care insistă să plătească cu Bancnote rupte, pătate sau vandalizate trebuie Refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Bancnote marcate trebuie Arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă un Card de credit al altcuiva trebuie Arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă un Card de credit cu marcă interzisă trebuie Refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Carduri de credit de la bănci interzise trebuie Refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă un Card de credit fără fonduri trebuie Refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă o Notă de credit care nu le aparține trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă o Notă de credit expirată trebuie refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă o Notă de credit falsă trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Cupoane alimentare care nu le aparțin trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Cupoane alimentare false trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: REJECTED
+# English: Rejected
+# Romanian: Refuzat
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Cupoane alimentare expirate trebuie refuzați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ARRESTED
+# English: Arrested
+# Romanian: Arestat
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+
+# [TRANSLATION]
+<<<
+Cetățenii care prezintă Cupoane de reducere false trebuie arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+
+# [TRANSLATION]
+<<<
+Cupoanele de reducere expirate nu trebuie acceptate și trebuie invalidate
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+
+# [TRANSLATION]
+<<<
+Cupoanele de reducere acceptate trebuie perforate în zona indicată
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+
+# [TRANSLATION]
+<<<
+Notele de credit trebuie capsate împreună cu factura corespunzătoare în zona indicată
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+
+# [TRANSLATION]
+<<<
+Cupoanele alimentare trebuie ștampilate în zona indicată
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Nu trebuie să apară lipsuri în casă din cauza oferirii unui rest prea mare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+
+# [TRANSLATION]
+<<<
+Cupoanele de reducere trebuie acceptate sau invalidate
+>>>

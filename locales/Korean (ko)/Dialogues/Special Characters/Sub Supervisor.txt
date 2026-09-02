@@ -1,0 +1,188 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#1
+
+# [ENGLISH]
+# Sub-Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Korean: 부감독관
+
+# [TRANSLATION]
+<<<
+부감독관
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#2
+
+# [ENGLISH]
+# Hello Employee 100411 // I am the sub-supervisor // I'm in charge here—well, second in charge // The supervisor is above me // But soon I will take his position... // One day he will make a mistake and I'll be there ready to seize the opportunity... // Muahahahaha // Sorry // Get back to work 100411
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Korean: 감독관
+#
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Korean: 부감독관
+
+# [TRANSLATION]
+<<<
+안녕 직원 100411 // 저는 부감독관입니다 // 저는 여기서 계급이 가장 높은 사람이에요 // 물론 감독관 다음으로... // 하지만 곧 그 자리에 오를 겁니다 // 언젠가 그가 실수할 텐데, 저는 그때 기회를 잡을 준비가 되어 있을 거예요... // 뮤아하하하하하 // 미안해 // 계속 일해, 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#4
+
+# [ENGLISH]
+# 100411 // There are new rules // People from certain cities will not be allowed // You should check your manual
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+100411 // 새로운 규칙이 있습니다 // 특정 도시 출신은 출입이 금지됩니다 // 네 매뉴얼을 확인해야 해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#5
+
+# [ENGLISH]
+# 100411 // There are more regulations regarding product sales // You will have to verify the citizens' age when selling them products // Check your manual for more information
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+100411 // 제품 판매 시 더 많은 규칙이 있습니다 // 제품을 판매할 때 시민의 나이를 확인해야 합니다 // 자세한 정보는 매뉴얼을 확인하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#11
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You must inform yourself about them and their procedures in the manual // Now get to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 아마 너는 알게 되었을거야 // 할인 쿠폰이 유통에 들어갔어 // 할인 쿠폰과 사용 방법에 대한 정보를 매뉴얼에서 확인해야 해 // 이제 일하러 가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#13
+
+# [ENGLISH]
+# 100411 // Due to the tragic outcome of that family // Starting today, your duty will be to conduct alcohol breath tests // You must consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // 그 가족의 비극적 결말로 인해 // 오늘부터 너의 역할은 음주 검사를 수행하는 것이 될 것이다 // 너는 더 많은 정보를 위해 매뉴얼을 확인해야 해 // 이제 일하러 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // Starting today, we have made available different types of leaflets // To be distributed among the citizens // Although it's not mandatory // That is all // Return to your work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+직원 100411 // 오늘부터 우리는 다양한 유형의 전단지를 준비했어 // 시민들 사이에서 배포되기 위해 // 비록 의무는 아니지만 // 그게 다야 // 네 일로 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#18
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // The supervisor will take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Korean: 감독관
+
+# [TRANSLATION]
+<<<
+100411 // 네가 제압한 그 불쌍한 비참한 자는 살아남지 못했어 // 이제 다른 세계에서 음식을 구걸할 수 있을거야 // 편안히 집으로 돌아가 // 감독관이 모든 것을 해결하여 네게 문제가 없도록 할거야
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // Today we have received multiple calls // Our bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But the supervisor has managed to save you // Since you are a very hard worker // He blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish the supervisor's boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Korean: 감독관
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 오늘 우리가 여러 건의 전화를 받았습니다 // 우리 상사들은 불만이 가득합니다 // 그게 왜인지 알아? // 네가 장관의 아들을 체포하라고 명령했거든 // 그들이 네 머리를 원했어... // 하지만 감독관이 네 목숨을 구했지 // 네가 매우 부지런하니까 // 그는 네 실수를 다른 사람의 잘못으로 돌렸어 // 그 불쌍한 녀석은... // 그가 자기 일에 조금만 더 신경썼다면, 지금 물고기 밥이 되지는 않았을 텐데 // 어쨌든... // 이 실수로 인해 넌 매일 집에 가기 전에 감독관의 부츠를 닦아야 할 거야 // 이제 일하러 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // We found out that someone robbed this station // And that you let them steal without putting up any resistance... // If you want to keep working here // You'd better do your job... // We'll see you tomorrow
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 누군가가 이 역을 강탈했다는 걸 알게 됐습니다 // 그리고 저항하지 않고 그가 훔치도록 내버려뒀다는 걸... // 여기서 계속 일하고 싶다면 // 제대로 네 일을 하는 게 좋을 거야... // 내일 봐
+>>>

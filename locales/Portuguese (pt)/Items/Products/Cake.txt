@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#1
+
+# [ENGLISH]
+# Cake
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Bolo
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#2
+
+# [ENGLISH]
+# 'Don Maligno Cake' // 'Made by pastry chefs of Nowhere's finest lineage' // Wow... // I feel so inferior...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Portuguese: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Portuguese: Nowhere
+
+# [TRANSLATION]
+<<<
+'Bolo Don Maligno' // 'Feito por confeiteiros da melhor linhagem de Nowhere' // Puxa... // Sinto-me tão inferior...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#3
+
+# [ENGLISH]
+# Today is my boy's birthday // I'll bring him a cake
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hoje é aniversário do meu filho // Vou levar um bolo
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#4
+
+# [ENGLISH]
+# That cake... // Looks suspicious
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Esse bolo... // Parece suspeito
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#5
+
+# [ENGLISH]
+# I love cake // That you don't care? // Rude
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Eu adoro bolo // Não se importa? // Que grosseria
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#6
+
+# [ENGLISH]
+# Do I have to give back the cake? // Dang it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tenho que devolver o bolo? // Droga
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#7
+
+# [ENGLISH]
+# And now? // I guess there will be no cake to celebrate
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E agora? // Acho que não haverá bolo para comemorar
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#8
+
+# [ENGLISH]
+# All right // That cake is suspicious anyway.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tudo bem // De qualquer forma, esse bolo é suspeito
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PASTEL#9
+
+# [ENGLISH]
+# What // What cake will I bring to the party now?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cake product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+O quê? // Que bolo vou levar para a festa agora?
+>>>

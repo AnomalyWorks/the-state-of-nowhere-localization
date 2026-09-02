@@ -1,0 +1,234 @@
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#1
+
+# [ENGLISH]
+# Me? // A famous criminal?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Moi ? // Un criminel célèbre ?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#2
+
+# [ENGLISH]
+# Oh that's not me // That's my twin brother
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce n'est pas moi // C'est mon frère jumeau
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#3
+
+# [ENGLISH]
+# You are right // I am the most dangerous criminal in Nowhere // Don't get in my way
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Oui // Je suis le criminel le plus dangereux de Nowhere // Ne te mêle pas de mes affaires
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#4
+
+# [ENGLISH]
+# No, no // We just look alike
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Non // On se ressemble seulement
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#5
+
+# [ENGLISH]
+# You caught me // Now what are you going to do?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu m'as eu // Et maintenant, qu'est-ce que tu comptes faire ?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#6
+
+# [ENGLISH]
+# That's not possible // I have never done something illegal
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce n'est pas possible // Je n'ai jamais rien fait d'illégal
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#7
+
+# [ENGLISH]
+# This is a persecution // Don't be fooled my friend // We know too much
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+C'est une persécution // Ne les laisse pas te tromper, mon ami // Nous en savons trop
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#8
+
+# [ENGLISH]
+# What? // Just for giving my opinion I am now a criminal?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Quoi ? // Juste parce que je donne mon opinion, je suis maintenant un criminel ?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#9
+
+# [ENGLISH]
+# You better think carefully what you're going to do next // I wouldn't want to hurt you
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu ferais mieux d'y réfléchir // Je n'aimerais pas te faire du mal
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#10
+
+# [ENGLISH]
+# Nowhere's most wanted criminal? // I only set fire to a couple of buildings
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Le criminel le plus recherché de Nowhere ? // Mais je n'ai incendié que quelques bâtiments
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#11
+
+# [ENGLISH]
+# The one and only... // Do you intend to confront me kid?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+C'est bien moi... // Tu comptes m'affronter, petit ?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#12
+
+# [ENGLISH]
+# Criminal? // Maybe a little... // What will you do about it?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Criminel ? // Juste un peu... // Qu'est-ce que tu vas faire ?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#13
+
+# [ENGLISH]
+# Huh? // Let me see that // Indeed // That's me
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hein ? // Voyons voir... // Oui // En effet // C'est moi
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#14
+
+# [ENGLISH]
+# Analyze the situation // This may end badly for you
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Analyse la situation // Ça peut mal finir pour toi
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_GPROFUGO#15
+
+# [ENGLISH]
+# Is it really worth risking your life? // You decide
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a wanted criminal. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Est-ce que ça vaut vraiment la peine de risquer ta vie ? // C'est toi qui décides
+>>>

@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#1
+
+# [ENGLISH]
+# Canned Fruits
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Fruits en conserve
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#2
+
+# [ENGLISH]
+# I'm bringing a can of fruit to eat for dessert today.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+J'emporte une boîte de fruits pour manger en dessert aujourd'hui
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#3
+
+# [ENGLISH]
+# I didn't get fresh fruit // So I'm bringing a can of fruit.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je n'ai pas réussi à trouver de fruits frais // Alors j'emporte une boîte de fruits
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#4
+
+# [ENGLISH]
+# Fresh fruit rots // That's why I'll take them in a can
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Les fruits frais pourrissent chez moi // C'est pour ça que j'emporte une boîte de fruits
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#5
+
+# [ENGLISH]
+# 'Don Maligno fruit can' // 'Provides all the benefits of fruit in one can' // 'For superior breeds only' // Cool.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# French: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Fruits en conserve Don Maligno' // 'Offre tous les bienfaits des fruits dans une seule boîte' // 'Réservé aux races supérieures' // Génial
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#6
+
+# [ENGLISH]
+# Very well // If Maligno says I can't eat a can of fruit... // I won't complain
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Très bien // Si Maligno dit que je ne peux pas manger une boîte de fruits... // Je ne me plaindrai pas
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#7
+
+# [ENGLISH]
+# Wow... // I didn't get fresh fruit // And I can't carry canned fruit either...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oh là là... // Je n'ai pas trouvé de fruits frais // Et en plus, je ne peux pas emporter de boîte de fruits...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#8
+
+# [ENGLISH]
+# No! // My can of fruit... // There will be no dessert today...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Non ! // Ma boîte de fruits... // Il n'y aura pas de dessert aujourd'hui...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#9
+
+# [ENGLISH]
+# Too bad... // I had cream ready for that can of fruit...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Quel dommage... // J'avais préparé de la crème pour cette boîte de fruits...
+>>>

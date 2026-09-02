@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: PROCEDURES
+# English: Procedures
+# Romanian: Proceduri
+
+# [TRANSLATION]
+<<<
+Sarcina dumneavoastră ca operator al Stației 65 va fi procesarea Cetățenilor care vin să cumpere alimente în conformitate cu reglementările în vigoare, ceea ce implică în general următoarele Proceduri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Romanian: Proceduri
+
+# [TRANSLATION]
+<<<
+În cazurile în care reglementările stabilite nu sunt respectate, puteți aplica următoarele Proceduri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Romanian: Manual
+
+# [TRANSLATION]
+<<<
+Manual
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Romanian: Proceduri
+
+# [TRANSLATION]
+<<<
+Verificați Procedurile menționate pentru mai multe informații
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Actualizările de astăzi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Romanian: Stație de lucru
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Romanian: Maligno
+
+# [TRANSLATION]
+<<<
+Angajat 100411, următoarele actualizări sunt disponibile la Stația de lucru. Consultați secțiunea corespunzătoare. Fie ca Maligno să vă lumineze calea
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Romanian: Regulă
+
+# [TRANSLATION]
+<<<
+Au fost adăugate următoarele Reguli
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Romanian: Proceduri
+
+# [TRANSLATION]
+<<<
+Au fost adăugate și/sau actualizate următoarele Proceduri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Următoarele Elemente au fost adăugate în Stație
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Au fost adăugate și/sau actualizate următoarele Documente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Astăzi nu a fost adăugată nicio actualizare în Stație
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Au fost adăugate și/sau actualizate următoarele Zone de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Romanian: Proceduri
+
+# [TRANSLATION]
+<<<
+Proceduri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+
+# [TRANSLATION]
+<<<
+Elemente implicate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Documente implicate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Identifică Cetățeanul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Romanian: Acțiune de apel
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+La prezentarea la Stație, prin Acțiunea de apel, Cetățenii trebuie să predea Cartea de identificare.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Romanian: Cititor de carduri de identificare
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+
+# [TRANSLATION]
+<<<
+Apoi, aceasta trebuie glisată prin Cititorul de carduri de identificare, acțiune care va permite afișarea tuturor datelor asociate pe Monitorul principal.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Procesează Produsele
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Descrierea procesului
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Romanian: Acțiune de apel
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Începe atunci când Produsele sunt solicitate prin Acțiunea de apel.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Citește Produsele
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Cântărește Produsele
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Verifică Produsele
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Pentru a începe citirea Produselor, Produsul trebuie glisat din depozitul de intrare al Produselor până la cititorul de Produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Astfel se va accesa Zona de lucru a cititorului de Produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: SCALE
+# English: Scale
+# Romanian: Cântar
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Romanian: Depozit de intrare
+
+# [TRANSLATION]
+<<<
+Pentru aceasta, Produsul trebuie glisat în Depozitul de intrare către Cântarul din Stație.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Romanian: Cititor manual de produse
+
+# [TRANSLATION]
+<<<
+În cazul erorilor de citire, Produsul va trebui citit manual, prin Accesul Cititorului manual de produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Romanian: Cititor manual de produse
+
+# [TRANSLATION]
+<<<
+Astfel, va fi accesată zona de lucru a Cititorului manual de produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: SCALE
+# English: Scale
+# Romanian: Cântar
+
+# [TRANSLATION]
+<<<
+În timpul citirii Produselor, este posibil să fie găsite Produse fără coduri de bare. Acestea trebuie generate prin intermediul Cântarului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: SCALE
+# English: Scale
+# Romanian: Cântar
+
+# [TRANSLATION]
+<<<
+Astfel, va fi accesată zona de lucru a Cântarului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: ORDER_LIST
+# English: Order List
+# Romanian: Listă de comandă
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+La finalizarea citirii Produselor, va fi generată Lista de comandă, care va putea fi verificată prin intermediul Mesei de inspecție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Dacă nu există probleme, va trebui declanșată livrarea Produselor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: ORDER_LIST
+# English: Order List
+# Romanian: Listă de comandă
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+
+# [TRANSLATION]
+<<<
+Dacă este necesară refuzarea unor Produse din Lista de comandă, va trebui accesată Masa de inspecție prin Accesul său.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+Astfel, va fi accesată zona de lucru a Mesei de inspecție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Plata procesează
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+La finalizarea livrării Produselor, Cetățeanul va trebui să efectueze plata acestora.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Și include următoarele procese
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Procesează Bancnote
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+
+# [TRANSLATION]
+<<<
+Astfel, va fi accesată zona de lucru a Casei de marcat.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Romanian: Bon
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Odată procesată plata, pentru a finaliza cumpărăturile, Bonul va trebui oferit Cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Plata poate implica unele dintre următoarele Documente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+
+# [TRANSLATION]
+<<<
+Efectuează Acțiuni
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+
+# [TRANSLATION]
+<<<
+Dacă este necesară efectuarea unei Acțiuni asupra Cetățenilor, aceasta va putea fi efectuată prin Accesul Unității de acțiuni.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Romanian: Acțiune de apel
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Acțiune de apel a Cetățenilor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Prin intermediul acestuia, Cetățenii sunt chemați pentru a fi serviți la Stație.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Accesurile Stației
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Romanian: Acțiune de apel
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Acțiune de apel a Produselor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Romanian: Depozit de intrare
+
+# [TRANSLATION]
+<<<
+Permite inițierea sosirii Produselor în Depozitul de intrare al Produselor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Romanian: Depozit de ieșire
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Acces la Depozitul de ieșire al Produselor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Acțiunile stației
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Romanian: Livrare produse
+
+# [TRANSLATION]
+<<<
+Acțiune de Livrare produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Romanian: Depozit de ieșire
+
+# [TRANSLATION]
+<<<
+Cu aceasta, Produsele sunt autorizate și puse la dispoziția Cetățeanului prin Depozitul de ieșire al Produselor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Romanian: Cititor manual de produse
+
+# [TRANSLATION]
+<<<
+Acces la Cititorul manual de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Romanian: Cititor manual de produse
+
+# [TRANSLATION]
+<<<
+Prin intermediul acestuia, se accesează Cititorul manual de produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Romanian: Cititor de carduri de identificare
+
+# [TRANSLATION]
+<<<
+Cititor de carduri de identificare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Element al Stației unde Cardurile de identificare trebuie glisate pentru a fi citite.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+
+# [TRANSLATION]
+<<<
+Monitor principal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Element al Stației compus din două monitoare care afișează datele unei Cărți de identificare atunci când aceasta este citită. Datele constau într-un portret care reunește caracteristicile fizice ale Cetățeanului și informațiile personale asociate.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Romanian: Depozit de intrare
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Depozit de intrare pentru produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Element al Stației de unde sunt preluate Produsele pentru a fi procesate.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Romanian: Control de navigare
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+
+# [TRANSLATION]
+<<<
+Control de navigare al Monitorului principal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Permite accesarea informațiilor suplimentare de pe Monitorul principal asociate interdicțiilor privind Produsele Cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Romanian: Cititor de produse
+
+# [TRANSLATION]
+<<<
+Cititor de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Produsele trebuie glisate de la dreapta la stânga pe masă pentru a fi citite de cititor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: SCALE
+# English: Scale
+# Romanian: Cântar
+
+# [TRANSLATION]
+<<<
+Este posibil ca unele Produse să nu aibă coduri de bare, ceea ce face ca Produsul să nu poată fi citit până când nu este procesat mai întâi pe Cântar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Romanian: Cititor manual de produse
+
+# [TRANSLATION]
+<<<
+În timpul citirii Produselor pot apărea erori de citire. Dacă acestea sunt succesive, Produsul va trebui procesat prin Cititorul manual de produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Romanian: Depozit de ieșire
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Depozit de ieșire pentru produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Romanian: Depozit de ieșire
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: ORDER_LIST
+# English: Order List
+# Romanian: Listă de comandă
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul Depozitului de ieșire pentru produse. Este Zona de lucru în care se stabilește dacă un Produs din Lista de comandă a Cetățeanului va fi aprobat sau nu.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+
+# [TRANSLATION]
+<<<
+Casă de marcat
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Element al Stației unde sunt depuse Documentele de plată ale Cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Accesibil în momentul în care un mijloc de plată este glisat prin Casa de marcat. Este Zona de lucru în care este procesată oferirea restului către Cetățean.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+Masă de inspecție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul Mesei de inspecție. Este Zona de lucru în care sunt inspectate și procesate diferitele tipuri de Documente.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Aceasta dispune de următoarea serie de instrumente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Romanian: Lupă
+
+# [TRANSLATION]
+<<<
+Lupă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Romanian: Sigiliu de autenticitate
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Funcția sa este de a dezvălui dacă un Sigiliu de autenticitate este autentic. Poate fi utilizată și pentru a dezvălui informații ascunse în Documente.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Romanian: Perforator
+
+# [TRANSLATION]
+<<<
+Perforator
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Sarcina sa este de a perfora Documente.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Romanian: Tavă pentru documente auxiliare
+
+# [TRANSLATION]
+<<<
+Tavă pentru documente auxiliare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Romanian: Documente auxiliare
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Această Tavă oferă Documente auxiliare cu informații suplimentare, necesare pentru a opera corespunzător în relația cu Cetățenii.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Romanian: Capsator
+
+# [TRANSLATION]
+<<<
+Capsator
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Sarcina sa este de a uni anumite Documente prin intermediul unei capse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Romanian: Ștampilă
+
+# [TRANSLATION]
+<<<
+Ștampilă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Funcția sa este de a sigila Documente.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Romanian: Vizualizator teste efectuate
+
+# [TRANSLATION]
+<<<
+Vizualizator teste efectuate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+În acest vizualizator sunt afișate informațiile despre diferitele teste efectuate asupra cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Romanian: Cititor manual de produse
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul Cititorului manual de produse. Este Zona de lucru în care Produsele sunt citite manual.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+Acces la Masa de inspecție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+Prin acesta se accesează Masa de inspecție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: SCALE
+# English: Scale
+# Romanian: Cântar
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil când un Produs este glisat pe Cântar. Este Zona de lucru în care sunt generate coduri de bare pentru Produsele care nu le au.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: INVENTORY
+# English: Inventory
+# Romanian: Inventar
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: OBJECT
+# English: Object
+# Romanian: Obiect
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul Inventarului. Este Zona de lucru în care sunt depozitate Obiecte care pot fi folosite pentru a interacționa cu Cetățenii.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Romanian: Telefon
+
+# [TRANSLATION]
+<<<
+Telefon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: TELEPHONE
+# English: Telephone
+# Romanian: Telefon
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul Telefonului. Este Zona de lucru în care se efectuează apeluri.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: INVENTORY
+# English: Inventory
+# Romanian: Inventar
+
+# [TRANSLATION]
+<<<
+Acces la Inventar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Romanian: Inventar
+
+# [TRANSLATION]
+<<<
+Permite accesarea Inventarului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: TELEPHONE
+# English: Telephone
+# Romanian: Telefon
+
+# [TRANSLATION]
+<<<
+Acces la Telefon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: TELEPHONE
+# English: Telephone
+# Romanian: Telefon
+
+# [TRANSLATION]
+<<<
+Acces care permite intrarea în Telefon.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Romanian: Sigiliu de autenticitate
+
+# [TRANSLATION]
+<<<
+Sigiliu de autenticitate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Servesc la validarea autenticității anumitor Documente. Pentru aceasta, trebuie să îndeplinească următoarele caracteristici
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Să aibă următoarea formă și culoare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Romanian: Lupă
+
+# [TRANSLATION]
+<<<
+A se ilumina când este expus la Lupa Mesei de inspecție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Carte de identificare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Romanian: Cititor de carduri de identificare
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Cardurile de identificare sunt Documente prezentate de Cetățeni și trebuie citite cu ajutorul Cititorului de carduri de identificare amplasat în Stație.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Autenticitate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Pentru ca o Carte de identificare să fie autentică, trebuie să îndeplinească următoarele cerințe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Să corespundă ca dispunere, formă și culoare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Romanian: Sigiliu de autenticitate
+
+# [TRANSLATION]
+<<<
+Ambele Sigilii de autenticitate trebuie să fie autentice
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Valabilitate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+
+# [TRANSLATION]
+<<<
+Cărțile de identificare au o perioadă de valabilitate. Această informație poate fi consultată pe Monitorul principal, în câmpul Expirare, la introducerea cărții în cititor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Bancnote
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Romanian: Centru de distribuție
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+#
+# ID: WORKSTATION
+# English: Workstation
+# Romanian: Stație de lucru
+
+# [TRANSLATION]
+<<<
+Bancnotele sunt una dintre formele de plată acceptate în Centrele de distribuție. Acestea trebuie procesate la Casa de marcat amplasată la Stația de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Să corespundă ca dispunere și formă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Romanian: Sigiliu de autenticitate
+
+# [TRANSLATION]
+<<<
+Sigiliul dumneavoastră de autenticitate trebuie să fie autentic
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Pentru ca Bancnotele să fie autentice, acestea trebuie să îndeplinească aceste cerințe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Romanian: Bancnote marcate
+
+# [TRANSLATION]
+<<<
+Bancnote marcate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Banii au un sistem de marcare alcătuit dintr-un cod cu o literă și șapte cifre pe verso, al cărui înțeles este următorul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Codul literei F: Sunt Bancnote valabile
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Codul literei X: Sunt Bancnote cu indicii că sunt urmărite
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Romanian: Lupă
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Romanian: Listă de coduri UV
+
+# [TRANSLATION]
+<<<
+Bancnotele cu indicii că sunt urmărite trebuie verificate prin codul lor UV, vizibil numai cu Lupa de pe Masa de inspecție. Bancnota va fi marcată dacă ultimele patru cifre ale codului UV sunt prezente în documentul cu Lista de coduri UV urmărite
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Starea Bancnotelor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Bancnotele predate de Cetățeni trebuie să fie în stare perfectă. Acestea nu trebuie să prezinte urme de vandalism, rupturi, pete sau deteriorarea culorii
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: CATEGORY
+# English: Category
+# Romanian: Categorie
+#
+# ID: LABEL
+# English: Label
+# Romanian: Etichetă
+
+# [TRANSLATION]
+<<<
+Este un Document generat la finalizarea citirii Produselor. În acesta sunt prezentate Produsele solicitate de Cetățean, starea lor de aprobare și o serie de Etichete corespunzătoare diferitelor Categorii din care face parte Produsul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: ORDER_LIST
+# English: Order List
+# Romanian: Listă de comandă
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Romanian: Respingător de produse
+
+# [TRANSLATION]
+<<<
+Pentru a anula un Produs din Lista de comandă, zona indicată trebuie ștampilată cu Respingătorul de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Romanian: Documente auxiliare
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Romanian: Tavă pentru documente auxiliare
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: ORDER_LIST
+# English: Order List
+# Romanian: Listă de comandă
+#
+# ID: LABEL
+# English: Label
+# Romanian: Etichetă
+
+# [TRANSLATION]
+<<<
+Este un Document din Tava pentru documente auxiliare de pe Masa de inspecție. În acesta este prezentat sensul fiecărei Etichete din Lista de comandă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Următoarele Acțiuni au fost integrate în Stație
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Următoarele Accesuri au fost integrate în Stație
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+
+# [TRANSLATION]
+<<<
+Acces la Unitatea de acțiuni
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+
+# [TRANSLATION]
+<<<
+Permite accesarea Unității de acțiuni.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+
+# [TRANSLATION]
+<<<
+Unitate de acțiuni
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul la Unitatea de acțiuni. Este Zona de lucru în care se desfășoară diferite tipuri de Acțiuni asupra Cetățenilor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Romanian: Notificator de nereguli
+
+# [TRANSLATION]
+<<<
+Acces la Notificatorul de nereguli
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Romanian: Notificator de nereguli
+
+# [TRANSLATION]
+<<<
+Permite accesarea Notificatorului de nereguli.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Romanian: Notificator de nereguli
+
+# [TRANSLATION]
+<<<
+Notificator de nereguli
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Romanian: Notificator de nereguli
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul la Notificatorul de nereguli. Este Zona de lucru care permite informarea Cetățeanului cu privire la nereguli.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Romanian: Registrul turei de lucru
+
+# [TRANSLATION]
+<<<
+Acces la Registrul turei de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Romanian: Registrul turei de lucru
+
+# [TRANSLATION]
+<<<
+Permite accesarea Registrului turei de lucru.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Romanian: Registrul turei de lucru
+
+# [TRANSLATION]
+<<<
+Registrul turei de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Romanian: Registrul turei de lucru
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul la Registrul turei de lucru. Este Zona de lucru care permite atât începerea, cât și încheierea turei de lucru la Stație.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+
+# [TRANSLATION]
+<<<
+Elementele Stației
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Început
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Meniu principal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Documente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Zone de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Raportează neregula
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Romanian: Depozit de ieșire
+
+# [TRANSLATION]
+<<<
+Permite accesarea Depozitului de ieșire pentru Produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Citește Produsele manual
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Romanian: Bon fiscal
+
+# [TRANSLATION]
+<<<
+Bon fiscal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Este generat la încheierea livrării Produselor. Și trebuie înmânat Cetățeanului pentru a aproba și finaliza cumpărarea.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+
+# [TRANSLATION]
+<<<
+Cetățeanul prezintă o metodă de plată pe Masa de inspecție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+
+# [TRANSLATION]
+<<<
+Odată verificată, metoda de plată trebuie depusă în Casa de marcat.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Romanian: Notificator de nereguli
+
+# [TRANSLATION]
+<<<
+În acest mod va fi accesată Zona de lucru a Notificatorului de nereguli.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+
+# [TRANSLATION]
+<<<
+În acest mod va fi accesată Zona de lucru a Unității de acțiuni.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Romanian: Notificator de nereguli
+
+# [TRANSLATION]
+<<<
+În cazul în care este descoperită vreo neregulă în timpul servirii Cetățenilor, aceasta poate fi raportată prin Accesul la Notificatorul de nereguli.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Elementul în care sunt depuse mijloacele de plată ale Cetățenilor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Elementul în care Produsele sunt procesate pentru a fi citite.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Elementul în care Produsele sunt procesate pentru a fi cântărite.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+În această zonă sunt afișate toate Produsele pe care le are Cetățeanul, grupate în două zone, una de aprobare și alta de respingere.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Asociat fiecărui Produs, există un mecanism care va permite mutarea Produsului între aceste zone pentru a determina dacă va fi aprobat sau nu, atunci când ulterior alimentele vor fi autorizate la Stație.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Descrierea zonei de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Romanian: Cititor de produse
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil în momentul în care un Produs este trecut prin Cititorul de produse. Este Zona de lucru în care sunt citite Produsele.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+În acest scop, trebuie deschisă tava, acumulată și confirmată suma corespunzătoare care urmează să fie predată cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Restul de bani temizle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Restul de bani kabul et
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Referințe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Pentru a începe, scannerul trebuie poziționat deasupra codului de bare al Produsului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Cu scannerul poziționat, se procedează la citirea Codului Produsului, menținând apăsat butonul scannerului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Odată citit Codul Produsului, acesta trebuie introdus și acceptat prin intermediul tastaturii, finalizând astfel introducerea.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Șterge Codul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Acceptă Codul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Completează autom. Codul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Scanează Codul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Pentru a începe, trebuie căutat Produsul corespunzător în lista de Coduri de Produs.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Odată găsit Codul corespunzător, acesta trebuie introdus de la tastatură, apoi trebuie imprimat și lipit codul de bare pe Produs.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Tipărește Codul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Căutare automată a Codului
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Romanian: Obiect
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Pentru a preda un Obiect unui cetățean, acesta trebuie tras spre el.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Romanian: Obiect
+
+# [TRANSLATION]
+<<<
+Folosește Obiectul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Apelurile pot fi efectuate prin apelare liberă sau prin intermediul unui contact salvat.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Efectuează apel
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Agendă de contacte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Apelare liberă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Romanian: Refuză
+
+# [TRANSLATION]
+<<<
+Refuză
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Scanează amprentele
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Romanian: Arestează
+
+# [TRANSLATION]
+<<<
+Arestează
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Scanează corpul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Romanian: Neutralizează
+
+# [TRANSLATION]
+<<<
+Neutralizează
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Romanian: Măsoară presiunea
+
+# [TRANSLATION]
+<<<
+Măsoară presiunea
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Romanian: Măsoară alcoolul
+
+# [TRANSLATION]
+<<<
+Măsoară alcoolul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Pentru a înregistra intrarea sau ieșirea, introduceți cardul în fanta aparatului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Aprobă / Respinge Produsul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Romanian: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Romanian: Îmbunăt.
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeanului îi poate fi afișată suma restului care trebuie predată prin această Îmbunăt.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Romanian: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Romanian: Îmbunăt.
+
+# [TRANSLATION]
+<<<
+Îmbunăt. care permite vizualizarea sumei de bani din tava pentru rest.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Romanian: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Romanian: Îmbunăt.
+#
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Îmbunăt. care permite completarea automată a unui Cod scanat.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Romanian: Îmbunăt.
+#
+# ID: CODE
+# English: Code
+# Romanian: Cod
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Îmbunăt. care permite completarea automată a Codului actual din lista de Produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Romanian: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Romanian: Îmbunăt.
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Îmbunăt. care permite căutarea automată a unui Produs din lista de Produse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Romanian: Îmbunăt.
+
+# [TRANSLATION]
+<<<
+Îmbunăt.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Romanian: Regulă
+
+# [TRANSLATION]
+<<<
+Reguli în vigoare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Romanian: Regulă
+
+# [TRANSLATION]
+<<<
+Nerespectarea oricăreia dintre următoarele Reguli de către lucrător va fi penalizată la venituri.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Instrumente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Vezi Zone de lucru
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Romanian: Documente auxiliare
+
+# [TRANSLATION]
+<<<
+Documente auxiliare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Romanian: Doc. aux.
+
+# [TRANSLATION]
+<<<
+Elimină Doc. aux.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+
+# [TRANSLATION]
+<<<
+Respinge Produsul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Romanian: Respingător de produse
+
+# [TRANSLATION]
+<<<
+Respingător de produse
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Funcția sa este de a respinge Produsele Cetățenilor. Pentru aceasta, trebuie poziționată și acționată ștampila în zona Produsului care urmează să fie respins.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+În acesta sunt înregistrate numere de telefon importante și utilizate frecvent.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: LABEL
+# English: Label
+# Romanian: Etichetă
+
+# [TRANSLATION]
+<<<
+Consultați acest Document pe Masa de inspecție pentru mai multe informații. Veți găsi semnificația Etichetelor pe față și informații suplimentare pe verso-ul Documentului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Romanian: Acțiune
+#
+# ID: BMI
+# English: BMI
+# Romanian: IMC
+
+# [TRANSLATION]
+<<<
+Acțiune de calcul al IMC
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Romanian: Referințe alimentare
+#
+# ID: OBESITY
+# English: Obesity
+# Romanian: Obezitate
+
+# [TRANSLATION]
+<<<
+Permite obținerea indicelui de masă corporală al Cetățeanului. Consultați valorile valide ale Obezității în Documentul Referințe alimentare.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Vizualizează testele efectuate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+
+# [TRANSLATION]
+<<<
+Acces la Persoane dispărute
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+
+# [TRANSLATION]
+<<<
+Permite accesul la registrul Persoanelor dispărute.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+
+# [TRANSLATION]
+<<<
+Acces la Infractori căutați
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+
+# [TRANSLATION]
+<<<
+Permite accesul la registrul Infractorilor căutați
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil prin Acces la Persoane dispărute, este Zona de lucru în care sunt afișate toate datele personale asociate fiecăreia dintre Persoanele dispărute.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil prin Acces la Infractori căutați, este Zona de lucru în care sunt afișate toate datele personale asociate fiecăruia dintre Infractorii căutați.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Pentru a putea încasa recompensa, trebuie apelat numărul indicat în timp ce cetățeanul este prezent la Stație.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Romanian: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+
+# [TRANSLATION]
+<<<
+Permite vizualizarea rapidă și sintetică a tuturor Persoanelor dispărute pentru a facilita verificarea.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+
+# [TRANSLATION]
+<<<
+Permite vizualizarea rapidă și sintetică a tuturor Infractorilor căutați pentru a facilita verificarea.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Romanian: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Acces Quick Viewer (Infractori căutați)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Romanian: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Acces Quick Viewer (Persoane dispărute)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Romanian: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+
+# [TRANSLATION]
+<<<
+Permite accesul la Quick Viewer pentru Infractori căutați.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Romanian: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+
+# [TRANSLATION]
+<<<
+Permite accesul la Quick Viewer pentru Persoane dispărute.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+
+# [TRANSLATION]
+<<<
+Pentru ca Cupoanele alimentare să fie autentice, trebuie să îndeplinească aceste cerințe.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Cupoanele alimentare au o perioadă de valabilitate. Această informație poate fi văzută pe partea din față a documentului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Romanian: Cupoane alimentare
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Romanian: Centru de distribuție
+
+# [TRANSLATION]
+<<<
+Cupoanele alimentare sunt una dintre metodele de plată acceptate în Centrele de distribuție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+A sigila
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+
+# [TRANSLATION]
+<<<
+Valabilitatea lor trebuie verificată și trebuie ștampilate la Masa de inspecție, apoi depuse în Casa de marcat a Stației.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Neutralizator
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Zonă de lucru în care sunt neutralizați Cetățeni ostili. Pentru aceasta, trebuie efectuate împușcături precise.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Romanian: Neutralizare
+
+# [TRANSLATION]
+<<<
+Rețineți că dispuneți de muniție și timp limitate pentru a realiza Neutralizarea.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MAIL
+# English: Mail
+# Romanian: Poștă
+
+# [TRANSLATION]
+<<<
+Acces la Poștă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MAIL
+# English: Mail
+# Romanian: Poștă
+
+# [TRANSLATION]
+<<<
+Acces care permite intrarea în Poștă.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Romanian: Poștă
+
+# [TRANSLATION]
+<<<
+Poștă
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Romanian: Acces
+#
+# ID: MAIL
+# English: Mail
+# Romanian: Poștă
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: OBJECT
+# English: Object
+# Romanian: Obiect
+#
+# ID: INVENTORY
+# English: Inventory
+# Romanian: Inventar
+
+# [TRANSLATION]
+<<<
+Accesibil prin Accesul la Poștă. Este Zona de lucru în care pot fi trimise Obiecte din Inventar către contacte înregistrate. Pentru a trimite un Obiect, pachetul trebuie mai întâi pregătit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Pentru aceasta, mai întâi trebuie așezată cutia goală pe masă.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Romanian: Obiect
+
+# [TRANSLATION]
+<<<
+În al doilea rând, Obiectul de trimis trebuie depus în cutie.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+După aceea, cutia trebuie învelită cu ambalajul de expediere.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+În această etapă, se poate selecta contactul căruia se dorește trimiterea pachetului și se poate imprima bonul.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Pentru a finaliza și a trimite pachetul, trebuie lipit bonul generat și pachetul trebuie depus în depozitul de expediere.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Romanian: Hartă
+
+# [TRANSLATION]
+<<<
+Hartă a orașelor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Romanian: Listă de coduri UV
+
+# [TRANSLATION]
+<<<
+Listă de coduri UV
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Romanian: Listă de carduri de credit
+
+# [TRANSLATION]
+<<<
+Listă de carduri de credit
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Romanian: Tavă pentru documente auxiliare
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Romanian: Centru de distribuție
+
+# [TRANSLATION]
+<<<
+Este un document din Tava pentru documente auxiliare de la Masa de inspecție. Acesta enumeră orașele din Nowhere autorizate să primească alimente de la Centrul de distribuție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Romanian: Centru de distribuție
+
+# [TRANSLATION]
+<<<
+Notele de credit sunt una dintre metodele de plată acceptate în Centrele de distribuție.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Romanian: Casă de marcat
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+
+# [TRANSLATION]
+<<<
+Valabilitatea acesteia trebuie verificată, iar factura asociată trebuie capsată la Masa de inspecție, apoi depusă în Casa de marcat a Stației.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Notele de credit au o perioadă de valabilitate. Această informație poate fi văzută pe partea frontală a documentului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Romanian: Notă de credit
+
+# [TRANSLATION]
+<<<
+Pentru ca Notele de credit să fie autentice, trebuie să îndeplinească aceste cerințe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+
+# [TRANSLATION]
+<<<
+Element care indică greutatea cetățeanului prezent la Stație. O greutate excesivă față de cea înregistrată pe Monitorul principal poate indica un posibil furt.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Romanian: Neregulă
+
+# [TRANSLATION]
+<<<
+Accesibilă prin Unitatea de acțiuni, este Zona de lucru în care corpul Cetățenilor este scanat pentru a găsi Nereguli.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Pentru a începe, scanerul trebuie desfășurat deasupra corpului cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cu scanerul în poziție, trebuie scanat corpul cetățeanului ținând apăsat butonul scanerului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Romanian: Control de navigare
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Romanian: Neregulă
+
+# [TRANSLATION]
+<<<
+Odată ce scanarea este finalizată, va fi afișat Controlul de navigare și trebuie căutate Nereguli.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Romanian: Neregulă
+
+# [TRANSLATION]
+<<<
+verifică Neregula
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Consultați precizările de pe verso-ul documentului pentru mai multe informații.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Romanian: Tavă pentru documente auxiliare
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Romanian: Bancnote marcate
+
+# [TRANSLATION]
+<<<
+Este un document din Tava pentru documente auxiliare de la Masa de inspecție. Acesta enumeră codurile UV ale Bancnotelor marcate.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Romanian: Centru de distribuție
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Romanian: Cititor de carduri de credit
+
+# [TRANSLATION]
+<<<
+Cardurile de credit sunt una dintre metodele de plată acceptate în Centrele de distribuție și trebuie procesate cu Cititorul de carduri de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+#
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Cardurile de credit afișează Codul și informațiile proprietarului pe față, iar codul de securitate pe verso.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Romanian: Elemente
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Element al Stației unde sunt procesate plățile cu Card de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+#
+# ID: STATION
+# English: Station
+# Romanian: Stație
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibilă când un Card de credit este trecut prin cititorul Stației, este Zona de lucru în care sunt procesate plățile cu Card de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Apoi trebuie introduse ultimele 4 cifre ale Codului Cardului de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+#
+# ID: CODE
+# English: Code
+# Romanian: Cod
+
+# [TRANSLATION]
+<<<
+Apoi trebuie introdus Codul de securitate al Cardului de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Romanian: Cod
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+După introducerea Codurilor, dacă Cardul de credit are fonduri, va fi activată tipărirea bonului care urmează să fie semnat de Cetățean.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+După generarea bonului, acesta trebuie înmânat Cetățeanului prin intermediul tăvii pentru a fi semnat.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeanul va prezenta bonul semnat, iar acesta trebuie să corespundă cu semnătura de pe card.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Dacă semnăturile nu corespund, cardul aparține altei persoane și trebuie urmată procedura prevăzută de regulament.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Dacă semnăturile corespund, procesarea Cardului de credit trebuie finalizată, depozitând bonul în tava indicată.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Pentru a începe, Cardul de credit trebuie trecut prin cititor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Solicită semnătura
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Clonează cardul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Tipărește bonul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibilă prin Unitatea de acțiuni, este Zona de lucru în care sunt efectuate testele de alcoolemie.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Următoarele caracteristici la Cetățeni pot indica starea de ebrietate.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Pentru a confirma starea de ebrietate a Cetățenilor, dispozitivul trebuie mai întâi pregătit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Pentru început, muștiucurile folosite trebuie aruncate.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Apoi, muștiucul folosit și aruncat din dispozitiv trebuie înlocuit cu unul nou.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+În cele din urmă, dispozitivul va fi dus la gura Cetățeanului pentru a putea începe testul.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+După pregătirea dispozitivului, testul se va efectua menținând apăsat butonul dispozitivului până la finalizarea măsurării.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Romanian: Măsoară alcoolul
+
+# [TRANSLATION]
+<<<
+Măsoară alcoolul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Prinde
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Perforează
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Cupoanele de reducere sunt documente care pot fi predate împreună cu un mijloc de plată și care acoperă un procent din valoarea cumpărăturii cetățeanului. Acestea trebuie procesate înaintea plății.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Valabilitatea lor trebuie verificată și trebuie perforate pe masa de inspecție, apoi depuse în casa stației pentru a fi acceptate.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+#
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Cupoanele de reducere au o perioadă de valabilitate. Această informație poate fi văzută pe partea din față a Documentului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Cupoanele expirate trebuie invalidate prin ștampilarea verso-ului în zona indicată.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Romanian: Cupoane de reducere
+
+# [TRANSLATION]
+<<<
+Pentru ca Cupoanele de reducere să fie autentice, trebuie să îndeplinească aceste cerințe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Accesibil prin Unitatea de acțiuni, este Zona de lucru în care amprentele cetățeanului sunt comparate pentru a-i verifica identitatea.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+
+# [TRANSLATION]
+<<<
+Pentru început, trebuie consultată amprenta înregistrată asociată cu Cartea de identificare. Pentru aceasta, este necesară mai întâi citirea Cărții de identificare.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Apoi se va citi amprenta cetățeanului, menținând degetul pe cititor până la finalizarea citirii.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Romanian: Carte de identificare
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Trebuie apoi verificat dacă amprentele coincid. Dacă nu coincid, Cartea de identificare asociată nu aparține cetățeanului și trebuie urmată procedura conform regulamentului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Deschide fișierul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Romanian: Tavă pentru documente auxiliare
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Romanian: Masă de inspecție
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Este un document din Tava pentru documente auxiliare de pe Masa de inspecție. În acesta sunt indicate mărcile și băncile permise, asociate Cardurilor de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Romanian: Documente
+
+# [TRANSLATION]
+<<<
+Mărcile și băncile permise vor avea o bifă în document.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Romanian: Unitate de acțiuni
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Romanian: Zone de lucru
+
+# [TRANSLATION]
+<<<
+Accesibil prin Unitatea de acțiuni, este Zona de lucru în care se efectuează testele de presiune arterială.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Următoarele caracteristici la Cetățeni pot indica hipertensiune.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Pentru a confirma presiunea arterială a Cetățenilor, trebuie pregătit mai întâi dispozitivul.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Pentru început, trebuie pusă manșeta pe brațul cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Apoi, stetoscopul dispozitivului trebuie poziționat sub manșetă.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Cu dispozitivul pregătit, se efectuează testul apăsând succesiv butonul dispozitivului până la finalizarea măsurătorii.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Romanian: Măsoară presiunea
+
+# [TRANSLATION]
+<<<
+Măsoară presiunea
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Modificări neautorizate
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+
+# [TRANSLATION]
+<<<
+Bancnote false
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Romanian: Obiect
+#
+# ID: INVENTORY
+# English: Inventory
+# Romanian: Inventar
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Sunt Obiecte din Inventar care pot fi oferite Cetățenilor cu diverse probleme precum dependențe, obezitate, presiune arterială și intoleranțe, după caz.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Distribuirea nu este obligatorie, dar pentru fiecare pliant distribuit se va primi un venit suplimentar la finalul zilei.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Romanian: Bancnote
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Funcționalitate care permite oferirea restului din Bancnote false cetățeanului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Pentru fiecare fraudă realizată fără a fi descoperit, se va primi un venit suplimentar la finalul zilei.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Romanian: Cititor de carduri de credit
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Modificare a Cititorului de carduri de credit care permite clonarea Cardurilor de credit.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Romanian: Card de credit
+
+# [TRANSLATION]
+<<<
+Pentru a clona un Card de credit, trebuie mai întâi realizate capturile feței și versoului cardului.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Apoi, pentru a finaliza clonarea, datele trebuie trimise.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Pentru fiecare card clonat se va primi un venit suplimentar la finalul zilei.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Capturează cardul
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Trimite datele
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Romanian: Monitor principal
+#
+# ID: PRODUCT
+# English: Product
+# Romanian: Produs
+#
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Pe Monitorul principal sunt afișate unele interdicții de Produse ale Cetățenilor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Comenzi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Acest joc este conceput pentru a putea fi jucat în întregime doar cu mouse-ul.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+În plus, este activată utilizarea anumitor taste precum
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape, Enter, Ștergere, taste numerice, taste direcționale
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ok
+>>>

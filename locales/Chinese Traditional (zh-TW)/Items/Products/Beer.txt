@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#1
+
+# [ENGLISH]
+# Beer
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+啤酒
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#2
+
+# [ENGLISH]
+# Do you like beer? // Wow... // How delicate
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你喜歡啤酒嗎？ // 哇喔... // 好講究啊
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#3
+
+# [ENGLISH]
+# 'Don Maligno's beer' // 'Brewed from grains of a superior race' // The best grains...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno' 啤酒 // '以優等血統的穀物釀造' // 最好的穀物...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#4
+
+# [ENGLISH]
+# I worked hard today // I will really enjoy that beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今天我努力工作了 // 要好好享受這杯啤酒
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#5
+
+# [ENGLISH]
+# Do you drink beer? // Non-alcoholic beer? // Are you one of those...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你喝啤酒嗎？ // 無酒精啤酒？ // 你是那種人啊
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#6
+
+# [ENGLISH]
+# Hey! // Not my beer! // Nooooo!!!!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+喂！ // 別動我的啤酒！ // 不要啊啊啊！！！
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#7
+
+# [ENGLISH]
+# Please don't! // Everything but my beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不，求你了！ // 什麼都行，別動我的啤酒！
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#8
+
+# [ENGLISH]
+# Well... // I guess I'll go with pizza without beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+好吧... // 看來只能乾吃披薩配不上啤酒了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#9
+
+# [ENGLISH]
+# My beer... // Breaks my heart... // It breaks my heart...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我的啤酒啊... // 心都碎了... // 碎了...
+>>>

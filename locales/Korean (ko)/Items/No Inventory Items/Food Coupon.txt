@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#1
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+식품 쿠폰
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#3
+
+# [ENGLISH]
+# It's my food coupon // It's worth one purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+이것은 나의 식체 쿠폰입니다 // 한 번 구매에 사용할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#4
+
+# [ENGLISH]
+# It's my food coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+이것은 나의 식체 쿠폰입니다 // 처리해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+아니 // 네가 직접 처리해야 해
+>>>

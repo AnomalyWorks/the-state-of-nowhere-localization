@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+
+# [TRANSLATION]
+<<<
+Acemi eğitmeniyim // İlk gününde yapman gerekenler hakkında sana genel bir bilgi vermeye geldim // İlk olarak vatandaşı tespit etmelisin // Bunun için vatandaşın Kimlik Kartını okumak gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Ama bunu yapmadan önce Denetim Masasını aç // Orada belgeleri daha ayrıntılı inceleyebilirsin // Kimlik Kartını sağ tıklayarak çevirmeyi dene ve sonra buraya geri dön
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Turkish: Kimlik Kartı Okuyucu
+
+# [TRANSLATION]
+<<<
+Nihayet // Şimdi vatandaşı tespit etmek için kartı Kimlik Kartı Okuyucuya tak
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Turkish: Ürün Çağrısı
+
+# [TRANSLATION]
+<<<
+Başardın! // İnanamıyorum // Şimdi vatandaşın ürünlerini işleme zamanı // Ürün Çağrısını etkinleştir
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Turkish: Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Şimdi onları okutmalısın // Başlamak için ürünü Ürün Okuyucuya sürükle
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Vay be // Göründüğünden daha hızlısın // Oysa sana hiç inanmıyordum // Şimdi ödemeyi işleme zamanı // Ama diyelim ki ödemeyi sunmuyorum // Böyle bir usulsüzlük karşısında her zaman yapman gereken şey onu bildirmektir // Vatandaşın ödemeyi sunmadığını bildir
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+İyi // Şimdi ödemeyi işleme zamanı // Doğru para üstünü vermeyi ve ardından ödemeyi kabul etmeyi unutma
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Turkish: Fiş
+
+# [TRANSLATION]
+<<<
+Neredeyse bitirdik // Şimdi işlemi tamamlamak için bana Fişi vermelisin
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+#
+# ID: REJECT
+# English: Reject
+# Turkish: Geri Çevir
+
+# [TRANSLATION]
+<<<
+Normal şartlarda bu, satın almayı onaylar ve vatandaş ürünlerle birlikte gider // Bunu aklında tut // Şimdi sana sadece bir şey daha söyleyeyim // Vatandaşlar üzerinde Eylemler gerçekleştirebilirsin // Gitmem için Geri Çevir eylemini uygula
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Hepsi bu // En uyanık operatör değilsin // Ama bununla başa çıkabileceğini düşünüyorum // Bundan sonra yalnızsın // Bir şeyi nasıl yapacağını bilmiyorsan Kılavuzu oku
+>>>

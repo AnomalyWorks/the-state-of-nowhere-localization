@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#1
+
+# [ENGLISH]
+# Pizza
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+披薩
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#2
+
+# [ENGLISH]
+# Pizza is the best invention of mankind
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+披薩是人類最好的發明.
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#3
+
+# [ENGLISH]
+# That you don't like pizza? // What world do you come from?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你不喜歡披薩？ // 你是從哪個世界來的？
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#4
+
+# [ENGLISH]
+# 'Pizza Don Maligno' // 'The Nowhere government is not responsible for any adverse effects that may result from the consumption of this product' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+'Don Maligno披薩' // 'Nowhere政府不承擔消費此產品可能產生的任何不良後果的責任' // 太好了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#5
+
+# [ENGLISH]
+# What's your favorite pizza? // The one where I stay out of your business? // Oh // I understand.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你最喜歡的披薩是什麼？ // 是'少管閒事'那種嗎？ // 哦 // 我明白了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#6
+
+# [ENGLISH]
+# You cancelled my pizza... // I never met anyone as mean as you.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你取消了我的披薩... // 我從沒見過像你這麼邪惡的人
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#7
+
+# [ENGLISH]
+# Pizza? // No // Please don't
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+披薩？ // 不 // 拜託
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#8
+
+# [ENGLISH]
+# It must be a mistake // I have to eat pizza // Lots of it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+一定是弄錯了 // 我必須吃披薩 // 大量
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#9
+
+# [ENGLISH]
+# Really? // I'll miss that pizza... // Its melted cheese... // I want to cry
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+真的嗎？ // 我會想念那個披薩... // 它的融化起司... // 我想哭
+>>>

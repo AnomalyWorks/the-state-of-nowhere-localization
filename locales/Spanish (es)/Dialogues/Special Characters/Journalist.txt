@@ -1,0 +1,213 @@
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#1
+
+# [ENGLISH]
+# Journalist
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_JOURNALIST
+# English: Journalist
+# Spanish: Periodista
+
+# [TRANSLATION]
+<<<
+Periodista
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#2
+
+# [ENGLISH]
+# Hello // I see you're new here // Who am I? // I'm a freelance journalist // I work in the shadows // Since Maligno took over Nowhere // There's no one left to tell the reality of what's really going on... // That's why I feel a duty to spread the word // Reveal the truth to people like you... // The truth behind Maligno's movements... // We must not stand idly by... // I must go now... // I'll be back
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Spanish: Nowhere
+
+# [TRANSLATION]
+<<<
+Hola // Veo que eres nuevo aquí // ¿Qué quién soy yo? // Soy un periodista independiente // Trabajo en las sombras // Desde que Maligno se hizo con el control de Nowhere // No queda nadie que cuente la realidad de lo que está pasando en verdad... // Es por eso que siento el deber de difundir la palabra // Revelar la verdad a personas como tú... // La verdad detrás de los movimientos de Maligno... // No debemos quedarnos de brazos cruzados... // Ya debo irme... // Volveré
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#3
+
+# [ENGLISH]
+# Hello // It's me again // Have you seen the implementation of all those ridiculous measures? // I assure you it's nothing more than an evil plan by Maligno to subjugate the people // I'm sure something sinister is hiding behind these actions // I'll have to keep investigating // We'll be in touch
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Hola // Soy yo de nuevo // ¿Has visto la implementación de todas esas medidas ridículas? // Te aseguro que no es más que un malvado plan de Maligno para someter al pueblo // Estoy seguro de que algo siniestro se esconde bajo este accionar // Tendré que seguir investigando // Estaremos en contacto
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#4
+
+# [ENGLISH]
+# Hello // Since yesterday I've seen suspicious people following me // I don't know what they want // But I bet they must be Maligno's henchmen trying to silence me // But they won't succeed // My commitment to telling the truth is unbreakable // I will not betray my ideals under any circumstances // Never!
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Hola // Desde ayer he visto que hay personas sospechosas siguiendome // No sé que quieran // Pero apuesto a que deben ser secuaces de Maligno que buscan callarme // Pero no lo lograrán // Mi compromiso con contar la realidad es inquebrantable // No traicionaré mis ideales bajo ninguna circunstancia // ¡Jamás!
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#5
+
+# [ENGLISH]
+# Hello // I've gotten hold of something interesting that you must read // It explains how to resist tyrannies like Maligno's // I'm sure they've burned many copies of this // It must be one of the few remaining // Keep it safe // Don't let them find it // With things like this, we can keep the flame of freedom alive // See you soon
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Hola // He conseguido algo interesante que debes leer // Explica cómo resistir a tiranías como la de Maligno // Seguro han quemado muchos de estos ejemplares // Debe ser de los pocos que quedan // Consérvalo // No dejes que lo encuentren // Con cosas como esas podremos seguir manteniendo viva la llama de la libertad // Hasta pronto
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#6
+
+# [ENGLISH]
+# I'm back... // Something incredible has happened to me // Do you remember those guys who were following me? // Well, they did turn out to be Maligno's henchmen // They intercepted me to offer me something // They say my 'perspective' is valuable and they are interested in my services // I don't know what to think... // On one hand, it would be getting close to the enemy // But on the other hand... // It would be the perfect opportunity to obtain important information to end the regime // I still don't know what to do... // I'll tell you more later
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Volví... // Algo increíble me ha pasado // ¿Recuerdas a los tipos que me seguian? // Pues efectivamente resultaron ser secuaces de Maligno // Me interceptaron para ofrecerme algo // Dicen que mi 'perspectiva' es valiosa y están interesados en mis servicios // No sé qué pensar... // Por un lado sería acercarme al enemigo // Pero por otro... // Sería la oportunidad perfecta para obtener información importante que acabe con el régimen // No sé aún que hacer... // Luego te contaré
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#7
+
+# [ENGLISH]
+# Hello // I had a meeting a little while ago // It was interesting // They made me a formal offer // A position on the Nowhere state press team // A salary ten times higher than what I earn now // Total protection and a beautiful home in a private neighborhood // I told them I would think about it... // But of course, they are not going to seduce me with such banal things // I'm only going to pretend to take advantage of the opportunity and bring them down // That's what I'll do // I will accept their proposal tomorrow
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hola // Tuve una reunión hace poco // Fue interesante // Me hicieron una oferta formal // Un puesto en el equipo de prensa del estado de Nowhere // Un sueldo diez veces superior a lo que gano ahora // Protección total y una hermosa vivienda en un barrio privado // Les dije que lo pensaría... // Pero desde luego que no van a seducirme con esas cosas tan banales // Solo voy a fingir para aprovechar la oportunidad y acabarlos // Si eso haré // Mañana mismo aceptaré su propuesta
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#8
+
+# [ENGLISH]
+# Hello // Things have been going wonderfully at work // Everything is so elegant and sophisticated... // With many employees at my entire service // I've been thinking... // What if maybe fighting against Maligno is pointless? // Perhaps the real way to change things is from within // I could soften his measures // Make them less harmful to the poorest // Wouldn't that be better than shouting from the outside? // Maybe that's for the best // Goodbye
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Hola // Me ha ido de maravillas en el trabajo // Es todo tan elegante y sofisticado... // Con muchos empleados a mi entero servicio // He estado pensando... // ¿Y si tal vez luchar contra Maligno es inútil? // Quizás la verdadera forma de cambiar las cosas es desde adentro // Podría suavizar sus medidas // Que sean menos perjudiciales para los más pobres // ¿No sería eso mejor a que estar gritando desde afuera? // Quizás eso sea lo mejor // Adiós
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#9
+
+# [ENGLISH]
+# Hi! // Do you notice something different? // I just collected a hefty salary and went shopping // But what you see is just the beginning // They told me that soon I'll have my own column in the state's official newspaper // It will be called 'Spreading the Reality' // Sounds good // Doesn't it? // See you later
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+¡Hola! // ¿Notas algo diferente? // Acabo de cobrar un abundante salario y me he ido de compras // Pero esto que ves es solo el principio // Me dijeron que pronto tendré mi propia columna en el diario oficial del estado // 'Difundiendo la realidad' se llamará // Suena bien // ¿No? // Nos vemos luego
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#10
+
+# [ENGLISH]
+# Hello // I came in a limousine // Yes // I have a chauffeur // I am now far too important to mingle with riff-raff on public transport // In the end, Maligno wasn't as bad as I thought // You should consider being more flexible and letting go of idealistic nonsense // And maybe you'll be given the same benefits as me // Playing the rebel won't get you anywhere
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Hola // He venido en limusina // Si // Tengo chofer // Ahora soy demasiado importante como para mezclarme con gentuza en el transporte público // Al final Maligno no era tan malo como pensaba // Deberías considerar ser más flexible y dejar de lado tonterías idealistas // Y puede que te den los mismo beneficios que a mí // Haciéndote el rebelde no lograrás nada
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_PERIODISTA#11
+
+# [ENGLISH]
+# Hello // I came to say goodbye // I can't allow someone like me to be seen in these places // We now belong to different levels // By the way // I've been appointed Maligno's Official Spokesperson // Oh // Here // Buy yourself something nice // Looks like you need it // Goodbye
+
+# [CONTEXT]
+# Journalist's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Hola // Vine a despedirme // No puedo permitir que alguien como yo sea visto por estos lugares // Ahora pertenecemos a diferentes niveles // Por cierto // Me han nombrado Portavoz Oficial de Maligno // Ah // Ten // Comprate algo lindo // Se ve que lo necesitas // Adios
+>>>

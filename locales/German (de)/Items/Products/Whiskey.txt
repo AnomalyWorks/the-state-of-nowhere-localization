@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#1
+
+# [ENGLISH]
+# Whiskey
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Whisky
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#2
+
+# [ENGLISH]
+# Do you like whiskey? // On the rocks or off the rocks? // Shut up? // Ok.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Magst du Whisky? // Mit oder ohne Eis? // Ich soll still sein? // Ok
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#3
+
+# [ENGLISH]
+# 'Whiskey Don Maligno' // 'Drink in moderation' // Yes... // Maybe next month...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Whisky Don Maligno' // 'In Maßen trinken' // Ja... // Vielleicht nächsten Monat...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#4
+
+# [ENGLISH]
+# I'll take that bottle of whiskey to drink tonight.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich nehme diese Flasche Whisky mit, um sie heute Abend zu trinken
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#5
+
+# [ENGLISH]
+# Do you like whiskey? // You don't drink alcohol? // Ok.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Magst du Whisky? // Du trinkst keinen Alkohol? // Ok
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#6
+
+# [ENGLISH]
+# Hey! // I thought I'd have that whiskey with a friend.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey! // Ich wollte diesen Whisky mit einem Freund trinken
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#7
+
+# [ENGLISH]
+# Anyway // I guess I'll lay off that whiskey.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Na ja // Ich schätze, ich lasse diesen Whisky stehen
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#8
+
+# [ENGLISH]
+# What now? // This is the fourth time you won't let me buy my whiskey!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Und jetzt? // Das ist das vierte Mal, dass man mich meinen Whisky nicht mitnehmen lässt!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_WHISKY#9
+
+# [ENGLISH]
+# What about my whiskey? // Stop drinking? // Never.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Whiskey product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Und mein Whisky? // Ich soll aufhören zu trinken? // Niemals
+>>>

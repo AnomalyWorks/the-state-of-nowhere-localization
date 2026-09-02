@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#1
+
+# [ENGLISH]
+# Soda
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Refrigerante
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#2
+
+# [ENGLISH]
+# What flavor sodas do you like? // Grape? // You're weird.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+De que sabor você gosta de refrigerante? // De uva? // Você é estranho
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#3
+
+# [ENGLISH]
+# Do you like sodas? // What's it to me? // Unfriendly
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Você gosta de refrigerante? // O que isso me importa? // Antipático
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#4
+
+# [ENGLISH]
+# 'Don Maligno's Soda' // 'More effervescent than the competitors' // 'If there was such a thing' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Portuguese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Refrigerante Don Maligno' // 'Mais efervescente que os da concorrência' // 'Se ela existisse' // Ótimo
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#5
+
+# [ENGLISH]
+# I'll bring a soda to go with the meal
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Vou levar um refrigerante para acompanhar a comida
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#6
+
+# [ENGLISH]
+# Can't I bring soda? // That's too bad
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Não posso levar refrigerante? // Que maldade
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#7
+
+# [ENGLISH]
+# Where's my soda? // I can't take it // Damn.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E o meu refrigerante? // Não posso levá-lo? // Maldição
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#8
+
+# [ENGLISH]
+# It's okay... // If you say I can't bring soda... // I'm not complaining
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tudo bem... // Se você diz que não posso levar refrigerante... // Não reclamo
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#9
+
+# [ENGLISH]
+# And the soda? // That's too bad // I'll have to drink water with my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E o refrigerante? // Que pena // Terei que acompanhar a comida com água
+>>>

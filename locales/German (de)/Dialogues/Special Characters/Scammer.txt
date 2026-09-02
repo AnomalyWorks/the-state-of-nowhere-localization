@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# German: Betrüger
+
+# [TRANSLATION]
+<<<
+Betrüger
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hallo, Freund // Bist du daran interessiert, etwas dazuzuverdienen? // Ein großer Betrüger werden? // Wenn du dich entscheidest // Ruf mich an
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+In Ordnung // Ich gehe hin, wenn ich kann
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# German: Registrierkasse
+
+# [TRANSLATION]
+<<<
+Hallo // Du hast dich also entschieden... // in die Welt der Betrügereien einzusteigen... // Nun gut // Ich habe hier etwas für dich, das dir den Einstieg erleichtern wird... // Dieses Schmuckstück wird neben der Registrierkasse installiert, die du hast // Und es wird dir per Knopfdruck Falschgeld geben, ohne Verdacht zu erregen // Natürlich nehme ich für jeden Betrug, den du machst, eine kleine Provision... // Aber reden wir nicht darüber... // Du musst aufmerksam sein // Manche Leute könnten deinen Betrug bemerken // Und sie könnten dich anzeigen // Wenn du durch Anzeigen zu viel Aufmerksamkeit erregst, könnten sie dich verhaften // Konzentriere dich auf Kinder und ältere Menschen // Die merken es nicht // Und denk ja nicht daran, Polizisten zu betrügen, Freund... // Wie auch immer // Viel Glück
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# German: Kreditkartenleser
+
+# [TRANSLATION]
+<<<
+Hallo Freund // Ich sehe, du machst dich sehr gut im Betrugsgeschäft... // Lass mich dir etwas geben... // Diese hübsche Maschine wird an dem Kreditkartenleser befestigt, den du hast // Und was macht sie? // Nun, sie kopiert die Daten der Kreditkarten, die du eingibst, und schickt sie mir // Für jede Karte, die du kopierst, bekommst du ein zusätzliches Einkommen, Freund // Und denk daran // Halte dich von der Polizei fern... // Viel Glück
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# German: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Hallo, Freund // Ich bin hergerannt, um dich zu warnen, sobald ich davon erfahren habe... // Du musst sehr vorsichtig sein // Ein verdeckter Polizist treibt sich herum // Er gibt sich als ganz normaler Bürger aus... // Und wie erkennst du ihn? // Nun, zum Glück konnten meine Kontakte mir einen Namen geben... // Mark Shadow // Merk ihn dir // Du musst dir keine Sorgen machen // Du musst nur aufmerksam sein und keinen Blödsinn machen... // Gut // Das war alles // Auf Wiedersehen
+>>>

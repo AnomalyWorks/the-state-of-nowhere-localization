@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+Порушення
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+
+# [TRANSLATION]
+<<<
+Слід приймати дійсних громадян
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+
+# [TRANSLATION]
+<<<
+Громадяни, які крадуть товари, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Ukrainian: Грабіжники
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Ukrainian: Нейтралізований
+
+# [TRANSLATION]
+<<<
+Грабіжники повинні бути нейтралізовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Ukrainian: Посвідчення особи
+
+# [TRANSLATION]
+<<<
+Громадяни повинні оброблятися з посвідченням особи та бути відхилені, якщо вони його не пред'являють
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Ukrainian: Посвідчення особи
+
+# [TRANSLATION]
+<<<
+Громадяни з простроченим посвідченням особи повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Ukrainian: Посвідчення особи
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють чуже посвідчення особи, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Ukrainian: Посвідчення особи
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють підроблене посвідчення особи, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+
+# [TRANSLATION]
+<<<
+Громадяни з заборонених міст повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Ukrainian: Розшукувані злочинці
+
+# [TRANSLATION]
+<<<
+Розшукувані злочинці мають бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+
+# [TRANSLATION]
+<<<
+Громадяни з високим рівнем алкогольного сп'яніння мають бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Продукція повинна бути оброблена з відповідним кодом
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Ukrainian: Неповнолітні
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів, що не підходять для неповнолітніх
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Ukrainian: Літні люди
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів, що не підходять для літніх людей
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Ukrainian: Люди з ожирінням
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів, що не підходять для людей з ожирінням
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Ukrainian: Люди з тяжким ожирінням
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів, що не підходять для людей з тяжким ожирінням
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Ukrainian: Гіпертоніки
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів, що містять сіль, гіпертонікам
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів, що містять алкоголь, громадянам з позитивним тестом
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Ukrainian: Харчова непереносимість
+
+# [TRANSLATION]
+<<<
+Заборонено продаж продуктів з фруктозою громадянам з харчовою непереносимістю
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Ukrainian: Харчова непереносимість
+
+# [TRANSLATION]
+<<<
+Заборонено продажу продуктів із сахарозою громадянам з харчовою непереносимістю
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Ukrainian: Харчова непереносимість
+
+# [TRANSLATION]
+<<<
+Заборонено продажу продуктів із лактозою громадянам з харчовою непереносимістю
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Ukrainian: Харчова непереносимість
+
+# [TRANSLATION]
+<<<
+Заборонено продажу продуктів із глютеном громадянам з харчовою непереносимістю
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Ukrainian: Список заборонених осіб
+
+# [TRANSLATION]
+<<<
+Заборонено продаж товарів, що містяться у списку заборонених товарів громадянина
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Ukrainian: Список заборонених осіб
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Ukrainian: Категорії товарів
+
+# [TRANSLATION]
+<<<
+Заборонено продаж категорій товарів, що містяться у списку заборонених категорій громадянина
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+
+# [TRANSLATION]
+<<<
+Громадяни повинні пред'явити будь-який засіб оплати, інакше вони будуть відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+
+# [TRANSLATION]
+<<<
+Громадяни не повинні пред'являти нестачу грошей у платежах
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: BILLS
+# English: Bills
+# Ukrainian: Банкноти
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють підробні банкноти, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: BILLS
+# English: Bills
+# Ukrainian: Банкноти
+
+# [TRANSLATION]
+<<<
+Громадяни, які наполягають на оплаті порваними, забрудненими або вандалізованими банкнотами, повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: BILLS
+# English: Bills
+# Ukrainian: Банкноти
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють позначені банкноти, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Ukrainian: Кредитна картка
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють чужу кредитну картку, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Ukrainian: Кредитна картка
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють кредитну картку із забороненою маркою, повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Ukrainian: Кредитна картка
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють кредитні картки заборонених банків, повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Ukrainian: Кредитна картка
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють кредитну картку без коштів, повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Ukrainian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють чужу кредит-ноту, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Ukrainian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють прострочену кредит-ноту, повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Ukrainian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють підробну кредит-ноту, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Ukrainian: Продовольчі купони
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють чужі продовольчі купони, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Ukrainian: Продовольчі купони
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють підробні продовольчі купони, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: REJECTED
+# English: Rejected
+# Ukrainian: Відхилено
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Ukrainian: Продовольчі купони
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють прострочені продовольчі купони, повинні бути відхилені
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Ukrainian: Громадяни
+#
+# ID: ARRESTED
+# English: Arrested
+# Ukrainian: Заарештований
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Ukrainian: Купони на знижку
+
+# [TRANSLATION]
+<<<
+Громадяни, які пред'являють підроблені купони на знижку, повинні бути заарештовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Ukrainian: Купони на знижку
+
+# [TRANSLATION]
+<<<
+Купони на знижку з простроченим терміном дії не повинні прийматися та повинні бути анульовані
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Ukrainian: Купони на знижку
+
+# [TRANSLATION]
+<<<
+Прийняті купони на знижку повинні бути пробиті у вказаній зоні
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Ukrainian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Кредит-ноти повинні бути скріплені з рахунком-фактурою у вказаній зоні
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Ukrainian: Продовольчі купони
+
+# [TRANSLATION]
+<<<
+Продовольчі купони повинні бути проштамповані у вказаній зоні
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Не повинно бути нестачі в касі через переплату здачі
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Ukrainian: Купони на знижку
+
+# [TRANSLATION]
+<<<
+Купони на знижку повинні бути прийняті або анульовані
+>>>

@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#1
+
+# [ENGLISH]
+# Cheese
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+치즈
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#2
+
+# [ENGLISH]
+# Cheese is one of the best foods // Who says so? // Your mother
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+치즈는 최고의 음식 중 하나야 // 누가 그런 말을 해? // 엄마
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#3
+
+# [ENGLISH]
+# Today I will prepare cheese stuffed meatballs // Never tried?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘은 치즈를 채운 미트볼을 만들 거야 // 한번도 안 먹어 봤어?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#4
+
+# [ENGLISH]
+# I will bring cheese to prepare some pizzas // They turn out delicious.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+피자를 만들 치즈를 가져갈 거야 // 완전 맛있어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#5
+
+# [ENGLISH]
+# 'Don Maligno Cheese' // 'The government of Nowhere is not responsible for any adverse effects that may result from the consumption of this product' // Sounds good.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+
+# [TRANSLATION]
+<<<
+'Don Maligno 치즈' // 'Nowhere 정부는 이 제품 섭취로 인한 부작용에 대해 책임지지 않습니다' // 괜찮은데
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#6
+
+# [ENGLISH]
+# This must be the fifth time I've been refused cheese // Damn it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+치즈를 못 가져가게 하네 // 이번이 벌써 다섯 번째야 // 젠장
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#7
+
+# [ENGLISH]
+# Hey // I was thinking of making some cheese-stuffed meatballs... // Wicked
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+잠깐 // 치즈를 채운 미트볼을 만들려고 했는데... // 악당
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#8
+
+# [ENGLISH]
+# What cheese will I put on my pizzas now?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이제 어떤 치즈를 피자에 넣지?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#9
+
+# [ENGLISH]
+# Can't I bring cheese // Dang it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+치즈 못 가져가? // 아휴
+>>>

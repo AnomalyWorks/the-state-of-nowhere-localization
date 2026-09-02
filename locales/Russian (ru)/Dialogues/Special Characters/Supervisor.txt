@@ -1,0 +1,997 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#1
+
+# [ENGLISH]
+# Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Руководитель
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#2
+
+# [ENGLISH]
+# Good morning // I'll be your supervisor // Let's see what we have here... // workstation 65... // Employee 100411... // You seem to have experience in this... // If you have any questions, consult your manual // There you will find indications of the elements you have at your station // In addition to the current regulations // Respect the regulations // Don't make mistakes and you'll do well // Each mistake will count as a penalty in your salary... // Anyway... // May the glory of Maligno shine upon you... // Employee 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: WORKSTATION
+# English: Workstation
+# Russian: Рабочее место
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Доброе утро // Я буду вашим руководителем // Давайте посмотрим, что у нас здесь... // рабочее место 65... // Сотрудник 100411... // Кажется, у вас есть опыт в этом... // При любых вопросах обращайтесь к руководству // Там вы найдете указания о элементах, доступных вам на вашем рабочем месте // В дополнение к действующим нормативам // Уважайте нормативы // Не допускайте ошибок, и у вас все будет хорошо // Каждое нарушение будет считаться штрафом в вашей зарплате... // В общем... // Да воссияет слава Maligno над вами... // Сотрудник 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#3
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see the news? // Arrest those criminals // We have also installed new equipment // Check your manual for more information // You'll be fitted with the other gadgets soon... // This station used to be empty // The last wretch who used it left his entrails scattered all over the place // Yeah... // He was attacked... // You should have seen it... // We're refurbishing // Equipment's missing // You've got enough to operate though // Now get back to your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Привет, сотрудник 100411 // Видел новости? // Арестуй этих преступников // Кроме того, мы установили новое оборудование // Проверь свое руководство для получения дополнительной информации // Скоро тебе установят остальное оборудование... // Эта рабочая станция раньше была пуста // Последний несчастный, который ее использовал, разбросал свои внутренности повсюду // Да... // Его ограбили... // Ты бы это видел... // Мы восстанавливаем // Не хватает оборудования // Хотя у тебя достаточно для работы // Теперь возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#4
+
+# [ENGLISH]
+# Employee 100411 // Did you see the news? // There are new rules // Check your manual... // You must cancel non-compliant products // We must educate these people // Only then will we build a better Nowhere... // Now do your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // Ты видел новости? // Есть новые правила // Проверь свое Руководство... // Ты должен аннулировать продукты, которые не соответствуют нормативам // Мы должны просвещать этих людей // Только так мы построим лучший Nowhere... // Теперь выполни свою работу
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#5
+
+# [ENGLISH]
+# Hello employee 100411 // The product readers have been crashing lately... // I don't know what it could be... // They were the cheapest on the market... // Anyway... // You can enter the products manually if you have any problems // See the manual for more information...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Russian: Считыватель товаров
+
+# [TRANSLATION]
+<<<
+Привет, сотрудник 100411 // В последнее время считыватели товаров постоянно выходят из строя... // Не знаю, в чём может быть дело... // А ведь мы купили самые дешёвые на рынке... // В общем... // Если возникнут проблемы, можешь вводить товары вручную // За дополнительной информацией обратись к руководству
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#6
+
+# [ENGLISH]
+# Hello employee 100411 // As you can see, we have placed a storage unit in your station // There you can store your belongings // By the way... // I saw this and perhaps it could be useful to you // Don't thank me // Return to your work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Привет, сотрудник 100411 // Как видишь, мы установили хранилище на твоей рабочей станции // В нём ты сможешь хранить свои вещи // Кстати... // Я тут кое-что увидел, и, возможно, тебе это пригодится // Не благодари меня // Возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#7
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see about the missing minister's son // It breaks my heart... // That's why new equipment has been sent // You can see it in your manual // Your new job will be to check if any of the citizens // are present in the missing list... // Anyway... // Go back to your job 100411 // And by the way // There are juicy rewards for those who find these people // It would be a good opportunity for you // You could get that much needed plastic surgery...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // Ты слышал о пропавшем сыне министра? // Сердце разрывается... // По этой причине нам прислали новое оборудование // Можешь ознакомиться с ним в своём руководстве // Твоей новой задачей будет проверять, не находится ли кто-нибудь из граждан // в списке пропавших без вести... // В общем... // Возвращайся к работе, 100411 // И кстати // За обнаружение этих людей полагаются щедрые награды // Для тебя это была бы отличная возможность // Смог бы наконец сделать ту пластическую операцию, которая тебе так необходима...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#8
+
+# [ENGLISH]
+# Hello 100411 // We have been sent new equipment // You can see it in your manual // You will be able to verify if a citizen is a wanted criminal // The state of Nowhere has zero tolerance for criminals // You must arrest them // It is your duty now employee 100411 // Do not forget to claim the reward before proceeding with the arrest
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Привет, 100411 // Нам отправили новое оборудование // Ты можешь посмотреть его в твоем руководстве // Ты сможешь проверить, является ли гражданин разыскиваемым преступником // Государство Nowhere не терпит преступников // Ты должен арестовать их // Это твой долг теперь, сотрудник 100411 // Не забудь получить награду перед тем, как производить арест
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#9
+
+# [ENGLISH]
+# Hello 100411 // We have received a call from the police department of investigations // They have informed us about marked money // Money that they use to track certain criminals // You must arrest any individual with marked bills // That will be your new task employee 100411 // For more information please consult your manual.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Привет, 100411 // Мы получили звонок от отдела полиции расследований // Нас информировали о маркированных деньгах // Деньгах, которые используют для отслеживания определенных преступников // Ты должен арестовать любого человека с маркированными деньгами // Это будет твоя новая задача, сотрудник 100411 // Для получения дополнительной информации проконсультируйся со своим руководством
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#10
+
+# [ENGLISH]
+# Employee 100411 // Are you aware of the situation? // Thefts are becoming more frequent in the distribution centers // But don't worry // A scanner system has been implemented in the station // With it you will be able to detect if these bad guys have hidden products in their clothes // That's all employee 100411 // Don't forget to check your manual...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // Вы осведомлены о ситуации? // Кражи становятся все чаще в распределительных центрах // Но не волнуйтесь // В рабочей станции внедрена система сканирования // С ее помощью вы сможете обнаружить, если эти преступники прячут товары в одежде // Это все, сотрудник 100411 // Не забудьте заглянуть в руководство
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#11
+
+# [ENGLISH]
+# Hello employee 100411 // New defense tools have arrived for the distribution center // You will be in charge of their operation // Last night's brutal assault has prompted the authorities to take serious measures... // Anyway // You can find more information in the manual // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Здравствуйте, сотрудник 100411 // Прибыли новые инструменты защиты для распределительного центра // Их эксплуатация будет под вашей ответственностью // Вчерашнее жестокое нападение заставило власти принять серьезные меры... // В общем // Подробную информацию вы можете найти в руководстве // Теперь возвращайтесь к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#12
+
+# [ENGLISH]
+# Hello 100411 // As you will see, we have provided new tools at your station // You can now process credit card payments // Check your manual // And fix that tie // Where do you think you are? // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Привет, 100411 // Как видишь, мы разместили новые инструменты на твоей рабочей станции // Теперь ты можешь обрабатывать платежи кредитными картами // Проверь руководство // И исправь свой галстук // Где ты себя находишь? // Возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#13
+
+# [ENGLISH]
+# Hello 100411 // I am informing you that as of today // You may receive credit notes as a means of payment // All information about their processing is in your manual... // Now keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Привет, 100411 // Сообщу тебе, что с сегодняшнего дня // Возможны кредит-ноты как способ оплаты // Вся информация об их обработке находится в руководстве... // Теперь продолжай работать
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // We have received a transaction update // Food coupons have been enabled as a means of payment // You should see your manual // Now go back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // Мы получили обновление в операционной системе // Продовольственные купоны теперь доступны как способ оплаты // Тебе следует заглянуть в руководство // Теперь возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#15
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You should inquire about them and their operation at the manual... // By the way... // How do I look? // Today I have to go to a business meeting... // Anyway... // Go back to work immediately
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Как ты, наверное, уже узнал // В обращение выпущены купоны на скидку // Ты должен узнать о них и их работе из руководства... // Кстати... // Как я выгляжу? // Сегодня мне нужно пойти на деловую встречу... // В общем... // Немедленно вернись к своей работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#16
+
+# [ENGLISH]
+# Employee 100411 // Due to the counterfeiters arrested yesterday // We have been instructed to thoroughly check the authenticity of items presented by citizens // You should be aware of the new procedure // Check your manual as soon as possible // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // Из-за задержанных вчера фальшивомонетчиков // Нам приказано тщательно проверять подлинность документов, предъявляемых гражданами // Ты должен ознакомиться с новой процедурой // Как можно скорее проверь свое руководство // Теперь вернись к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#17
+
+# [ENGLISH]
+# Employee 100411 // I'm informing you that the 'Eating Better' program is in force // That means that you will have to control the degree of obesity of the citizens // And cancel any product that is harmful to these beasts... // First of all, please check your manual and inform yourself about it // Now go back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // Я сообщаю, что программа 'Питайтесь лучше' действует // Это значит, что ты должен контролировать степень ожирения граждан // И аннулировать любой продукт, вредный для этих тварей... // Прежде всего, проконсультируйтесь со своим руководством и узнайте об этом // Теперь вернись к своей работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#18
+
+# [ENGLISH]
+# Hello employee 100411 // The 'Eating Better' program has been expanded // It now incorporates certain food intolerances // You must detect it in citizens and proceed according to regulations // Check your manual for more information // Now back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+
+# [TRANSLATION]
+<<<
+Привет, сотрудник 100411 // Программа 'Питайтесь лучше' была расширена // Теперь она включает определенные пищевые непереносимости // Ты должен обнаружить их у граждан и действовать в соответствии с нормами // Проверь свое руководство для получения дополнительной информации // Теперь вернись к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // The 'Eating Better' program has been expanded // Your station has been outfitted with equipment to test citizens' blood pressure // You must read your manual // And comply with new directives // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Программа 'Питайтесь лучше' была расширена // Твоя рабочая станция была оснащена оборудованием для анализа артериального давления граждан // Ты должен прочитать свое руководство // И соблюдать новые директивы // Возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#20
+
+# [ENGLISH]
+# Hello 100411 // Today we are in mourning... // I still can't believe it... // It seems like only yesterday that I met that family on a cruise trip... // How sad... // Anyway... // From today it will be your job to carry out breathalyzer checks // Your station has been adapted for this // You should consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Здравствуйте 100411 // Сегодня мы в трауре // Я всё ещё не могу в это поверить // Кажется, будто это было вчера, когда я встретил эту семью в круизе // Как грустно // В общем // С сегодняшнего дня вашей задачей будет проведение проверок на алкоголь // Ваше рабочее место адаптировано для этого // Вы должны проконсультироваться с руководством для получения дополнительной информации // Теперь возвращайтесь к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#21
+
+# [ENGLISH]
+# Employee 100411 // As of today we have provided different types of brochures // To distribute to our citizens... // Although it is not mandatory... // It's only for... // Well... // You know... // To raise awareness... // Anyway // Back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 // С сегодняшнего дня мы организовали различные виды листовок // чтобы распространяться среди граждан... // хотя это необязательно... // это только для... // ну... // ты знаешь... // создать осведомленность... // в общем // возвращайся к своей работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // Today there are new rules // Check your manual // You must control credit card payments // There is a prohibited list // You must respect it // Understood? // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Здравствуйте 100411 // Сегодня новые правила // Проверьте ваше руководство // Вы должны контролировать оплаты кредитной картой // Есть список запрещенных // Вы должны уважать его // Понятно? // Теперь возвращайтесь к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#23
+
+# [ENGLISH]
+# Hello 100411 // From today you will have a new tool // It will help you to make a thorough analysis of the citizen // To prevent identity theft // For more information, see your manual // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Здравствуйте 100411 // С сегодняшнего дня у вас будет новый инструмент // Он будет служить для проведения тщательного анализа гражданина // чтобы предотвратить кражу личных данных // Для получения дополнительной информации проконсультируйтесь с руководством // Теперь возвращайтесь к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#24
+
+# [ENGLISH]
+# Hi 100411 // I was supervising your work // I usually do it later // But this time I have to go to a store... // I have to buy something to attend a costume event... // Yeah, costumes... // It's not my thing but there will be a lot of important people there and I have to make a good impression... // That's why I have to think it over... // And choose something that's up to the task... // Anyway... // Bye 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Я проверял твою работу // Обычно я делаю это позже // Но на этот раз мне нужно идти в магазин... // Мне нужно купить кое-что для костюмированного мероприятия... // Да, костюмированного... // Это не совсем мой формат, но там будет много важных людей, и мне нужно произвести хорошее впечатление... // Именно поэтому мне нужно хорошо всё обдумать... // И выбрать нечто подходящее... // В общем... // Привет 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#25
+
+# [ENGLISH]
+# Hello 100411 // I received your package... // As soon as I saw it I knew it was the perfect choice... // I decided to wear it and... // The party was a big success! // All the important people in Nowhere were impressed // I'm sure we'll do a lot of business in the future... // Anyway... // I must thank you in some way... // Take this // Enjoy it // Buy yourself... // Whatever it is that people like you buy...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Я получил твою посылку... // Стоило мне её увидеть, как я понял, что это идеальный вариант... // Я решил взять её и... // Вечеринка прошла с огромным успехом! // Все важные люди Nowhere были впечатлены // Уверен, что в будущем мы заключим много сделок... // В общем... // Я должен тебе как-то отблагодарить... // Держи // Наслаждайся // Купи себе... // Что угодно, что покупают такие люди, как ты...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#26
+
+# [ENGLISH]
+# Hello 100411 // I got your package... // I've tried everything // Every treatment out there... // And none of them worked // So I figured it would be a total waste of time to try it... // But it worked! // Look at this beautiful hair! // I've never had so much hair before // I'm so grateful // Have this 100411 // Now if you'll excuse me, I have to go admire my beauty in the mirror.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет, 100411 // Мне пришла твоя посылка... // Честно говоря, я перепробовал всё // Все существующие методы лечения... // И ничего не помогало // Поэтому я подумал, что попробовать это будет пустой тратой времени... // Но это сработало! // Посмотри на эту шикарную шевелюру! // У меня никогда не было столько волос // Я тебе очень признателен // Держи, 100411 // Если позволишь, мне нужно пойти полюбоваться своей красотой в зеркале
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#27
+
+# [ENGLISH]
+# Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been able to reach her // She hasn't come to work // Her friends don't know anything about her... // She vanished // Just like that... // Anyway // She was the winner of a special bonus this month // And since I couldn't deliver it... // We've decided to give it to you // Here // Enjoy it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Ты слышал что-нибудь о 100456? // Она пропала // Никто не смог её найти // Она не приходила на работу // Её друзья ничего о ней не знают... // Она исчезла // Как будто ничего не было... // В общем // Она выиграла специальный бонус за этот месяц // И раз я не смог его ей вручить... // Мы решили отдать его тебе // Держи // Наслаждайся
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#28
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // I'll take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // Тот бедный неудачник, которого ты нейтрализовал, не выжил // Теперь сможет просить милостыню на том свете // Иди домой спокойно // Я со всем разберусь, чтобы у тебя не было проблем
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#29
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe I exaggerated a little... // But woe betide you if you open your mouth... // I've got to go now // I have an interview in a few minutes // Keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Ты видел новости? // Теперь я настоящий герой... // Ну... // Возможно, я немного преувеличил... // Но тебе плохо будет, если ты раскусишь... // Мне уже пора идти // У меня через несколько минут интервью // Продолжай работать
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#30
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a national hero... // I may have exaggerated a bit with the story... // But I saved your ass // You owe me... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Ты видел новости? // Я настоящий национальный герой... // Возможно, я немного преувеличил в рассказе... // Но я спас тебе жизнь // Ты мне должен одну... // Теперь возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#31
+
+# [ENGLISH]
+# Hello 100411 // Today I have received multiple calls // My bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But I managed to save you // Since you are a very hard worker // I blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish my boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Сегодня я получил несколько звонков // Мои начальники недовольны // Знаешь почему? // Ты приказал арестовать сына министра // Они хотели твою голову... // Но я смог тебя спасти // Поскольку ты очень трудолюбив, // Я обвинил кого-то за твою ошибку // тот бедный несчастный... // Если бы он больше старался в работе, он бы сейчас не был кормом для рыб // В общем... // За эту ошибку тебе придется полировать мне сапоги каждый день перед тем, как пойти домой // Теперь возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#32
+
+# [ENGLISH]
+# Hello 100411 // I've been keeping a close eye on your performance... // You must not slack off // You know what happens to those who are not useful // They end up like that janitor // On the street // Only the strong survive here // There is no room for weakness... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Я внимательно следил за твоей производительностью... // Ты не должен расслабляться // Знаешь, что происходит с теми, кто бесполезен? // Они заканчивают как тот уборщик // На улице // Здесь выживают только начальники // Нет места для слабостей... // Теперь возвращайся к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#33
+
+# [ENGLISH]
+# Hello 100411 // We have detected a number of irregularities in our accounting records // So we are going to conduct a thorough investigation // at all the center's workstations // It will take a few days // But don't worry // I know you can be trusted // See you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Мы обнаружили серию нерегулярностей в наших бухгалтерских записях // Поэтому мы проведем тщательное расследование // на всех рабочих станциях центра // Это займет у нас несколько дней // Но ты не волнуйся // Я знаю, что ты заслуживаешь доверия // Увидимся завтра
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#34
+
+# [ENGLISH]
+# Hello 100411 // I got word that someone robbed this station // And that you allowed it to be stolen without resistance... // If you want to keep working here // You'd better do your job... // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Я узнал, что кто-то напал на эту рабочую станцию // И что ты позволил его ограбить, не оказав сопротивления... // Если ты хочешь продолжать работать здесь // Лучше тебе выполнять свою работу... // Увидимся завтра
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#35
+
+# [ENGLISH]
+# Hello 100411 // Very well done // I saw how you neutralized that robber... // Maligno would be proud of you son // You're on a good path // I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: ROBBERS
+# English: Robbers
+# Russian: Грабители
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Очень хорошо сделано // Я видел, как ты нейтрализовал того грабителя... // Maligno был бы тобой гордится, сын // Ты идешь хорошим путем // Увидимся завтра
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#36
+
+# [ENGLISH]
+# Hello 100411 // You've made a lot of mistakes lately // I've come to warn you... // You don't want to end up on the street // Do you? // I'll see you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // В последнее время ты допустил много нарушений // Я пришел тебя предупредить... // Ты не захочешь оказаться на улице // Или да? // Увидимся завтра 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#37
+
+# [ENGLISH]
+# Hi 100411 // Have you seen my wife around? // She's been very demanding lately... // I've been ignoring her for a while now // She's constantly looking for me... // And I don't feel that excitement we had when we were young... // The flame of love that once brought us together... // Has slowly faded away... // Anyway // It's time to go // See you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Ты не видел мою жену здесь? // В последнее время она очень требовательна... // Правду говоря, я игнорировал ее все это время // Она постоянно ищет меня... // И я не чувствую того волнения, которое у нас было, когда мы были молоды... // Пламя любви, которое когда-то объединило нас... // Постепенно угасает... // В общем // Пора уходить // Увидимся завтра 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#38
+
+# [ENGLISH]
+# Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I'll give them a call // See if that's the answer to the problems with my wife... // Anyway // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Я видел тот проспект, который ты мне отправил по почте... // Благодарю тебя... // Я им позвоню // Посмотрим, ответ ли это на проблемы с моей женой... // В общем // Увидимся завтра
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#39
+
+# [ENGLISH]
+# Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually comes to drop off dinner for me... // But she hasn't shown up // I tried to call her but she's not picking up // I hope she's okay...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Сегодня я не видел свою жену... // Я обеспокоен... // Обычно она приносит мне ужин... // Но она не появилась // Я попытался позвонить ей, но она не отвечает // Надеюсь, с ней всё в порядке...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#40
+
+# [ENGLISH]
+# Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she got tired of me and decided to leave... // You have to be strong and move on... // I have an appointment today // Wish me luck...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Они еще не нашли мою жену... // В общем... // Может, она устала от меня и решила уйти... // Нужно быть сильным и продолжать жить... // Сегодня у меня свидание // Пожелай мне удачи...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#41
+
+# [ENGLISH]
+# Hello 100411 // My wife has asked me for a divorce... // She's claiming half of the assets... // Can you believe it? // I have a meeting with my lawyer tomorrow... // I didn't think it would come to this... // Anyway... // I have to go now. I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Привет 100411 // Моя жена подала на развод... // Она требует половину имущества... // Ты можешь в это поверить? // Завтра у меня встреча с моим адвокатом... // Я не думал, что мы до этого дойдем... // В общем... // Мне уже пора идти // Увидимся завтра
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#42
+
+# [ENGLISH]
+# You! // You dirty maggot! // It was you who slept with my wife! // Do you think things are going to stay like this?! // You and that harlot will pay!!! // Get ready...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ты! // Проклятый червь! // Это ты переспал с моей женой! // Думаешь, так просто отделаешься?! // Ты и эта проклятая поплатитесь!! // Приготовься...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#43
+
+# [ENGLISH]
+# 100411... // What are all those bandages? // And those crutches? // Are you going to some kind of party? // Do I need to remind you that this is your job? // You can't come to work dressed as a mummy // I hope this doesn't happen again
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // Что это за бинты? // И что за костыли? // Вы на какую-то вечеринку идете? // Напомнить вам, что это ваша работа? // Нельзя приходить на работу в костюме мумии // Надеюсь, это больше не повторится
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#44
+
+# [ENGLISH]
+# Hi 100411... // But... // What is that face? // Have you looked in the mirror? // Are you sick? // I remind you that sick leave here for low-class employees is completely prohibited // You had better recover quickly
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Здравствуйте, 100411... // Но... // Что это за лицо? // Вы смотрели в зеркало? // Вы больны? // Напоминаю вам, что отпуск для сотрудников низшего класса здесь полностью запрещён // Лучше бы вам быстро поправиться
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#45
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been drinking alcohol excessively during work hours // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance // I hope you walk the straight and narrow from now on
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // Вчера нам пришлось экстренно госпитализировать вас // Вы упали в обморок прямо во время работы // Выяснилось, что вы чрезмерно употребляли алкоголь во время работы // Мы не можем этого допустить // Если вы не будете вести себя прилично, вы будете уволены // Это ваш последний шанс // Надеюсь, с этого момента вы будете держаться прямо
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#46
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been using drugs // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance to straighten up
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // Вчера нам пришлось экстренно госпитализировать вас // Вы упали в обморок прямо во время работы // Выяснилось, что вы употребляли наркотики // Мы не можем этого допустить // Если вы не будете вести себя прилично, вы будете уволены // Это ваш последний шанс исправиться
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#47
+
+# [ENGLISH]
+# Employee 100411... // That's it // The probationary period is over // And we have decided to dispense with you // I know // It was too little // In fact we still have many ways we would have liked to exploit you.... // But that's the way it is // I'd almost gotten used to that strange face you have..... // I don't usually shed tears when firing employees.... // And this one definitely won't be an exception either... // See you never 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411... // Вот и всё // Испытательный срок завершён // И мы решили от тебя отказаться // Я знаю // Это было совсем недолго // На самом деле у нас было ещё много способов, которыми мы хотели тебя эксплуатировать... // Но так уж вышло // Я уже почти привык к этой твоей странной физиономии... // Я обычно не проливаю слёз, увольняя сотрудников... // И уж точно этот раз не станет исключением // Прощай навсегда, 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#48
+
+# [ENGLISH]
+# Good morning // employee 100411 // I have been evaluating the performance of your first day at the station // I'm not going to lie to you // The truth is I expected more from someone with your background // I will continue to watch you // In the meantime // we have provided your station with the tools that will allow you to detect counterfeits // Now get to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Доброе утро // сотрудник 100411 // Я оценивал твою работу в первый день на рабочей станции // Не буду тебе врать // Честно говоря, я ожидал большего от человека с твоим послужным списком // Я продолжу за тобой следить // А тем временем // мы оснастили твою рабочую станцию инструментами, которые позволят тебе обнаруживать подделки // А теперь приступай к работе
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#49
+
+# [ENGLISH]
+# So you think you're good enough not to receive an infraction // Well, we'll see about that 100411 // The last miserable guy who said that ran home // To cry in his mommy's arms // I hope you don't regret it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Так ты считаешь себя достаточно хорошим, чтобы не получить ни одного штрафа // Ну, это мы ещё посмотрим, 100411 // Последний жалкий тип, который так сказал, убежал домой со всех ног // Плакаться в объятиях своей мамочки // Надеюсь, ты об этом не пожалеешь
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#50
+
+# [ENGLISH]
+# So you like finances, 100411? // Then you better keep a surplus in your personal finances // We don't tolerate debtors here // You've been warned
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Так тебе нравятся финансы, 100411? // Тогда тебе лучше поддерживать профицит в своих личных финансах // Мы здесь не терпим должников // Считай, что тебя предупредили
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#51
+
+# [ENGLISH]
+# Infinite mode? // You're unhinged 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Бесконечный режим? // Ты с ума сошел 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#52
+
+# [ENGLISH]
+# What happened? // Weren't you good enough not to receive infractions? // Grab your things // You're fired 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Что случилось? // Разве ты не был достаточно хорош, чтобы не получать взыскания? // Собирай вещи // Ты уволен 100411
+>>>

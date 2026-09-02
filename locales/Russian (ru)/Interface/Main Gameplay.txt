@@ -1,0 +1,2388 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#1
+
+# [ENGLISH]
+# Personal Data
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Личные данные
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#2
+
+# [ENGLISH]
+# Name
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Имя
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#3
+
+# [ENGLISH]
+# Sex
+
+# [CONTEXT]
+# Gender
+
+# [TRANSLATION]
+<<<
+Пол
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#4
+
+# [ENGLISH]
+# Cod
+
+# [CONTEXT]
+# Abbreviation for ID code
+
+# [TRANSLATION]
+<<<
+Код
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#5
+
+# [ENGLISH]
+# Age
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Возраст
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#6
+
+# [ENGLISH]
+# Exp
+
+# [CONTEXT]
+# Abbreviation for expiration date
+
+# [TRANSLATION]
+<<<
+Срок годности
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#7
+
+# [ENGLISH]
+# Weight
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Вес
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#8
+
+# [ENGLISH]
+# City
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Город
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#9
+
+# [ENGLISH]
+# Intolerances
+
+# [CONTEXT]
+# Food intolerances
+
+# [TRANSLATION]
+<<<
+Непереносимости
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#10
+
+# [ENGLISH]
+# Prohibited Products
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Запреты на продукты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#11
+
+# [ENGLISH]
+# Product categories
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Russian: Категории товаров
+
+# [TRANSLATION]
+<<<
+Категории товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#12
+
+# [ENGLISH]
+# Product codes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Коды продуктов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#14
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+руководство
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#16
+
+# [ENGLISH]
+# Wanted
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WANTED
+# English: Wanted
+# Russian: Разыскиваются
+
+# [TRANSLATION]
+<<<
+Разыскиваются
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#17
+
+# [ENGLISH]
+# Missing
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MISSING
+# English: Missing
+# Russian: Пропавшие
+
+# [TRANSLATION]
+<<<
+Пропавшие
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#18
+
+# [ENGLISH]
+# Loves us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Он нас любит
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#19
+
+# [ENGLISH]
+# Takes care of us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Он нас заботится
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#20
+
+# [ENGLISH]
+# Protects us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Он нас защищает
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#21
+
+# [ENGLISH]
+# Is the future
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Он будущее
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#22
+
+# [ENGLISH]
+# Will save Nowhere
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Спасёт Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#23
+
+# [ENGLISH]
+# He will end Evil
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Покончит с злом
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#24
+
+# [ENGLISH]
+# He is prosperity
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Он процветание
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#25
+
+# [ENGLISH]
+# He is salvation
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Она спасение
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#26
+
+# [ENGLISH]
+# He is watching us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+Он наблюдает за нами
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#27
+
+# [ENGLISH]
+# Monday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Понедельник
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#28
+
+# [ENGLISH]
+# Tuesday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Вторник
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#29
+
+# [ENGLISH]
+# Wednesday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Среда
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#30
+
+# [ENGLISH]
+# Thursday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Четверг
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#31
+
+# [ENGLISH]
+# Friday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Пятница
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#32
+
+# [ENGLISH]
+# Saturday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Суббота
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#33
+
+# [ENGLISH]
+# Sunday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Воскресенье
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#34
+
+# [ENGLISH]
+# MON
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Пн
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#35
+
+# [ENGLISH]
+# TUE
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Вт
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#36
+
+# [ENGLISH]
+# WED
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Ср
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#37
+
+# [ENGLISH]
+# THU
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Чт
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#38
+
+# [ENGLISH]
+# FRI
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Пт
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#39
+
+# [ENGLISH]
+# SAT
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Сб
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#40
+
+# [ENGLISH]
+# SUN
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+Вс
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#41
+
+# [ENGLISH]
+# Day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+день
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#42
+
+# [ENGLISH]
+# Classification of food products
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Классификация продуктов питания
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#43
+
+# [ENGLISH]
+# General
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Общее
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#44
+
+# [ENGLISH]
+# Dairy products
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Молочные продукты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#45
+
+# [ENGLISH]
+# Meat
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Мясо
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#46
+
+# [ENGLISH]
+# Fruits
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Фрукты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#47
+
+# [ENGLISH]
+# Vegetables
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Овощи
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#48
+
+# [ENGLISH]
+# Canned goods
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Консервы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#49
+
+# [ENGLISH]
+# Drinks
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Напитки
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#50
+
+# [ENGLISH]
+# baked goods
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Выпечка
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#51
+
+# [ENGLISH]
+# miscellaneous
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Разное
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#52
+
+# [ENGLISH]
+# By composition
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+По составу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#53
+
+# [ENGLISH]
+# Contains Gluten
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Содержит глютен
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#54
+
+# [ENGLISH]
+# Contains Fructose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Содержит фруктозу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#55
+
+# [ENGLISH]
+# Contains Sucrose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Содержит сахарозу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#56
+
+# [ENGLISH]
+# Contains Lactose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Содержит лактозу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#57
+
+# [ENGLISH]
+# Contains Salt
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Содержит соль
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#58
+
+# [ENGLISH]
+# Contains Alcohol
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Содержит алкоголь
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#59
+
+# [ENGLISH]
+# By age
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+В зависимости от возраста
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#60
+
+# [ENGLISH]
+# Not suitable for minors
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Не подходит для несовершеннолетних
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#61
+
+# [ENGLISH]
+# Not suitable for the elderly
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Не подходит для пожилых людей
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#62
+
+# [ENGLISH]
+# By Citizen weight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+По весу для граждан
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#63
+
+# [ENGLISH]
+# Not suitable for moderate overweight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Не рекомендуется при умеренном избыточном весе
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#64
+
+# [ENGLISH]
+# Not suitable for severe overweight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+Не рекомендуется при тяжелом избыточном весе
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#65
+
+# [ENGLISH]
+# By sales method
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+В зависимости от способа продажи
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#66
+
+# [ENGLISH]
+# By unit
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+За единицу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#67
+
+# [ENGLISH]
+# By weight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+По весу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#68
+
+# [ENGLISH]
+# Residence
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Проживание
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#69
+
+# [ENGLISH]
+# None
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Нет
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#70
+
+# [ENGLISH]
+# Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Код
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#71
+
+# [ENGLISH]
+# Unit price
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Цена за единицу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#72
+
+# [ENGLISH]
+# Quantity
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Количество
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#73
+
+# [ENGLISH]
+# Total price
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Общая стоимость
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#74
+
+# [ENGLISH]
+# Dead or alive
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Жив или мертв
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#75
+
+# [ENGLISH]
+# Only alive
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Только живые
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#78
+
+# [ENGLISH]
+# Additional info
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Доп. информация
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#79
+
+# [ENGLISH]
+# Get the device ready
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Подготовьте устройство
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#80
+
+# [ENGLISH]
+# Device ready
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Устройство готово
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#81
+
+# [ENGLISH]
+# Analyzing
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Анализ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#82
+
+# [ENGLISH]
+# Pressure
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Давление
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#83
+
+# [ENGLISH]
+# Alcohol
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Спиртное
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#84
+
+# [ENGLISH]
+# None
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Нулевой
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#85
+
+# [ENGLISH]
+# Low
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Низкий
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#86
+
+# [ENGLISH]
+# High
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Высокий
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#87
+
+# [ENGLISH]
+# Our President
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Наш Президент
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#88
+
+# [ENGLISH]
+# Welcome to the
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Добро пожаловать в
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#89
+
+# [ENGLISH]
+# Station 65
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Рабочая станция 65
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#90
+
+# [ENGLISH]
+# Distribution Center South 3412
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Южный распределительный центр 3412
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#91
+
+# [ENGLISH]
+# Comply with current regulations
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Соблюдайте действующее законодательство
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#92
+
+# [ENGLISH]
+# Consult the manual if you have any question
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Обратитесь к руководству при любых вопросах
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#93
+
+# [ENGLISH]
+# Honour Maligno
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Почтите Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#94
+
+# [ENGLISH]
+# No contacts available for sending packages
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Russian: Посылка
+
+# [TRANSLATION]
+<<<
+Нет контактов для отправки посылок
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#95
+
+# [ENGLISH]
+# Prepare the package for shipment
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Russian: Посылка
+
+# [TRANSLATION]
+<<<
+Подготовьте Посылку для отправки
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#96
+
+# [ENGLISH]
+# Enter the object to be sent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Введите объект для отправки
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#97
+
+# [ENGLISH]
+# Cover the package with the wrapping
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Russian: Посылка
+
+# [TRANSLATION]
+<<<
+Оберните Посылку в обертку
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#98
+
+# [ENGLISH]
+# Select the target contact and print the label
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LABEL
+# English: Label
+# Russian: Этикетка
+
+# [TRANSLATION]
+<<<
+Выберите контакт назначения и напечатайте Этикетку
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#99
+
+# [ENGLISH]
+# Affix the label to the package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LABEL
+# English: Label
+# Russian: Этикетка
+#
+# ID: PACKAGE
+# English: Package
+# Russian: Посылка
+
+# [TRANSLATION]
+<<<
+Приклейте Этикетку на Посылку
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#100
+
+# [ENGLISH]
+# Package ready for shipment
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Russian: Посылка
+
+# [TRANSLATION]
+<<<
+Посылка готова к отправке
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#101
+
+# [ENGLISH]
+# Package sent to selected contact
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Russian: Посылка
+
+# [TRANSLATION]
+<<<
+Посылка отправлена выбранному контакту
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#102
+
+# [ENGLISH]
+# Female
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Женский
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#103
+
+# [ENGLISH]
+# Male
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Мужской
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#104
+
+# [ENGLISH]
+# place here
+
+# [CONTEXT]
+# For attaching a label
+
+# [TRANSLATION]
+<<<
+Вставить здесь
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#105
+
+# [ENGLISH]
+# Reward
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Награда
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#106
+
+# [ENGLISH]
+# Call the number provided if you see this person and you will receive a reward.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Позвоните по указанному номеру, если увидите этого человека, и получите награду.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#107
+
+# [ENGLISH]
+# Son of an important minister of Nowhere. He was last seen heading to a pharmacy in search of his medication. Any information will be greatly rewarded.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Сын важного министра Nowhere. Его видели в последний раз по дороге в аптеку за лекарствами. Любая информация будет хорошо вознаграждена.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#108
+
+# [ENGLISH]
+# He is wanted for multiple cold-blooded murders, kidnappings, and resisting authority. Dangerous individual, proceed with caution.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за множество убийств, совершенных с холодной кровью, похищений и сопротивление властям. Опасный субъект, действуйте с осторожностью.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#109
+
+# [ENGLISH]
+# Wanted for fraud in various cities of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за мошенничество в разных городах Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#110
+
+# [ENGLISH]
+# Wanted for tax evasion
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за уклонение от уплаты налогов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#111
+
+# [ENGLISH]
+# Wanted for fraud. He calls himself a 'defender of the unprotected'. Proceed without mercy
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за мошенничество. Называет себя 'защитником бесправных'. Действуйте без милосердия.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#112
+
+# [ENGLISH]
+# Wanted for inflicting injuries on an important and well-known businessman in Nowhere. Proceed with violence
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за нанесение телесных повреждений важному и известному предпринимателю Nowhere. Действуйте с насилием.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#113
+
+# [ENGLISH]
+# Wanted for multiple robberies from important citizens of Nowhere. Any information will be highly rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за множественные кражи у важных граждан Nowhere. Любая информация будет высоко вознаграждена
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#114
+
+# [ENGLISH]
+# Wanted for treason against the state of Nowhere. Any information leading to his capture will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за измену государству Nowhere. Любая информация, способствующая его поимке, будет вознаграждена
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#115
+
+# [ENGLISH]
+# Wanted for spreading slander about our esteemed President Maligno
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Разыскивается за распространение оскорблений в адрес нашего превосходительства президента Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#116
+
+# [ENGLISH]
+# Wanted for questioning the sexual prowess of our esteemed President of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за постановку под сомнение сексуальную способность в постели нашего превосходительства президента Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#117
+
+# [ENGLISH]
+# Wanted for spreading slander about the late mother of our beloved President Maligno. Proceed without mercy
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Разыскивается за распространение оскорблений в адрес покойной матери нашего любимого президента Maligno. Действовать без жалости
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#118
+
+# [ENGLISH]
+# Wanted for sleeping on benches in front of high-end citizens' businesses. Outrageous
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за сон на скамейках перед магазинами граждан с высоким уровнем достатка. Невероятно
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#119
+
+# [ENGLISH]
+# Wanted for encouraging aspirations that are not appropriate for their low social class to others of the same condition
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за поощрение других лиц своего низкого социального положения иметь амбиции, не свойственные их низкому классу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#120
+
+# [ENGLISH]
+# Wanted for attempting to cause confusion among the citizens of Nowhere, using terms such as 'indoctrination' and 'mind control'
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за попытку вызвать замешательство среди граждан Nowhere, используя такие термины, как 'адоctrинирование' и 'контроль сознания'
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#121
+
+# [ENGLISH]
+# Wanted for the theft of a food truck
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за кражу грузовика с продовольствием
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#122
+
+# [ENGLISH]
+# Wanted for robbing a wealthy family in Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за ограбление богатой семьи в Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#123
+
+# [ENGLISH]
+# Wanted for indecent exposure oneself shirtless while shouting 'Bocaaaaa'
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons. Do not translate the expression 'Bocaaaaa'. It is an expression referring to the chant of a Boca Juniors football club supporter
+
+# [TRANSLATION]
+<<<
+Разыскивается за непристойное обнажение без рубашки с криком Бокaaaaa
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#124
+
+# [ENGLISH]
+# Wanted for resisting authority
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за сопротивление властям
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#125
+
+# [ENGLISH]
+# Wanted for obscenely exposing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за непристойное обнажение
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#126
+
+# [ENGLISH]
+# Wanted for attacking a police officer
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Разыскивается за нападение на полицейского
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#127
+
+# [ENGLISH]
+# Wanted for slandering the honorable state of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за клевету на почтенное государство Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#128
+
+# [ENGLISH]
+# Wanted for urinating on an informational sign of the state of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Разыскивается за мочеиспускание на информационный плакат государства Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#129
+
+# [ENGLISH]
+# Missing person. Last seen leaving a renowned spa center
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Пропавший без вести. Видели в последний раз у выхода из известного спа-центра
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#130
+
+# [ENGLISH]
+# Son of a very wealthy family from Nowhere missing. Any kind of information will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Сын очень богатой семьи Nowhere пропал без вести. За информацию будет вознаграждение
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#131
+
+# [ENGLISH]
+# Prominent real estate businessman missing. Any information leading to his whereabouts will be generously rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Известный бизнесмен в сфере недвижимости пропал без вести. Любая информация о его местонахождении будет хорошо вознаграждена
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#132
+
+# [ENGLISH]
+# Last seen leaving a party
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Видели в последний раз на выходе из вечеринки
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#133
+
+# [ENGLISH]
+# Missing while surfing on the beaches of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Пропал во время сёрфинга на пляжах Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#134
+
+# [ENGLISH]
+# Missing while driving his luxury car back to his mansion
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Пропал, возвращаясь на роскошном автомобиле в своё поместье
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#135
+
+# [ENGLISH]
+# Missing while practicing skydiving
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Пропал, занимаясь парашютным спортом
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#136
+
+# [ENGLISH]
+# Missing while taking a walk through the shopping center of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Пропал во время прогулки по торговому центру Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#137
+
+# [ENGLISH]
+# Missing after leaving a prominent restaurant
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Пропал на выходе из престижного ресторана
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#138
+
+# [ENGLISH]
+# Missing while performing maintenance tasks at the state offices of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Пропал, выполняя техническое обслуживание в государственных офисах Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#139
+
+# [ENGLISH]
+# Missing while performing cleaning tasks at the state offices of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Пропал во время уборки в государственных офисах Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#140
+
+# [ENGLISH]
+# Renowned hunter of exotic species missing. Any kind of information will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Известный охотник за экзотическими видами пропал. За любую информацию будет выплачено вознаграждение
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#141
+
+# [ENGLISH]
+# Renowned stockbroker missing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Известный брокер пропал без вести
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#142
+
+# [ENGLISH]
+# Renowned businessman missing. Last seen at the laundromat in his city
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Известный бизнесмен пропал без вести. Его в последний раз видели в прачечной его города
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#143
+
+# [ENGLISH]
+# Ranch hand missing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Пропавший работник ранчо
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#144
+
+# [ENGLISH]
+# Any information leading to the whereabouts of the missing person will be greatly rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Любая информация, ведущая к обнаружению пропавшего, будет щедро вознаграждена
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#145
+
+# [ENGLISH]
+# Any precise information that helps discover the whereabouts of this person will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Любые точные данные, помогающие установить местонахождение этой личности, будут вознаграждены
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#146
+
+# [ENGLISH]
+# The individual may exhibit behaviors associated with mental illness
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+У индивида могут наблюдаться поведенческие признаки, связанные с психическим расстройством
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#147
+
+# [ENGLISH]
+# The missing subject may exhibit delusional ideas and extremely disorganized behaviors
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Пропавший субъект может обладать бредовыми идеями и крайне дезорганизованным поведением
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#148
+
+# [ENGLISH]
+# Renowned abstract artist missing. Last seen at an art exhibition of crushed apples
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+Известный абстракционист пропал без вести. Его в последний раз видели на выставке искусства из раздавленных яблок
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#149
+
+# [ENGLISH]
+# Food Products
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Продовольственные товары
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#150
+
+# [ENGLISH]
+# Foods with high nutritional value
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Высокопитательные продукты питания
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#151
+
+# [ENGLISH]
+# Approval Zone
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Зона одобрения
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#152
+
+# [ENGLISH]
+# Disapproval Zone
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Зона аннулирования
+>>>

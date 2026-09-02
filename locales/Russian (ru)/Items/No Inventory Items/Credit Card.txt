@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#1
+
+# [ENGLISH]
+# Credit Card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Кредитная карта
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#3
+
+# [ENGLISH]
+# That's my credit card // To pay for the purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Это моя кредитная карта // Для оплаты покупки
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#4
+
+# [ENGLISH]
+# That's my credit card // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Это моя кредитная карта // Её нужно обработать
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#5
+
+# [ENGLISH]
+# No // It's for the payment // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Нет // Это для оплаты // Тебе нужно обработать это самому
+>>>

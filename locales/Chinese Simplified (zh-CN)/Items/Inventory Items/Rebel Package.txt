@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#1
+
+# [ENGLISH]
+# Rebel Package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_PACKAGE
+# English: Rebel Package
+# Chinese Simplified: 叛军包裹
+
+# [TRANSLATION]
+<<<
+叛军包裹
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#2
+
+# [ENGLISH]
+# Contains encrypted information. Deliver to:
+
+# [CONTEXT]
+# Description of the Rebel Package inventory item
+
+# [TRANSLATION]
+<<<
+包含加密信息。请交给：
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#3
+
+# [ENGLISH]
+# What's this? // No thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这是什么？ // 不用了，谢谢
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#4
+
+# [ENGLISH]
+# What does this mean? // Deliver to...?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这是什么意思？ // 交给...？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#5
+
+# [ENGLISH]
+# What's that? // I have no idea
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这是什么？ // 我完全不知道
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#6
+
+# [ENGLISH]
+# What is it for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这有什么用？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#7
+
+# [ENGLISH]
+# I don't understand what it is
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我不明白这是什么
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#8
+
+# [ENGLISH]
+# What is it supposed to be used for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这应该是用来做什么的？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#9
+
+# [ENGLISH]
+# Glory to the resistance! // End the regime! // End Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+抵抗万岁！ // 打倒政权！ // 打倒Maligno！
+>>>

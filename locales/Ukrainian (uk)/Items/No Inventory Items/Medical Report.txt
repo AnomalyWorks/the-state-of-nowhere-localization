@@ -1,0 +1,154 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#1
+
+# [ENGLISH]
+# Medical Report
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICAL_REPORT
+# English: Medical Report
+# Ukrainian: Медичний висновок
+
+# [TRANSLATION]
+<<<
+Медичний висновок
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#3
+
+# [ENGLISH]
+# Multiple trauma and fractures
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Множинні забої та переломи
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#4
+
+# [ENGLISH]
+# Sexually Transmitted Disease: Terminal Phase
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Захворювання, що передається статевим шляхом: Термінальна стадія
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#5
+
+# [ENGLISH]
+# Alcohol intoxication
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Отруєння алкоголем
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#6
+
+# [ENGLISH]
+# Drug intoxication
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Отруєння наркотиками
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#7
+
+# [ENGLISH]
+# Firearm injury
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Поранення вогнепальною зброєю
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#8
+
+# [ENGLISH]
+# Did you get out of the hospital? // That's good
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ти вийшов з лікарні? // Добре
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#9
+
+# [ENGLISH]
+# You should be more careful next time.
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+В наступний раз треба бути обережніше
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#10
+
+# [ENGLISH]
+# I wish you a quick recovery
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Бажаю тобі швидкого одужання
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#11
+
+# [ENGLISH]
+# It could've been worse
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Могло бути й гірше
+>>>

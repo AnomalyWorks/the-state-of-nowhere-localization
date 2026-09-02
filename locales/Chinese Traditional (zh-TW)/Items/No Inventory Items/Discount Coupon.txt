@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#1
+
+# [ENGLISH]
+# Discount Coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+折價券
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#3
+
+# [ENGLISH]
+# It's a discount coupon // For my purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+這是折價券 // 給我購物用的
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#4
+
+# [ENGLISH]
+# It's my discount coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+這是我的折價券 // 你必須處理一下
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不 // 你必須自己處理
+>>>

@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+Violazione
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+
+# [TRANSLATION]
+<<<
+I Cittadini validi devono essere accettati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+
+# [TRANSLATION]
+<<<
+I Cittadini che rubano prodotti devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Italian: Rapinatori
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Italian: Neutralizzato
+
+# [TRANSLATION]
+<<<
+I Rapinatori devono essere neutralizzati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Italian: Carta d'identificazione
+
+# [TRANSLATION]
+<<<
+I Cittadini devono essere processati con una Carta d'identificazione ed essere respinti se non la presentano
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Italian: Carta d'identificazione
+
+# [TRANSLATION]
+<<<
+I Cittadini con Carta d'identificazione scaduta devono essere respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Italian: Carta d'identificazione
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano la Carta d'identificazione di un'altra persona devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Italian: Carta d'identificazione
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Carta d'identificazione falsa devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+
+# [TRANSLATION]
+<<<
+I Cittadini delle città soggette a restrizioni devono essere respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Italian: Criminali ricercati
+
+# [TRANSLATION]
+<<<
+I Criminali ricercati devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+
+# [TRANSLATION]
+<<<
+I Cittadini con un alto tasso alcolemico devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+I prodotti dovranno essere processati con il codice corrispondente
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Italian: Minorenni
+
+# [TRANSLATION]
+<<<
+Vietata la vendita di prodotti non adatti ai Minorenni
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Italian: Anziani
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti non adatti agli Anziani
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Italian: Obesi
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti non adatti agli Obesi
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Italian: Obesi gravi
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti non adatti agli Obesi gravi
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Italian: Ipertesi
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti contenenti sale agli Ipertesi
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti contenenti alcol ai Cittadini con test positivo
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Italian: Intolleranze alimentari
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti con fruttosio ai Cittadini con Intolleranze alimentari
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Italian: Intolleranze alimentari
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti con saccarosio ai Cittadini con Intolleranze alimentari
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Italian: Intolleranze alimentari
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti con lattosio ai Cittadini con Intolleranze alimentari
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Italian: Intolleranze alimentari
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti con glutine ai Cittadini con Intolleranze alimentari
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Italian: Lista dei proibiti
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di prodotti nella Lista dei proibiti del Cittadino
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Italian: Lista dei proibiti
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Italian: Categorie di prodotti
+
+# [TRANSLATION]
+<<<
+È vietata la vendita di Categorie di prodotti nella Lista dei proibiti del Cittadino
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+
+# [TRANSLATION]
+<<<
+I Cittadini devono presentare un metodo di pagamento o saranno Respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+
+# [TRANSLATION]
+<<<
+I Cittadini non devono avere denaro insufficiente nei pagamenti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: BILLS
+# English: Bills
+# Italian: Banconote
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Banconote false devono essere Arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: BILLS
+# English: Bills
+# Italian: Banconote
+
+# [TRANSLATION]
+<<<
+I Cittadini che insistono nel pagare con Banconote strappate, macchiate o vandalizzate devono essere Respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: BILLS
+# English: Bills
+# Italian: Banconote
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Banconote contrassegnate devono essere Arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Italian: Carta di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Carta di credito altrui devono essere Arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Italian: Carta di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Carta di credito con marchio proibito devono essere Respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Italian: Carta di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Carte di credito di banche proibite devono essere Respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Italian: Carta di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Carta di credito senza fondi devono essere Respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Italian: Nota di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Nota di credito altrui devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Italian: Nota di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Nota di credito scaduta devono essere respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Italian: Nota di credito
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano una Nota di credito falsa devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Italian: Buoni alimentari
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Buoni alimentari altrui devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Italian: Buoni alimentari
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Buoni alimentari falsi devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: REJECTED
+# English: Rejected
+# Italian: Respinto
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Italian: Buoni alimentari
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Buoni alimentari scaduti devono essere respinti
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Italian: Cittadini
+#
+# ID: ARRESTED
+# English: Arrested
+# Italian: Arrestato
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Italian: Buoni sconto
+
+# [TRANSLATION]
+<<<
+I Cittadini che presentano Buoni sconto falsi devono essere arrestati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Italian: Buoni sconto
+
+# [TRANSLATION]
+<<<
+I Buoni sconto scaduti non devono essere accettati e devono essere invalidati
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Italian: Buoni sconto
+
+# [TRANSLATION]
+<<<
+I Buoni sconto accettati devono essere perforati nella zona indicata
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Italian: Nota di credito
+
+# [TRANSLATION]
+<<<
+Le Note di credito devono essere pinzate alla rispettiva fattura nella zona indicata
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Italian: Buoni alimentari
+
+# [TRANSLATION]
+<<<
+I Buoni alimentari devono essere timbrati nella zona indicata
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Non devono verificarsi ammanchi di cassa dovuti a un eccesso di resto
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Italian: Buoni sconto
+
+# [TRANSLATION]
+<<<
+I Buoni sconto devono essere accettati o invalidati
+>>>

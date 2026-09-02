@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+저는 신입생 강사입니다 // 여러분의 첫날에 해야 할 일에 대해 전체적인 개요를 알려드리러 왔습니다 // 첫 번째는 시민을 확인하는 것입니다 // 그러려면 시민의 신분증을 읽어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+그 전에 검사대를 열어보세요 // 여기서 문서를 더 자세히 볼 수 있습니다 // 신분증을 마우스 오른쪽 버튼으로 돌린 후 다시 돌아오세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Korean: 신분증 리더기
+
+# [TRANSLATION]
+<<<
+이제야 합니다 // 이제 신분증을 신분증 리더기에 꽂아 시민을 확인하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Korean: 제품 호출
+
+# [TRANSLATION]
+<<<
+해내셨네요! // 믿을 수가 없습니다 // 이제 시민의 제품을 처리할 시간입니다 // 제품 호출을 작동하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Korean: 제품 리더기
+
+# [TRANSLATION]
+<<<
+이제 그것들을 읽어야 합니다 // 제품 리더기로 제품을 드래그하여 시작하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+오 // 보기보다 빠르시네요 // 저는 당신을 믿지 않았는데 말이죠 // 이제 결제를 처리할 차례입니다 // 하지만 제가 결제를 제시하지 않았다고 가정해 봅시다 // 이런 이상이 있으면 항상 신고해야 합니다 // 시민이 결제를 제시하지 않았다고 신고하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+좋습니다 // 이제 결제를 처리할 차례입니다 // 거스름돈을 제대로 준 후 승인하는 것을 잊지 마세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Korean: 영수증
+
+# [TRANSLATION]
+<<<
+거의 다 끝났습니다 // 이제 트랜잭션을 완료하려면 제게 영수증을 건네야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+#
+# ID: REJECT
+# English: Reject
+# Korean: 거부
+
+# [TRANSLATION]
+<<<
+정상적인 상황이라면 이것은 구매를 승인하고 시민은 제품을 가지고 떠날 것입니다 // 그것을 염두에 두세요 // 이제 저에게 할 말을 더 하겠습니다 // 당신은 시민에게 행동을 실행할 수 있습니다 // 제가 떠나도록 거부 행동을 실행하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+그게 다입니다 // 여러분은 가장 재빠른 운영자가 아니지만 // 그걸로도 상황을 대처할 수 있을 거라 생각합니다 // 이제부터 혼자입니다 // 모르는 게 있으면 매뉴얼을 읽으세요
+>>>

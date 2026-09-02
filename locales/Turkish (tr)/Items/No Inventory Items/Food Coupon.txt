@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#1
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+
+# [TRANSLATION]
+<<<
+Gıda Kuponu
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#3
+
+# [ENGLISH]
+# It's my food coupon // It's worth one purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+
+# [TRANSLATION]
+<<<
+Bu benim gıda kuponum // Bir alışveriş için geçerli
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#4
+
+# [ENGLISH]
+# It's my food coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+
+# [TRANSLATION]
+<<<
+Bu benim gıda kuponum // Onu işlemen gerek
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hayır // Senin işlemen gerek
+>>>

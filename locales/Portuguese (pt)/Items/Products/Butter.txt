@@ -1,0 +1,149 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#1
+
+# [ENGLISH]
+# Butter
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Manteiga
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#2
+
+# [ENGLISH]
+# 'Don Maligno Butter' // 'Produced with milk from superior-breed cows' // Geez... // Don't believe that stuff about the superior race.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Portuguese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Manteiga Don Maligno' // 'Produzida com leite de vaca de raça superior' // Céus... // Não acredite nessa história de raça superior
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#3
+
+# [ENGLISH]
+# Today I will bring butter to spread on my toast.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hoje vou levar manteiga para passar nas minhas torradas
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#4
+
+# [ENGLISH]
+# Don Maligno' butter // It's the best // I don't know what's in it // But it's delicious.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Portuguese: Don Maligno
+
+# [TRANSLATION]
+<<<
+A manteiga 'Don Maligno' // É a melhor // Não sei o que tem // Mas é deliciosa
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#5
+
+# [ENGLISH]
+# That butter... // It's surrounded by a sinister aura...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Essa manteiga... // Está rodeada por uma aura sinistra...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#6
+
+# [ENGLISH]
+# My 'Don Maligno' butter... // The days won't be the same without it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Portuguese: Don Maligno
+
+# [TRANSLATION]
+<<<
+Minha manteiga 'Don Maligno'... // Os dias não serão mais os mesmos sem ela
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#7
+
+# [ENGLISH]
+# Hey! // What will I spread my toast with now?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ei! // Com o que vou passar minhas torradas agora?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#8
+
+# [ENGLISH]
+# No! // Why? // My butter...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Não! // Por quê? // Minha manteiga...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_MANTEQUILLA#9
+
+# [ENGLISH]
+# It's okay... // I had a bad feeling about that butter anyway.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Butter product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tudo bem... // De qualquer forma, aquela manteiga me dava maus pressentimentos
+>>>

@@ -1,0 +1,188 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#1
+
+# [ENGLISH]
+# Sub-Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# German: Stellvertretender Supervisor
+
+# [TRANSLATION]
+<<<
+Stellvertretender Supervisor
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#2
+
+# [ENGLISH]
+# Hello Employee 100411 // I am the sub-supervisor // I'm in charge here—well, second in charge // The supervisor is above me // But soon I will take his position... // One day he will make a mistake and I'll be there ready to seize the opportunity... // Muahahahaha // Sorry // Get back to work 100411
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# German: Vorgesetzter
+#
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# German: Stellvertretender Supervisor
+
+# [TRANSLATION]
+<<<
+Hallo Mitarbeiter 100411 // Ich bin der Stellvertretende Supervisor // Ich bin die ranghöchste Person hier // Nach dem Vorgesetzten natürlich... // Aber bald werde ich seinen Posten übernehmen... // Eines Tages wird er einen Fehler machen und ich werde bereit sein, die Gelegenheit zu nutzen... // Muahahahaha // Entschuldigung // Setz deine Arbeit fort 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#4
+
+# [ENGLISH]
+# 100411 // There are new rules // People from certain cities will not be allowed // You should check your manual
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# German: Handbuch
+
+# [TRANSLATION]
+<<<
+100411 // Es gibt neue Regeln // Menschen aus bestimmten Städten sind nicht erlaubt // Du solltest in deinem Handbuch nachsehen
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#5
+
+# [ENGLISH]
+# 100411 // There are more regulations regarding product sales // You will have to verify the citizens' age when selling them products // Check your manual for more information
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# German: Handbuch
+
+# [TRANSLATION]
+<<<
+100411 // Es gibt mehr Vorschriften für den Verkauf von Produkten // Du musst das Alter der Bürger überprüfen, wenn du ihnen Produkte verkaufst // Sieh für weitere Informationen in deinem Handbuch nach
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#11
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You must inform yourself about them and their procedures in the manual // Now get to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Hallo, 100411 // Wie du sicher schon erfahren hast // Rabattgutscheine wurden in Umlauf gebracht // Du musst dich im Handbuch über sie und ihre Funktionsweise informieren // Jetzt mach dich an die Arbeit
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#13
+
+# [ENGLISH]
+# 100411 // Due to the tragic outcome of that family // Starting today, your duty will be to conduct alcohol breath tests // You must consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // Aufgrund des tragischen Ausgangs dieser Familie // Ab heute wird es deine Aufgabe sein, Alkoholkontrollen durchzuführen // Du musst für weitere Informationen dein Handbuch konsultieren // Jetzt zurück an die Arbeit
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // Starting today, we have made available different types of leaflets // To be distributed among the citizens // Although it's not mandatory // That is all // Return to your work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Angestellter 100411 // Ab heute haben wir verschiedene Arten von Flugblättern bereitgestellt // Damit sie unter den Bürgern verteilt werden // Obwohl es nicht verpflichtend ist // Das ist alles // Zurück an die Arbeit
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#18
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // The supervisor will take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# German: Vorgesetzter
+
+# [TRANSLATION]
+<<<
+100411 // Dieser arme Elende, den du neutralisiert hast, hat nicht überlebt // Jetzt kann er in der anderen Welt um Essen betteln // Geh beruhigt nach Hause // Der Vorgesetzte wird sich darum kümmern, alles zu regeln, damit du keine Probleme bekommst
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // Today we have received multiple calls // Our bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But the supervisor has managed to save you // Since you are a very hard worker // He blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish the supervisor's boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# German: Vorgesetzter
+
+# [TRANSLATION]
+<<<
+Hallo, 100411 // Heute haben wir mehrere Anrufe erhalten // Unsere Chefs sind unzufrieden // Weißt du warum? // Du hast die Verhaftung des Sohnes des Ministers angeordnet // Sie wollten deinen Kopf... // Aber der Vorgesetzte konnte dich retten // Weil du sehr fleißig bist // Hat er jemand anderem die Schuld für deinen Fehler gegeben // Dieser arme Unglückliche... // Hätte er sich bei der Arbeit etwas mehr angestrengt, wäre er jetzt kein Fischfutter // Wie dem auch sei... // Für diesen Fehler musst du dem Vorgesetzten jeden Tag vor Feierabend die Stiefel putzen // Jetzt zurück an die Arbeit
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // We found out that someone robbed this station // And that you let them steal without putting up any resistance... // If you want to keep working here // You'd better do your job... // We'll see you tomorrow
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hallo 100411 // Wir haben erfahren, dass jemand diese Station überfallen hat // Und dass du ihn ohne Widerstand stehlen ließest... // Wenn du weiterhin hier arbeiten willst // Dann machst du besser deine Arbeit... // Wir sehen uns morgen
+>>>

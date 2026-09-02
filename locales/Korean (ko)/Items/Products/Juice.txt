@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#1
+
+# [ENGLISH]
+# Juice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+주스
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#2
+
+# [ENGLISH]
+# What is your favorite juice? // Mine is orange juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+너는 어떤 주스를 좋아해? // 나는 오렌지 주스
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#3
+
+# [ENGLISH]
+# 'Don Maligno Juice' // 'It contains all the vitamins and minerals that a nowherian of superior race needs' // It's a tasty juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno 주스' // '우월한 종족의 노웨어인에게 필요한 모든 비타민과 미네랄을 함유하고 있다' // 맛있는 주스
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#4
+
+# [ENGLISH]
+# It is necessary to drink a good orange juice in the morning
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+좋은 오렌지 주스를 아침에 마셔야지
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#5
+
+# [ENGLISH]
+# Do you drink juice? // You should // It's healthy... // Or so they say
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+주스 마셔? // 마셔야지 // 건강에 좋대... // 그게 그렇게 말하던데
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#6
+
+# [ENGLISH]
+# Can't I bring juice? // I'll have to drink water
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+주스를 못 가져가? // 물이나 마셔야겠다
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#7
+
+# [ENGLISH]
+# My children will have no juice // You are evil.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+내 아이들은 주스를 못 마실 거야 // 넌 악마야
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#8
+
+# [ENGLISH]
+# Will you cancel my juice? // Well // At least there's a little left in the house.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+주스 취소해? // 그래 // 적어도 집에 조금은 남아있네
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#9
+
+# [ENGLISH]
+# Hey // My juice... // My mornings won't be the same without it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+야 // 내 주스... // 그 없이는 아침이 같지 않을 거야
+>>>

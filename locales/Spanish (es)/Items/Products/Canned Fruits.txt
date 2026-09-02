@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#1
+
+# [ENGLISH]
+# Canned Fruits
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Lata Frutas
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#2
+
+# [ENGLISH]
+# I'm bringing a can of fruit to eat for dessert today.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Llevo una lata de frutas para comer de postre hoy
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#3
+
+# [ENGLISH]
+# I didn't get fresh fruit // So I'm bringing a can of fruit.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+No he conseguido frutas frescas // Así que llevo una lata de frutas
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#4
+
+# [ENGLISH]
+# Fresh fruit rots // That's why I'll take them in a can
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Las frutas frescas se me pudren // Por eso llevo una lata de frutas
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#5
+
+# [ENGLISH]
+# 'Don Maligno fruit can' // 'Provides all the benefits of fruit in one can' // 'For superior breeds only' // Cool.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Spanish: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Lata de frutas Don Maligno' // 'Brinda todo los beneficios de las frutas en una sola lata' // 'Solo para razas superiores' // Genial
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#6
+
+# [ENGLISH]
+# Very well // If Maligno says I can't eat a can of fruit... // I won't complain
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Spanish: Maligno
+
+# [TRANSLATION]
+<<<
+Muy bien // Si Maligno dice que no puedo comer una lata de frutas... // No me quejaré
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#7
+
+# [ENGLISH]
+# Wow... // I didn't get fresh fruit // And I can't carry canned fruit either...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Vaya... // No conseguí frutas frescas // Y además no puedo llevar lata de frutas...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#8
+
+# [ENGLISH]
+# No! // My can of fruit... // There will be no dessert today...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+¡No! // Mi lata de frutas... // Hoy no habrá postre...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#9
+
+# [ENGLISH]
+# Too bad... // I had cream ready for that can of fruit...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Qué mal... // Tenía preparada crema para esa lata de frutas...
+>>>

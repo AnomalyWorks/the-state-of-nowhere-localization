@@ -1,0 +1,997 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#1
+
+# [ENGLISH]
+# Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Traditional: 主管
+
+# [TRANSLATION]
+<<<
+主管
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#2
+
+# [ENGLISH]
+# Good morning // I'll be your supervisor // Let's see what we have here... // workstation 65... // Employee 100411... // You seem to have experience in this... // If you have any questions, consult your manual // There you will find indications of the elements you have at your station // In addition to the current regulations // Respect the regulations // Don't make mistakes and you'll do well // Each mistake will count as a penalty in your salary... // Anyway... // May the glory of Maligno shine upon you... // Employee 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Traditional: 主管
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: WORKSTATION
+# English: Workstation
+# Chinese Traditional: 工作站
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+早上好 // 我將是你的主管 // 讓我們看看這裡有什麼... // 工作站 65... // 員工 100411... // 看起來你這方面有經驗... // 如有任何疑問，請查閱手冊 // 那裡會有你工作站可用元素的說明 // 以及現行規定 // 遵守規定 // 不要犯錯，一切會順利的 // 每次違規都會在你的工資中作為扣款... // 總之... // 願 Maligno 的榮耀照耀著你... // 員工 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#3
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see the news? // Arrest those criminals // We have also installed new equipment // Check your manual for more information // You'll be fitted with the other gadgets soon... // This station used to be empty // The last wretch who used it left his entrails scattered all over the place // Yeah... // He was attacked... // You should have seen it... // We're refurbishing // Equipment's missing // You've got enough to operate though // Now get back to your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+嘿 員工100411 // 你看到新聞了嗎？ // 逮捕那些壞人 // 另外，我們安裝了新設備 // 查閱你的手冊以獲取更多資訊 // 很快他們會給你安裝其他設備... // 這個工作站以前是空的 // 最後一個使用它的可憐蟲把內臟散落了一地 // 是的... // 他被襲擊了... // 你要是看到了... // 我們正在重新裝修 // 缺少設備 // 雖然你有足够的設備運營 // 現在回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#4
+
+# [ENGLISH]
+# Employee 100411 // Did you see the news? // There are new rules // Check your manual... // You must cancel non-compliant products // We must educate these people // Only then will we build a better Nowhere... // Now do your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+員工 100411 // 你看到新聞了嗎？ // 有新規定 // 檢查你的手冊... // 你必須註銷不符合規定的產品 // 我們必須教育這些人 // 只有這樣我們才能建設一個更好的Nowhere... // 現在完成你的工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#5
+
+# [ENGLISH]
+# Hello employee 100411 // The product readers have been crashing lately... // I don't know what it could be... // They were the cheapest on the market... // Anyway... // You can enter the products manually if you have any problems // See the manual for more information...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Chinese Traditional: 商品讀取器
+
+# [TRANSLATION]
+<<<
+你好，員工100411 // 最近商品讀取器總是出故障... // 不知道是什麼原因... // 明明買的是市場上最便宜的... // 總之... // 如果出了問題，你可以手動輸入商品 // 更多資訊請查閱手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#6
+
+# [ENGLISH]
+# Hello employee 100411 // As you can see, we have placed a storage unit in your station // There you can store your belongings // By the way... // I saw this and perhaps it could be useful to you // Don't thank me // Return to your work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+
+# [TRANSLATION]
+<<<
+你好，員工100411 // 如你所見，我們在你的工作站設置了一個儲物空間 // 你可以在那裡存放自己的物品 // 對了... // 我看到這個，或許對你有用 // 不用謝我 // 回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#7
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see about the missing minister's son // It breaks my heart... // That's why new equipment has been sent // You can see it in your manual // Your new job will be to check if any of the citizens // are present in the missing list... // Anyway... // Go back to your job 100411 // And by the way // There are juicy rewards for those who find these people // It would be a good opportunity for you // You could get that much needed plastic surgery...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+員工100411 // 你聽說部長的兒子失蹤了嗎？ // 真讓我心痛啊... // 因此，上面送來了新設備 // 具體內容可以在你的手冊裡查看 // 你的新任務是檢查這些市民當中 // 是否有人出現在失蹤人員名單上... // 總之... // 回去工作吧，100411 // 對了 // 找到這些人可是有豐厚獎勵的 // 對你來說倒是個好機會 // 說不定終於能去做那個你急需的整形手術了...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#8
+
+# [ENGLISH]
+# Hello 100411 // We have been sent new equipment // You can see it in your manual // You will be able to verify if a citizen is a wanted criminal // The state of Nowhere has zero tolerance for criminals // You must arrest them // It is your duty now employee 100411 // Do not forget to claim the reward before proceeding with the arrest
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+你好，100411 // 我們收到了新設備 // 你可以在你的手冊中查看 // 你將能夠檢查市民是否是通緝犯 // Nowhere 國對犯罪零容忍 // 你必須逮捕他們 // 這是你現在的義務，員工100411 // 逮捕前別忘了領取獎勵
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#9
+
+# [ENGLISH]
+# Hello 100411 // We have received a call from the police department of investigations // They have informed us about marked money // Money that they use to track certain criminals // You must arrest any individual with marked bills // That will be your new task employee 100411 // For more information please consult your manual.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+你好，100411 // 我們收到了調查警察部門的電話 // 他們告知我們關於標記貨幣的事 // 他們用於追蹤某些犯罪分子的貨幣 // 你必須逮捕任何持有標記貨幣的個人 // 這將是你的新任務，員工100411 // 如需更多信息，請查閱你的手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#10
+
+# [ENGLISH]
+# Employee 100411 // Are you aware of the situation? // Thefts are becoming more frequent in the distribution centers // But don't worry // A scanner system has been implemented in the station // With it you will be able to detect if these bad guys have hidden products in their clothes // That's all employee 100411 // Don't forget to check your manual...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Traditional: 配送中心
+#
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+員工100411 // 你了解情況嗎？ // 配送中心的盜竊事件越來越頻繁 // 但請放心 // 工作站已實施掃描系統 // 你可以用它檢測這些壞蛋是否在衣服裡藏了商品 // 就這樣，員工100411 // 別忘了查閱手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#11
+
+# [ENGLISH]
+# Hello employee 100411 // New defense tools have arrived for the distribution center // You will be in charge of their operation // Last night's brutal assault has prompted the authorities to take serious measures... // Anyway // You can find more information in the manual // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Traditional: 配送中心
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+你好，員工100411 // 配送中心迎來了新的防禦工具 // 它們的操作將由你負責 // 昨晚的殘暴襲擊導致當局採取了嚴肅措施... // 總之 // 你可以在手冊中找到更多資訊 // 現在回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#12
+
+# [ENGLISH]
+# Hello 100411 // As you will see, we have provided new tools at your station // You can now process credit card payments // Check your manual // And fix that tie // Where do you think you are? // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+你好，100411 // 如你所見，我們在你的工作站上配置了新工具 // 現在你可以處理信用卡付款了 // 查閱你的手冊 // 還有，整理一下你的領帶 // 你以為你在哪裡？ // 回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#13
+
+# [ENGLISH]
+# Hello 100411 // I am informing you that as of today // You may receive credit notes as a means of payment // All information about their processing is in your manual... // Now keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Traditional: 貸項通知單
+
+# [TRANSLATION]
+<<<
+你好，100411 // 通知你，從今天起 // 你可能會收到貸項通知單作為付款方式 // 關於其處理的所有資訊都在手冊中... // 現在繼續工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // We have received a transaction update // Food coupons have been enabled as a means of payment // You should see your manual // Now go back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+
+# [TRANSLATION]
+<<<
+員工100411 // 我們收到了作業系統的更新 // 食品券已作為付款方式啟用 // 你應該查看你的手冊 // 現在回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#15
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You should inquire about them and their operation at the manual... // By the way... // How do I look? // Today I have to go to a business meeting... // Anyway... // Go back to work immediately
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+你好 100411 // 如你所知 // 折價券已投入流通 // 你必須透過手冊了解它們及其操作... // 順便問一下... // 我看起來怎麼樣？ // 今天我得去參加一個商務會議... // 總之... // 立即回到你的工作中
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#16
+
+# [ENGLISH]
+# Employee 100411 // Due to the counterfeiters arrested yesterday // We have been instructed to thoroughly check the authenticity of items presented by citizens // You should be aware of the new procedure // Check your manual as soon as possible // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+員工 100411 // 由於昨天抓獲的偽造者 // 我們被命令徹底檢查市民所提交文件的真實性 // 你必須了解新的程序 // 盡快檢查你的手冊 // 現在回到工作中
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#17
+
+# [ENGLISH]
+# Employee 100411 // I'm informing you that the 'Eating Better' program is in force // That means that you will have to control the degree of obesity of the citizens // And cancel any product that is harmful to these beasts... // First of all, please check your manual and inform yourself about it // Now go back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Traditional: 健康飲食
+
+# [TRANSLATION]
+<<<
+員工 100411 // 我通知您，'健康飲食'計劃正在執行中 // 這意味著你必須控制市民的肥胖程度 // 並且取消任何對這些生物有害的產品... // 首先請查閱你的手冊並了解相關信息 // 現在回到你的工作中
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#18
+
+# [ENGLISH]
+# Hello employee 100411 // The 'Eating Better' program has been expanded // It now incorporates certain food intolerances // You must detect it in citizens and proceed according to regulations // Check your manual for more information // Now back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Traditional: 健康飲食
+
+# [TRANSLATION]
+<<<
+你好，員工 100411 // '健康飲食'計劃已擴大 // 它現在包含某些食物不耐受 // 你必須在市民中檢測到它並按規定行事 // 查閱你的手冊以獲取更多信息 // 現在回到工作中
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // The 'Eating Better' program has been expanded // Your station has been outfitted with equipment to test citizens' blood pressure // You must read your manual // And comply with new directives // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Traditional: 健康飲食
+
+# [TRANSLATION]
+<<<
+你好 100411 // '健康飲食'計劃已擴大 // 你的工作站配備了分析市民血壓的設備 // 你必須閱讀你的手冊 // 並遵守新的指令 // 回到工作中
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#20
+
+# [ENGLISH]
+# Hello 100411 // Today we are in mourning... // I still can't believe it... // It seems like only yesterday that I met that family on a cruise trip... // How sad... // Anyway... // From today it will be your job to carry out breathalyzer checks // Your station has been adapted for this // You should consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+#
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+你好 100411 // 今天我們在哀悼中 // 我仍然無法相信 // 彷彿是昨天在郵輪旅行中遇到那家人一樣 // 多麼悲傷啊 // 總之 // 從今天起，你的工作是進行酒精檢測 // 你的工作站已為此進行了調整 // 你應該查閱手冊以獲取更多信息 // 現在回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#21
+
+# [ENGLISH]
+# Employee 100411 // As of today we have provided different types of brochures // To distribute to our citizens... // Although it is not mandatory... // It's only for... // Well... // You know... // To raise awareness... // Anyway // Back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+員工 100411 // 從今天起，我們安排了不同類型的傳單 // 以便分發給市民... // 雖然這不是強制性的... // 只是為了... // 好吧... // 你知道... // 提高意識... // 總之 // 回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // Today there are new rules // Check your manual // You must control credit card payments // There is a prohibited list // You must respect it // Understood? // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+你好 100411 // 今天有新規則 // 查閱你的手冊 // 你需要控制信用卡付款 // 有一份禁止名單 // 你需要遵守它 // 明白了嗎？ // 現在回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#23
+
+# [ENGLISH]
+# Hello 100411 // From today you will have a new tool // It will help you to make a thorough analysis of the citizen // To prevent identity theft // For more information, see your manual // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+你好 100411 // 從今天起，你將擁有一個新工具 // 這個工具將用於對市民進行細緻分析 // 以防止身份盜竊 // 如需更多信息，請查閱手冊 // 現在回去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#24
+
+# [ENGLISH]
+# Hi 100411 // I was supervising your work // I usually do it later // But this time I have to go to a store... // I have to buy something to attend a costume event... // Yeah, costumes... // It's not my thing but there will be a lot of important people there and I have to make a good impression... // That's why I have to think it over... // And choose something that's up to the task... // Anyway... // Bye 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我正在檢查你的工作 // 通常我會晚些時候進行 // 但這次我必須去一趟商店... // 我需要買些東西去參加一個化裝舞會... // 是的，化裝舞會... // 這不太是我的風格，但會有很多重要人物出席，我必須給人留下好印象... // 正因如此，我得好好斟酌... // 選擇一些配得上場面的東西... // 總之... // 再見 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#25
+
+# [ENGLISH]
+# Hello 100411 // I received your package... // As soon as I saw it I knew it was the perfect choice... // I decided to wear it and... // The party was a big success! // All the important people in Nowhere were impressed // I'm sure we'll do a lot of business in the future... // Anyway... // I must thank you in some way... // Take this // Enjoy it // Buy yourself... // Whatever it is that people like you buy...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我收到了你的包裹... // 一看到它，我就知道這是完美的選擇... // 我決定帶著它... // 派對非常成功！ // Nowhere的所有重要人物都印象深刻 // 肯定將來我們會做很多生意... // 總之... // 我必須想辦法感謝你... // 拿著吧 // 享受吧 // 給自己買點... // 不管是什麼，像你這樣的人會買的東西...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#26
+
+# [ENGLISH]
+# Hello 100411 // I got your package... // I've tried everything // Every treatment out there... // And none of them worked // So I figured it would be a total waste of time to try it... // But it worked! // Look at this beautiful hair! // I've never had so much hair before // I'm so grateful // Have this 100411 // Now if you'll excuse me, I have to go admire my beauty in the mirror.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好，100411 // 我收到你寄來的包裹了... // 老實說，我什麼都試過了 // 所有能找到的治療方法... // 但沒有一種有效 // 所以我本來以為試這個也完全是在浪費時間... // 但它居然有效！ // 看看我這一頭漂亮的頭髮！ // 我以前從來沒有過這麼多頭髮 // 我非常感謝你 // 這個給你，100411 // 那麼失陪了，我得去鏡子前欣賞一下自己的美貌
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#27
+
+# [ENGLISH]
+# Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been able to reach her // She hasn't come to work // Her friends don't know anything about her... // She vanished // Just like that... // Anyway // She was the winner of a special bonus this month // And since I couldn't deliver it... // We've decided to give it to you // Here // Enjoy it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 你聽說100456的消息了嗎？ // 她失蹤了 // 誰都找不到她 // 她沒來上班 // 她的朋友們對她一無所知... // 她消失了 // 就像什麼都沒發生過一樣... // 總之 // 她是這個月特別獎金的獲得者 // 因為我沒能發給她... // 我們決定把它給你 // 拿著吧 // 享受吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#28
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // I'll take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // 你所制服的那個可憐蟲沒能活下來 // 現在他可以到另一個世界去乞討食物了 // 安心回家吧 // 我會處理好一切，不會讓你有麻煩
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#29
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe I exaggerated a little... // But woe betide you if you open your mouth... // I've got to go now // I have an interview in a few minutes // Keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+嘿 100411 // 你看到新聞了嗎？ // 現在我是個大英雄了... // 好吧... // 也許我有點誇張了... // 但如果你說出去的話，你就慘了... // 我得走了 // 我幾分鐘後有個面試 // 繼續工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#30
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a national hero... // I may have exaggerated a bit with the story... // But I saved your ass // You owe me... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+嘿 100411 // 你看到新聞了嗎？ // 我是國家英雄... // 也許我在敘述中有點誇張了... // 但我救了你的命 // 你欠我一次... // 現在回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#31
+
+# [ENGLISH]
+# Hello 100411 // Today I have received multiple calls // My bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But I managed to save you // Since you are a very hard worker // I blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish my boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+嘿 100411 // 今天我接到了多個電話 // 我的上級們不滿意 // 你知道為什麼嗎？ // 你下令逮捕部長的兒子 // 他們想要你的頭... // 但我設法救了你 // 因為你很勤奮， // 我把你的錯誤歸咎於別人 // 那個可憐的不幸者... // 如果他在工作上更努力一點，現在就不會成為魚食了 // 總之... // 因為這個錯誤，你必須在每天回家前給我擦靴子 // 現在回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#32
+
+# [ENGLISH]
+# Hello 100411 // I've been keeping a close eye on your performance... // You must not slack off // You know what happens to those who are not useful // They end up like that janitor // On the street // Only the strong survive here // There is no room for weakness... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+嘿 100411 // 我一直在密切關注你的表現... // 你不該疏忽 // 你知道那些沒用的人會怎麼樣嗎？ // 他們會像那個清潔工一樣結局 // 在街上 // 這裡只有上級才能生存 // 沒有軟弱的餘地... // 現在回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#33
+
+# [ENGLISH]
+# Hello 100411 // We have detected a number of irregularities in our accounting records // So we are going to conduct a thorough investigation // at all the center's workstations // It will take a few days // But don't worry // I know you can be trusted // See you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我們在會計紀錄中偵測到一系列違規行為 // 因此，我們將對中心的所有工作站進行全面調查 // 這將花費我們幾天時間 // 但你不用擔心 // 我知道你值得信賴 // 明天見
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#34
+
+# [ENGLISH]
+# Hello 100411 // I got word that someone robbed this station // And that you allowed it to be stolen without resistance... // If you want to keep working here // You'd better do your job... // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我聽說有人襲擊了這個工作站 // 並且你允許它被搶劫而沒有抵抗... // 如果你想繼續在這裡工作 // 你最好做好你的工作... // 明天見
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#35
+
+# [ENGLISH]
+# Hello 100411 // Very well done // I saw how you neutralized that robber... // Maligno would be proud of you son // You're on a good path // I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: ROBBERS
+# English: Robbers
+# Chinese Traditional: 搶匪
+
+# [TRANSLATION]
+<<<
+你好 100411 // 做得很好 // 我看到你如何制服了那個搶匪... // Maligno會為你感到驕傲，兒子 // 你走在正確的道路上 // 明天見
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#36
+
+# [ENGLISH]
+# Hello 100411 // You've made a lot of mistakes lately // I've come to warn you... // You don't want to end up on the street // Do you? // I'll see you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 最近你犯了很多錯誤 // 我來警告你... // 你不會想流落街頭的 // 還是說你會？ // 明天見 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#37
+
+# [ENGLISH]
+# Hi 100411 // Have you seen my wife around? // She's been very demanding lately... // I've been ignoring her for a while now // She's constantly looking for me... // And I don't feel that excitement we had when we were young... // The flame of love that once brought us together... // Has slowly faded away... // Anyway // It's time to go // See you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 你看到我妻子在這裡嗎？ // 最近她要求很多... // 說實話，這段時間我忽略了她 // 她一直在找我... // 而我不再有我們年輕時的那種激情... // 曾經將我們連在一起的愛的火焰... // 已經逐漸熄滅了... // 總之 // 是時候離開了 // 明天見 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#38
+
+# [ENGLISH]
+# Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I'll give them a call // See if that's the answer to the problems with my wife... // Anyway // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我看到你透過郵件發給我的那個傳單了... // 謝謝你... // 我會打電話給他們 // 看看是不是解決我妻子問題的辦法... // 總之 // 明天見
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#39
+
+# [ENGLISH]
+# Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually comes to drop off dinner for me... // But she hasn't shown up // I tried to call her but she's not picking up // I hope she's okay...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 今天我沒看到我的妻子... // 我很擔心... // 通常她會來給我送晚餐... // 但她沒有出現 // 我試圖打電話給她，但她沒有接 // 希望她沒事...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#40
+
+# [ENGLISH]
+# Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she got tired of me and decided to leave... // You have to be strong and move on... // I have an appointment today // Wish me luck...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 他們還沒有找到我的妻子... // 總之... // 也許她厭倦了我，決定離開了... // 必須堅強，繼續前進... // 今天我有個約會 // 祝我好運...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#41
+
+# [ENGLISH]
+# Hello 100411 // My wife has asked me for a divorce... // She's claiming half of the assets... // Can you believe it? // I have a meeting with my lawyer tomorrow... // I didn't think it would come to this... // Anyway... // I have to go now. I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我的妻子提出了離婚... // 她要求一半的財產... // 你能相信嗎？ // 明天我要和我的律師開會... // 沒想到我們會走到這一步... // 總之... // 我得走了 // 明天見
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#42
+
+# [ENGLISH]
+# You! // You dirty maggot! // It was you who slept with my wife! // Do you think things are going to stay like this?! // You and that harlot will pay!!! // Get ready...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你！ // 該死的蟲子！ // 是你和我老婆睡了！ // 你以為就這麼算了？！ // 你和那個賤人會付出代價的！！ // 準備好...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#43
+
+# [ENGLISH]
+# 100411... // What are all those bandages? // And those crutches? // Are you going to some kind of party? // Do I need to remind you that this is your job? // You can't come to work dressed as a mummy // I hope this doesn't happen again
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 那些繃帶都是什麼？ // 還有那些拐杖？ // 你是要去參加什麼派對嗎？ // 需要我提醒你這是你的工作嗎？ // 不能打扮成木乃伊來上班 // 希望這種事不要再發生
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#44
+
+# [ENGLISH]
+# Hi 100411... // But... // What is that face? // Have you looked in the mirror? // Are you sick? // I remind you that sick leave here for low-class employees is completely prohibited // You had better recover quickly
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好，100411... // 不過... // 那是什麼表情？ // 照過鏡子了嗎？ // 你生病了嗎？ // 我提醒你，低級員工在這裡完全禁止休假 // 你最好盡快恢復
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#45
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been drinking alcohol excessively during work hours // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance // I hope you walk the straight and narrow from now on
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 昨天我們不得不緊急將您送往醫院 // 您在工作中暈倒了 // 我們發現您在工作期間過度飲酒 // 這是我們無法容忍的行為 // 如果您不改正就會被解僱 // 這是最後的機會 // 希望從現在開始您能規規矩矩的
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#46
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been using drugs // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance to straighten up
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 昨天我們不得不緊急將您送往醫院 // 您在工作中暈倒了 // 我們發現您在吸毒 // 這是我們無法容忍的行為 // 如果您不改正就會被解僱 // 這是你改過自新的最後機會
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#47
+
+# [ENGLISH]
+# Employee 100411... // That's it // The probationary period is over // And we have decided to dispense with you // I know // It was too little // In fact we still have many ways we would have liked to exploit you.... // But that's the way it is // I'd almost gotten used to that strange face you have..... // I don't usually shed tears when firing employees.... // And this one definitely won't be an exception either... // See you never 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+員工100411... // 就這些了 // 試用期已經結束 // 我們決定不再留用你 // 我知道 // 確實太短了 // 事實上，我們還有很多方法想用來繼續剝削你... // 不過事情就是這樣 // 我都快習慣你那張怪臉了... // 我開除員工時通常不會流淚... // 這次當然也不會例外 // 永遠別再見了，100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#48
+
+# [ENGLISH]
+# Good morning // employee 100411 // I have been evaluating the performance of your first day at the station // I'm not going to lie to you // The truth is I expected more from someone with your background // I will continue to watch you // In the meantime // we have provided your station with the tools that will allow you to detect counterfeits // Now get to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+
+# [TRANSLATION]
+<<<
+早安 // 員工100411 // 我評估了你第一天在工作站的工作表現 // 我就直說了 // 老實說，以你的履歷，我本來期待你能做得更好 // 我會繼續盯著你 // 與此同時 // 我們已經為你的工作站配備了能夠檢測偽造品的工具 // 現在去工作吧
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#49
+
+# [ENGLISH]
+# So you think you're good enough not to receive an infraction // Well, we'll see about that 100411 // The last miserable guy who said that ran home // To cry in his mommy's arms // I hope you don't regret it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+所以你覺得自己厲害到一張罰單都不會收到 // 那我們就走著瞧吧，100411 // 上一個這麼說的可憐蟲一溜煙跑回了家 // 跑去媽媽懷裡哭鼻子 // 希望你不會後悔
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#50
+
+# [ENGLISH]
+# So you like finances, 100411? // Then you better keep a surplus in your personal finances // We don't tolerate debtors here // You've been warned
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+所以你喜歡金融，是嗎，100411？ // 那你最好讓自己的個人財務保持盈餘 // 我們這裡可不容忍欠債的人 // 我已經警告過你了
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#51
+
+# [ENGLISH]
+# Infinite mode? // You're unhinged 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+無限模式？ // 你瘋了 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#52
+
+# [ENGLISH]
+# What happened? // Weren't you good enough not to receive infractions? // Grab your things // You're fired 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+怎麼了？ // 你不是說足夠好不會受到處罰嗎？ // 收拾你的東西 // 你被解僱了 100411
+>>>

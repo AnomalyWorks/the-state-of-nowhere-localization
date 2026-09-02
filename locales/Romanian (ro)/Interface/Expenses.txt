@@ -1,0 +1,802 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#1
+
+# [ENGLISH]
+# Rent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Chirie
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#2
+
+# [ENGLISH]
+# Food
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Mâncare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#3
+
+# [ENGLISH]
+# Household expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+
+# [TRANSLATION]
+<<<
+Cheltuieli gospodărești
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#4
+
+# [ENGLISH]
+# Nowhere State Taxes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Romanian: Nowhere
+
+# [TRANSLATION]
+<<<
+Impozitele statului Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#5
+
+# [ENGLISH]
+# Maligno Premium TV Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_TV
+# English: Maligno Premium TV Pack
+# Romanian: Maligno Premium TV Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium TV Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#6
+
+# [ENGLISH]
+# Maligno Ultra Gold Internet Pack 256kbps
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_INTERNET
+# English: Maligno Ultra Gold Internet Pack 256kbps
+# Romanian: Maligno Ultra Gold Internet Pack 256kbps
+
+# [TRANSLATION]
+<<<
+Maligno Ultra Gold Internet Pack 256kbps
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#7
+
+# [ENGLISH]
+# Maligno Premium XXX Pack + Feet Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_XXX
+# English: Maligno Premium XXX Pack + Feet Pack
+# Romanian: Maligno Premium XXX Pack + Feet Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium XXX Pack + Feet Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#8
+
+# [ENGLISH]
+# Maligno insurance
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Romanian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno Asigurări
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#9
+
+# [ENGLISH]
+# Medical expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+
+# [TRANSLATION]
+<<<
+Cheltuieli medicale
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#10
+
+# [ENGLISH]
+# Arrest expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+
+# [TRANSLATION]
+<<<
+Cheltuieli pentru arestare
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#11
+
+# [ENGLISH]
+# Gift for Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: WIFE
+# English: Wife
+# Romanian: Soție
+
+# [TRANSLATION]
+<<<
+Cadou pentru Soție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#12
+
+# [ENGLISH]
+# Gift for Supervisor's ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Cadou pentru fosta soție a Superviz.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#13
+
+# [ENGLISH]
+# Gift for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+#
+# ID: LOVER
+# English: Lover
+# Romanian: Amant
+
+# [TRANSLATION]
+<<<
+Cadou pentru Fiu (Amant)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#14
+
+# [ENGLISH]
+# Gift son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Cadou Fiu (fosta soție Superviz.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#15
+
+# [ENGLISH]
+# Gift for Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+
+# [TRANSLATION]
+<<<
+Cadou pentru Fiu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#16
+
+# [ENGLISH]
+# Gift for Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: LOVER
+# English: Lover
+# Romanian: Amant
+
+# [TRANSLATION]
+<<<
+Cadou pentru Amant
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#17
+
+# [ENGLISH]
+# Gift for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+#
+# ID: PET
+# English: Pet
+# Romanian: Animal de companie
+
+# [TRANSLATION]
+<<<
+Cadou pentru Animal de companie
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#18
+
+# [ENGLISH]
+# son's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+
+# [TRANSLATION]
+<<<
+Cheltuielile Fiului
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#19
+
+# [ENGLISH]
+# son's expenses (lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+#
+# ID: LOVER
+# English: Lover
+# Romanian: Amant
+
+# [TRANSLATION]
+<<<
+Cheltuielile Fiului (Amant)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#20
+
+# [ENGLISH]
+# Son exp. (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Chelt. Fiu (fosta soție superviz.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#21
+
+# [ENGLISH]
+# wife's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: WIFE
+# English: Wife
+# Romanian: Soție
+
+# [TRANSLATION]
+<<<
+Cheltuielile Soției
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#22
+
+# [ENGLISH]
+# Sup. ex-Wife expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Chelt. fostei soții superviz.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#23
+
+# [ENGLISH]
+# pet expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: PET
+# English: Pet
+# Romanian: Animal de companie
+
+# [TRANSLATION]
+<<<
+Cheltuieli pentru animalul de companie
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#24
+
+# [ENGLISH]
+# lover's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Romanian: Cheltuială
+#
+# ID: LOVER
+# English: Lover
+# Romanian: Amant
+
+# [TRANSLATION]
+<<<
+Cheltuielile amantului
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#25
+
+# [ENGLISH]
+# Medicines for son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+
+# [TRANSLATION]
+<<<
+Medicamente pentru Fiu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#26
+
+# [ENGLISH]
+# Medicines for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+#
+# ID: LOVER
+# English: Lover
+# Romanian: Amant
+
+# [TRANSLATION]
+<<<
+Medicamente pentru Fiu (Amant)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#27
+
+# [ENGLISH]
+# Med. son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: SON
+# English: Son
+# Romanian: Fiu
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Med. Fiu (fosta soție superviz.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#28
+
+# [ENGLISH]
+# Medicines for wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: WIFE
+# English: Wife
+# Romanian: Soție
+
+# [TRANSLATION]
+<<<
+Medicamente pentru soție
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#29
+
+# [ENGLISH]
+# Med. Sup. ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Romanian: Supervizor
+
+# [TRANSLATION]
+<<<
+Med. fosta soție superviz.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#30
+
+# [ENGLISH]
+# Medicines for lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: LOVER
+# English: Lover
+# Romanian: Amant
+
+# [TRANSLATION]
+<<<
+Medicamente pentru amant
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#31
+
+# [ENGLISH]
+# Medicines for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Romanian: Medicamente
+#
+# ID: PET
+# English: Pet
+# Romanian: Animal de companie
+
+# [TRANSLATION]
+<<<
+Med. pentru Animal comp.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#32
+
+# [ENGLISH]
+# Condoms sexual serv. provided
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Prezerv. pentru serv. sexual oferit
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#33
+
+# [ENGLISH]
+# Condoms sexual serv. received
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Prezerv. pentru serv. sexual primit
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#34
+
+# [ENGLISH]
+# Gift pack for the entire family
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+
+# [TRANSLATION]
+<<<
+Pachet de cadouri pentru toată familia
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#35
+
+# [ENGLISH]
+# Don Maligno Gift Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Romanian: Cadou
+
+# [TRANSLATION]
+<<<
+Pachet de Cadouri Don Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#36
+
+# [ENGLISH]
+# Kidnapping ransom
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Răscumpărare pentru răpire
+>>>

@@ -1,0 +1,239 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#1
+
+# [ENGLISH]
+# Ticket for Maligno's Restaurant
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TICKET_MALIGNO_RESTAURANT
+# English: Ticket for Maligno's Restaurant
+# German: Ticket für Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Ticket für Maligno's Restaurant
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#2
+
+# [ENGLISH]
+# Ticket for two people in the best restaurant. Maligno's Restaurant, a superior restaurant
+
+# [CONTEXT]
+# Description of the Ticket for Maligno's Restaurant inventory item
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# German: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Eintritt für zwei Personen in das beste Restaurant. Maligno's Restaurant, ein Spitzenrestaurant
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#3
+
+# [ENGLISH]
+# I'd love to accept it... // But a guy like me... // In that place...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich würde es liebend gern annehmen... // Aber ein Kerl wie ich... // An so einem Ort...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#4
+
+# [ENGLISH]
+# Thanks // But I'm not worthy enough to go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Danke // Aber ich bin nicht gut genug, um dort reinzukommen
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#5
+
+# [ENGLISH]
+# I'm sure they'll kick me out if I show up...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Die werden mich sicher rauswerfen, wenn ich dort auftauche...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#6
+
+# [ENGLISH]
+# A superior restaurant // for superior people // I couldn't go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ein Spitzenrestaurant... // Für Spitzenleute... // Ich könnte nicht hinein
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#7
+
+# [ENGLISH]
+# The new Maligno's Restaurant! // I wish I was worthy enough
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# German: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Das neue Maligno's Restaurant! // Ich wünschte, ich wäre würdig genug
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#8
+
+# [ENGLISH]
+# Thanks // But that restaurant is too much for me
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Danke // Aber dieses Restaurant ist zu viel für mich...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#9
+
+# [ENGLISH]
+# A policeman has no time for such things
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ein Polizist hat keine Zeit für so etwas
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#10
+
+# [ENGLISH]
+# Get away from me // And stick to your job
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Halten Sie sich von mir fern // Machen Sie einfach Ihre Arbeit
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#11
+
+# [ENGLISH]
+# You better continue working // If you don't want to be arrested
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Machen Sie besser mit Ihrer Arbeit weiter // Oder wollen Sie, dass ich Sie verhafte?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#12
+
+# [ENGLISH]
+# I'm the authority here // Behave // Or I will put you in a cell
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich bin hier die Autorität // Benehmen Sie sich // Oder ich stecke Sie in eine Zelle
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#13
+
+# [ENGLISH]
+# What are you trying to do handsome? // Are you trying to distract me? // Nothing distracts me more than you
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Was versuchst du, Hübscher? // Willst du mich ablenken? // Nichts lenkt mich mehr ab als du
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#14
+
+# [ENGLISH]
+# Can I tell you something? // You look irresistible // For someone like you I'd be capable of committing a crime
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Kann ich dir etwas sagen? // Du siehst unwiderstehlich aus // Für jemanden wie dich wäre ich zu einem Verbrechen fähig
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#15
+
+# [ENGLISH]
+# Buddy // Look at me // Do you think someone like me could get into that place?
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Kumpel // Sieh mich an // Glaubst du, dass jemand wie ich in diesen Laden kommen könnte?
+>>>

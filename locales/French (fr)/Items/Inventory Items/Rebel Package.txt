@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#1
+
+# [ENGLISH]
+# Rebel Package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_PACKAGE
+# English: Rebel Package
+# French: Paquet rebelle
+
+# [TRANSLATION]
+<<<
+Paquet rebelle
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#2
+
+# [ENGLISH]
+# Contains encrypted information. Deliver to:
+
+# [CONTEXT]
+# Description of the Rebel Package inventory item
+
+# [TRANSLATION]
+<<<
+Contient des informations chiffrées. À remettre à :
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#3
+
+# [ENGLISH]
+# What's this? // No thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Qu'est-ce que c'est ? // Non merci
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#4
+
+# [ENGLISH]
+# What does this mean? // Deliver to...?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Qu'est-ce que ça signifie ? // À remettre à...?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#5
+
+# [ENGLISH]
+# What's that? // I have no idea
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Qu'est-ce que c'est ? // Je n'en ai pas la moindre idée
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#6
+
+# [ENGLISH]
+# What is it for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+À quoi ça sert ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#7
+
+# [ENGLISH]
+# I don't understand what it is
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je ne comprends pas ce que c'est
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#8
+
+# [ENGLISH]
+# What is it supposed to be used for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+À quoi est-ce censé servir ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#9
+
+# [ENGLISH]
+# Glory to the resistance! // End the regime! // End Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Gloire à la résistance ! // À bas le régime ! // À bas Maligno !
+>>>

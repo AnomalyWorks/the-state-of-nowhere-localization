@@ -1,0 +1,7766 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#1
+
+# [ENGLISH]
+# Return
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+返回
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#2
+
+# [ENGLISH]
+# Yes
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+是
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#3
+
+# [ENGLISH]
+# No
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+否
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#4
+
+# [ENGLISH]
+# Are you sure?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+確定嗎？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#5
+
+# [ENGLISH]
+# Start game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+開始遊戲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#6
+
+# [ENGLISH]
+# Settings
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+設置
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#7
+
+# [ENGLISH]
+# Achievements
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+成就
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#8
+
+# [ENGLISH]
+# Exit
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+退出
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#9
+
+# [ENGLISH]
+# Press any key to continue
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+按任意鍵繼續
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#10
+
+# [ENGLISH]
+# Select Game Slot
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+選擇存檔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#11
+
+# [ENGLISH]
+# New Game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+建立遊戲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#12
+
+# [ENGLISH]
+# Delete game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+刪除條目
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#13
+
+# [ENGLISH]
+# Load game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+載入遊戲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#14
+
+# [ENGLISH]
+# Select day
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+選擇日期
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#15
+
+# [ENGLISH]
+# Last played
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+上次遊玩
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#16
+
+# [ENGLISH]
+# Crt.
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+信用.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#17
+
+# [ENGLISH]
+# Day
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+天
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#18
+
+# [ENGLISH]
+# Empty
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+空
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#19
+
+# [ENGLISH]
+# Delete a game to start a new one
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+刪除一個項目以建立新專案
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#20
+
+# [ENGLISH]
+# JAN
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+1月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#21
+
+# [ENGLISH]
+# FEB
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+2月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#22
+
+# [ENGLISH]
+# MAR
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+3月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#23
+
+# [ENGLISH]
+# APR
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+4月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#24
+
+# [ENGLISH]
+# MAY
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+5月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#25
+
+# [ENGLISH]
+# JUN
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+6月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#26
+
+# [ENGLISH]
+# JUL
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+7月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#27
+
+# [ENGLISH]
+# AUG
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+8月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#28
+
+# [ENGLISH]
+# SEP
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+9月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#29
+
+# [ENGLISH]
+# OCT
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+10月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#30
+
+# [ENGLISH]
+# NOV
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+11月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#31
+
+# [ENGLISH]
+# DEC
+
+# [CONTEXT]
+# 3-letter text representing the month's name. If no translation is possible for the selected language, leave it in English
+
+# [TRANSLATION]
+<<<
+12月
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#32
+
+# [ENGLISH]
+# Return to the game
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+返回遊戲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#33
+
+# [ENGLISH]
+# Exit to main menu
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+返回主選單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#34
+
+# [ENGLISH]
+# Exit to desktop
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+返回桌面
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#35
+
+# [ENGLISH]
+# Language
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+語言
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#36
+
+# [ENGLISH]
+# English
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+英語
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#37
+
+# [ENGLISH]
+# Spanish
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+西班牙語
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#39
+
+# [ENGLISH]
+# Full screen
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+全螢幕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#40
+
+# [ENGLISH]
+# Sound effects
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+音效
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#41
+
+# [ENGLISH]
+# Ambient music
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+環境音樂
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#42
+
+# [ENGLISH]
+# Unlocked endings
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+已解鎖結局
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#43
+
+# [ENGLISH]
+# Do you want to delete this game?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+是否刪除遊戲？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#44
+
+# [ENGLISH]
+# Do you want to start a new game?
+
+# [CONTEXT]
+# Text related to the game's navigation menu
+
+# [TRANSLATION]
+<<<
+要開始新遊戲嗎？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#45
+
+# [ENGLISH]
+# Counterfeit bills received as change
+
+# [CONTEXT]
+# Text related to counterfeit bills received as change in a typical retail transaction
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Traditional: 紙鈔
+
+# [TRANSLATION]
+<<<
+偽鈔兌換
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#46
+
+# [ENGLISH]
+# Credit Card cloner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+#
+# ID: CLONER
+# English: Cloner
+# Chinese Traditional: 複製器
+
+# [TRANSLATION]
+<<<
+信用卡複製器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#47
+
+# [ENGLISH]
+# Restrictions: Age
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [TRANSLATION]
+<<<
+銷售限制：年齡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#48
+
+# [ENGLISH]
+# Status ( Bills )
+
+# [CONTEXT]
+# Refers to the physical condition of the bills. Keep the format of the parentheses and the spaces between words
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Traditional: 紙鈔
+
+# [TRANSLATION]
+<<<
+狀態 ( 紙鈔 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#49
+
+# [ENGLISH]
+# Credit Card Control: Brand and Banks
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+信用卡控制：品牌與銀行
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#50
+
+# [ENGLISH]
+# President
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+總統
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#51
+
+# [ENGLISH]
+# Our president
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+我們的總統
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#52
+
+# [ENGLISH]
+# Together
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+一起
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#53
+
+# [ENGLISH]
+# Change
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+變革
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#54
+
+# [ENGLISH]
+# Together for change
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+一起為了變革
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#55
+
+# [ENGLISH]
+# State
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+国家
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#56
+
+# [ENGLISH]
+# State Office of Nowhere
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere國家辦公室
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#57
+
+# [ENGLISH]
+# Jobs
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+工作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#58
+
+# [ENGLISH]
+# Floor
+
+# [CONTEXT]
+# Building floor
+
+# [TRANSLATION]
+<<<
+樓層
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#59
+
+# [ENGLISH]
+# Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+稅
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#60
+
+# [ENGLISH]
+# More taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+更多稅
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#61
+
+# [ENGLISH]
+# New object received
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Chinese Traditional: 物品
+
+# [TRANSLATION]
+<<<
+獲得新物品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#62
+
+# [ENGLISH]
+# Amount of money obtained
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+獲得金錢
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#63
+
+# [ENGLISH]
+# Money is a limited resource. Use it wisely
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+金錢是有限資源。請明智使用
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#64
+
+# [ENGLISH]
+# New telephone entry
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+新來電
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#65
+
+# [ENGLISH]
+# Contact available for telephone calls
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+可撥打聯絡人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#66
+
+# [ENGLISH]
+# New mail entry
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Chinese Traditional: 郵件
+
+# [TRANSLATION]
+<<<
+新郵件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#67
+
+# [ENGLISH]
+# Contact available for mailing packages
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+可寄送包裹聯絡人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#68
+
+# [ENGLISH]
+# New features available
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+新功能可用
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#69
+
+# [ENGLISH]
+# New rules in force
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Traditional: 規定
+
+# [TRANSLATION]
+<<<
+新規定生效
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#70
+
+# [ENGLISH]
+# Refer to the manual for more information
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+更多資訊請參閱手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#71
+
+# [ENGLISH]
+# Scale
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SCALE
+# English: Scale
+# Chinese Traditional: 磅秤
+
+# [TRANSLATION]
+<<<
+磅秤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#72
+
+# [ENGLISH]
+# manual product reader
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Traditional: 手動商品讀取器
+
+# [TRANSLATION]
+<<<
+手動商品讀取器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#73
+
+# [ENGLISH]
+# Inventory
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Chinese Traditional: 物品欄
+
+# [TRANSLATION]
+<<<
+物品欄
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#74
+
+# [ENGLISH]
+# Missing persons
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Traditional: 失蹤人口
+
+# [TRANSLATION]
+<<<
+失蹤人口
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#75
+
+# [ENGLISH]
+# Wanted criminals
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Traditional: 通緝犯
+
+# [TRANSLATION]
+<<<
+通緝犯
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#76
+
+# [ENGLISH]
+# Cities control
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+城市管理
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#77
+
+# [ENGLISH]
+# Body scanner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BODY_SCANNER
+# English: Body Scanner
+# Chinese Traditional: 人體掃描器
+
+# [TRANSLATION]
+<<<
+人體掃描器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#78
+
+# [ENGLISH]
+# Restrictions: Food Intolerances
+
+# [CONTEXT]
+# Keep the format of the colon (:) followed by a space
+
+# [GLOSSARY]
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Chinese Traditional: 食物不耐症
+
+# [TRANSLATION]
+<<<
+銷售限制：食物不耐症
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#79
+
+# [ENGLISH]
+# Neutralization system
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Chinese Traditional: 解除威脅
+
+# [TRANSLATION]
+<<<
+解除威脅系統
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#80
+
+# [ENGLISH]
+# Credit card reader
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Chinese Traditional: 信用卡讀卡機
+
+# [TRANSLATION]
+<<<
+信用卡讀卡機
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#81
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Traditional: 貸項通知單
+
+# [TRANSLATION]
+<<<
+貸項通知單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#82
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+
+# [TRANSLATION]
+<<<
+食品券
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#83
+
+# [ENGLISH]
+# Discount coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+折價券
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#84
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Chinese Traditional: 放大鏡
+
+# [TRANSLATION]
+<<<
+放大鏡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#85
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Traditional: 電話
+
+# [TRANSLATION]
+<<<
+電話
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#87
+
+# [ENGLISH]
+# Blood pressure test
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_TEST
+# English: Blood Pressure Test
+# Chinese Traditional: 血壓檢測
+
+# [TRANSLATION]
+<<<
+血壓檢測
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#88
+
+# [ENGLISH]
+# Breathalyzer Test
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BREATHALYZER_TEST
+# English: Breathalyzer Test
+# Chinese Traditional: 酒精檢測
+
+# [TRANSLATION]
+<<<
+酒精檢測
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#89
+
+# [ENGLISH]
+# Health pamphlets
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Chinese Traditional: 健康宣導手冊
+
+# [TRANSLATION]
+<<<
+健康宣導手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#90
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Chinese Traditional: 郵件
+
+# [TRANSLATION]
+<<<
+郵件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#91
+
+# [ENGLISH]
+# Fingerprint scanner
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FINGERPRINT_SCANNER
+# English: Fingerprint Scanner
+# Chinese Traditional: 指紋掃描器
+
+# [TRANSLATION]
+<<<
+指紋掃描器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#92
+
+# [ENGLISH]
+# Slide the product code through the reader
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+請將產品條碼劃過讀取器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#93
+
+# [ENGLISH]
+# Reading area
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+讀取區域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#94
+
+# [ENGLISH]
+# Waiting for reading
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+等待讀取
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#95
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+讀取錯誤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#96
+
+# [ENGLISH]
+# Product read
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+產品已讀取
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#97
+
+# [ENGLISH]
+# Try again
+
+# [CONTEXT]
+# Text related to product scanning
+
+# [TRANSLATION]
+<<<
+請重試
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#98
+
+# [ENGLISH]
+# In case of intoxication consult your doctor
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+如遇中毒請諮詢醫生
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#99
+
+# [ENGLISH]
+# Enter Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+請輸入代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#100
+
+# [ENGLISH]
+# Printed Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+代碼已列印
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#101
+
+# [ENGLISH]
+# Accepted Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+代碼已接受
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#102
+
+# [ENGLISH]
+# Code List
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+代碼列表
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#103
+
+# [ENGLISH]
+# Reveal numeric Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+顯示數字代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#104
+
+# [ENGLISH]
+# Scanned fingerprint
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋已掃描
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#105
+
+# [ENGLISH]
+# Fingerprint File
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋檔案
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#106
+
+# [ENGLISH]
+# Waiting for fingerprint scan
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+等待指紋掃描
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#107
+
+# [ENGLISH]
+# Refer to the fingerprint file
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+請查閱指紋檔案
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#108
+
+# [ENGLISH]
+# Keep finger here
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+請將手指放在這裡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#109
+
+# [ENGLISH]
+# Fingerprint scan completed
+
+# [CONTEXT]
+# Text related to fingerprint scanning
+
+# [TRANSLATION]
+<<<
+指紋讀取完成
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#110
+
+# [ENGLISH]
+# Insert a valid identification card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Traditional: 身分證件
+
+# [TRANSLATION]
+<<<
+需要輸入身分證件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#111
+
+# [ENGLISH]
+# Scanning
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+掃描中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#112
+
+# [ENGLISH]
+# Check for irregularities
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+檢查異常
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#113
+
+# [ENGLISH]
+# Discount coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+折價券
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#114
+
+# [ENGLISH]
+# Discount amount
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+折扣金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#115
+
+# [ENGLISH]
+# Valid until
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+有效期至
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#116
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+
+# [TRANSLATION]
+<<<
+食品券
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#117
+
+# [ENGLISH]
+# Name
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+姓名
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#118
+
+# [ENGLISH]
+# Citizen code
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Traditional: 公民
+
+# [TRANSLATION]
+<<<
+公民代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#119
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Traditional: 貸項通知單
+
+# [TRANSLATION]
+<<<
+貸項通知單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#120
+
+# [ENGLISH]
+# Description
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+描述
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#121
+
+# [ENGLISH]
+# Amount
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#122
+
+# [ENGLISH]
+# Invoice code
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [GLOSSARY]
+# ID: INVOICE
+# English: Invoice
+# Chinese Traditional: 發票
+
+# [TRANSLATION]
+<<<
+採購發票
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#123
+
+# [ENGLISH]
+# Total amount
+
+# [CONTEXT]
+# Text related to commercial documents
+
+# [TRANSLATION]
+<<<
+總計金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#150
+
+# [ENGLISH]
+# Total due
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+應付總額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#151
+
+# [ENGLISH]
+# Money received
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+支付金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#152
+
+# [ENGLISH]
+# Change to be given
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+找零
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#153
+
+# [ENGLISH]
+# Select the change to give
+
+# [CONTEXT]
+# Text related to money processing
+
+# [TRANSLATION]
+<<<
+選擇找零金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#154
+
+# [ENGLISH]
+# Swipe the card to start
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+刷卡開始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#155
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+讀取錯誤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#156
+
+# [ENGLISH]
+# Enter the last 4 digits of the card code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+請輸入卡片代碼的最後4位數字
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#157
+
+# [ENGLISH]
+# Enter the security code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+請輸入安全代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#158
+
+# [ENGLISH]
+# Invalid code
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+代碼無效
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#159
+
+# [ENGLISH]
+# Code accepted
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+代碼已接受
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#160
+
+# [ENGLISH]
+# Print receipt
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Chinese Traditional: 收據
+
+# [TRANSLATION]
+<<<
+列印收據
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#161
+
+# [ENGLISH]
+# Citizen signature
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Traditional: 公民
+
+# [TRANSLATION]
+<<<
+公民簽名
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#162
+
+# [ENGLISH]
+# Credit card accepted
+
+# [CONTEXT]
+# Credit card processing
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+信用卡已接受
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#163
+
+# [ENGLISH]
+# Try again
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+請重試
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#164
+
+# [ENGLISH]
+# Insufficient funds
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+無資金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#165
+
+# [ENGLISH]
+# Sign ticket
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+簽署憑證
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#166
+
+# [ENGLISH]
+# Validate ticket
+
+# [CONTEXT]
+# Credit card processing
+
+# [TRANSLATION]
+<<<
+驗證憑證
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#167
+
+# [ENGLISH]
+# Take a capture of the card to clone
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+要複製卡請拍攝快照
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#168
+
+# [ENGLISH]
+# Take a picture of the front
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+請拍攝正面照片
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#169
+
+# [ENGLISH]
+# Take a picture of the back
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+請拍攝背面照片
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#170
+
+# [ENGLISH]
+# Reading error
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+擷取錯誤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#171
+
+# [ENGLISH]
+# Capture successful
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+擷取成功
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#172
+
+# [ENGLISH]
+# Data ready to be sent
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+資料準備就緒可傳送
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#173
+
+# [ENGLISH]
+# Data sent
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+資料已傳送
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#174
+
+# [ENGLISH]
+# Cloning successful
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+克隆成功
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#175
+
+# [ENGLISH]
+# Take the next capture
+
+# [CONTEXT]
+# Credit card cloning process
+
+# [TRANSLATION]
+<<<
+獲取下一個捕獲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#176
+
+# [ENGLISH]
+# Package shipment rejected
+
+# [CONTEXT]
+# Mailing process
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+包裹發送被拒絕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#177
+
+# [ENGLISH]
+# The addressee has refused the shipment of your package containing:
+
+# [CONTEXT]
+# Mailing process
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+您的包裹發送已被拒絕，其中包含:
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#178
+
+# [ENGLISH]
+# Enter number
+
+# [CONTEXT]
+# Phone call process
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Traditional: 電話
+
+# [TRANSLATION]
+<<<
+輸入電話
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#179
+
+# [ENGLISH]
+# Select contact
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+選擇聯繫人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#180
+
+# [ENGLISH]
+# Calling
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+呼叫中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#181
+
+# [ENGLISH]
+# Number does not exist
+
+# [CONTEXT]
+# Phone call process
+
+# [TRANSLATION]
+<<<
+號碼不存在
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#182
+
+# [ENGLISH]
+# report irregularity
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Chinese Traditional: 異常
+
+# [TRANSLATION]
+<<<
+報告異常
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#183
+
+# [ENGLISH]
+# General
+
+# [CONTEXT]
+# Rule category
+
+# [TRANSLATION]
+<<<
+通用
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#184
+
+# [ENGLISH]
+# Identification card
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Traditional: 身分證件
+
+# [TRANSLATION]
+<<<
+身分證件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#185
+
+# [ENGLISH]
+# Products
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#186
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Traditional: 紙鈔
+
+# [TRANSLATION]
+<<<
+紙鈔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#187
+
+# [ENGLISH]
+# Credit card
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+信用卡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#188
+
+# [ENGLISH]
+# Credit note
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Traditional: 貸項通知單
+
+# [TRANSLATION]
+<<<
+貸項通知單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#189
+
+# [ENGLISH]
+# Coupons
+
+# [CONTEXT]
+# Rule category
+
+# [GLOSSARY]
+# ID: COUPON
+# English: Coupon
+# Chinese Traditional: 優惠券
+
+# [TRANSLATION]
+<<<
+優惠券
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#190
+
+# [ENGLISH]
+# Select the violated rule to report to the citizen
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Traditional: 規定
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Traditional: 公民
+
+# [TRANSLATION]
+<<<
+選擇需向公民報告的違規規定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#191
+
+# [ENGLISH]
+# No rules in force
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Traditional: 規定
+
+# [TRANSLATION]
+<<<
+無有效規定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#192
+
+# [ENGLISH]
+# Revealing code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+正在解密代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#193
+
+# [ENGLISH]
+# Move the scanner
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+請滑動掃描器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#194
+
+# [ENGLISH]
+# Perform the scan
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+執行掃描
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#195
+
+# [ENGLISH]
+# Punch here
+
+# [CONTEXT]
+# Text related to the hole punch
+
+# [TRANSLATION]
+<<<
+在此處打孔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#196
+
+# [ENGLISH]
+# No documents
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+沒有文件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#197
+
+# [ENGLISH]
+# Invoices
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INVOICE
+# English: Invoice
+# Chinese Traditional: 發票
+
+# [TRANSLATION]
+<<<
+發票
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#198
+
+# [ENGLISH]
+# Stamp here
+
+# [CONTEXT]
+# Text related to document stamping
+
+# [TRANSLATION]
+<<<
+在此蓋章
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#199
+
+# [ENGLISH]
+# Arrested
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+已逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#200
+
+# [ENGLISH]
+# Allowed credit cards
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+允許的信用卡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#201
+
+# [ENGLISH]
+# These rules are subject to constant changes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Traditional: 規定
+
+# [TRANSLATION]
+<<<
+這些規定會持續不斷地進行變更
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#202
+
+# [ENGLISH]
+# Credit Cards
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+
+# [TRANSLATION]
+<<<
+信用卡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#203
+
+# [ENGLISH]
+# Infraction
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Chinese Traditional: 違規
+
+# [TRANSLATION]
+<<<
+違規
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#204
+
+# [ENGLISH]
+# Violation of rule
+
+# [CONTEXT]
+# Text related to an infraction document
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Traditional: 規定
+
+# [TRANSLATION]
+<<<
+違反規定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#205
+
+# [ENGLISH]
+# Fine amount
+
+# [CONTEXT]
+# Text related to an infraction document
+
+# [TRANSLATION]
+<<<
+罰款金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#206
+
+# [ENGLISH]
+# Map
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Chinese Traditional: 地圖
+
+# [TRANSLATION]
+<<<
+地圖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#207
+
+# [ENGLISH]
+# Restricted cities
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+限制城市
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#208
+
+# [ENGLISH]
+# City
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+城市
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#209
+
+# [ENGLISH]
+# Ref
+
+# [CONTEXT]
+# Reference abbreviation, must be exactly 3 letters. If there is no equivalent, leave it in English
+
+# [TRANSLATION]
+<<<
+參考
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#210
+
+# [ENGLISH]
+# Map of Nowhere
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Chinese Traditional: 地圖
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere 地圖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#213
+
+# [ENGLISH]
+# 'Missing Persons' has correctly registered your report // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Traditional: 失蹤人口
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+'失蹤人口'已成功登記您的報告 // 我們將評估其有效性並在短期內與您聯繫 // Maligno感謝您使用Nowhere州的'失蹤人口'服務
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#214
+
+# [ENGLISH]
+# 'Missing Persons' already has a pending report associated with you // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Traditional: 失蹤人口
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+「失蹤人口」已註冊了一份與您相關的待處理報告 // 我們將評估其有效性並盡快與您聯繫 // Maligno感謝您使用Nowhere州的「失蹤人口」服務
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#215
+
+# [ENGLISH]
+# 'Wanted Criminals' has correctly registered your report // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Traditional: 通緝犯
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+「通緝犯」已正確註冊了您的報告 // 我們將評估其有效性並盡快與您聯繫 // Maligno感謝您使用Nowhere州的「通緝犯」服務
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#216
+
+# [ENGLISH]
+# 'Wanted Criminals' already has a pending report associated with you // We will evaluate its validity and contact you shortly // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Traditional: 通緝犯
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+「通緝犯」已註冊了一份與您相關的待處理報告 // 我們將評估其有效性並盡快與您聯繫 // Maligno感謝您使用Nowhere州的「通緝犯」服務
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#217
+
+# [ENGLISH]
+# Welcome to 'Easy Fast Cash'! // Nowhere's number one pyramid scheme // By this call, you consent to 'Easy Fast Cash' disposing of all your assets to be invested by our skilled team of experts // Please // If you want to be part of the winning team by investing your future and money with 'Easy Fast Cash' press the 0 key on your phone // If you are content with being a broke and hopeless ignoramus press 1 // Awaiting response... // Congratulations! // You have just secured a prosperous future by joining 'Easy Fast Cash' // We will immediately take control of all your assets // Now you just have to wait for the great benefits this successful investment program will bring you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# Chinese Traditional: Easy Fast Cash
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+歡迎來到'Easy Fast Cash'！ // Nowhere排名第一的金字塔騙局 // 透過此電話，您同意'Easy Fast Cash'處置您的所有資產，由我們訓練有素的專家小組進行投資 // 請 // 如果您想透過將您的未來和金錢投資給'Easy Fast Cash'來成為獲勝團隊的一員，請按電話上的0鍵 // 如果您滿足於做一個沒有錢也沒有任何希望的無知者，請按1鍵 // 等待您的回應... // 恭喜！ // 您剛剛透過加入'Easy Fast Cash'確保了一個繁榮的未來 // 我們將立即處置您的所有資產 // 您只需等待這個成功的投資項目將為您帶來的巨大收益
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#218
+
+# [ENGLISH]
+# We apologize // 'Easy Fast Cash' phone services are currently unavailable // If you are a beneficiary of our program don't worry // Your money is generating great benefits // Just sit back and wait // Soon you will be on a paradise island enjoying the pleasures of life without any worries
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# Chinese Traditional: Easy Fast Cash
+
+# [TRANSLATION]
+<<<
+我們很抱歉 // 'Easy Fast Cash'的電話服務目前不可用 // 如果您是我們項目的受益者，請不用擔心 // 您的錢正在產生巨大的收益 // 您只需坐下來等待 // 很快您將在一個天堂般的島嶼上，無憂無慮地享受生活的樂趣
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#219
+
+# [ENGLISH]
+# 'Missing Persons' was unable to generate the report // Please // Verify that a citizen is present at the station when making the report // Maligno thanks you for using the 'Missing Persons' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Traditional: 失蹤人口
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+「失蹤人口」服務無法生成報告 // 請 // 核實在報告時是否有市民在站點內 // Maligno感謝您使用Nowhere州的「失蹤人口」服務
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#220
+
+# [ENGLISH]
+# 'Wanted Criminals' was unable to generate the report // Please // Verify that a citizen is present at the station when making the report // Maligno thanks you for using the 'Wanted Criminals' service of the state of Nowhere
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Traditional: 通緝犯
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+「通緝犯」服務無法生成報告 // 請 // 核實在報告時是否有市民在站點內 // Maligno感謝您使用Nowhere州的「通緝犯」服務
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#221
+
+# [ENGLISH]
+# Report Resolution
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+報告摘要
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#222
+
+# [ENGLISH]
+# Dear
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+敬啟者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#223
+
+# [ENGLISH]
+# In order to inform you of the resolution of the report submitted, we hereby notify you that
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: REPORT
+# English: Report
+# Chinese Traditional: 報告
+
+# [TRANSLATION]
+<<<
+茲通知您已提交報告之摘要結果如下
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#224
+
+# [ENGLISH]
+# The individual specified does not correspond with any entries in our missing persons records
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Traditional: 失蹤人口
+
+# [TRANSLATION]
+<<<
+所指人員與我方失蹤人口檔案中任何記錄均不匹配
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#225
+
+# [ENGLISH]
+# You have contributed to the discovery of a missing person and the reward was credited to your account yesterday
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+您協助發現了一人，獎勵已於昨日存入您的帳戶
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#226
+
+# [ENGLISH]
+# The individual specified does not match any entries in our wanted criminals records
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Traditional: 通緝犯
+
+# [TRANSLATION]
+<<<
+所指人員與我方通緝犯檔案中任何記錄均不匹配
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#227
+
+# [ENGLISH]
+# You have contributed to the apprehension of a wanted criminal and the reward was credited to your account yesterday
+
+# [CONTEXT]
+# Text related to a formal report document
+
+# [TRANSLATION]
+<<<
+您協助發現了一罪犯，獎勵已於昨日存入您的帳戶
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#228
+
+# [ENGLISH]
+# UV codes of bills
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Traditional: 紙鈔
+
+# [TRANSLATION]
+<<<
+紙幣紫外線代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#229
+
+# [ENGLISH]
+# under surveillance
+
+# [CONTEXT]
+# Related to UV codes of bills
+
+# [TRANSLATION]
+<<<
+跟踪中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#230
+
+# [ENGLISH]
+# Last 4 digits
+
+# [CONTEXT]
+# Related to UV codes of bills
+
+# [TRANSLATION]
+<<<
+最後4位數字
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#231
+
+# [ENGLISH]
+# Products
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+產品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#232
+
+# [ENGLISH]
+# Output
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+出庫
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#233
+
+# [ENGLISH]
+# Depot
+
+# [CONTEXT]
+# Part of a 3-line UI label (#231–#233) meaning 'Products Output Depot'. Translate all three as one unit, adapting the word order and line breaks naturally. (#231) is the emphasized top line
+
+# [TRANSLATION]
+<<<
+倉庫
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#234
+
+# [ENGLISH]
+# Tests performed
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+已執行的測試
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#235
+
+# [ENGLISH]
+# BMI
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Chinese Traditional: BMI
+
+# [TRANSLATION]
+<<<
+BMI
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#236
+
+# [ENGLISH]
+# n/a
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: N_A
+# English: n/a
+# Chinese Traditional: n/a
+
+# [TRANSLATION]
+<<<
+n/a
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#237
+
+# [ENGLISH]
+# Food references
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_REFERENCES
+# English: Food References
+# Chinese Traditional: 食品參考資料
+
+# [TRANSLATION]
+<<<
+食品參考資料
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#238
+
+# [ENGLISH]
+# General categories
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+一般類別
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#239
+
+# [ENGLISH]
+# Dairy
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+乳製品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#240
+
+# [ENGLISH]
+# meat
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+肉類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#241
+
+# [ENGLISH]
+# fruits
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+水果
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#242
+
+# [ENGLISH]
+# vegetables
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+蔬菜
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#243
+
+# [ENGLISH]
+# canned goods
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+罐頭
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#244
+
+# [ENGLISH]
+# beverages
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+飲料
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#245
+
+# [ENGLISH]
+# baked goods
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+烘焙食品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#246
+
+# [ENGLISH]
+# miscellaneous
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+其他
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#247
+
+# [ENGLISH]
+# by weight
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+按重量
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#248
+
+# [ENGLISH]
+# Not suitable for obese
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Chinese Traditional: 肥胖者
+
+# [TRANSLATION]
+<<<
+不適合肥胖者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#249
+
+# [ENGLISH]
+# not suitable for severely obese
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Chinese Traditional: 重度肥胖者
+
+# [TRANSLATION]
+<<<
+重度肥胖者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#250
+
+# [ENGLISH]
+# by composition
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+按成分
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#251
+
+# [ENGLISH]
+# Contains gluten
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+含麩質
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#252
+
+# [ENGLISH]
+# contains fructose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+含果糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#253
+
+# [ENGLISH]
+# contains sucrose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+含蔗糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#254
+
+# [ENGLISH]
+# contains lactose
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+含乳糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#255
+
+# [ENGLISH]
+# contains salt
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+含鹽
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#256
+
+# [ENGLISH]
+# contains alcohol
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+含酒精
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#257
+
+# [ENGLISH]
+# by age
+
+# [CONTEXT]
+# Product categories
+
+# [TRANSLATION]
+<<<
+按年齡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#258
+
+# [ENGLISH]
+# not suitable for minors
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Chinese Traditional: 未成年人
+
+# [TRANSLATION]
+<<<
+不適合未成年人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#259
+
+# [ENGLISH]
+# not suitable for elderly
+
+# [CONTEXT]
+# Product categories
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Chinese Traditional: 老年人
+
+# [TRANSLATION]
+<<<
+不適合老年人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#260
+
+# [ENGLISH]
+# Considerations
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+注意事項
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#261
+
+# [ENGLISH]
+# none as of today's date
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+目前無
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#262
+
+# [ENGLISH]
+# Citizens will be considered under any of the following conditions
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Traditional: 公民
+
+# [TRANSLATION]
+<<<
+公民將根據以下任一條件予以考慮
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#263
+
+# [ENGLISH]
+# obese
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Chinese Traditional: 肥胖者
+
+# [TRANSLATION]
+<<<
+肥胖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#264
+
+# [ENGLISH]
+# if BMI is between 21 and 23.99
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Chinese Traditional: BMI
+
+# [TRANSLATION]
+<<<
+如果您的BMI在21.0至23.99之間
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#265
+
+# [ENGLISH]
+# severely obese
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Chinese Traditional: 重度肥胖者
+
+# [TRANSLATION]
+<<<
+重度肥胖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#266
+
+# [ENGLISH]
+# if BMI is 24 or higher
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Chinese Traditional: BMI
+
+# [TRANSLATION]
+<<<
+如果您的BMI大於或等於24.0
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#267
+
+# [ENGLISH]
+# hypertensive
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Chinese Traditional: 高血壓患者
+
+# [TRANSLATION]
+<<<
+高血壓患者
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#268
+
+# [ENGLISH]
+# if blood pressure is 125 or higher
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+如果您的血壓大於或等於125
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#269
+
+# [ENGLISH]
+# minors
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Chinese Traditional: 未成年人
+
+# [TRANSLATION]
+<<<
+未成年人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#270
+
+# [ENGLISH]
+# if age is under 18
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+如果您的年齡小於18
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#271
+
+# [ENGLISH]
+# elderly
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Chinese Traditional: 老年人
+
+# [TRANSLATION]
+<<<
+老年人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#272
+
+# [ENGLISH]
+# if age is 60 or older
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+如果您的年齡大於或等於60
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#273
+
+# [ENGLISH]
+# order list
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Traditional: 訂單清單
+
+# [TRANSLATION]
+<<<
+訂單清單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#274
+
+# [ENGLISH]
+# Irregularity found in this area
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+該區域發現異常
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#275
+
+# [ENGLISH]
+# No irregularity was found in this area
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+該區域未發現異常
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#276
+
+# [ENGLISH]
+# Hospitalized
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+住院
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#277
+
+# [ENGLISH]
+# Arrested
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#278
+
+# [ENGLISH]
+# Improv.: Scale (Auto Complete)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: SCALE
+# English: Scale
+# Chinese Traditional: 磅秤
+#
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Chinese Traditional: Auto Complete
+
+# [TRANSLATION]
+<<<
+改進: 磅秤 (Auto Complete)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#279
+
+# [ENGLISH]
+# Improv.: Scale (Auto Search)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: SCALE
+# English: Scale
+# Chinese Traditional: 磅秤
+#
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Chinese Traditional: Auto Search
+
+# [TRANSLATION]
+<<<
+改進: 磅秤 (Auto Search)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#280
+
+# [ENGLISH]
+# Improv.: Manual Product Entry
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+
+# [TRANSLATION]
+<<<
+改進: 手動輸入商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#281
+
+# [ENGLISH]
+# Discord Server
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Discord伺服器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#282
+
+# [ENGLISH]
+# Website
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+網站
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#283
+
+# [ENGLISH]
+# X Account
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+X帳號
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#284
+
+# [ENGLISH]
+# Pay
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支付
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#285
+
+# [ENGLISH]
+# Ignore
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+忽略
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#286
+
+# [ENGLISH]
+# very satisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常贊同
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#287
+
+# [ENGLISH]
+# satisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+贊同
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#288
+
+# [ENGLISH]
+# dissatisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+不贊同
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#289
+
+# [ENGLISH]
+# very dissatisfied
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常不贊同
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#290
+
+# [ENGLISH]
+# Sick
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+生病
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#291
+
+# [ENGLISH]
+# Divorced
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+離婚
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#292
+
+# [ENGLISH]
+# Emancipated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+解放
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#293
+
+# [ENGLISH]
+# Dead
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+死亡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#294
+
+# [ENGLISH]
+# Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WIFE
+# English: Wife
+# Chinese Traditional: 妻子
+
+# [TRANSLATION]
+<<<
+妻子
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#295
+
+# [ENGLISH]
+# Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Chinese Traditional: 兒子
+
+# [TRANSLATION]
+<<<
+兒子
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#296
+
+# [ENGLISH]
+# Income generated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+產生的收入
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#297
+
+# [ENGLISH]
+# Expense Management
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支出管理
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#298
+
+# [ENGLISH]
+# Manage your cash wisely
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+請謹慎管理您的資金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#299
+
+# [ENGLISH]
+# Amount
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+金額
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#300
+
+# [ENGLISH]
+# QTY
+
+# [CONTEXT]
+# Quantity abbreviation
+
+# [TRANSLATION]
+<<<
+數量
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#301
+
+# [ENGLISH]
+# UP
+
+# [CONTEXT]
+# Unit price abbreviation
+
+# [TRANSLATION]
+<<<
+單價
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#302
+
+# [ENGLISH]
+# Tot
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+合計
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#303
+
+# [ENGLISH]
+# Available cash
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+可用資金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#304
+
+# [ENGLISH]
+# Continue
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+繼續
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#305
+
+# [ENGLISH]
+# Paid
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+已支付
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#306
+
+# [ENGLISH]
+# Ignored
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+已忽略
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#307
+
+# [ENGLISH]
+# Available cash is insufficient to complete the payment
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+可用資金不足以完成支付
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#308
+
+# [ENGLISH]
+# Infractions
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Chinese Traditional: 違規
+
+# [TRANSLATION]
+<<<
+違規
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#309
+
+# [ENGLISH]
+# Social Contributions and Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+社會供款和稅款
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#310
+
+# [ENGLISH]
+# Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LOVER
+# English: Lover
+# Chinese Traditional: 情人
+
+# [TRANSLATION]
+<<<
+情人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#311
+
+# [ENGLISH]
+# Son (Lover)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Chinese Traditional: 兒子
+#
+# ID: LOVER
+# English: Lover
+# Chinese Traditional: 情人
+
+# [TRANSLATION]
+<<<
+兒子 (情人)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#312
+
+# [ENGLISH]
+# Son (Sexual Encounter)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Chinese Traditional: 兒子
+
+# [TRANSLATION]
+<<<
+兒子 (性邂逅)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#313
+
+# [ENGLISH]
+# Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PET
+# English: Pet
+# Chinese Traditional: 寵物
+
+# [TRANSLATION]
+<<<
+寵物
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#314
+
+# [ENGLISH]
+# Son (Supervisor's Wife)
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SON
+# English: Son
+# Chinese Traditional: 兒子
+#
+# ID: SUPERVISOR_WIFE
+# English: Supervisor's Wife
+# Chinese Traditional: 主管的妻子
+
+# [TRANSLATION]
+<<<
+兒子 (主管的妻子)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#315
+
+# [ENGLISH]
+# Family
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+家庭
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#316
+
+# [ENGLISH]
+# Abandoned
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+被遺棄
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#317
+
+# [ENGLISH]
+# Shift register
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+班次日誌
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#318
+
+# [ENGLISH]
+# Insert the card to start the working day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+插入卡片以開始工作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#319
+
+# [ENGLISH]
+# Insert the card to finish the working day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+插入卡片以結束工作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#320
+
+# [ENGLISH]
+# successful registration
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+註冊成功
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#321
+
+# [ENGLISH]
+# Entry
+
+# [CONTEXT]
+# Text related to work shift entry and exit
+
+# [TRANSLATION]
+<<<
+上班
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#322
+
+# [ENGLISH]
+# Exit
+
+# [CONTEXT]
+# Text related to work shift entry and exit
+
+# [TRANSLATION]
+<<<
+下班
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#323
+
+# [ENGLISH]
+# New family members have been added
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+已添加新的家庭成員
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#324
+
+# [ENGLISH]
+# Family members have been terminated
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+家庭成員已完結
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#325
+
+# [ENGLISH]
+# Credits
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+製作人員
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#326
+
+# [ENGLISH]
+# Resume
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+繼續
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#327
+
+# [ENGLISH]
+# final unlocked
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+結局已解鎖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#328
+
+# [ENGLISH]
+# Improv.: Cash Register (Change Calc.)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Traditional: 收銀機
+#
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Chinese Traditional: Change Calc.
+
+# [TRANSLATION]
+<<<
+改進: 收銀機 (Change Calc.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#329
+
+# [ENGLISH]
+# Improv.: Cash Register (Change Accum.)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Traditional: 收銀機
+#
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Chinese Traditional: Change Accum.
+
+# [TRANSLATION]
+<<<
+改進: 收銀機 (Change Accum.)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#330
+
+# [ENGLISH]
+# Sales Restrictions: Product Codes / Product Categories
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: PRODUCT_CODES
+# English: Product Codes
+# Chinese Traditional: 商品代碼
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Chinese Traditional: 商品類別
+
+# [TRANSLATION]
+<<<
+銷售限制: 商品代碼 / 商品類別
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#331
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Chinese Traditional: 標記鈔票
+
+# [TRANSLATION]
+<<<
+標記鈔票
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#332
+
+# [ENGLISH]
+# Patreon
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Patreon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#333
+
+# [ENGLISH]
+# Embezzle
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+侵占
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#334
+
+# [ENGLISH]
+# Run away
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+逃跑
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#335
+
+# [ENGLISH]
+# Improv.: Wanted (Quick Viewer)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: WANTED
+# English: Wanted
+# Chinese Traditional: 通緝
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Traditional: Quick Viewer
+
+# [TRANSLATION]
+<<<
+改進: 通緝 (Quick Viewer)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#336
+
+# [ENGLISH]
+# Improv.: Missing (Quick Viewer)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: MISSING
+# English: Missing
+# Chinese Traditional: 失蹤
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Traditional: Quick Viewer
+
+# [TRANSLATION]
+<<<
+改進: 失蹤 (Quick Viewer)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#337
+
+# [ENGLISH]
+# Added to the family
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+已添加至家庭
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#338
+
+# [ENGLISH]
+# Improv.: Telephone (Frequent Numbers)
+
+# [CONTEXT]
+# Keep the structure of colons, spaces, and parentheses
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Traditional: 改進
+#
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Traditional: 電話
+#
+# ID: FREQUENT_NUMBERS
+# English: Frequent Numbers
+# Chinese Traditional: 常用號碼
+
+# [TRANSLATION]
+<<<
+改進: 電話 (常用號碼)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#339
+
+# [ENGLISH]
+# Frequent Numbers
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FREQUENT_NUMBERS
+# English: Frequent Numbers
+# Chinese Traditional: 常用號碼
+
+# [TRANSLATION]
+<<<
+常用號碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#340
+
+# [ENGLISH]
+# Skip
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+跳過
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#341
+
+# [ENGLISH]
+# Payments
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+支付
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#342
+
+# [ENGLISH]
+# Magnifying glass ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Chinese Traditional: 放大鏡
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+放大鏡 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#343
+
+# [ENGLISH]
+# ID card ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Traditional: 身分證件
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+身分證件 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#344
+
+# [ENGLISH]
+# Bills ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Traditional: 紙鈔
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+紙鈔 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#345
+
+# [ENGLISH]
+# Authenticity seal ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Traditional: 真偽印章
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+真偽印章 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#346
+
+# [ENGLISH]
+# Navigation Control ( Main Monitor )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Chinese Traditional: 導覽控制項
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Traditional: 主螢幕
+
+# [TRANSLATION]
+<<<
+導覽控制項 ( 主螢幕 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#347
+
+# [ENGLISH]
+# Arrest ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Traditional: 行動單位
+#
+# ID: ARREST
+# English: Arrest
+# Chinese Traditional: 逮捕
+
+# [TRANSLATION]
+<<<
+逮捕 ( 行動單位 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#348
+
+# [ENGLISH]
+# Product denier ( Inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Chinese Traditional: 商品拒絕器
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+商品拒絕器 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#349
+
+# [ENGLISH]
+# Auxiliary Documents Tray ( inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Chinese Traditional: 輔助文件托盤
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+輔助文件托盤 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#350
+
+# [ENGLISH]
+# Order list ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Traditional: 訂單清單
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+訂單清單 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#351
+
+# [ENGLISH]
+# Food references ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_REFERENCES
+# English: Food References
+# Chinese Traditional: 食品參考資料
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+食品參考資料 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#352
+
+# [ENGLISH]
+# Obesity ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: OBESITY
+# English: Obesity
+# Chinese Traditional: 肥胖
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Chinese Traditional: 食品參考資料
+
+# [TRANSLATION]
+<<<
+肥胖 ( 食品參考資料 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#353
+
+# [ENGLISH]
+# BMI ( Station actions )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: BMI
+# English: BMI
+# Chinese Traditional: BMI
+#
+# ID: STATION_ACTIONS
+# English: Station Actions
+# Chinese Traditional: 工作站操作
+
+# [TRANSLATION]
+<<<
+BMI ( 工作站操作 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#354
+
+# [ENGLISH]
+# Performed Tests Viewer ( inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Chinese Traditional: 已執行檢測檢視器
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+已執行檢測檢視器 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#355
+
+# [ENGLISH]
+# Food Coupon ( Documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Traditional: 食品券
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+食品券 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#356
+
+# [ENGLISH]
+# Stamp ( Inspection table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Chinese Traditional: 印章
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+印章 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#357
+
+# [ENGLISH]
+# Neutralize ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Chinese Traditional: 解除威脅
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Traditional: 行動單位
+
+# [TRANSLATION]
+<<<
+解除威脅 ( 行動單位 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#358
+
+# [ENGLISH]
+# Food Intolerances ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Chinese Traditional: 食物不耐症
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Chinese Traditional: 食品參考資料
+
+# [TRANSLATION]
+<<<
+食物不耐症 ( 食品參考資料 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#359
+
+# [ENGLISH]
+# demo version
+
+# [CONTEXT]
+# Game demo version
+
+# [TRANSLATION]
+<<<
+試玩版
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#360
+
+# [ENGLISH]
+# I invite you to share any feedback on the Steam forums
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+歡迎在Steam論壇上分享任何回饋
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#361
+
+# [ENGLISH]
+# Map of Cities ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Chinese Traditional: 地圖
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+地圖 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#362
+
+# [ENGLISH]
+# Credit note ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Traditional: 貸項通知單
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+貸項通知單 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#363
+
+# [ENGLISH]
+# Stapler ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Chinese Traditional: 釘書機
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+釘書機 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#364
+
+# [ENGLISH]
+# List of UV Codes ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Chinese Traditional: UV代碼清單
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+UV代碼清單 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#365
+
+# [ENGLISH]
+# Credit Card ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Traditional: 信用卡
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+信用卡 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#366
+
+# [ENGLISH]
+# Discount coupon ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+折價券 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#367
+
+# [ENGLISH]
+# Hole Punch ( Inspection Table )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Chinese Traditional: 打孔機
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Traditional: 檢查台
+
+# [TRANSLATION]
+<<<
+打孔機 ( 檢查台 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#368
+
+# [ENGLISH]
+# Credit Cards List ( documents )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Chinese Traditional: 信用卡清單
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Traditional: 文件
+
+# [TRANSLATION]
+<<<
+信用卡清單 ( 文件 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#369
+
+# [ENGLISH]
+# Scan Body ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SCAN_BODY
+# English: Scan Body
+# Chinese Traditional: 掃描身體
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Traditional: 行動單位
+
+# [TRANSLATION]
+<<<
+掃描身體 ( 行動單位 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#370
+
+# [ENGLISH]
+# Weight Gauge
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WEIGHT_GAUGE
+# English: Weight Gauge
+# Chinese Traditional: 重量指示器
+
+# [TRANSLATION]
+<<<
+重量指示器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#371
+
+# [ENGLISH]
+# Age ( Food References )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: AGE
+# English: Age
+# Chinese Traditional: 年齡
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Chinese Traditional: 食品參考資料
+
+# [TRANSLATION]
+<<<
+年齡 ( 食品參考資料 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#372
+
+# [ENGLISH]
+# Measure Alcohol ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Chinese Traditional: 測量酒精
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Traditional: 行動單位
+
+# [TRANSLATION]
+<<<
+測量酒精 ( 行動單位 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#373
+
+# [ENGLISH]
+# Stamp here to void
+
+# [CONTEXT]
+# Stamping a document with an ink stamp
+
+# [TRANSLATION]
+<<<
+在此蓋章以作廢
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#374
+
+# [ENGLISH]
+# Scan fingerprints ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: SCAN_FINGERPRINTS
+# English: Scan Fingerprints
+# Chinese Traditional: 掃描指紋
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Traditional: 行動單位
+
+# [TRANSLATION]
+<<<
+掃描指紋 ( 行動單位 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#375
+
+# [ENGLISH]
+# Measure Blood Pressure ( Action Unit )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: MEASURE_BLOOD_PRESSURE
+# English: Measure Blood Pressure
+# Chinese Traditional: 測量血壓
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Traditional: 行動單位
+
+# [TRANSLATION]
+<<<
+測量血壓 ( 行動單位 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#376
+
+# [ENGLISH]
+# Press repeatedly
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+請反覆按壓
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#377
+
+# [ENGLISH]
+# Health pamphlets ( Inventory )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Chinese Traditional: 健康宣導手冊
+#
+# ID: INVENTORY
+# English: Inventory
+# Chinese Traditional: 物品欄
+
+# [TRANSLATION]
+<<<
+健康宣導手冊 ( 物品欄 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#378
+
+# [ENGLISH]
+# Pamphlets to distribute to citizens with different health problems and raise awareness
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+向有不同健康問題的市民分發宣傳手冊以提高意識
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#379
+
+# [ENGLISH]
+# Counterfeit bill change ( Cash Register )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: COUNTERFEIT_BILL_CHANGE
+# English: Counterfeit Bill Change
+# Chinese Traditional: 偽鈔兌換
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Traditional: 收銀機
+
+# [TRANSLATION]
+<<<
+偽鈔兌換 ( 收銀機 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#380
+
+# [ENGLISH]
+# Card cloner ( Credit Card Reader )
+
+# [CONTEXT]
+# Keep the format of spaces and parentheses
+
+# [GLOSSARY]
+# ID: CARD_CLONER
+# English: Card Cloner
+# Chinese Traditional: 卡片複製器
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Chinese Traditional: 信用卡讀卡機
+
+# [TRANSLATION]
+<<<
+卡片複製器 ( 信用卡讀卡機 )
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#381
+
+# [ENGLISH]
+# Age - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: AGE
+# English: Age
+# Chinese Traditional: 年齡
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+年齡 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#382
+
+# [ENGLISH]
+# Obesity - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: OBESITY
+# English: Obesity
+# Chinese Traditional: 肥胖
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+肥胖 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#383
+
+# [ENGLISH]
+# Hypertension - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: HYPERTENSION
+# English: Hypertension
+# Chinese Traditional: 高血壓
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+高血壓 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#384
+
+# [ENGLISH]
+# Alcoholism - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: ALCOHOLISM
+# English: Alcoholism
+# Chinese Traditional: 酒精成癮
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+酒精成癮 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#385
+
+# [ENGLISH]
+# Intolerances - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: INTOLERANCES
+# English: Intolerances
+# Chinese Traditional: 不耐症
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+不耐症 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#386
+
+# [ENGLISH]
+# Category/Code - Products
+
+# [CONTEXT]
+# Maintain the text's spacing and hyphen format
+
+# [GLOSSARY]
+# ID: CATEGORY
+# English: Category
+# Chinese Traditional: 類別
+#
+# ID: CODE
+# English: Code
+# Chinese Traditional: 代碼
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Traditional: 商品
+
+# [TRANSLATION]
+<<<
+類別/代碼 - 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#387
+
+# [ENGLISH]
+# Game progress is saved at the end of each day.
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+遊戲進度將在每天結束時保存。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#388
+
+# [ENGLISH]
+# Tutorial
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+教程
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#389
+
+# [ENGLISH]
+# Infinite mode
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+無限模式
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#390
+
+# [ENGLISH]
+# Game settings
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+遊戲設定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#391
+
+# [ENGLISH]
+# New Game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+建立遊戲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#392
+
+# [ENGLISH]
+# Do you accept creating a game and being a disposable instrument of the state?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+您同意建立遊戲並成為國家可隨意丟棄的工具嗎？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#393
+
+# [ENGLISH]
+# Obsolete game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+過時的遊戲
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#394
+
+# [ENGLISH]
+# Dialogue log
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+對話記錄
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#395
+
+# [ENGLISH]
+# No dialogues have been recorded yet
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+尚未記錄對話
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#396
+
+# [ENGLISH]
+# Paused Game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+遊戲暫停
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#397
+
+# [ENGLISH]
+# Work Time
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+工作時間
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#398
+
+# [ENGLISH]
+# Manual Pop-up
+
+# [CONTEXT]
+# Option that enables/disables the game manual from appearing at the start of the workday
+
+# [TRANSLATION]
+<<<
+彈出手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#399
+
+# [ENGLISH]
+# Station dialogue speed
+
+# [CONTEXT]
+# Maintain a text length equivalent to the English version. Abbreviate if necessary
+
+# [TRANSLATION]
+<<<
+車站對話速度
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#400
+
+# [ENGLISH]
+# Very Slow
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常慢
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#401
+
+# [ENGLISH]
+# Slow
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+慢
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#402
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+普通
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#403
+
+# [ENGLISH]
+# Fast
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+快速
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#404
+
+# [ENGLISH]
+# Very fast
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常快速
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#405
+
+# [ENGLISH]
+# Don Maligno Gifts
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+
+# [TRANSLATION]
+<<<
+禮物 Don Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#406
+
+# [ENGLISH]
+# Unknown
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+未知
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#407
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // We inform you that your bet has been successfully registered // Tomorrow you will know the results.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Chinese Traditional: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+歡迎來到 'Maligno Bet'。Nowhere最好的博彩公司 // 我們通知您，您的投注已正確註冊 // 明天您將知道結果。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#408
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // You currently have a bet registered in the system // Tomorrow you will know the results.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Chinese Traditional: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+歡迎來到 'Maligno Bet'。Nowhere最好的博彩公司 // 目前系統中已有您的投注 // 明天您將知道結果。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#409
+
+# [ENGLISH]
+# Welcome to 'Maligno Bet'. The best betting house in all of Nowhere // We inform you that you do not have sufficient balance to place a bet // Please try again when you have funds.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Chinese Traditional: Maligno Bet
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+歡迎來到 'Maligno Bet'。Nowhere最好的博彩公司 // 我們通知您，餘額不足，無法投注 // 當您有資金時請再試一次。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#410
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // Your order has been successfully registered // 'Don Maligno Gifts' awaits payment confirmation at the end of the day to proceed with the process // Have a good day.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno禮物'！因為物質上的東西永遠是最重要的 // 您的訂單已成功登記 // 'Don Maligno禮物'將在當天結束時等待付款確認，以繼續處理 // 祝您愉快。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#411
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // We inform you that you currently have a pending order // Have a good day.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno禮物'！因為物質上的東西永遠是最重要的 // 我們通知您，目前有一筆訂單正在等待處理 // 祝您愉快。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#412
+
+# [ENGLISH]
+# 'Don Maligno Gifts'! Because material things are always the most important // We inform you that the service is temporarily unavailable // Please try again later.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Traditional: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno的禮物'！因為物質上的東西永遠是最重要的 // 我們通知您該服務暫時無法使用 // 請稍後再試。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#413
+
+# [ENGLISH]
+# Nowherians! United we will triumph! // And as always, we will shout from the heart! // Long live Maligno! // Long live Maligno! // For that great Nowherian who knew how to win over the great masses of the people by defending capital! // Long live Maligno! // Long live Maligno!
+
+# [CONTEXT]
+# Song. Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Traditional: Nowhere人
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+¡Nowhere人！ ¡所有團結起來我們將勝利！ // 並且像往常一樣我們會發自內心地呼喊！ // ¡Maligno萬歲！ // ¡Maligno萬歲！ // 為了那個偉大的Nowhere人，他征服了大眾並捍衛了資本！ // ¡Maligno萬歲！ // ¡Maligno萬歲！
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#414
+
+# [ENGLISH]
+# ... // Unit 4... // Proceed // ... // There's too much interference // ...
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+... // 單元4... // 請繼續 // ... // 干擾太多了 // ...
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#415
+
+# [ENGLISH]
+# The signal has stabilized // We need your help, citizen // We need you to deliver some samples to a law enforcement officer // We cannot compromise our identity // Someone will approach your station with the samples soon.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+
+# [TRANSLATION]
+<<<
+信號已穩定 // 市民，我們需要你的幫助 // 我們需要你將樣本交給執法人員 // 我們不能暴露我們的身份 // 很快會有人帶著樣本到你的工作站來。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#416
+
+# [ENGLISH]
+# Hello? // Who is this? // You must help me, please! // Someone is holding me captive and will only release me if someone pays them a ransom, and I have no one else to turn to // Please // Help me // I promise I'll pay you back... // They're coming... I have to hang up.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+喂？ // 是誰？ // 請務必幫助我！ // 有人把我抓走了，只有有人付贖金他才會放了我，我無人可求助 // 請 // 幫幫我 // 我承諾會付錢給你... // 他來了... 我必須掛電話。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#417
+
+# [ENGLISH]
+# Bet on Maligno Bet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Chinese Traditional: Maligno Bet
+
+# [TRANSLATION]
+<<<
+投注 Maligno Bet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#418
+
+# [ENGLISH]
+# Unlock All
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+解鎖全部
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#419
+
+# [ENGLISH]
+# Difficulty
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+難度
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#420
+
+# [ENGLISH]
+# Very Easy
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常簡單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#421
+
+# [ENGLISH]
+# Easy
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+簡單
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#422
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+普通
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#423
+
+# [ENGLISH]
+# Hard
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+困難
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#424
+
+# [ENGLISH]
+# Very Hard
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+非常困難
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#425
+
+# [ENGLISH]
+# Adjusts times, fine amounts, and income
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Chinese Traditional: 違規
+
+# [TRANSLATION]
+<<<
+調整時間、違規金額和收入
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#426
+
+# [ENGLISH]
+# Normal
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: NORMAL
+# English: Normal
+# Chinese Traditional: 普通
+
+# [TRANSLATION]
+<<<
+普通
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#427
+
+# [ENGLISH]
+# Recommended for new players
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+推薦給新玩家
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#428
+
+# [ENGLISH]
+# Infinite
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFINITE
+# English: Infinite
+# Chinese Traditional: 無限
+
+# [TRANSLATION]
+<<<
+無限
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#429
+
+# [ENGLISH]
+# Recommended for experienced players who want to enjoy an endless experience
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+推薦給希望享受無盡體驗的資深玩家
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#430
+
+# [ENGLISH]
+# Flawless
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FLAWLESS
+# English: Flawless
+# Chinese Traditional: 完美
+
+# [TRANSLATION]
+<<<
+完美
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#431
+
+# [ENGLISH]
+# Only for the most experienced. If you receive any infraction, the game ends
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: INFRACTION
+# English: Infraction
+# Chinese Traditional: 違規
+
+# [TRANSLATION]
+<<<
+僅限資深玩家。如果收到任何違規，遊戲將結束
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#432
+
+# [ENGLISH]
+# Solvency
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SOLVENCY
+# English: Solvency
+# Chinese Traditional: 償付能力
+
+# [TRANSLATION]
+<<<
+償付能力
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#433
+
+# [ENGLISH]
+# For those who are strict with their personal finances. If you run out of money, the game will end
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+適合對個人財務最嚴格的人。如果沒錢了，遊戲將結束
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#434
+
+# [ENGLISH]
+# Select the type of game you want to create
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+選擇您想要創建的遊戲類型
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#435
+
+# [ENGLISH]
+# Bet Resolution
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+投注結果
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#436
+
+# [ENGLISH]
+# To inform you about the result of the bet placed, we hereby notify you that
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+現通知您，關於您投注結果的文件如下
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#437
+
+# [ENGLISH]
+# You have won!
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+您贏了！
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#438
+
+# [ENGLISH]
+# You have lost.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+您輸了。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#439
+
+# [ENGLISH]
+# The funds have been credited to your account. We appreciate your participation.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+資金已存入您的帳戶。感謝您的參與。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#440
+
+# [ENGLISH]
+# The funds have been debited as agreed. We appreciate your participation.
+
+# [CONTEXT]
+# Text associated with the document that reports the results of your bet on Maligno Bet.
+
+# [TRANSLATION]
+<<<
+資金已按約定扣除。感謝您的參與。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#441
+
+# [ENGLISH]
+# New / Updated Procedures
+
+# [CONTEXT]
+# Keep text format with / and spaces
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Chinese Traditional: 程序
+
+# [TRANSLATION]
+<<<
+新程序 / 已更新程序
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#442
+
+# [ENGLISH]
+# Welcome to 'Maligno Pet' // Your application has been successfully processed // You will shortly receive one of our magnificent pets at your home address.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# Chinese Traditional: Maligno Pet
+
+# [TRANSLATION]
+<<<
+歡迎來到 Maligno Pet // 您的請求已成功處理 // 我們的一隻精美寵物將很快送達您的地址
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#443
+
+# [ENGLISH]
+# Welcome to 'Maligno Pet' // We inform you that due to high demand from the citizens of Nowhere // The number of pets that can be requested per person is limited to one // Thank you very much.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# Chinese Traditional: Maligno Pet
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Traditional: 公民
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+歡迎來到 Maligno Pet // 由於 Nowhere 市民的高需求 // 每人可申請的寵物數量限制為一隻 // 非常感謝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#444
+
+# [ENGLISH]
+# Maligno's Dates! The number one dating service in Nowhere // Analyzing citizen profile... // Analyzing citizen profile... // Congratulations! // An encounter with the love of your life has been successfully scheduled for tonight // Thank you very much for using our service.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# Chinese Traditional: Maligno's Dates
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Traditional: 公民
+
+# [TRANSLATION]
+<<<
+Maligno's Dates! Nowhere排名第一的約會服務 // 正在分析公民檔案... // 正在分析公民檔案... // 恭喜！ // 您與人生摯愛的約會已成功安排在今晚 // 非常感謝使用我們的服務.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#445
+
+# [ENGLISH]
+# Maligno's Dates! The number one dating program in Nowhere // We inform you that you currently already have a partner assigned // Thank you very much.
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# Chinese Traditional: Maligno's Dates
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+Maligno's Dates! Nowhere排名第一的約會服務 // 通知您目前已為您匹配了一位伴侶 // 非常感謝.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#446
+
+# [ENGLISH]
+# Oh // I was hoping for your call // I'll see you again tonight sweetheart // Goodbye
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+哦 // 我在等你的電話 // 今晚再見親愛的 // 再見
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#447
+
+# [ENGLISH]
+# Hi handsome // Finally you called // I'll be there tonight // I promise that tonight I'll give you an unforgettable night // See you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好帥哥 // 終於打電話來了 // 今晚我會在那裡 // 我保證今晚給你一個難忘的夜晚 // 見面吧
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#448
+
+# [ENGLISH]
+# I was waiting for your call sweetie // I'll bring something special tonight // I'll be waiting impatiently
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+一直在等你的電話親愛的 // 今晚我會帶些特別的東西 // 我會迫不及待地等你
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#449
+
+# [ENGLISH]
+# Hi // I am not available at the moment // Please try again later // Thank you
+
+# [CONTEXT]
+# Text related to a phone call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+您好 // 我現在無法接聽 // 請稍後再試 // 謝謝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#450
+
+# [ENGLISH]
+# gluten
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+麩質
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#451
+
+# [ENGLISH]
+# fructose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+果糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#452
+
+# [ENGLISH]
+# sucrose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+蔗糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#453
+
+# [ENGLISH]
+# lactose
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+乳糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#454
+
+# [ENGLISH]
+# Duplicate game
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+複製存檔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#455
+
+# [ENGLISH]
+# Revert to a previous day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+返回前一天
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#456
+
+# [ENGLISH]
+# Do you want to duplicate this game?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+是否要複製存檔？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#457
+
+# [ENGLISH]
+# This game has no earlier days to revert to
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+遊戲中沒有可返回的日期
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#458
+
+# [ENGLISH]
+# Revert to a day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+返回某一天
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#459
+
+# [ENGLISH]
+# Select the day you wish to revert to
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+請選擇要返回的日期
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#460
+
+# [ENGLISH]
+# Reverting to a previous day will erase game progress
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+返回幾天前將刪除遊戲進度
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#461
+
+# [ENGLISH]
+# Are you sure you want to continue?
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+確定要繼續嗎？
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#462
+
+# [ENGLISH]
+# Maligno Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_PET
+# English: Maligno Pet
+# Chinese Traditional: Maligno Pet
+
+# [TRANSLATION]
+<<<
+Maligno Pet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#463
+
+# [ENGLISH]
+# Maligno's Dates
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_DATES
+# English: Maligno's Dates
+# Chinese Traditional: Maligno's Dates
+
+# [TRANSLATION]
+<<<
+Maligno's Dates
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#464
+
+# [ENGLISH]
+# Maligno Bet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_BET
+# English: Maligno Bet
+# Chinese Traditional: Maligno Bet
+
+# [TRANSLATION]
+<<<
+Maligno Bet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#465
+
+# [ENGLISH]
+# Easy Fast Cash
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EASY_FAST_CASH
+# English: Easy Fast Cash
+# Chinese Traditional: Easy Fast Cash
+
+# [TRANSLATION]
+<<<
+Easy Fast Cash
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#466
+
+# [ENGLISH]
+# City Code
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CITY_CODE
+# English: City Code
+# Chinese Traditional: 城市代碼
+
+# [TRANSLATION]
+<<<
+城市代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_MENUSGENERALES#467
+
+# [ENGLISH]
+# This code represents the city associated with the card. Information about the different codes and their cities can be found on the map.
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Traditional: 代碼
+
+# [TRANSLATION]
+<<<
+此代碼表示卡牌關聯的城市。不同代碼及其城市的資訊可在地圖上找到。
+>>>

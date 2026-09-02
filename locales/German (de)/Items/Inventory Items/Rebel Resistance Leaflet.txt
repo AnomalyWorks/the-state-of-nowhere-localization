@@ -1,0 +1,288 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#1
+
+# [ENGLISH]
+# Rebel Resistance Leaflet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_RESISTANCE_LEAFLET
+# English: Rebel Resistance Leaflet
+# German: Flugblatt des Rebellenwiderstands
+
+# [TRANSLATION]
+<<<
+Flugblatt des Rebellenwiderstands
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#2
+
+# [ENGLISH]
+# Resistance leaflet with someone's fingerprints on it. On it is written: You can make the real change! Join us and together we will overthrow Maligno!
+
+# [CONTEXT]
+# Description of the Rebel Resistance Leaflet inventory item
+
+# [GLOSSARY]
+# ID: REBEL_RESISTANCE_LEAFLET
+# English: Rebel Resistance Leaflet
+# German: Flugblatt des Rebellenwiderstands
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+
+# [TRANSLATION]
+<<<
+Flugblatt des Rebellenwiderstands mit den Fußspuren von jemandem darauf. Darauf steht geschrieben: Du kannst die wahre Veränderung bewirken! Schließ dich uns an, und gemeinsam werden wir Maligno stürzen!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#3
+
+# [ENGLISH]
+# Keep that // I don't want to get into trouble
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nimm das // Ich will keinen Ärger bekommen
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#4
+
+# [ENGLISH]
+# Put that away // Do you want to get in trouble?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Lass das // Willst du Ärger bekommen?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#5
+
+# [ENGLISH]
+# What? // Put that away // Do you want to end up in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Was? // Steck das weg // Willst du im Gefängnis landen?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#6
+
+# [ENGLISH]
+# Do you know what they do // To those who question Maligno?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+
+# [TRANSLATION]
+<<<
+Weißt du, was sie tun? // Mit denen, die Maligno infrage stellen?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#7
+
+# [ENGLISH]
+# You will end up in prison // if you keep showing that to anybody
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Du wirst im Gefängnis landen // Wenn du das weiterhin jedem zeigst
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#8
+
+# [ENGLISH]
+# Be careful with that my friend // Do you want to end up in a cell?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sei vorsichtig damit, Freund // Willst du in einer Zelle landen?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#9
+
+# [ENGLISH]
+# We have to overthrow Maligno, my friend
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+
+# [TRANSLATION]
+<<<
+Wir müssen Maligno stürzen, Freund
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#10
+
+# [ENGLISH]
+# We will overthrow the regime!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Wir werden das Regime stürzen!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#11
+
+# [ENGLISH]
+# We have to take down Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+
+# [TRANSLATION]
+<<<
+Wir müssen Maligno ausschalten!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#12
+
+# [ENGLISH]
+# Maligno's regime will burn!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+
+# [TRANSLATION]
+<<<
+Malignos Regime wird brennen!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#13
+
+# [ENGLISH]
+# Traitor! // You're a damn traitor! // I will call the police on you!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Verräter! // Du bist ein verdammter Verräter! // Ich rufe die Polizei!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#14
+
+# [ENGLISH]
+# You must be careful with that, handsome // You could get into trouble // I couldn't bear the thought of losing you
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Du musst damit vorsichtig sein, Hübscher // Du könntest Ärger bekommen // Ich könnte den Gedanken nicht ertragen, dich zu verlieren
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#15
+
+# [ENGLISH]
+# I'm not drunk enough for that buddy // Hiccup!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich bin nicht betrunken genug dafür, Freund // Hicks!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#16
+
+# [ENGLISH]
+# It's about time someone stood up against this state that oppresses the helpless
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Es wurde Zeit, dass jemand gegen diesen unterdrückerischen Staat der Hilflosen kämpft
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#17
+
+# [ENGLISH]
+# Be careful with that buddy // Do you want to get into trouble? // Do you know what they'd do to you if they catch you with that?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sei vorsichtig damit, Freund // Willst du Ärger bekommen? // Weißt du, was sie dir antun würden, wenn sie dich damit erwischen?
+>>>

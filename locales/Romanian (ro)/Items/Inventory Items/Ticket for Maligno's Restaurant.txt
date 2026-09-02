@@ -1,0 +1,239 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#1
+
+# [ENGLISH]
+# Ticket for Maligno's Restaurant
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: TICKET_MALIGNO_RESTAURANT
+# English: Ticket for Maligno's Restaurant
+# Romanian: Bilet pentru Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Bilet pentru Maligno's Restaurant
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#2
+
+# [ENGLISH]
+# Ticket for two people in the best restaurant. Maligno's Restaurant, a superior restaurant
+
+# [CONTEXT]
+# Description of the Ticket for Maligno's Restaurant inventory item
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# Romanian: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Bilet pentru două persoane la cel mai bun restaurant. Maligno's Restaurant, un restaurant de lux
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#3
+
+# [ENGLISH]
+# I'd love to accept it... // But a guy like me... // In that place...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mi-ar plăcea să-l accept... // Dar un tip ca mine... // În locul acela...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#4
+
+# [ENGLISH]
+# Thanks // But I'm not worthy enough to go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mulțumesc // Dar nu valorez destul ca să intru acolo
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#5
+
+# [ENGLISH]
+# I'm sure they'll kick me out if I show up...
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sigur mă vor da afară cu șuturi dacă mă prezint...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#6
+
+# [ENGLISH]
+# A superior restaurant // for superior people // I couldn't go in there
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Un restaurant de lux... // Pentru oameni de lux... // Nu aș putea intra
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#7
+
+# [ENGLISH]
+# The new Maligno's Restaurant! // I wish I was worthy enough
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNO_RESTAURANT
+# English: Maligno's Restaurant
+# Romanian: Maligno's Restaurant
+
+# [TRANSLATION]
+<<<
+Noul Maligno's Restaurant! // Aș vrea să fiu destul de demn
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#8
+
+# [ENGLISH]
+# Thanks // But that restaurant is too much for me
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mulțumesc // Dar restaurantul acela e prea mult pentru mine...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#9
+
+# [ENGLISH]
+# A policeman has no time for such things
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Un polițist nu are timp pentru astfel de lucruri
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#10
+
+# [ENGLISH]
+# Get away from me // And stick to your job
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Stai departe de mine // Fă-ți doar treaba
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#11
+
+# [ENGLISH]
+# You better continue working // If you don't want to be arrested
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mai bine continuă-ți treaba // Sau vrei să te arestez?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#12
+
+# [ENGLISH]
+# I'm the authority here // Behave // Or I will put you in a cell
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Eu sunt autoritatea aici // Poartă-te cum trebuie // Sau te bag într-o celulă
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#13
+
+# [ENGLISH]
+# What are you trying to do handsome? // Are you trying to distract me? // Nothing distracts me more than you
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce încerci să faci, frumosule? // Încerci să-mi distragi atenția? // Nimic nu-mi distrage atenția mai mult decât tine
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#14
+
+# [ENGLISH]
+# Can I tell you something? // You look irresistible // For someone like you I'd be capable of committing a crime
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Pot să-ți spun ceva? // Pari irezistibil // Pentru cineva ca tine aș fi în stare să comit o crimă
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_ENTRADARESTAURANT#15
+
+# [ENGLISH]
+# Buddy // Look at me // Do you think someone like me could get into that place?
+
+# [CONTEXT]
+# Dialogue associated with giving the Ticket for Maligno's Restaurant to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Prietene // Uită-te la mine // Crezi că cineva ca mine ar putea intra în locul ăla?
+>>>

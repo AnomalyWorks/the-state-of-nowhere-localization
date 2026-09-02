@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#1
+
+# [ENGLISH]
+# Water
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+水
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#2
+
+# [ENGLISH]
+# Remember to drink water every day // Most people don't.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+毎日水を飲むことを忘れないで // ほとんどの人はそうしていない
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#3
+
+# [ENGLISH]
+# 'Don Maligno Mineral Water' // 'Free of impurities' // 'In case of intoxication, consult your doctor' // Incredible...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'ミネラルウォーター Don Maligno' // '不純物フリー' // '中毒した場合は医師に相談してください' // 信じられない...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#4
+
+# [ENGLISH]
+# Refreshing water // Vital and essential for life
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+爽やかな水 // 生命に不可欠で重要
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#5
+
+# [ENGLISH]
+# Do you know the benefits of drinking water every day?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+毎日水を飲む利点を知っていますか？
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#6
+
+# [ENGLISH]
+# Really? // Do you know how essential water is?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+本当に？ // 水がどれほど大切か知っているの？
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#7
+
+# [ENGLISH]
+# Hey // I can't live without water
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+もしもし // 私は水なしでは生きられない
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#8
+
+# [ENGLISH]
+# Hey! // What? // Are you telling me to drink tap water? // Are you crazy?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+おい！ // 何？ // 蛇口の水を飲めと？ // 頭おかしいの？
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#9
+
+# [ENGLISH]
+# What? // But it's only water // Something basic and essential.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+何？ // ただの水じゃない // 基本的で大切なこと
+>>>

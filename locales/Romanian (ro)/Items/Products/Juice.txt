@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#1
+
+# [ENGLISH]
+# Juice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Suc
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#2
+
+# [ENGLISH]
+# What is your favorite juice? // Mine is orange juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Care este sucul tău preferat? // Al meu este cel de portocale
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#3
+
+# [ENGLISH]
+# 'Don Maligno Juice' // 'It contains all the vitamins and minerals that a nowherian of superior race needs' // It's a tasty juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Romanian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Suc Don Maligno' // 'Conține toate vitaminele și mineralele de care are nevoie un nowherian de rasă superioară' // Este un suc bun
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#4
+
+# [ENGLISH]
+# It is necessary to drink a good orange juice in the morning
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Trebuie să bei un suc bun de portocale dimineața
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#5
+
+# [ENGLISH]
+# Do you drink juice? // You should // It's healthy... // Or so they say
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bei suc? // Ar trebui // E sănătos... // Sau cel puțin așa se spune
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#6
+
+# [ENGLISH]
+# Can't I bring juice? // I'll have to drink water
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nu pot lua suc? // Va trebui să beau apă
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#7
+
+# [ENGLISH]
+# My children will have no juice // You are evil.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Copiii mei nu vor avea sucul lor // Ești rău
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#8
+
+# [ENGLISH]
+# Will you cancel my juice? // Well // At least there's a little left in the house.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Îmi anulezi sucul? // Bine // Măcar mai este puțin acasă
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#9
+
+# [ENGLISH]
+# Hey // My juice... // My mornings won't be the same without it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hei // Sucul meu... // Diminețile mele nu vor mai fi la fel fără el
+>>>

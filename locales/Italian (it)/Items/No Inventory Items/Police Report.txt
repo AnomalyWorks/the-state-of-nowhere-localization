@@ -1,0 +1,319 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#1
+
+# [ENGLISH]
+# Police Report
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: POLICE_REPORT
+# English: Police Report
+# Italian: Rapporto di polizia
+
+# [TRANSLATION]
+<<<
+Rapporto di polizia
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#4
+
+# [ENGLISH]
+# Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Imposte
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#5
+
+# [ENGLISH]
+# Administrative charges
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Spese amministrative
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#7
+
+# [ENGLISH]
+# Resistance to authority
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Resistenza a pubblico ufficiale
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#8
+
+# [ENGLISH]
+# Attempted Homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Tentato omicidio
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#9
+
+# [ENGLISH]
+# Simple homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Omicidio semplice
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#10
+
+# [ENGLISH]
+# Multiple Homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Omicidio multiplo
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#11
+
+# [ENGLISH]
+# Sale of narcotics
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Spaccio di stupefacenti
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#12
+
+# [ENGLISH]
+# Obscene exhibition
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Esibizione oscena
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#13
+
+# [ENGLISH]
+# Participation in a criminal organization
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Partecipazione ad associazione illecita
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#14
+
+# [ENGLISH]
+# Counterfeit
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Falsificazione
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#15
+
+# [ENGLISH]
+# Prostitution
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Prostituzione
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#16
+
+# [ENGLISH]
+# Did you get arrested?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sei stato arrestato?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#17
+
+# [ENGLISH]
+# So... how cold are the cells?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E quanto sono fredde le celle?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#18
+
+# [ENGLISH]
+# So... how is food in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E com'è il cibo in prigione?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#19
+
+# [ENGLISH]
+# Did you bend over to pick up the soap?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ti sei chinato a raccogliere il sapone?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#21
+
+# [ENGLISH]
+# Do you see what happens when you break the law?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Vede cosa succede quando non rispetta la legge?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#22
+
+# [ENGLISH]
+# You'd better behave from now on
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Farebbe meglio a comportarsi da ora in poi
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#23
+
+# [ENGLISH]
+# Do you want me to add more charges? // That's what I thought
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Vuoi che aggiunga altre accuse? // Me lo aspettavo
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#24
+
+# [ENGLISH]
+# There won't be second chances // Obey the law
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Non ci saranno seconde possibilità // Rispetti la legge
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#25
+
+# [ENGLISH]
+# Theft
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+Furto
+>>>

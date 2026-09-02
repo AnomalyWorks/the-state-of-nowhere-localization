@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#1
+
+# [ENGLISH]
+# Soda
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Suc
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#2
+
+# [ENGLISH]
+# What flavor sodas do you like? // Grape? // You're weird.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce aromă de suc îți place? // De struguri? // Ești ciudat
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#3
+
+# [ENGLISH]
+# Do you like sodas? // What's it to me? // Unfriendly
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Îți place sucul? // Ce mă interesează? // Antipatic
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#4
+
+# [ENGLISH]
+# 'Don Maligno's Soda' // 'More effervescent than the competitors' // 'If there was such a thing' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Romanian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Suc Don Maligno' // 'Mai carbogazos decât cele ale concurenței' // 'Dacă ar exista' // Grozav
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#5
+
+# [ENGLISH]
+# I'll bring a soda to go with the meal
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Voi lua un suc ca să însoțesc masa
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#6
+
+# [ENGLISH]
+# Can't I bring soda? // That's too bad
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nu pot să iau suc? // Ce răutate
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#7
+
+# [ENGLISH]
+# Where's my soda? // I can't take it // Damn.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Și sucul meu? // Nu pot să-l iau? // La naiba
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#8
+
+# [ENGLISH]
+# It's okay... // If you say I can't bring soda... // I'm not complaining
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bine... // Dacă spui că nu pot lua suc... // Nu mă plâng
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SODA#9
+
+# [ENGLISH]
+# And the soda? // That's too bad // I'll have to drink water with my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Soda product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Și sucul? // Ce păcat // Va trebui să însoțesc masa cu apă
+>>>

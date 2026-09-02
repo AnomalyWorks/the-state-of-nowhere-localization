@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#1
+
+# [ENGLISH]
+# Juice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Meyve Suyu
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#2
+
+# [ENGLISH]
+# What is your favorite juice? // Mine is orange juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+En sevdiğin meyve suyu hangisi? // Benimki portakal suyu
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#3
+
+# [ENGLISH]
+# 'Don Maligno Juice' // 'It contains all the vitamins and minerals that a nowherian of superior race needs' // It's a tasty juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Turkish: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno Meyve Suyu' // 'Üstün ırktan bir Nowherialının ihtiyaç duyduğu tüm vitamin ve mineralleri içerir' // Güzel bir meyve suyu
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#4
+
+# [ENGLISH]
+# It is necessary to drink a good orange juice in the morning
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sabahları güzel bir portakal suyu içmek gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#5
+
+# [ENGLISH]
+# Do you drink juice? // You should // It's healthy... // Or so they say
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Meyve suyu içer misin? // İçmelisin // Sağlıklı... // Ya da öyle diyorlar
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#6
+
+# [ENGLISH]
+# Can't I bring juice? // I'll have to drink water
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Meyve suyu alamaz mıyım? // Su içmek zorunda kalacağım
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#7
+
+# [ENGLISH]
+# My children will have no juice // You are evil.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Çocuklarım meyve sularını alamayacak // Çok kötüsün
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#8
+
+# [ENGLISH]
+# Will you cancel my juice? // Well // At least there's a little left in the house.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Meyve suyumu mu iptal ediyorsun? // Peki // En azından evde biraz kaldı
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#9
+
+# [ENGLISH]
+# Hey // My juice... // My mornings won't be the same without it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey // Meyve suyum... // Onsuz sabahlarım aynı olmayacak
+>>>

@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#1
+
+# [ENGLISH]
+# Rebel Package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_PACKAGE
+# English: Rebel Package
+# Korean: 반군 패키지
+
+# [TRANSLATION]
+<<<
+반군 패키지
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#2
+
+# [ENGLISH]
+# Contains encrypted information. Deliver to:
+
+# [CONTEXT]
+# Description of the Rebel Package inventory item
+
+# [TRANSLATION]
+<<<
+암호화된 정보가 포함되어 있습니다. 전달 대상:
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#3
+
+# [ENGLISH]
+# What's this? // No thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이게 뭐예요? // 아니요, 괜찮아요
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#4
+
+# [ENGLISH]
+# What does this mean? // Deliver to...?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이게 무슨 뜻이에요? // 전달 대상이...?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#5
+
+# [ENGLISH]
+# What's that? // I have no idea
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이게 뭐예요? // 전혀 모르겠어요
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#6
+
+# [ENGLISH]
+# What is it for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이게 뭐에 쓰이는 거예요?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#7
+
+# [ENGLISH]
+# I don't understand what it is
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이게 뭔지 모르겠어요
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#8
+
+# [ENGLISH]
+# What is it supposed to be used for?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이게 대체 뭐에 쓰이라는 거죠?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PAQUETEREBELDE#9
+
+# [ENGLISH]
+# Glory to the resistance! // End the regime! // End Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+저항에 영광을! // 체제에 죽어라! // Maligno에 죽어라!
+>>>

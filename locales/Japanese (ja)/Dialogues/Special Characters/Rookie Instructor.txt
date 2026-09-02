@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+私は新入生の教官です // 皆さんが最初の日にやらなければならないことの全体像を伝えるために来ました // 最初は市民を識別することです // それには市民の身分証明書を読む必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+その前に検査台を開いてください // そこで書類をより詳しく観察できます // 身分証明書を右クリックで回転させてから、ここに戻ってきてください
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Japanese: 身分証明書リーダー
+
+# [TRANSLATION]
+<<<
+やっとです // 今、身分証明書リーダーにカードを挿入して市民を識別してください
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Japanese: 商品呼び出し
+
+# [TRANSLATION]
+<<<
+やり遂げました！ // 信じられません // いよいよ市民の商品を処理する番です // 商品呼び出しを起動してください
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Japanese: 商品リーダー
+
+# [TRANSLATION]
+<<<
+今それらを読む必要があります // 商品リーダーに商品をドラッグして開始します
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+おや // 見た目より素早いですね // あなたには期待していなかったんですが // さて、支払いを処理する時間です // しかし、私が支払いを提示しなかったとしましょう // このような不備があれば必ず報告してください // 市民が支払いを提示しなかったことを報告してください
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+よし // 今支払いを処理する時間です // お釣りを正しく出し、それから受け取ることを忘れないでください
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Japanese: レシート
+
+# [TRANSLATION]
+<<<
+ほとんど終わりました // 今取引を完了するには、私にレシートを渡す必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+#
+# ID: REJECT
+# English: Reject
+# Japanese: 却下する
+
+# [TRANSLATION]
+<<<
+通常の状況では、これは購入を承認し、市民は商品を持って去ります // それを念頭に置いてください // 今はもう一つだけ言わせてください // あなたは市民に対してアクションを実行できます // 私が行くために却下アクションを実行してください
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+以上です // あなたは最も優秀なオペレーターではありません // しかし、これで十分対応できると思います // ここからは一人です // やり方がわからない場合はマニュアルを読んでください
+>>>

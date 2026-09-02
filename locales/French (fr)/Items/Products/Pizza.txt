@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#1
+
+# [ENGLISH]
+# Pizza
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Pizza
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#2
+
+# [ENGLISH]
+# Pizza is the best invention of mankind
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+La pizza est la meilleure invention de l'humanité
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#3
+
+# [ENGLISH]
+# That you don't like pizza? // What world do you come from?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu n'aimes pas la pizza ? // De quel monde tu viens ?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#4
+
+# [ENGLISH]
+# 'Pizza Don Maligno' // 'The Nowhere government is not responsible for any adverse effects that may result from the consumption of this product' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# French: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+'Pizza Don Maligno' // 'Le gouvernement de Nowhere décline toute responsabilité quant aux effets indésirables que la consommation de ce produit pourrait provoquer' // Génial
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#5
+
+# [ENGLISH]
+# What's your favorite pizza? // The one where I stay out of your business? // Oh // I understand.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Quelle est ta pizza préférée ? // Celle de mêle-toi de tes affaires ? // Oh // Je comprends
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#6
+
+# [ENGLISH]
+# You cancelled my pizza... // I never met anyone as mean as you.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu as annulé ma pizza... // Je n'ai jamais connu quelqu'un d'aussi méchant que toi
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#7
+
+# [ENGLISH]
+# Pizza? // No // Please don't
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+La pizza ? // Non // S'il te plaît
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#8
+
+# [ENGLISH]
+# It must be a mistake // I have to eat pizza // Lots of it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ça doit être une erreur // Je dois manger de la pizza // Beaucoup
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#9
+
+# [ENGLISH]
+# Really? // I'll miss that pizza... // Its melted cheese... // I want to cry
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sérieusement ? // Cette pizza va me manquer... // Son fromage fondu... // J'ai envie de pleurer
+>>>

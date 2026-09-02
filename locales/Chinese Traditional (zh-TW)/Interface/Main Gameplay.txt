@@ -1,0 +1,2388 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#1
+
+# [ENGLISH]
+# Personal Data
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+個人資料
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#2
+
+# [ENGLISH]
+# Name
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+名字
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#3
+
+# [ENGLISH]
+# Sex
+
+# [CONTEXT]
+# Gender
+
+# [TRANSLATION]
+<<<
+性別
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#4
+
+# [ENGLISH]
+# Cod
+
+# [CONTEXT]
+# Abbreviation for ID code
+
+# [TRANSLATION]
+<<<
+代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#5
+
+# [ENGLISH]
+# Age
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+年齡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#6
+
+# [ENGLISH]
+# Exp
+
+# [CONTEXT]
+# Abbreviation for expiration date
+
+# [TRANSLATION]
+<<<
+有效期限
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#7
+
+# [ENGLISH]
+# Weight
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+體重
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#8
+
+# [ENGLISH]
+# City
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+城市
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#9
+
+# [ENGLISH]
+# Intolerances
+
+# [CONTEXT]
+# Food intolerances
+
+# [TRANSLATION]
+<<<
+不耐症
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#10
+
+# [ENGLISH]
+# Prohibited Products
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+產品禁令
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#11
+
+# [ENGLISH]
+# Product categories
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Chinese Traditional: 商品類別
+
+# [TRANSLATION]
+<<<
+商品類別
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#12
+
+# [ENGLISH]
+# Product codes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+產品代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#14
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#16
+
+# [ENGLISH]
+# Wanted
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: WANTED
+# English: Wanted
+# Chinese Traditional: 通緝
+
+# [TRANSLATION]
+<<<
+通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#17
+
+# [ENGLISH]
+# Missing
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MISSING
+# English: Missing
+# Chinese Traditional: 失蹤
+
+# [TRANSLATION]
+<<<
+失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#18
+
+# [ENGLISH]
+# Loves us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他愛我們
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#19
+
+# [ENGLISH]
+# Takes care of us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他關懷我們
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#20
+
+# [ENGLISH]
+# Protects us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他保護我們
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#21
+
+# [ENGLISH]
+# Is the future
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他是未來
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#22
+
+# [ENGLISH]
+# Will save Nowhere
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+拯救 Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#23
+
+# [ENGLISH]
+# He will end Evil
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+終結邪惡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#24
+
+# [ENGLISH]
+# He is prosperity
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他是繁榮
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#25
+
+# [ENGLISH]
+# He is salvation
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他是救贖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#26
+
+# [ENGLISH]
+# He is watching us
+
+# [CONTEXT]
+# Advertising slogans referring to President Maligno
+
+# [TRANSLATION]
+<<<
+他在注視我們
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#27
+
+# [ENGLISH]
+# Monday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期一
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#28
+
+# [ENGLISH]
+# Tuesday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期二
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#29
+
+# [ENGLISH]
+# Wednesday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期三
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#30
+
+# [ENGLISH]
+# Thursday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期四
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#31
+
+# [ENGLISH]
+# Friday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期五
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#32
+
+# [ENGLISH]
+# Saturday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期六
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#33
+
+# [ENGLISH]
+# Sunday
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+星期日
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#34
+
+# [ENGLISH]
+# MON
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週一
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#35
+
+# [ENGLISH]
+# TUE
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週二
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#36
+
+# [ENGLISH]
+# WED
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週三
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#37
+
+# [ENGLISH]
+# THU
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週四
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#38
+
+# [ENGLISH]
+# FRI
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週五
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#39
+
+# [ENGLISH]
+# SAT
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週六
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#40
+
+# [ENGLISH]
+# SUN
+
+# [CONTEXT]
+# Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
+
+# [TRANSLATION]
+<<<
+週日
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#41
+
+# [ENGLISH]
+# Day
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+天
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#42
+
+# [ENGLISH]
+# Classification of food products
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+食品分類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#43
+
+# [ENGLISH]
+# General
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+通用
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#44
+
+# [ENGLISH]
+# Dairy products
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+乳製品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#45
+
+# [ENGLISH]
+# Meat
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+肉類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#46
+
+# [ENGLISH]
+# Fruits
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+水果
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#47
+
+# [ENGLISH]
+# Vegetables
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+蔬菜
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#48
+
+# [ENGLISH]
+# Canned goods
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+罐頭
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#49
+
+# [ENGLISH]
+# Drinks
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+飲料
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#50
+
+# [ENGLISH]
+# baked goods
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+烘焙品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#51
+
+# [ENGLISH]
+# miscellaneous
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+其他
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#52
+
+# [ENGLISH]
+# By composition
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+按成分分類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#53
+
+# [ENGLISH]
+# Contains Gluten
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+含麩質
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#54
+
+# [ENGLISH]
+# Contains Fructose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+含果糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#55
+
+# [ENGLISH]
+# Contains Sucrose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+含蔗糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#56
+
+# [ENGLISH]
+# Contains Lactose
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+含乳糖
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#57
+
+# [ENGLISH]
+# Contains Salt
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+含鹽
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#58
+
+# [ENGLISH]
+# Contains Alcohol
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+含酒精
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#59
+
+# [ENGLISH]
+# By age
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+按年齡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#60
+
+# [ENGLISH]
+# Not suitable for minors
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+不適合未成年人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#61
+
+# [ENGLISH]
+# Not suitable for the elderly
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+不適合老年人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#62
+
+# [ENGLISH]
+# By Citizen weight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+按市民體重分類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#63
+
+# [ENGLISH]
+# Not suitable for moderate overweight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+不適合中度超重
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#64
+
+# [ENGLISH]
+# Not suitable for severe overweight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+不適合嚴重超重
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#65
+
+# [ENGLISH]
+# By sales method
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+按銷售方式
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#66
+
+# [ENGLISH]
+# By unit
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+按單位
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#67
+
+# [ENGLISH]
+# By weight
+
+# [CONTEXT]
+# Text related to food products and their classification labels
+
+# [TRANSLATION]
+<<<
+按重量
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#68
+
+# [ENGLISH]
+# Residence
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+居住地
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#69
+
+# [ENGLISH]
+# None
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+無
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#70
+
+# [ENGLISH]
+# Code
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+代碼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#71
+
+# [ENGLISH]
+# Unit price
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+單位價格
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#72
+
+# [ENGLISH]
+# Quantity
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+數量
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#73
+
+# [ENGLISH]
+# Total price
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+總價
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#74
+
+# [ENGLISH]
+# Dead or alive
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+存活狀態
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#75
+
+# [ENGLISH]
+# Only alive
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+僅存活
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#78
+
+# [ENGLISH]
+# Additional info
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+附加資訊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#79
+
+# [ENGLISH]
+# Get the device ready
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+準備設備
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#80
+
+# [ENGLISH]
+# Device ready
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+設備就緒
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#81
+
+# [ENGLISH]
+# Analyzing
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+分析中
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#82
+
+# [ENGLISH]
+# Pressure
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+壓力
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#83
+
+# [ENGLISH]
+# Alcohol
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+酒精
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#84
+
+# [ENGLISH]
+# None
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+無
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#85
+
+# [ENGLISH]
+# Low
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+低
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#86
+
+# [ENGLISH]
+# High
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+高
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#87
+
+# [ENGLISH]
+# Our President
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+我們的總統
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#88
+
+# [ENGLISH]
+# Welcome to the
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+歡迎來到
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#89
+
+# [ENGLISH]
+# Station 65
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Traditional: 工作站
+
+# [TRANSLATION]
+<<<
+工作站 65
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#90
+
+# [ENGLISH]
+# Distribution Center South 3412
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Traditional: 配送中心
+
+# [TRANSLATION]
+<<<
+南部配送中心 3412
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#91
+
+# [ENGLISH]
+# Comply with current regulations
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+請遵守現行規定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#92
+
+# [ENGLISH]
+# Consult the manual if you have any question
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+如有任何疑問請參閱手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#93
+
+# [ENGLISH]
+# Honour Maligno
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+致敬 Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#94
+
+# [ENGLISH]
+# No contacts available for sending packages
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+沒有聯絡人來發送包裹
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#95
+
+# [ENGLISH]
+# Prepare the package for shipment
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+準備包裹以供發送
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#96
+
+# [ENGLISH]
+# Enter the object to be sent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+輸入要發送的物品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#97
+
+# [ENGLISH]
+# Cover the package with the wrapping
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+用包裝紙覆蓋包裹
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#98
+
+# [ENGLISH]
+# Select the target contact and print the label
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LABEL
+# English: Label
+# Chinese Traditional: 標籤
+
+# [TRANSLATION]
+<<<
+選擇目標聯絡人並打印標籤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#99
+
+# [ENGLISH]
+# Affix the label to the package
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: LABEL
+# English: Label
+# Chinese Traditional: 標籤
+#
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+將標籤貼在包裹上
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#100
+
+# [ENGLISH]
+# Package ready for shipment
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+包裹準備寄送
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#101
+
+# [ENGLISH]
+# Package sent to selected contact
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PACKAGE
+# English: Package
+# Chinese Traditional: 包裹
+
+# [TRANSLATION]
+<<<
+包裹已寄送至所選聯繫人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#102
+
+# [ENGLISH]
+# Female
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+女性
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#103
+
+# [ENGLISH]
+# Male
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+男性
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#104
+
+# [ENGLISH]
+# place here
+
+# [CONTEXT]
+# For attaching a label
+
+# [TRANSLATION]
+<<<
+貼到這裡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#105
+
+# [ENGLISH]
+# Reward
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+賞金
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#106
+
+# [ENGLISH]
+# Call the number provided if you see this person and you will receive a reward.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+如果看到此人，請撥打指定號碼，即可領取賞金。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#107
+
+# [ENGLISH]
+# Son of an important minister of Nowhere. He was last seen heading to a pharmacy in search of his medication. Any information will be greatly rewarded.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere一位重要部長的兒子。最後一次被看到是在去藥店買藥的路上。任何資訊都將獲得豐厚賞金。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#108
+
+# [ENGLISH]
+# He is wanted for multiple cold-blooded murders, kidnappings, and resisting authority. Dangerous individual, proceed with caution.
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因多起冷血謀殺、綁架和抗拒執法而被通緝。危險人物，請謹慎行事。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#109
+
+# [ENGLISH]
+# Wanted for fraud in various cities of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因在Nowhere多個城市詐騙而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#110
+
+# [ENGLISH]
+# Wanted for tax evasion
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因逃稅而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#111
+
+# [ENGLISH]
+# Wanted for fraud. He calls himself a 'defender of the unprotected'. Proceed without mercy
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因詐騙被通緝。自稱'無保護者的捍衛者'。無需留情。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#112
+
+# [ENGLISH]
+# Wanted for inflicting injuries on an important and well-known businessman in Nowhere. Proceed with violence
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因傷害Nowhere一位重要且知名的商人而被通緝。以暴力行事。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#113
+
+# [ENGLISH]
+# Wanted for multiple robberies from important citizens of Nowhere. Any information will be highly rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因多次竊盜Nowhere重要市民的財物而被通緝。提供任何類型資訊都將獲得高額報酬
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#114
+
+# [ENGLISH]
+# Wanted for treason against the state of Nowhere. Any information leading to his capture will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因背叛Nowhere國家而被通緝。任何有助於將其抓捕歸案的資訊都將獲得報酬
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#115
+
+# [ENGLISH]
+# Wanted for spreading slander about our esteemed President Maligno
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+因散布對我至高無上總統Maligno的侮辱性言論而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#116
+
+# [ENGLISH]
+# Wanted for questioning the sexual prowess of our esteemed President of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因質疑我們尊敬的Nowhere總統在床上的性能力而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#117
+
+# [ENGLISH]
+# Wanted for spreading slander about the late mother of our beloved President Maligno. Proceed without mercy
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+因散佈對我們敬愛的總統Maligno已故母親的侮辱性言論而被通緝。無需憐憫
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#118
+
+# [ENGLISH]
+# Wanted for sleeping on benches in front of high-end citizens' businesses. Outrageous
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因在高收入市民店鋪前的長椅上睡覺而被通緝。難以置信
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#119
+
+# [ENGLISH]
+# Wanted for encouraging aspirations that are not appropriate for their low social class to others of the same condition
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因鼓動同屬低社會階層的其他人擁有不符合其階級的野心而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#120
+
+# [ENGLISH]
+# Wanted for attempting to cause confusion among the citizens of Nowhere, using terms such as 'indoctrination' and 'mind control'
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因試圖使用'灌輸'和'精神控制'等術語在Nowhere市民中製造混亂而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#121
+
+# [ENGLISH]
+# Wanted for the theft of a food truck
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因偷竊食品卡車而被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#122
+
+# [ENGLISH]
+# Wanted for robbing a wealthy family in Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因搶劫Nowhere富裕家庭被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#123
+
+# [ENGLISH]
+# Wanted for indecent exposure oneself shirtless while shouting 'Bocaaaaa'
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons. Do not translate the expression 'Bocaaaaa'. It is an expression referring to the chant of a Boca Juniors football club supporter
+
+# [TRANSLATION]
+<<<
+因赤裸上身高喊'Bocaaaaa'進行猥褻暴露被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#124
+
+# [ENGLISH]
+# Wanted for resisting authority
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因抗拒執法被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#125
+
+# [ENGLISH]
+# Wanted for obscenely exposing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因猥褻暴露被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#126
+
+# [ENGLISH]
+# Wanted for attacking a police officer
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+因襲擊警察被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#127
+
+# [ENGLISH]
+# Wanted for slandering the honorable state of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因誹謗Nowhere光榮的國家被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#128
+
+# [ENGLISH]
+# Wanted for urinating on an informational sign of the state of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+因在Nowhere國家信息牌上小便被通緝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#129
+
+# [ENGLISH]
+# Missing person. Last seen leaving a renowned spa center
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+失踪人口。最後現身於知名水療中心出口
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#130
+
+# [ENGLISH]
+# Son of a very wealthy family from Nowhere missing. Any kind of information will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere某富裕家庭之子失踪。提供任何線索將予以重賞
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#131
+
+# [ENGLISH]
+# Prominent real estate businessman missing. Any information leading to his whereabouts will be generously rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+知名房地產商人失蹤。任何關於其下落的信息都將獲得豐厚報酬
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#132
+
+# [ENGLISH]
+# Last seen leaving a party
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+最後一次被看到是在派對出口
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#133
+
+# [ENGLISH]
+# Missing while surfing on the beaches of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+在Nowhere海灘衝浪時失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#134
+
+# [ENGLISH]
+# Missing while driving his luxury car back to his mansion
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+駕駛豪華汽車返回其豪宅途中失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#135
+
+# [ENGLISH]
+# Missing while practicing skydiving
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+在進行跳傘活動時失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#136
+
+# [ENGLISH]
+# Missing while taking a walk through the shopping center of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+在Nowhere購物中心閒逛時失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#137
+
+# [ENGLISH]
+# Missing after leaving a prominent restaurant
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+在高檔餐廳門口失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#138
+
+# [ENGLISH]
+# Missing while performing maintenance tasks at the state offices of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+在Nowhere政府辦公室進行維護工作時失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#139
+
+# [ENGLISH]
+# Missing while performing cleaning tasks at the state offices of Nowhere
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Traditional: Nowhere
+
+# [TRANSLATION]
+<<<
+在Nowhere政府辦公室進行清潔工作時失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#140
+
+# [ENGLISH]
+# Renowned hunter of exotic species missing. Any kind of information will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+著名的異國物種獵人失蹤。提供任何類型的信息都將獲得獎勵
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#141
+
+# [ENGLISH]
+# Renowned stockbroker missing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+知名證券經紀人失蹤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#142
+
+# [ENGLISH]
+# Renowned businessman missing. Last seen at the laundromat in his city
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+知名企業家失蹤。最後一次在其所在城市的洗衣店被目擊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#143
+
+# [ENGLISH]
+# Ranch hand missing
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+失蹤的牧場工人
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#144
+
+# [ENGLISH]
+# Any information leading to the whereabouts of the missing person will be greatly rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+任何導致發現失蹤者下落的資訊，都將獲得豐厚報酬
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#145
+
+# [ENGLISH]
+# Any precise information that helps discover the whereabouts of this person will be rewarded
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+任何有助於發現此人下落的準確資訊，都將獲得報酬
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#146
+
+# [ENGLISH]
+# The individual may exhibit behaviors associated with mental illness
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+該個體可能表現出與精神錯亂相關的行為
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#147
+
+# [ENGLISH]
+# The missing subject may exhibit delusional ideas and extremely disorganized behaviors
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+失蹤對象可能具有妄想和極其紊亂的行為
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#148
+
+# [ENGLISH]
+# Renowned abstract artist missing. Last seen at an art exhibition of crushed apples
+
+# [CONTEXT]
+# Text related to wanted criminals and missing persons
+
+# [TRANSLATION]
+<<<
+知名抽象派藝術家失蹤。最後一次在壓扁蘋果藝術展上被目擊
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#149
+
+# [ENGLISH]
+# Food Products
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+食品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#150
+
+# [ENGLISH]
+# Foods with high nutritional value
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+高營養價值的加工食品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#151
+
+# [ENGLISH]
+# Approval Zone
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+認可區
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#152
+
+# [ENGLISH]
+# Disapproval Zone
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+撤銷區
+>>>

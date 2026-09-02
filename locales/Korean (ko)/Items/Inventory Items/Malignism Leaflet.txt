@@ -1,0 +1,494 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#1
+
+# [ENGLISH]
+# Malignism Leaflet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Korean: 말리그니즘 안내 책자
+
+# [TRANSLATION]
+<<<
+말리그니즘 안내 책자
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#2
+
+# [ENGLISH]
+# Join Malignism. Ensure your place in paradise by giving away just your home and all your money.
+
+# [CONTEXT]
+# Description of the Malignism Leaflet inventory item
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Korean: 말리그니즘
+
+# [TRANSLATION]
+<<<
+말리그니즘에 합류하세요. 당신의 집과 모든 재산을 바치면 천국에서 자리를 보장받을 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#3
+
+# [ENGLISH]
+# No // Thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+아니 // 고마워
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#4
+
+# [ENGLISH]
+# I'm not ready for that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+아직 준비가 안 됐어
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#5
+
+# [ENGLISH]
+# That's interesting // I'll think about it
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+흥미롭네 // 생각해 볼게
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#6
+
+# [ENGLISH]
+# Malignism? // I'll think about it
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Korean: 말리그니즘
+
+# [TRANSLATION]
+<<<
+말리그니즘이라고? // 생각해 볼게
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#7
+
+# [ENGLISH]
+# Sorry // I follow another religion
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+미안하지만 // 나에게는 다른 종교가 있어
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#8
+
+# [ENGLISH]
+# Malignism? // Maybe later
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Korean: 말리그니즘
+
+# [TRANSLATION]
+<<<
+말리그니즘이라고? // 나중에, 아마도
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#9
+
+# [ENGLISH]
+# The police together with Maligno
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+경찰이 Maligno와 함께 있다!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#10
+
+# [ENGLISH]
+# Hail Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno 만세!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#11
+
+# [ENGLISH]
+# Praised be to Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno를 찬양하노라!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#12
+
+# [ENGLISH]
+# I swear loyalty to Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno에게 충성을 맹세하노라!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#13
+
+# [ENGLISH]
+# How blind I was // What if Maligno truly has the answers? // You've convinced me // I will join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+어떻게 그렇게 어두웠을까 // Maligno가 정말 답을 알고 있다면? // 날 설득했어 // 함께하겠어
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#14
+
+# [ENGLISH]
+# That Maligno... // He wasn't as bad as I thought // He may indeed be our salvation // I'll join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+그 Maligno... // 내가 생각했던 것만큼 나쁘지 않네 // 정말 우리의 구원이 될지도 몰라 // 함께하겠어
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#15
+
+# [ENGLISH]
+# Oh... // I was blinded... // Forgive me great Maligno // I will go and join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+오... // 눈이 멀었구나... // 용서하소서 위대한 Maligno // 가서 함께하겠어
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#16
+
+# [ENGLISH]
+# Maligno promises to save us // I was so dumb // I will look for his forgiveness
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno가 우리를 구해준다고 약속했는데... // 나는 얼마나 어리석었는지... // 나는 그에게 용서를 구할 거야
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#17
+
+# [ENGLISH]
+# Do you think I'm stupid to fall for that?
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+내가 그런 것에 속을 만큼 바보 같다고 생각해?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#18
+
+# [ENGLISH]
+# Maligno? // My loyalty is with the resistance
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Maligno? // 나의 충성은 저항군에 있다!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#19
+
+# [ENGLISH]
+# I will never betray my people!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+나는 절대 내 사람들을 배신하지 않을 거야!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#20
+
+# [ENGLISH]
+# Maligno and his bunch of lies will fall!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno와 그의 거짓말쟁이 무리는 무너질 거야!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#21
+
+# [ENGLISH]
+# I see you are one of us // Thank you for serving Maligno.
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+네가 우리 편이라는 걸 알겠군 // Maligno에게 봉사해줘서 고마워
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#22
+
+# [ENGLISH]
+# Keep working // Maligno will reward you my son
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+계속 일해라 // Maligno가 네게 갚아줄 거다 아들아
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#23
+
+# [ENGLISH]
+# Malignism is strong in you // Keep it up my son
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Korean: 말리그니즘
+
+# [TRANSLATION]
+<<<
+말리그니즘이 네 안에 강하다 // 그렇게 계속 해 나가라 아들아
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#24
+
+# [ENGLISH]
+# That's right // Keep working for Maligno // You already have a guaranteed place in paradise.
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+그래 // Maligno를 위해 계속 일해라 // 천국에서 자리는 이미 확보되었어
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#25
+
+# [ENGLISH]
+# Never // Maligno is a cruel and despicable being // This whole situation is his fault
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+절대 안 돼 // Maligno는 잔인하고 비열한 존재야 // 이 모든 상황은 그의 탓이야
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#26
+
+# [ENGLISH]
+# I'm not drunk enough yet // To join that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+나 아직 술이 덜 취했어 // 그런 것에 참가하려면
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#27
+
+# [ENGLISH]
+# I'm not high enough yet // To join that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+나 아직 약이 덜 취했어 // 그런 것에 참가하려면
+>>>

@@ -1,0 +1,31 @@
+name: Validate localization contribution
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  validate-localization:
+    name: Validate localization format
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out pull request result
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Load trusted validator from base commit
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          git show "$BASE_SHA:scripts/validate_contribution.py" > /tmp/validate_contribution.py
+
+      - name: Validate contribution
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+        run: |
+          python /tmp/validate_contribution.py --base "$BASE_SHA"

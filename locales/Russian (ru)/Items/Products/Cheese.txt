@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#1
+
+# [ENGLISH]
+# Cheese
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Сыр
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#2
+
+# [ENGLISH]
+# Cheese is one of the best foods // Who says so? // Your mother
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Сыр - одна из лучших еды // Кто это говорит? // Твоя мама
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#3
+
+# [ENGLISH]
+# Today I will prepare cheese stuffed meatballs // Never tried?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Сегодня я приготовлю фрикадельки, начиненные сыром // Пробовал когда-нибудь?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#4
+
+# [ENGLISH]
+# I will bring cheese to prepare some pizzas // They turn out delicious.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Возьму сыр, чтобы приготовить пиццу // У меня получаются шикарные
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#5
+
+# [ENGLISH]
+# 'Don Maligno Cheese' // 'The government of Nowhere is not responsible for any adverse effects that may result from the consumption of this product' // Sounds good.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Russian: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+'Сыр Don Maligno' // 'Правительство Nowhere не несет ответственности за побочные эффекты, которые может вызвать употребление этого продукта' // Звучит хорошо
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#6
+
+# [ENGLISH]
+# This must be the fifth time I've been refused cheese // Damn it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Должно быть, это уже пятый раз, когда мне не дают взять сыр // Проклятье
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#7
+
+# [ENGLISH]
+# Hey // I was thinking of making some cheese-stuffed meatballs... // Wicked
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Слушай // Думал сделать тюфтельки, начиненные сыром... // Злодей
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#8
+
+# [ENGLISH]
+# What cheese will I put on my pizzas now?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Какой теперь сыр я положу на свои пиццы?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#9
+
+# [ENGLISH]
+# Can't I bring cheese // Dang it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я не могу взять сыр? // Черт
+>>>

@@ -1,0 +1,1309 @@
+# ============================================================================
+# [KEY]
+# ESTADISTICAS#0
+
+# [ENGLISH]
+# Statistics
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+統計
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#1
+
+# [ENGLISH]
+# Infractions committed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+発生した違反件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#2
+
+# [ENGLISH]
+# Unprotected sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+保護なしの性交渉
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#3
+
+# [ENGLISH]
+# Sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+性的接触
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#4
+
+# [ENGLISH]
+# Sexual encounters offered
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+提案された性行為
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#5
+
+# [ENGLISH]
+# Sexual encounters received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+受け取った性交渉
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#6
+
+# [ENGLISH]
+# Alcohol consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+アルコール消費
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#7
+
+# [ENGLISH]
+# Drug consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+薬物消費
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#8
+
+# [ENGLISH]
+# Embezzlements
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+横領
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#9
+
+# [ENGLISH]
+# Cash shortages
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+現金不足
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#10
+
+# [ENGLISH]
+# Household debts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+家計の借金
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#11
+
+# [ENGLISH]
+# Citizens completed correctly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+正常に処理された市民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#12
+
+# [ENGLISH]
+# Citizens completed incorrectly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+異常に処理された市民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#13
+
+# [ENGLISH]
+# Alcohol blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+アルコールによる失神
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#14
+
+# [ENGLISH]
+# Drug-induced blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+薬物による失神
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#15
+
+# [ENGLISH]
+# Confirmed citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+確認された市民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#16
+
+# [ENGLISH]
+# Rejected citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+却下された市民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#17
+
+# [ENGLISH]
+# Citizens neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+中和された市民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#18
+
+# [ENGLISH]
+# Citizens arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+拘留された市民
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#19
+
+# [ENGLISH]
+# Drug deliveries
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+薬物の密輸
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#20
+
+# [ENGLISH]
+# Health pamphlets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Japanese: 健康パンフレット
+
+# [TRANSLATION]
+<<<
+健康パンフレット配布済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#21
+
+# [ENGLISH]
+# Addiction brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ADICTION_BROCHURE
+# English: Addiction Brochure
+# Japanese: 依存症パンフレット
+
+# [TRANSLATION]
+<<<
+依存症パンフレット配布済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#22
+
+# [ENGLISH]
+# Intolerance brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: INTOLERANCES_BROCHURE
+# English: Intolerances Brochure
+# Japanese: 不耐症パンフレット
+
+# [TRANSLATION]
+<<<
+不耐症パンフレット配布済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#23
+
+# [ENGLISH]
+# Malignism leaflets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Japanese: マリグニズムのパンフレット
+
+# [TRANSLATION]
+<<<
+マリグニズムのパンフレット配布済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#24
+
+# [ENGLISH]
+# Obesity brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: OBESITY_BROCHURE
+# English: Obesity Brochure
+# Japanese: 肥満パンフレット
+
+# [TRANSLATION]
+<<<
+肥満パンフレット配布済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#25
+
+# [ENGLISH]
+# Blood pressure brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_BROCHURE
+# English: Blood Pressure Brochure
+# Japanese: 血圧パンフレット
+
+# [TRANSLATION]
+<<<
+血圧パンフレット配布済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#26
+
+# [ENGLISH]
+# Wanted Criminals reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指名手配犯の通報受付
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#27
+
+# [ENGLISH]
+# Missing Persons reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+行方不明者の通報受付
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#28
+
+# [ENGLISH]
+# Arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+逮捕令受領済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#29
+
+# [ENGLISH]
+# Undercover arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+秘密逮捕令受領済み
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#30
+
+# [ENGLISH]
+# Resisting arrest charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+抵抗により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#31
+
+# [ENGLISH]
+# Attempted crime charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未遂により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#32
+
+# [ENGLISH]
+# Single homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+単純殺人により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#33
+
+# [ENGLISH]
+# Multiple homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+複数殺人により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#34
+
+# [ENGLISH]
+# Drug-related charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+麻薬により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#35
+
+# [ENGLISH]
+# Exhibitionism charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+露出により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#36
+
+# [ENGLISH]
+# Criminal association charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+不法結社により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#37
+
+# [ENGLISH]
+# Forgery charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+偽造により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#38
+
+# [ENGLISH]
+# Prostitution charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+売春により逮捕された件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#39
+
+# [ENGLISH]
+# Theft charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+窃盗での逮捕件数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#40
+
+# [ENGLISH]
+# Packages delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Japanese: 秘密警察
+
+# [TRANSLATION]
+<<<
+秘密警察に渡された荷物
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#41
+
+# [ENGLISH]
+# Packages delivered to rebels
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+反乱軍に渡された荷物
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#42
+
+# [ENGLISH]
+# Information delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Japanese: 秘密警察
+
+# [TRANSLATION]
+<<<
+秘密警察に渡された情報
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#43
+
+# [ENGLISH]
+# Incorrect info delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Japanese: 秘密警察
+
+# [TRANSLATION]
+<<<
+秘密警察への誤った情報の提供
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#44
+
+# [ENGLISH]
+# Unpaid rent
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未払いの家賃
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#45
+
+# [ENGLISH]
+# Unpaid household expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未払いの家庭経費
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#46
+
+# [ENGLISH]
+# Unpaid taxes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未払いの税金
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#47
+
+# [ENGLISH]
+# Unpaid Arrest Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未払いの逮捕費用
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#48
+
+# [ENGLISH]
+# Unpaid Medical Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未払いの医療費
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#49
+
+# [ENGLISH]
+# Unpaid condoms
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未払いのコンドーム
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#50
+
+# [ENGLISH]
+# Change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+釣り銭の盗難
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#51
+
+# [ENGLISH]
+# Detected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+検出された釣り銭の盗難
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#52
+
+# [ENGLISH]
+# Undetected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+未検出の釣り銭の盗難
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#53
+
+# [ENGLISH]
+# Accepted bribes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+受け取った賄賂
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#54
+
+# [ENGLISH]
+# Drug deliveries to addicts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+薬物中毒者への麻薬配達
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#55
+
+# [ENGLISH]
+# Thieves not arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+逮捕されなかった泥棒
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#56
+
+# [ENGLISH]
+# Thief rejections
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+泥棒の拒否
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#57
+
+# [ENGLISH]
+# Poor not rejected
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+貧乏な人否定されず
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#58
+
+# [ENGLISH]
+# Robber thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Japanese: 強盗
+
+# [TRANSLATION]
+<<<
+強盗による強盗
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#59
+
+# [ENGLISH]
+# Robbers neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Japanese: 強盗
+
+# [TRANSLATION]
+<<<
+強盗の無力化
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#60
+
+# [ENGLISH]
+# Minor inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+軽微な無活動ペナルティ
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#61
+
+# [ENGLISH]
+# Major inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+重度の無活動ペナルティ
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#62
+
+# [ENGLISH]
+# Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+入院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#63
+
+# [ENGLISH]
+# Fake bill scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+偽造札詐欺
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#64
+
+# [ENGLISH]
+# Cloned card scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+クローンカード詐欺
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#65
+
+# [ENGLISH]
+# Alcohol tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+実施されたアルコールテスト
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#66
+
+# [ENGLISH]
+# Blood pressure tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+実施されたプレッシャーテスト
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#67
+
+# [ENGLISH]
+# Body scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+身体スキャン
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#68
+
+# [ENGLISH]
+# Fingerprint scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+足跡スキャン
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#69
+
+# [ENGLISH]
+# Thieves arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+捕まえた泥棒
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#70
+
+# [ENGLISH]
+# Bets placed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+賭けの実施
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#71
+
+# [ENGLISH]
+# Bets won
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+勝った賭け
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#72
+
+# [ENGLISH]
+# Bets lost
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+負けた賭け
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#73
+
+# [ENGLISH]
+# Gift purchases
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+贈り物の購入
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#74
+
+# [ENGLISH]
+# Times in debt
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+借金した回数
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#75
+
+# [ENGLISH]
+# Injury Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+殴打による入院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#76
+
+# [ENGLISH]
+# Sex-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+性的な原因による入院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#77
+
+# [ENGLISH]
+# Alcohol-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+アルコールによる入院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#78
+
+# [ENGLISH]
+# Drug-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+薬物による入院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#79
+
+# [ENGLISH]
+# Firearm-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+銃創による入院
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#80
+
+# [ENGLISH]
+# Product cancellations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+商品の取消し
+>>>

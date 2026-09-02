@@ -1,0 +1,997 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#1
+
+# [ENGLISH]
+# Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+
+# [TRANSLATION]
+<<<
+監督官
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#2
+
+# [ENGLISH]
+# Good morning // I'll be your supervisor // Let's see what we have here... // workstation 65... // Employee 100411... // You seem to have experience in this... // If you have any questions, consult your manual // There you will find indications of the elements you have at your station // In addition to the current regulations // Respect the regulations // Don't make mistakes and you'll do well // Each mistake will count as a penalty in your salary... // Anyway... // May the glory of Maligno shine upon you... // Employee 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: WORKSTATION
+# English: Workstation
+# Japanese: ワークステーション
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+おはようございます // 私があなたの監督官になります // ここで何があるか見てみましょう... // ワークステーション 65... // 従業員 100411... // この経験があるようです // 何かご不明な点があればマニュアルを参照してください // そこにはあなたのワークステーションにある要素の指示があります // 現行の規則に加えて // 規則を守ってください // エラーを犯さなければうまくいくでしょう // 各違反は給料にペナルティとしてカウントされます... // とにかく... // Malignoの栄光があなたに輝きますように... // 従業員 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#3
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see the news? // Arrest those criminals // We have also installed new equipment // Check your manual for more information // You'll be fitted with the other gadgets soon... // This station used to be empty // The last wretch who used it left his entrails scattered all over the place // Yeah... // He was attacked... // You should have seen it... // We're refurbishing // Equipment's missing // You've got enough to operate though // Now get back to your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+やあ従業員100411 // ニュース見た？ // あいつら悪党を逮捕しろ // それに、新しい設備を設置した // 追加情報のためにマニュアルを確認しろ // すぐに他の機器も設置されるよ... // この作業ステーションは以前は空だった // 最後に使った不運な奴はここ那里に内臓を散らばらせた // そうだ... // 彼は襲われた... // お前が見ていたら... // 私たちは改装している // 設備が足りない // 運営するには十分だが // 今仕事をしろ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#4
+
+# [ENGLISH]
+# Employee 100411 // Did you see the news? // There are new rules // Check your manual... // You must cancel non-compliant products // We must educate these people // Only then will we build a better Nowhere... // Now do your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+従業員 100411 // ニュースを見たか？ // 新しい規則がある // あなたのマニュアルを確認せよ... // 規格に合わない製品は無効にしなければならない // 私たちはこの人々を教育する必要がある // それによってのみ、より良いNowhereを建設できる... // 今、あなたの仕事を履行せよ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#5
+
+# [ENGLISH]
+# Hello employee 100411 // The product readers have been crashing lately... // I don't know what it could be... // They were the cheapest on the market... // Anyway... // You can enter the products manually if you have any problems // See the manual for more information...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Japanese: 商品リーダー
+
+# [TRANSLATION]
+<<<
+やあ、従業員100411 // 最近、商品リーダーがよく故障している... // 何が原因なのか分からないな... // 市場で一番安いものを買ったというのに... // まあいい... // 問題が起きたら、商品を手動で入力すればいい // 詳しくはマニュアルを確認するように
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#6
+
+# [ENGLISH]
+# Hello employee 100411 // As you can see, we have placed a storage unit in your station // There you can store your belongings // By the way... // I saw this and perhaps it could be useful to you // Don't thank me // Return to your work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+やあ、従業員100411 // 見ての通り、君の作業台に収納スペースを設置した // そこに君の持ち物を保管できる // ところで... // これを見つけたんだが、もしかしたら君の役に立つかもしれない // 礼には及ばない // 仕事に戻れ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#7
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see about the missing minister's son // It breaks my heart... // That's why new equipment has been sent // You can see it in your manual // Your new job will be to check if any of the citizens // are present in the missing list... // Anyway... // Go back to your job 100411 // And by the way // There are juicy rewards for those who find these people // It would be a good opportunity for you // You could get that much needed plastic surgery...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+従業員100411 // 大臣の息子が行方不明になった件は聞いたか？ // 心が痛むよ... // そのため、新しい機材が送られてきた // 詳しくはマニュアルで確認できる // 君の新しい仕事は、市民の中に // 行方不明者リストに載っている者がいないか確認することだ... // まあいい... // 仕事に戻れ、100411 // それと、そうだ // 彼らを見つけた者にはたっぷりと報奨金が出る // 君にはいい機会だろう // 君があれほど必要としている整形手術を受けられるかもしれないぞ...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#8
+
+# [ENGLISH]
+# Hello 100411 // We have been sent new equipment // You can see it in your manual // You will be able to verify if a citizen is a wanted criminal // The state of Nowhere has zero tolerance for criminals // You must arrest them // It is your duty now employee 100411 // Do not forget to claim the reward before proceeding with the arrest
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+やあ、100411 // 新しい機材を送った // 君のマニュアルで見られる // 市民が Wanted criminal かどうか確認できる // Nowhere 国は犯罪者にゼロトレランスだ // 君は彼らを逮捕しなければならない // これからの君の義務だ、従業員100411 // 逮捕する前に報酬を請求するのを忘れないで
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#9
+
+# [ENGLISH]
+# Hello 100411 // We have received a call from the police department of investigations // They have informed us about marked money // Money that they use to track certain criminals // You must arrest any individual with marked bills // That will be your new task employee 100411 // For more information please consult your manual.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+やあ、100411 // 捜査警察署から電話を受けた // 識別された金銭について通知された // 特定の犯罪者を追跡するために使う金銭だ // 識別された金銭を持っている個人は誰でも逮捕しなければならない // それが君の新しい任務だ、従業員100411 // 詳細については君のマニュアルを参照せよ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#10
+
+# [ENGLISH]
+# Employee 100411 // Are you aware of the situation? // Thefts are becoming more frequent in the distribution centers // But don't worry // A scanner system has been implemented in the station // With it you will be able to detect if these bad guys have hidden products in their clothes // That's all employee 100411 // Don't forget to check your manual...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+従業員100411 // 状況を把握していますか？ // 配送センターでの盗難が頻発しています // しかし落ち着いてください // 作業ステーションにスキャナーシステムが導入されました // これにより、悪党が服に商品を隠しているかどうかを検出できます // 以上です、従業員100411 // マニュアルを確認することを忘れないでください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#11
+
+# [ENGLISH]
+# Hello employee 100411 // New defense tools have arrived for the distribution center // You will be in charge of their operation // Last night's brutal assault has prompted the authorities to take serious measures... // Anyway // You can find more information in the manual // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+こんにちは、従業員100411 // 配送センターへの新しい防衛ツールが到着しました // それらの操作はあなたの担当です // 昨夜の残虐な襲撃により、当局は深刻な措置を取るに至りました... // とにかく // マニュアルでより多くの情報が見つかります // 今は仕事に戻りなさい
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#12
+
+# [ENGLISH]
+# Hello 100411 // As you will see, we have provided new tools at your station // You can now process credit card payments // Check your manual // And fix that tie // Where do you think you are? // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+こんにちは、100411 // 見る通り、作業ステーションに新しいツールを配置しました // これからクレジットカードでの支払い処理が可能です // マニュアルを確認してください // そしてそのネクタイを正しなさい // あなたはどこにいると 思っていますか？ // 仕事に戻りなさい
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#13
+
+# [ENGLISH]
+# Hello 100411 // I am informing you that as of today // You may receive credit notes as a means of payment // All information about their processing is in your manual... // Now keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+こんにちは、100411 // 本日よりお伝えします // 支払い方法としてクレジットノートを受け取る可能性があります // その処理に関するすべての情報はマニュアルにあります... // 今は仕事を続けなさい
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // We have received a transaction update // Food coupons have been enabled as a means of payment // You should see your manual // Now go back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+従業員100411 // 操作システムでアップデートを受けました // 食料クーポンが支払い方法として有効になりました // マニュアルを確認すべきです // 今は仕事に戻りなさい
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#15
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You should inquire about them and their operation at the manual... // By the way... // How do I look? // Today I have to go to a business meeting... // Anyway... // Go back to work immediately
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 聞いたかもしれませんが // 割引クーポンが流通に put されました // マニュアルでそれらとその運用について確認する必要があります... // ところで... // 私はどう見えますか？ // 今日はビジネスミーティングに行かなければなりません... // とにかく... // すぐに仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#16
+
+# [ENGLISH]
+# Employee 100411 // Due to the counterfeiters arrested yesterday // We have been instructed to thoroughly check the authenticity of items presented by citizens // You should be aware of the new procedure // Check your manual as soon as possible // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+従業員 100411 // 昨日逮捕された偽造者たちのせいで // 市民が提出する文書の真正性を徹底的に検査するよう命じられました // 新しい手順を確認する必要があります // できるだけ早くマニュアルを確認してください // 今すぐ仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#17
+
+# [ENGLISH]
+# Employee 100411 // I'm informing you that the 'Eating Better' program is in force // That means that you will have to control the degree of obesity of the citizens // And cancel any product that is harmful to these beasts... // First of all, please check your manual and inform yourself about it // Now go back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+
+# [TRANSLATION]
+<<<
+従業員 100411 // 'より良い食生活'プログラムが現在実施中であることをお知らせします // これは市民の肥満度を確認する必要があることを意味します // そして、これらの生き物に有害な製品を無効にする必要があります... // まず最初にマニュアルを確認し、それについて情報を入手してください // 今すぐ仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#18
+
+# [ENGLISH]
+# Hello employee 100411 // The 'Eating Better' program has been expanded // It now incorporates certain food intolerances // You must detect it in citizens and proceed according to regulations // Check your manual for more information // Now back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+
+# [TRANSLATION]
+<<<
+こんにちは、従業員 100411 // 'より良い食生活'プログラムが拡張されました // これには特定の食物不耐性が含まれます // 市民からそれを検出し、規制に従って進行する必要があります // 詳細情報についてはマニュアルを確認してください // 今すぐ仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // The 'Eating Better' program has been expanded // Your station has been outfitted with equipment to test citizens' blood pressure // You must read your manual // And comply with new directives // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 'より良い食生活'プログラムが拡張されました // 市民の血圧を分析するための設備で作業ステーションが装備されました // マニュアルを読む必要があります // そして新しい指示に従ってください // 仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#20
+
+# [ENGLISH]
+# Hello 100411 // Today we are in mourning... // I still can't believe it... // It seems like only yesterday that I met that family on a cruise trip... // How sad... // Anyway... // From today it will be your job to carry out breathalyzer checks // Your station has been adapted for this // You should consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 今日は私たちは喪中です // まだ信じられません // まるで昨日クルーズ旅行でその家族に会ったかのようです // なんて悲しいでしょう // とにかく // 今日からアルコール検査を行うことがあなたの仕事です // あなたの作業ステーションがそれに合わせて適応されました // より詳細な情報についてはマニュアルを参照してください // 今、仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#21
+
+# [ENGLISH]
+# Employee 100411 // As of today we have provided different types of brochures // To distribute to our citizens... // Although it is not mandatory... // It's only for... // Well... // You know... // To raise awareness... // Anyway // Back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+従業員 100411 // 今日から私たちは様々な種類のパンフレットを用意しました // 市民の間で配布されるように... // 義務ではありませんが... // そのためだけです... // まあ... // あなたは知っています... // 意識を作り出すために... // とにかく // 仕事に戻りなさい
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // Today there are new rules // Check your manual // You must control credit card payments // There is a prohibited list // You must respect it // Understood? // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 今日は新しいルールがあります // マニュアルを確認してください // クレジットカードの支払いを管理する必要があります // 禁止されたリストがあります // それを守る必要があります // 理解しましたか？ // 今、仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#23
+
+# [ENGLISH]
+# Hello 100411 // From today you will have a new tool // It will help you to make a thorough analysis of the citizen // To prevent identity theft // For more information, see your manual // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 今日から新しいツールを使用できます // これは市民を詳細に分析するのに役立ちます // 身元盗みを防ぐため // より詳細な情報についてはマニュアルを参照してください // 今、仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#24
+
+# [ENGLISH]
+# Hi 100411 // I was supervising your work // I usually do it later // But this time I have to go to a store... // I have to buy something to attend a costume event... // Yeah, costumes... // It's not my thing but there will be a lot of important people there and I have to make a good impression... // That's why I have to think it over... // And choose something that's up to the task... // Anyway... // Bye 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 君の仕事を監督していた // 普段はもっと後にやるんだが // 今回は店に行かなければならない… // 衣装イベントに出席するために何かを購入しなければ… // そうだ、衣装イベント… // 俺の普段のスタイルではないが、多くの重要な人物が出席するから、良い印象を残さなければならない… // だからこそよく考えなければならない… // それにふさわしいものを選ばなければならない… // まあ… // こんにちは 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#25
+
+# [ENGLISH]
+# Hello 100411 // I received your package... // As soon as I saw it I knew it was the perfect choice... // I decided to wear it and... // The party was a big success! // All the important people in Nowhere were impressed // I'm sure we'll do a lot of business in the future... // Anyway... // I must thank you in some way... // Take this // Enjoy it // Buy yourself... // Whatever it is that people like you buy...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 君の荷物を受け取った… // 見た瞬間にこれが完璧な選択だと分かった… // 持って行くことにしたんだ… // パーティーは大成功だった！ // Nowhereのすべての重要な人物が感銘を受けた // きっとこれから多くのビジネスをするだろう… // まあ… // どうしても感謝しないと… // これを受け取れ // 存分に楽しめ // 自分で買え… // 君のような人間が買うどんなものでも…
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#26
+
+# [ENGLISH]
+# Hello 100411 // I got your package... // I've tried everything // Every treatment out there... // And none of them worked // So I figured it would be a total waste of time to try it... // But it worked! // Look at this beautiful hair! // I've never had so much hair before // I'm so grateful // Have this 100411 // Now if you'll excuse me, I have to go admire my beauty in the mirror.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは、100411 // 君の荷物が届いた... // 正直、ありとあらゆるものを試した // 存在するすべての治療法をね... // でもどれも効かなかった // だからこれを試しても完全に時間の無駄だと思っていた... // でも効いたんだ！ // この美しい髪を見てくれ！ // こんなに髪があったことは今まで一度もない // 本当に感謝している // これを受け取ってくれ、100411 // では失礼するよ、鏡で自分の美しさを堪能しに行かなくては
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#27
+
+# [ENGLISH]
+# Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been able to reach her // She hasn't come to work // Her friends don't know anything about her... // She vanished // Just like that... // Anyway // She was the winner of a special bonus this month // And since I couldn't deliver it... // We've decided to give it to you // Here // Enjoy it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 100456について何か聞いたか？ // 彼女は行方不明だそうだ // 誰も彼女を見つけることができなかった // 働きにも来ていない // 友達も彼女のことを何も知らない… // 消えてしまった // まるで何もなかったかのように… // まあ # 彼女は今月の特別ボーナス当選者だった // それを彼女に渡すことができなかったので… // 私たちはそれを君に渡すことにした // 受け取れ // 存分に使え
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#28
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // I'll take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // 君が無力化したその可哀想な負け組は生き延びなかった // これからはあの世で食べ物を恵んでもらうだろう // 家に帰って落ち着いていてくれ // 全て片付けておくから、君に問題が生じないようにする
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#29
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe I exaggerated a little... // But woe betide you if you open your mouth... // I've got to go now // I have an interview in a few minutes // Keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+やあ 100411 // ニュース見た？ // 今は完全な英雄だよ... // まあ... // 少し大げさに言っただけかもしれない... // でも口を割ったら大変なことになるぞ... // もう行かなきゃ // 何分後にインタビューがある // 続けて仕事しろ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#30
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a national hero... // I may have exaggerated a bit with the story... // But I saved your ass // You owe me... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+やあ 100411 // ニュース見た？ // 私は完全な国民の英雄だよ... // おそらく物語を少し大げさにしただけかもしれない... // だがお前の命を救った // お前は借りがあるぞ... // 今仕事をしろ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#31
+
+# [ENGLISH]
+# Hello 100411 // Today I have received multiple calls // My bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But I managed to save you // Since you are a very hard worker // I blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish my boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+やあ 100411 // 今日はいくつかの電話を受けた // 上司たちは不満だ // 知っているか？ // 大臣の息子を逮捕するように命令したからだ // お前の首が欲しかった... // だが私はお前を救った // お前は非常に勤勉だから、 // お前の過失を他の誰かに帰した // あの不幸な奴... // 彼が仕事に少しでも努力していれば、今は魚の餌にならないのに // まあ... // この過失のおかげで、家に帰る前に毎日私の靴を磨かなければならないぞ // 今仕事をしろ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#32
+
+# [ENGLISH]
+# Hello 100411 // I've been keeping a close eye on your performance... // You must not slack off // You know what happens to those who are not useful // They end up like that janitor // On the street // Only the strong survive here // There is no room for weakness... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+やあ 100411 // お前の成績を密かに見ていたぞ... // 油断するな // 無駄な奴らがどうなるか知っているか？ // あの掃除夫みたいになるぞ // 街で // ここでは上級者だけが生き残る // 弱さには場所がないぞ... // 今仕事をしろ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#33
+
+# [ENGLISH]
+# Hello 100411 // We have detected a number of irregularities in our accounting records // So we are going to conduct a thorough investigation // at all the center's workstations // It will take a few days // But don't worry // I know you can be trusted // See you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 私たちは会計記録の一連の不規則性を検出しました // したがって、私たちはセンターのすべての作業ステーションで徹底的な調査を行います // これには数日かかります // でも心配しないで // あなたは信頼できると知っています // 明日会いましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#34
+
+# [ENGLISH]
+# Hello 100411 // I got word that someone robbed this station // And that you allowed it to be stolen without resistance... // If you want to keep working here // You'd better do your job... // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 誰かがこの作業ステーションを襲ったと聞きました // そしてあなたが抵抗せずに盗まれるのを許したと... // ここで働き続けるつもりなら // 仕事をする方が良いでしょう... // 明日会いましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#35
+
+# [ENGLISH]
+# Hello 100411 // Very well done // I saw how you neutralized that robber... // Maligno would be proud of you son // You're on a good path // I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: ROBBERS
+# English: Robbers
+# Japanese: 強盗
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 非常に良くできました // あなたがその強盗を無力化したのを見ました... // Malignoはあなたを誇りに思うでしょう、息子 // あなたは良い道を歩んでいます // 明日会いましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#36
+
+# [ENGLISH]
+# Hello 100411 // You've made a lot of mistakes lately // I've come to warn you... // You don't want to end up on the street // Do you? // I'll see you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 最近、あなたは多くの違反を犯しています // 警告しに来ました... // 街に放り出されたくはないでしょう // それともそうなのか？ // 明日会いましょう 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#37
+
+# [ENGLISH]
+# Hi 100411 // Have you seen my wife around? // She's been very demanding lately... // I've been ignoring her for a while now // She's constantly looking for me... // And I don't feel that excitement we had when we were young... // The flame of love that once brought us together... // Has slowly faded away... // Anyway // It's time to go // See you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 奥さんを見かけましたか？ // 最近、彼女はとても要求が多いです... // 正直なところ、この間彼女を無視してきました // 彼女は常に私を探しています... // そして若かった頃のあの興奮を感じません... // かつて私たちを結んだ愛の炎... // 次第に消えつつあります... // とにかく // 去る時間です // 明日会いましょう 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#38
+
+# [ENGLISH]
+# Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I'll give them a call // See if that's the answer to the problems with my wife... // Anyway // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 君がメールで送ってくれたそのチラシを見たよ... // ありがとう... // 彼らに電話するね // 妻の問題に対する答えかどうか見てみよう... // とにかく // 明日会おう
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#39
+
+# [ENGLISH]
+# Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually comes to drop off dinner for me... // But she hasn't shown up // I tried to call her but she's not picking up // I hope she's okay...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 今日は妻に会わなかったよ... // 心配だ... // 通常、彼女が夕食を持ってきてくれるとか... // でも現れなかった // 電話をかけたが出ない // 元気であってほしい...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#40
+
+# [ENGLISH]
+# Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she got tired of me and decided to leave... // You have to be strong and move on... // I have an appointment today // Wish me luck...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // まだ妻が見つかっていないよ... // とにかく... // たぶん、彼女は僕に飽きて去ることにしたんだ... // 強くなって前に進まなきゃ... // 今日約束がある // 僕に幸運を祈って...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#41
+
+# [ENGLISH]
+# Hello 100411 // My wife has asked me for a divorce... // She's claiming half of the assets... // Can you believe it? // I have a meeting with my lawyer tomorrow... // I didn't think it would come to this... // Anyway... // I have to go now. I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 妻が離婚を求めてきたよ... // 財産の半分を請求している... // 信じられるか？ // 明日、弁護士と会議がある... // こうなるとは思わなかった... // とにかく... // もう行かなきゃ // 明日会おう
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#42
+
+# [ENGLISH]
+# You! // You dirty maggot! // It was you who slept with my wife! // Do you think things are going to stay like this?! // You and that harlot will pay!!! // Get ready...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お前！ // くそ虫め！ // 俺の女房と寝たのはお前だ！ // それで済むと思ったか？！ // お前とそのクソ女には報いがあるぞ！！ // 準備しろ...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#43
+
+# [ENGLISH]
+# 100411... // What are all those bandages? // And those crutches? // Are you going to some kind of party? // Do I need to remind you that this is your job? // You can't come to work dressed as a mummy // I hope this doesn't happen again
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // その包帯は何だ？ // 松葉杖はどうした？ // 何かパーティーに行くのか？ // 仕事場だと念のため言い直すが // ミイラに成りすまして出勤してはいけない // 二度とあってはならぬ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#44
+
+# [ENGLISH]
+# Hi 100411... // But... // What is that face? // Have you looked in the mirror? // Are you sick? // I remind you that sick leave here for low-class employees is completely prohibited // You had better recover quickly
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+やあ、100411... // しかし... // その顔はなんだ？ // 鏡で見たのか？ // 病気なのか？ // 下級職員への休暇は完全に禁止されていると再び伝える // 早く回復したほうがいい
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#45
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been drinking alcohol excessively during work hours // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance // I hope you walk the straight and narrow from now on
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 昨日、緊急で病院に搬送しました // 仕事を中に気を失ったのです // 勤務中に過度に飲酒していたことが判明しました // これは許されないことだ // もしなおとなしくしなければ解雇される // これが最後のチャンスだ // 今後はまっすぐ立ち振る舞うことを望む
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#46
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been using drugs // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance to straighten up
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 昨日、緊急で病院に搬送しました // 仕事を中に気を失ったのです // 薬物を常用していたことが判明した // これは絶対に許されないことだ // 行動を改めなければ解雇される // 改心する最後のチャンスだ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#47
+
+# [ENGLISH]
+# Employee 100411... // That's it // The probationary period is over // And we have decided to dispense with you // I know // It was too little // In fact we still have many ways we would have liked to exploit you.... // But that's the way it is // I'd almost gotten used to that strange face you have..... // I don't usually shed tears when firing employees.... // And this one definitely won't be an exception either... // See you never 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+従業員100411... // これで終わりだ // 試用期間は終了した // そして我々は君を切ることにした // 分かっている // あまりにも短かった // 実のところ、まだまだ君を搾取してみたい方法がたくさんあったんだが... // まあ、そういうものだ // 君のその妙な顔にも、もう少しで慣れるところだった... // 私は従業員をクビにするとき、普段は涙など流さない... // そして今回も間違いなく例外ではない // もう二度と会うことはないだろう、100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#48
+
+# [ENGLISH]
+# Good morning // employee 100411 // I have been evaluating the performance of your first day at the station // I'm not going to lie to you // The truth is I expected more from someone with your background // I will continue to watch you // In the meantime // we have provided your station with the tools that will allow you to detect counterfeits // Now get to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+おはよう // 従業員100411 // 作業台での初日の働きぶりを評価していた // 正直に言おう // 君の経歴を考えれば、もう少し期待していたんだがな // これからも君を監視させてもらう // その間に // 君の作業台には偽造品を見破るための道具を用意しておいた // さあ、仕事に取りかかれ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#49
+
+# [ENGLISH]
+# So you think you're good enough not to receive an infraction // Well, we'll see about that 100411 // The last miserable guy who said that ran home // To cry in his mommy's arms // I hope you don't regret it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+つまり、自分は罰金通知を一つも受けないほど優秀だと思っているのか // まあ、それはこれから見せてもらおう、100411 // 最後にそんなことを言った哀れな奴は、一目散に家へ逃げ帰った // ママの胸で泣くためにな // 後悔しないことを祈るよ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#50
+
+# [ENGLISH]
+# So you like finances, 100411? // Then you better keep a surplus in your personal finances // We don't tolerate debtors here // You've been warned
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+つまり、金融が好きなのか、100411？ // それなら個人の財政は黒字に保っておくことだ // ここでは債務者は許さない // 忠告はしたぞ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#51
+
+# [ENGLISH]
+# Infinite mode? // You're unhinged 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+無限モード？ // お前おかしいだろ 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#52
+
+# [ENGLISH]
+# What happened? // Weren't you good enough not to receive infractions? // Grab your things // You're fired 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+どうした？ // 課題を受けないほど上手くいっていたじゃないか？ // 物をまとめろ // 君は解雇だ 100411
+>>>

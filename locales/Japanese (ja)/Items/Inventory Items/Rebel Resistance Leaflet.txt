@@ -1,0 +1,288 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#1
+
+# [ENGLISH]
+# Rebel Resistance Leaflet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: REBEL_RESISTANCE_LEAFLET
+# English: Rebel Resistance Leaflet
+# Japanese: 反乱軍レジスタンスのビラ
+
+# [TRANSLATION]
+<<<
+反乱軍レジスタンスのビラ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#2
+
+# [ENGLISH]
+# Resistance leaflet with someone's fingerprints on it. On it is written: You can make the real change! Join us and together we will overthrow Maligno!
+
+# [CONTEXT]
+# Description of the Rebel Resistance Leaflet inventory item
+
+# [GLOSSARY]
+# ID: REBEL_RESISTANCE_LEAFLET
+# English: Rebel Resistance Leaflet
+# Japanese: 反乱軍レジスタンスのビラ
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+反乱軍レジスタンスのビラに誰かの印がついている。それにはこう書かれている：あなたは真の変革を起こせる！私たちと一緒に、共にMalignoを倒そう！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#3
+
+# [ENGLISH]
+# Keep that // I don't want to get into trouble
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+取れ // 私は問題に巻き込まれたくない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#4
+
+# [ENGLISH]
+# Put that away // Do you want to get in trouble?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+それを置け // 問題に巻き込まれたいのか？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#5
+
+# [ENGLISH]
+# What? // Put that away // Do you want to end up in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+何だ？ // それをしまえ // 刑務所に行きたいのか？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#6
+
+# [ENGLISH]
+# Do you know what they do // To those who question Maligno?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+彼らに何をするか知っているか？ // Malignoを疑う者たちに？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#7
+
+# [ENGLISH]
+# You will end up in prison // if you keep showing that to anybody
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+刑務所行きだぞ // まだ誰にも見せるなよ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#8
+
+# [ENGLISH]
+# Be careful with that my friend // Do you want to end up in a cell?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+気をつけろ友達よ // 留守番したくて?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#9
+
+# [ENGLISH]
+# We have to overthrow Maligno, my friend
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoを倒さなきゃ、友よ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#10
+
+# [ENGLISH]
+# We will overthrow the regime!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+私たちは政権を倒すだろう！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#11
+
+# [ENGLISH]
+# We have to take down Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+私たちはMalignoを終わらせなければならない！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#12
+
+# [ENGLISH]
+# Maligno's regime will burn!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoの政権は燃え尽きるだろう！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#13
+
+# [ENGLISH]
+# Traitor! // You're a damn traitor! // I will call the police on you!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+裏切り者！ // お前はクソ裏切り者だ！ // 警察を呼ぶぞ！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#14
+
+# [ENGLISH]
+# You must be careful with that, handsome // You could get into trouble // I couldn't bear the thought of losing you
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+美しい友よ、それに気をつけるべきだ // 問題に巻き込まれるかもしれない // あなたを失う考えは耐えられない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#15
+
+# [ENGLISH]
+# I'm not drunk enough for that buddy // Hiccup!
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+私はそれをするのに十分酔っていないよ、友よ // ひっく！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#16
+
+# [ENGLISH]
+# It's about time someone stood up against this state that oppresses the helpless
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+もう、無防備な人々を抑圧するこの国家に誰かが戦うべき時だ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETORESISTENCIAREBELDE#17
+
+# [ENGLISH]
+# Be careful with that buddy // Do you want to get into trouble? // Do you know what they'd do to you if they catch you with that?
+
+# [CONTEXT]
+# Dialogue associated with giving the Rebel Resistance Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+友よ、それに気をつけろ // 問題に巻き込まれたいのか？ // それを所持して捕まったら何をされるか知っているか？
+>>>

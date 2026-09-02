@@ -1,0 +1,319 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#1
+
+# [ENGLISH]
+# Police Report
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: POLICE_REPORT
+# English: Police Report
+# Chinese Simplified: 警方报告
+
+# [TRANSLATION]
+<<<
+警方报告
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#4
+
+# [ENGLISH]
+# Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+税款
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#5
+
+# [ENGLISH]
+# Administrative charges
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+行政费用
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#7
+
+# [ENGLISH]
+# Resistance to authority
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+妨碍公务
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#8
+
+# [ENGLISH]
+# Attempted Homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+杀人未遂
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#9
+
+# [ENGLISH]
+# Simple homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+普通杀人
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#10
+
+# [ENGLISH]
+# Multiple Homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+连环谋杀
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#11
+
+# [ENGLISH]
+# Sale of narcotics
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+毒品交易
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#12
+
+# [ENGLISH]
+# Obscene exhibition
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+猥亵物品公开展示
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#13
+
+# [ENGLISH]
+# Participation in a criminal organization
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+参与非法结社
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#14
+
+# [ENGLISH]
+# Counterfeit
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+伪造文书
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#15
+
+# [ENGLISH]
+# Prostitution
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+卖淫
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#16
+
+# [ENGLISH]
+# Did you get arrested?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你被捕了吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#17
+
+# [ENGLISH]
+# So... how cold are the cells?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+牢房有多冷？
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#18
+
+# [ENGLISH]
+# So... how is food in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+监狱的伙食怎么样？
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#19
+
+# [ENGLISH]
+# Did you bend over to pick up the soap?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你弯腰捡肥皂了吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#21
+
+# [ENGLISH]
+# Do you see what happens when you break the law?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+看到不守法的下场了吧？
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#22
+
+# [ENGLISH]
+# You'd better behave from now on
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你最好从现在开始规矩点
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#23
+
+# [ENGLISH]
+# Do you want me to add more charges? // That's what I thought
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你想让我追加更多指控吗？ // 我也是这么想的
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#24
+
+# [ENGLISH]
+# There won't be second chances // Obey the law
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不会有第二次机会 // 请遵守法律
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#25
+
+# [ENGLISH]
+# Theft
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+盗窃
+>>>

@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#1
+
+# [ENGLISH]
+# Credit Card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+신용카드
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#3
+
+# [ENGLISH]
+# That's my credit card // To pay for the purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+이건 제 신용카드예요 // 구매를 위해 지불하는 거예요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#4
+
+# [ENGLISH]
+# That's my credit card // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+이건 제 신용카드예요 // 이걸 처리해야 해요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#5
+
+# [ENGLISH]
+# No // It's for the payment // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+아니요 // 지불용이에요 // 직접 처리해야 해요
+>>>

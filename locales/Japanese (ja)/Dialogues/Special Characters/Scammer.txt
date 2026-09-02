@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# Japanese: 詐欺師
+
+# [TRANSLATION]
+<<<
+詐欺師
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは友達 // 追加の収入を得たいですか？ // 大物詐欺師になりたいですか？ // 気が変わったら // 電話してください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+分かりました // 行ける時にそこに行きます
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+
+# [TRANSLATION]
+<<<
+こんにちは // つまり、君は決めたんだな... // 詐欺の世界に足を踏み入れることを... // まあいい // 始めるのに役立つものを持ってきたよ... // この美しい代物は、君のレジの隣に設置する // ボタンを押すだけで、怪しまれることなく偽札を出してくれる // もちろん、君が詐欺をするたびに少しばかり手数料をもらうけどね... // まあ、その話は置いておこう... // 気をつけるんだ // 君の詐欺に気づく人もいるかもしれない // そして通報されることもある // 通報が増えて目立ちすぎると、逮捕されるかもしれない // 子供と老人を狙え // あいつらは気づかない // それから友よ、警察官を騙そうなんて絶対に考えるな... // まあ // 幸運を祈る
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Japanese: クレジットカードリーダー
+
+# [TRANSLATION]
+<<<
+やあ、友よ // 詐欺稼業はかなり順調みたいだな... // ちょっといいものをやろう... // この素敵な機械は、君のクレジットカードリーダーに取り付けるんだ // 何をするのかって？ // 君が入力したクレジットカードのデータをコピーして、俺に送ってくれる // カードを一枚コピーするたびに、追加の収入が得られるぞ、友よ // そして覚えておけ // 警察には近づくな... // 幸運を祈る
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Japanese: Mark Shadow
+
+# [TRANSLATION]
+<<<
+やあ、友よ // 知った途端、知らせるために走ってきたんだ... // 十分気をつけろ // 覆面警官がこの辺りをうろついている // ごく普通の市民のふりをしてな... // どうやって見破るかって？ // 幸い、俺の情報源が名前を突き止めてくれた... // Mark Shadow // 覚えておけ // 心配する必要はない // 警戒して、馬鹿なことさえしなければいい... // まあ // それだけだ // またな
+>>>

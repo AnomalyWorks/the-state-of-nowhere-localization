@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#1
+
+# [ENGLISH]
+# Sausages
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+소시지
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#2
+
+# [ENGLISH]
+# 'Don Maligno sausages' // 'Made with meat from exotic animal species' // Sounds good.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+
+# [TRANSLATION]
+<<<
+Don Maligno 소시지 // 이국적인 동물 종류의 고기로 만듦 // 괜찮은데요
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#3
+
+# [ENGLISH]
+# Do you like grilled sausages? // They are delicious with bread.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+구운 소시지 좋아하세요? // 빵과 같이 먹으면 맛있어요
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#4
+
+# [ENGLISH]
+# These sausages... // They seem to have something strange in them
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이 소시지... // 뭔가 이상한 게 들어있는 것 같아요
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#5
+
+# [ENGLISH]
+# Sausages are my favorite food // Yoy couldn't care less? // Rude
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+소시지는 제가 가장 좋아하는 음식입니다 // 오이가 무슨 상관이야? // 무례하군
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#6
+
+# [ENGLISH]
+# Where are my sausages? // I wanted to eat them so much...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+내 소시지는? // 너무 먹고 싶었는데...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#7
+
+# [ENGLISH]
+# You've got to be kidding // This is the third time they won't let me bring sausages.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+농담이겠지 // 벌써 세 번째로 소시지를 가져가게 안 해줘
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#8
+
+# [ENGLISH]
+# It's okay // Still, there's something about those sausages... // Strange...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+괜찮아 // 어쨌든 그 소시지에는 뭔가 있어... // 이상해...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_SALCHICHAS#9
+
+# [ENGLISH]
+# Can't I bring sausages? // Damn.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Sausages product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+소시지를 가져갈 수 없어? // 제기랄
+>>>

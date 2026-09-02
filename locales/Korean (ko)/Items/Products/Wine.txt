@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#1
+
+# [ENGLISH]
+# Wine
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+와인
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#2
+
+# [ENGLISH]
+# Well // I'll have a glass of wine today
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+음 // 오늘은 와인 한 잔 마실 거야
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#3
+
+# [ENGLISH]
+# Nothing like wine // With a good piece of meat
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+와인처럼 좋은 건 없어 // 맛있는 고기와 함께
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#4
+
+# [ENGLISH]
+# Do you like wine? // Don't you drink alcohol? // No wonder you're so boring
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+와인 좋아해? // 술 안 마셔? // 그래서 그렇게 지루한 거야
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#5
+
+# [ENGLISH]
+# 'Don Maligno Wine' // 'Drink in moderation' // Yeah... // Maybe another day
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno 와인' // '음주를 적당히 하세요' // 네... // 아마 다음에
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#6
+
+# [ENGLISH]
+# Hey // I wanted to have a glass of wine
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+잠깐 // 와인 한 잔 마시고 싶었는데
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#7
+
+# [ENGLISH]
+# Great... // Meat won't taste the same without a glass of wine.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+좋아... // 와인 한 잔 없으면 고기가 맛이 없을 거야
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#8
+
+# [ENGLISH]
+# What about my wine? // Can't I take it? // It's okay.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+그럼 내 와인은? // 못 가져간다고? // 알았어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#9
+
+# [ENGLISH]
+# No! // My wine... // Anything but that...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안 돼! // 내 와인... // 그건 안 되는데...
+>>>

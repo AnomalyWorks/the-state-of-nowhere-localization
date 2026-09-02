@@ -1,0 +1,802 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#1
+
+# [ENGLISH]
+# Rent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Kira
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#2
+
+# [ENGLISH]
+# Food
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Yemek
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#3
+
+# [ENGLISH]
+# Household expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+
+# [TRANSLATION]
+<<<
+Ev giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#4
+
+# [ENGLISH]
+# Nowhere State Taxes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Turkish: Nowhere
+
+# [TRANSLATION]
+<<<
+Nowhere eyaletinin vergileri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#5
+
+# [ENGLISH]
+# Maligno Premium TV Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_TV
+# English: Maligno Premium TV Pack
+# Turkish: Maligno Premium TV Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium TV Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#6
+
+# [ENGLISH]
+# Maligno Ultra Gold Internet Pack 256kbps
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_INTERNET
+# English: Maligno Ultra Gold Internet Pack 256kbps
+# Turkish: Maligno Ultra Gold Internet Pack 256kbps
+
+# [TRANSLATION]
+<<<
+Maligno Ultra Gold Internet Pack 256kbps
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#7
+
+# [ENGLISH]
+# Maligno Premium XXX Pack + Feet Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_XXX
+# English: Maligno Premium XXX Pack + Feet Pack
+# Turkish: Maligno Premium XXX Pack + Feet Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium XXX Pack + Feet Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#8
+
+# [ENGLISH]
+# Maligno insurance
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Turkish: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno Sigorta
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#9
+
+# [ENGLISH]
+# Medical expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+
+# [TRANSLATION]
+<<<
+Tıbbi giderler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#10
+
+# [ENGLISH]
+# Arrest expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+
+# [TRANSLATION]
+<<<
+Tutuklama giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#11
+
+# [ENGLISH]
+# Gift for Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: WIFE
+# English: Wife
+# Turkish: Eş
+
+# [TRANSLATION]
+<<<
+Eş için Hediye
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#12
+
+# [ENGLISH]
+# Gift for Supervisor's ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+Amirin eski eşi için Hediye
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#13
+
+# [ENGLISH]
+# Gift for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+#
+# ID: LOVER
+# English: Lover
+# Turkish: Sevgili
+
+# [TRANSLATION]
+<<<
+Oğul için Hediye (Sevgili)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#14
+
+# [ENGLISH]
+# Gift son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+Oğul Hed. (Amirin eski eşi)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#15
+
+# [ENGLISH]
+# Gift for Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+
+# [TRANSLATION]
+<<<
+Oğul için Hediye
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#16
+
+# [ENGLISH]
+# Gift for Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: LOVER
+# English: Lover
+# Turkish: Sevgili
+
+# [TRANSLATION]
+<<<
+Sevgili için Hediye
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#17
+
+# [ENGLISH]
+# Gift for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+#
+# ID: PET
+# English: Pet
+# Turkish: Evcil Hayvan
+
+# [TRANSLATION]
+<<<
+Evcil Hayvan için Hediye
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#18
+
+# [ENGLISH]
+# son's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+
+# [TRANSLATION]
+<<<
+Oğulun giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#19
+
+# [ENGLISH]
+# son's expenses (lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+#
+# ID: LOVER
+# English: Lover
+# Turkish: Sevgili
+
+# [TRANSLATION]
+<<<
+Oğulun giderleri (Sevgili)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#20
+
+# [ENGLISH]
+# Son exp. (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+Oğul gid. (amirin eski eşi)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#21
+
+# [ENGLISH]
+# wife's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: WIFE
+# English: Wife
+# Turkish: Eş
+
+# [TRANSLATION]
+<<<
+Eşin giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#22
+
+# [ENGLISH]
+# Sup. ex-Wife expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+Amirin eski eşi giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#23
+
+# [ENGLISH]
+# pet expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: PET
+# English: Pet
+# Turkish: Evcil Hayvan
+
+# [TRANSLATION]
+<<<
+Evcil hayvan giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#24
+
+# [ENGLISH]
+# lover's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Turkish: Gider
+#
+# ID: LOVER
+# English: Lover
+# Turkish: Sevgili
+
+# [TRANSLATION]
+<<<
+Sevgili giderleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#25
+
+# [ENGLISH]
+# Medicines for son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+
+# [TRANSLATION]
+<<<
+Oğul için İlaçlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#26
+
+# [ENGLISH]
+# Medicines for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+#
+# ID: LOVER
+# English: Lover
+# Turkish: Sevgili
+
+# [TRANSLATION]
+<<<
+Oğul için İlaçlar (Sevgili)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#27
+
+# [ENGLISH]
+# Med. son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: SON
+# English: Son
+# Turkish: Oğul
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+İlaç Oğul (amirin eski eşi)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#28
+
+# [ENGLISH]
+# Medicines for wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: WIFE
+# English: Wife
+# Turkish: Eş
+
+# [TRANSLATION]
+<<<
+Eş için İlaçlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#29
+
+# [ENGLISH]
+# Med. Sup. ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+Amirin eski eşi için İlaç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#30
+
+# [ENGLISH]
+# Medicines for lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: LOVER
+# English: Lover
+# Turkish: Sevgili
+
+# [TRANSLATION]
+<<<
+Sevgili için İlaçlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#31
+
+# [ENGLISH]
+# Medicines for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Turkish: İlaçlar
+#
+# ID: PET
+# English: Pet
+# Turkish: Evcil Hayvan
+
+# [TRANSLATION]
+<<<
+Evcil Hayvan için İlaçlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#32
+
+# [ENGLISH]
+# Condoms sexual serv. provided
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Verilen cinsel hizmet prezervatifi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#33
+
+# [ENGLISH]
+# Condoms sexual serv. received
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Alınan cinsel hizmet için prezervatif
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#34
+
+# [ENGLISH]
+# Gift pack for the entire family
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+
+# [TRANSLATION]
+<<<
+Tüm aile için hediye paketi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#35
+
+# [ENGLISH]
+# Don Maligno Gift Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Turkish: Hediye
+
+# [TRANSLATION]
+<<<
+Don Maligno Hediye Paketi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#36
+
+# [ENGLISH]
+# Kidnapping ransom
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Kaçırılma fidyesi
+>>>

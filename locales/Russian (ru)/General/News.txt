@@ -1,0 +1,3086 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#1
+
+# [ENGLISH]
+# Welcome to Maligno News!!! // The country's number one news monopoly! // This is Papanatas with another news broadcast.
+
+# [CONTEXT]
+# News channel introduction. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# Russian: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# Russian: Papanatas
+
+# [TRANSLATION]
+<<<
+Добро пожаловать на Maligno News!! // Монополист номер один в стране! // С вами Papanatas в очередном выпуске новостей.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#2
+
+# [ENGLISH]
+# And in other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+А в других новостях...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#3
+
+# [ENGLISH]
+# Speaking of other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+Говоря о других новостях...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#4
+
+# [ENGLISH]
+# Moving on to other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+Перейдем к другим новостям...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#5
+
+# [ENGLISH]
+# And with that concludes our disinformation block for today // I'm Papanatas and this is Maligno News... the best and only news outlet in Nowhere
+
+# [CONTEXT]
+# News anchor's closing remarks. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# Russian: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# Russian: Papanatas
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+И с этим заканчивается наш сегодняшний информационный блок // Я Папанатас, и это Maligno News... лучшее и единственное новостное издание Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#6
+
+# [ENGLISH]
+# Live
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+ЭФИР
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#7
+
+# [ENGLISH]
+# Telephone communication
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+Телефонное сообщение
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#8
+
+# [ENGLISH]
+# This morning
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+Этим утром
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#9
+
+# [ENGLISH]
+# Food card operating normally
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Продовольственная карта работает в штатном режиме
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#10
+
+# [ENGLISH]
+# The honorable president-elect Maligno... // has already made available all the necessary elements to carry out the announced controls and the program will be fully operative... // in the country's distribution centers today
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Почетный избранный президент Maligno... // уже распорядился всеми необходимыми средствами для проведения объявленных проверок, и программа будет полностью готова к работе... // в распределительных центрах страны уже сегодня
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#11
+
+# [ENGLISH]
+# It's unbelievable... // no one before in history has ever cared so much about Nowherians...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Russian: Ноуэрианцы
+
+# [TRANSLATION]
+<<<
+Это невероятно... // в истории никогда раньше никто не заботился так о ноуэрианцах...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#12
+
+# [ENGLISH]
+# Son of the chief minister is missing
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Сын премьер-министра пропал
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#13
+
+# [ENGLISH]
+# Yesterday afternoon, a huge commotion was caused by the disappearance of the son of the Chief Minister of Nowhere // Our beloved president expressed himself on the matter this morning...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Вчера вечером огромный резонанс вызвало исчезновение сына Главы Министров Nowhere // Наш любимый лидер прокомментировал ситуацию сегодня утром...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#14
+
+# [ENGLISH]
+# I will arrange for all government entities to collaborate with the search for the child of one of our own... // providing advanced monitoring tools for that purpose // Do not worry dear nowherians.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Russian: Ноуэрианцы
+
+# [TRANSLATION]
+<<<
+Я распоряжусь, чтобы все государственные учреждения сотрудничали в поиске ребенка одного из наших... // предоставляя продвинутые инструменты мониторинга для этой цели // Не беспокойтесь, дорогие ноуэрианцы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#15
+
+# [ENGLISH]
+# Escape occurs at special detention center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+Побег из специального центра содержания под стражей
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#16
+
+# [ENGLISH]
+# Under the cover of last night 5 former officials of the previous Nowhere government escaped from the special detention center // Let's remember that the entire leadership of the past government was immediately imprisoned and found guilty of corruption // Now let's hear from Maligno who spoke out on the matter this morning
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Под покровом ночи вчерашнего дня из специального центра содержания под стражей сбежали 5 бывших чиновников предыдущего правительства Nowhere // Напомним, что всё руководство прошлого правительства было немедленно арестовано и признано виновным в коррупции // А теперь послушаем Maligno, который выступил с заявлением по этому поводу сегодня утром
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#17
+
+# [ENGLISH]
+# These abominable people are going to be caught // don't worry // I have already arranged all the necessary tools to do so // it's only a matter of time my dear compatriots.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Эти отвратительные люди будут пойманы // не беспокойтесь // Я уже распорядился всеми необходимыми инструментами, чтобы это было так // Это всего лишь вопрос времени, мои дорогие соотечественники
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#18
+
+# [ENGLISH]
+# Theft at food distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Кража в распределительных центрах продовольствия
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#19
+
+# [ENGLISH]
+# Distribution centers have registered significant shortages of merchandise // Administrators accuse low-class citizens of shoplifting // Nowhere authorities say they will take action
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Распределительные центры зафиксировали значительные недостатки товаров // Администраторы обвиняют в кражах граждан низкого социального класса // Власти Nowhere утверждают, что примут меры по этому вопросу
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#20
+
+# [ENGLISH]
+# Wretches!!!// For decades they have fed these kind of people!!!// These lazy people who live off us!!!// But this is over!!!// Maligno will put an end to this...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Негодники! // В течение десятилетий они кормили этот класс людей! // Этим бездельникам, которые живут за наш счёт! // Но это кончится!! // Maligno покончит с этим...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#21
+
+# [ENGLISH]
+# Brutal robbery at a food distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Жестокое нападение на распределительном центре продовольствия
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#22
+
+# [ENGLISH]
+# Last night, a brutal robbery took place at one of Nowhere's food distribution centers // The offender, posing as a citizen, carried out an armed assault on the cashier seriously injuring him // Fortunately, the Nowhere authorities assured the media, that they are working on providing the necessary tools to the centers to combat these situations // It is worth mentioning, that no person of important social position have been physically or psychologically harmed during the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Вчера вечером произошло жестокое нападение на одном из распределительных центров продовольствия nowhere // Преступник, выдавая себя за гражданина, совершил вооружённое ограбление кассира, тяжело его ранив // К счастью, власти Nowhere заверили СМИ, что работают над предоставлением необходимых инструментов центрам для борьбы с такими ситуациями // Стоит отметить, что ни одно лицо важного социального положения не пострадало физически или психологически во время инцидента
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#23
+
+# [ENGLISH]
+# Maligno will offer food coupons
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Maligno предложит продовольственные купоны
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#24
+
+# [ENGLISH]
+# Under the opening of an advanced center of aesthetic surgery our dear President Maligno said the following...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+На открытии продвинутого центра пластической хирургии наш дорогой Президент Maligno сказал следующее...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#25
+
+# [ENGLISH]
+# We are going to provide free and healthy options // For this purpose, we will deliver special coupons that will enable people to have access to the best food
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Мы предложим бесплатные и полезные варианты // Для этого мы выпустим специальные купоны, которые позволят людям получать лучшие продукты
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#26
+
+# [ENGLISH]
+# Finally someone who does their job and cares about the people of Nowhere...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Наконец-то кто-то делает свою работу и беспокоится об жителях Nowhere...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#27
+
+# [ENGLISH]
+# Discounts arrive at the distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Скидки поступают в распределительные центры
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#28
+
+# [ENGLISH]
+# The government has circulated a series of discount coupons. These will be applicable to purchases made at Nowhere distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Правительство выпустило в обращение серию купонов на скидку. Они будут действовать при покупках в распределительных центрах Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#29
+
+# [ENGLISH]
+# A wonderful measure that will be one more among the many that our beloved President Maligno has been taking.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Прекрасная мера, которая станет одной из многих, предпринятых нашим любимым Президентом Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#30
+
+# [ENGLISH]
+# Document forgery organization dismantled
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Раскрыта организация по подделке документов
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#31
+
+# [ENGLISH]
+# In today's news security forces have carried out an operation where they apprehended two brothers of foreign nationality who were engaged in the forgery of state documents // The authorities suspect that they may be part of a whole network of forgers // As for the criminals, who are of low social status, they have been transferred to the special detention center where they will be arduously interrogated
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+Сегодня силовые структуры провели операцию, в ходе которой были задержаны два брата иностранной национальности, занимавшиеся подделкой государственных документов // Власти подозревают, что они могут быть частью целой сети фальсификаторов // Что касается преступников низкого социального статуса, их перевели в специальный центр содержания под стражей, где они будут подвергнуты жесткому допросу
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#32
+
+# [ENGLISH]
+# One more proof of the problems that the poor and foreigners bring to our beloved country.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Ещё одно доказательство проблем, которые нам приносят бедняки и иностранцы в нашей любимой стране
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#33
+
+# [ENGLISH]
+# 'Eating Better' program launched
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+
+# [TRANSLATION]
+<<<
+Запускается программа 'Питайтесь лучше'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#34
+
+# [ENGLISH]
+# Maligno announced the implementation of a new program 'Eating Better' // Let's listen to what our new president had to say.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+
+# [TRANSLATION]
+<<<
+Maligno объявил о вступлении в силу новой программы 'Питайтесь лучше' // Давайте послушаем, что говорил наш новоизбранный президент
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#35
+
+# [ENGLISH]
+# The current diet of the Nowherians encourages obesity and it can't go on like this // That's why I've decided to help you by launching a new program that will seek to increase the quality of life by removing foods that are unsuitable for people with obesity disorder.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Russian: Ноуэрианцы
+
+# [TRANSLATION]
+<<<
+Текущая диета Ноуэрианцев способствует ожирению. Это не может продолжаться // именно поэтому я решил помочь им, запустив новую программу, которая будет стремиться повысить качество жизни, убирая неподходящие продукты для людей с расстройством ожирения
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#36
+
+# [ENGLISH]
+# A more than wise measure. the inhabitants of the suburbs do nothing but eat and get fat. it was about time that someone controlled them.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Мера более чем верная. Жители пригородов только и делают, что ест и толстеет. Уже было время, чтобы кто-то их контролировал
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#37
+
+# [ENGLISH]
+# New extension of the 'Eating Better' program
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+
+# [TRANSLATION]
+<<<
+Новая расширение программы 'Питайтесь лучше'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#38
+
+# [ENGLISH]
+# On World Heart Day, our brand-new president has decided to extend the program to include those foods that are not suitable for people with blood pressure problems // To this end, the distribution centers have been adapted with special devices for that purpose.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+В Всемирный день сердца наш новый президент решил расширить программу, включив в неё продукты, непригодные для людей с проблемами давления // Для этого распределительные центры были адаптированы специальными устройствами для этой цели
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#39
+
+# [ENGLISH]
+# Maligno takes care of our hearts. That's our president.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno заботится о наших сердцах. Вот наш президент.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#40
+
+# [ENGLISH]
+# A large part of the population suffers from food intolerances
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Большая часть населения страдает от пищевой непереносимости
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#41
+
+# [ENGLISH]
+# According to a study, more than 70% of the inhabitants of Nowhere have some kind of food intolerance without knowing it // This is what our honorable president assured, after his golf match with the country's top executives
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Согласно исследованию, более 70% жителей Nowhere страдают от какой-либо пищевой непереносимости, не зная об этом // Так заверял наш почтенный лидер после партии в гольф с важными руководителями страны
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#42
+
+# [ENGLISH]
+# My goal as president of the Nowherians is that they can live better every day // I am aware of their eating disorders, and for that reason I will expand the “Eating Better” program to ensure that every resident of Nowhere can eat properly without putting their health at risk.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Russian: Ноуэрианцы
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Russian: Питайтесь лучше
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Моя цель как президента ноуэрианцев - чтобы вы могли жить лучше с каждым днем // Я осведомлен о ваших пищевых расстройствах, и по этой причине я расширю программу 'Питайтесь лучше'. С целью, чтобы каждый житель Nowhere мог питаться, и это не представляло бы риска для его здоровья
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#43
+
+# [ENGLISH]
+# Awesome. Maligno is awesome
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Невероятно. Maligno невероятен
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#44
+
+# [ENGLISH]
+# Terrible accident claims the life of an important Nowhere family
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Ужасная трагедия уносит жизнь важной семьи из Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#45
+
+# [ENGLISH]
+# The event happened yesterday afternoon, when the family was happily on their way, as they do every day, to the Nowhere shopping mall to do their usual shopping // when suddenly an alcoholic drifter, crossing the street irresponsibly, causes the family's luxury car to crash into a pole, thus claiming the family's life // Reliable witnesses of important social position assured that these are common maneuvers of these miserable paupers, in order to obtain some economic benefit // Faced with this tragic event, the government decided to establish breathalyzer controls in food distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Произошло это вчера днем, когда семья весело, как обычно, направлялась в торговый центр Nowhere за покупками // когда внезапно пьяный бродяга, безответственно переходя дорогу, вызывает столкновение роскошного семейного автомобиля со столбом, отняв тем самым жизнь семьи // Надежные свидетели с важным социальным статусом утверждают, что это обычные маневры этих жалких бездомных с целью получить какую-либо экономическую выгоду // В связи с трагическим событием правительство решило установить проверки на содержание алкоголя в распределительных центрах.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#46
+
+# [ENGLISH]
+# Undoubtedly a great loss for the country...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Без сомнений, огромная потеря для страны...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#47
+
+# [ENGLISH]
+# New Awareness Campaign
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Новая кампания по повышению осведомленности
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#48
+
+# [ENGLISH]
+# In order to raise awareness among the population, our beloved ruler Maligno, ordered the distribution centers to issue health pamphlets // which will address issues such as blood pressure, obesity, intolerances and addictions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Russian: Брошюры о здоровье
+
+# [TRANSLATION]
+<<<
+С целью повышения осведомленности населения, наш дорогой лидер Maligno распорядился, чтобы распределительные центры выпустили брошюры о здоровье // Которые затронут такие проблемы, как артериальное давление, ожирение, непереносимость и зависимости.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#49
+
+# [ENGLISH]
+# Attack on government offices
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Теракт в правительственных офисах
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#50
+
+# [ENGLISH]
+# A group of hooded rebels entered one of the government offices this morning. It is still unknown what the purpose of these thugs was // The authorities are trying to determine what they took with them. Fortunately no one of high social standing was hurt, only service personnel.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Утром группа бунтовщиков в капюшонах вошла в одно из правительственных офисов. Цель этих преступников пока неизвестна // Власти пытаются определить, что они забрали с собой. К счастью, никто из лиц высокого социального положения не пострадал, только обслуживающий персонал.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#51
+
+# [ENGLISH]
+# Wretched man dies in flames
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Ублюдок погибает в пламени
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#52
+
+# [ENGLISH]
+# In the midst of a senseless protest, a wretched man ignoring all environmental consequences, decided to set himself on fire // Amidst the piercing screams of pain and the incessant flames, one could hear ridicule such as freedom, equality, justice and so much other nonsense.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+В середине бессмысленного протеста, преступник, игнорируя любые экологические последствия, решил поджечь себя // Среди разрывающих душу криков боли и неугасимого пламени, можно было услышать нелепости вроде свободы, равенства, справедливости и других глупостей
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#53
+
+# [ENGLISH]
+# Today we have invited an expert in environmental protection. With you Dr. Morzat...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# Russian: Morzat
+
+# [TRANSLATION]
+<<<
+Сегодня мы пригласили эксперта по экологии. Перед вами доктор Morzat...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#54
+
+# [ENGLISH]
+# Mr. Morzat. Do you believe that the residues given off by these wretches when they burn... Represent something detrimental to the health of superior people like us?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# Russian: Morzat
+
+# [TRANSLATION]
+<<<
+Господин Morzat. Считаете ли вы, что отходы, выделяемые при сгорании этих ублюдков... представляют что-либо вредное для здоровья таких превосходящих людей, как мы?
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#55
+
+# [ENGLISH]
+# I would say no, Mr. Papanatas
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# Russian: Papanatas
+
+# [TRANSLATION]
+<<<
+Я бы сказал, что нет, господин Papanatas
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#56
+
+# [ENGLISH]
+# There you have it. Nothing to worry about
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Вот и всё. Не о чем беспокоиться
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#57
+
+# [ENGLISH]
+# Criminal sentenced to life imprisonment
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Пожизненное заключение для преступника
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#58
+
+# [ENGLISH]
+# The lowlife accused of multiple attempted robberies in the distribution centers of Nowhere was sentenced today to life imprisonment // The wretch will be transferred in the next few days to the special detention center, where he will spend his last days stripped of all hope and welfare...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+Преступник, обвиняемый в многочисленных попытках краж в распределительных центрах Nowhere, сегодня был приговорен к пожизненному заключению // Ублюдок будет переведен в ближайшие дни в специальный центр содержания под стражей, где проведет свои последние дни, лишенный всякой надежды и благополучия
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#59
+
+# [ENGLISH]
+# Wave of deaths in the suburbs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Волна смертей в пригородах
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#60
+
+# [ENGLISH]
+# According to the authorities in Nowhere, a mysterious disease that leaves people malnourished has spread throughout the suburbs // To combat it, the government has set up a fence around the suburbs to prevent its spread. In addition, calls on Nowherians to stay away from low-income people to avoid possible transmission of the disease.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# Russian: Ноуэрианцы
+
+# [TRANSLATION]
+<<<
+По данным властей Nowhere, загадочная болезнь, оставляющая людей истощенными, распространилась по всем пригородам // Для борьбы с ней правительство распорядилось оградить пригороды, чтобы предотвратить распространение. Кроме того, оно призывает ноуэрианцев держаться подальше от людей с низким уровнем дохода, чтобы избежать возможного заражения.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#61
+
+# [ENGLISH]
+# Death on a cliff
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Смерть на утёсе
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#62
+
+# [ENGLISH]
+# During last night, a man in an evident state of drunkenness died when he threw himself off a cliff after fervently exclaiming 'To infinity and beyond!!!' // His remains rest in the depths of the sea.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Прошлой ночью мужчина в состоянии сильного опьянения погиб, бросившись с утёса после горячего восклицания 'К бесконечности и далее!!' // Его останки покоятся в глубинах моря
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#63
+
+# [ENGLISH]
+# Man found dead in alleyway
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+В переулке найден труп
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#64
+
+# [ENGLISH]
+# Yesterday some homeless people reported the existence of a corpse // It was located in the south alley of our city // The autopsy revealed that the person presented high concentrations of an unknown drug in his body // The authorities are investigating its origin.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Вчера бродяги сообщили о находке тела // Оно было обнаружено в южном переулке нашего города // Автопсия выявила высокие концентрации неизвестного наркотика в организме // Власти расследуют происхождение вещества
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#65
+
+# [ENGLISH]
+# Famous serial killer caught
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Знаменитый серийный убийца пойман
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#66
+
+# [ENGLISH]
+# During the course of yesterday, the famous and most wanted serial killer of Nowhere Nicola Kullem, was arrested by the honorable security forces // 'Damn you!!!', 'I'll get my revenge!!!', 'You'll see you vermin!!!'. Shouted the murderer fiercely, as he was being transferred to the special detention center.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Russian: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+Вчера силы безопасности задержали самого разыскиваемого серийного убийцу в Nowhere — Nicola Kullem // 'Проклятый!!', 'Я отомщу!!', 'Увидишь, подонок!!' — кричал убийца, пока его переводили в Специальный центр содержания под стражей
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#67
+
+# [ENGLISH]
+# Notorious serial killer escapes
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Знаменитый серийный убийца сбежал
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#68
+
+# [ENGLISH]
+# Yesterday, inexplicably, Nowhere's vicious and dangerous serial killer Nicola Kullem escaped // Authorities still don't know how he circumvented the strict security protocols // They also revealed that in the fugitive's cell, multiple phrases written in blood could be found, reading: 'I will kill you', 'You will die you damn' and 'I will tear out your entrails slowly and painfully'.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Russian: Nicola Kullem
+
+# [TRANSLATION]
+<<<
+Вчера бесследно исчез жестокий и опасный серийный убийца из Nowhere Nicola Kullem // Власти до сих пор не понимают, как ему удалось обойти строгие протоколы безопасности // Более того, в камере беглеца были обнаружены многочисленные фразы, написанные кровью: 'Я тебя убью', 'Ты умрёшь, проклятый' и 'Я медленно и болезненно вырву тебе кишки'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#69
+
+# [ENGLISH]
+# Well-known distribution center guard missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: PJ_GUARD
+# English: Guard
+# Russian: Охранник
+
+# [TRANSLATION]
+<<<
+Исчез известный охранник распределительного центра
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#70
+
+# [ENGLISH]
+# The famous guard, recognized for his remarkable work in the guard service, has been reported missing by his relatives yesterday // In the last time he has been a prominent figure of the online video platform 'Maligno Tube' // Making successful video tutorials how to: 'Brutally immobilizing a person', 'Successfully bludgeoning bums' and 'How to remove blood stains effortlessly'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_GUARD
+# English: Guard
+# Russian: Охранник
+#
+# ID: MALIGNO_TUBE
+# English: Maligno Tube
+# Russian: Maligno Tube
+
+# [TRANSLATION]
+<<<
+Знаменитый охранник, известный своей выдающейся службой, был объявлен пропавшим без вести родственниками вчера // В последнее время он стал заметной фигурой на видео-платформе 'Maligno Tube' // Делая успешные обучающие видео, такие как: 'Брутально обезвредить человека', 'Успешно избивать бродяг' и 'Как без усилий убрать пятна крови'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#71
+
+# [ENGLISH]
+# Government buildings looted
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Погромы в зданиях правительства
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#72
+
+# [ENGLISH]
+# Yesterday there were multiple lootings of government buildings // The authorities managed to capture some of the miserable members of this vile crime // They have already been transferred to the special detention center for a harsh and intense interrogation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+Вчера произошли многочисленные погромы правительственных зданий // Властям удалось задержать нескольких жалких членов этого подлого преступления // Они уже были переведены в специальный центр содержания под стражей для жесткого и интенсивного допроса.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#73
+
+# [ENGLISH]
+# The government punishes the wicked
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Правительство наказывает злодеев
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#74
+
+# [ENGLISH]
+# This morning the authorities reported that the thugs captured during the looting of government buildings a few days ago, were executed last night.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Сегодня утром власти сообщили, что злоумышленники, задержанные за погромы правительственных зданий несколько дней назад, были казнены прошлой ночью
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#75
+
+# [ENGLISH]
+# Our great ruler Maligno, reaffirms his unwavering commitment to the fight against crime.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Наш великий лидер Maligno подтверждает свою непоколебимую приверженность борьбе с преступностью
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#76
+
+# [ENGLISH]
+# Heavy police confrontation against thugs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Серьезная конфронтация полиции с преступниками
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#77
+
+# [ENGLISH]
+# At this moment the honorable security forces of Nowhere, are fighting against a foul mob of thugs
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+В настоящее время почетные силы безопасности Nowhere ведут борьбу с отвратительной толпой преступников
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#78
+
+# [ENGLISH]
+# From here, all my support to our beloved security forces // Who every day sacrifice themselves for us, confronting the lowest and most disgusting in this society
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Отсюда, вся моя поддержка нашим любимым силам безопасности // Каждый день жертвующие собой ради нас, противостоящие самому низкому и неприятному в этом обществе
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#79
+
+# [ENGLISH]
+# Maligno lies!!!
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno лжет!!
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#80
+
+# [ENGLISH]
+# Finally, people of Nowhere! No more lies! // No more rules! No more controls! Down with Maligno! Down with the regime! Freedom! Freedom!
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Наконец, народ Nowhere! Хватит лгать! // Больше никаких правил! Больше никакого контроля! Долой Maligno! Долой режим! Свобода! Свобода!
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#81
+
+# [ENGLISH]
+# Maligno monuments to be unveiled throughout Nowhere
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Откроют памятники Maligno по всему Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#82
+
+# [ENGLISH]
+# The monuments to our savior the great Maligno have been completed. And will be inaugurated during this night, where prayers will be said to our leader // All inhabitants are requested to attend the monuments punctually. Those who present offerings to Maligno will be one step closer to salvation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Памятники нашему спасителю великому Maligno завершены. И они будут открыты сегодня вечером, где будут проходить молитвы нашему лидеру // Приглашаются все жители вовремя явиться к памятникам. Те, кто принесет подношения Maligno, будут на шаг ближе к спасению
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#83
+
+# [ENGLISH]
+# Construction of Maligno's monuments begins
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Началось строительство памятников Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#84
+
+# [ENGLISH]
+# Today work has just begun all over Nowhere. The purpose of this work is to build monuments to our great lord, almighty, unique and peerless, Maligno // They are expected to be finished in the next few days.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Сегодня везде в Nowhere начались работы // Их целью является возведение памятников нашему великому повелителю, всемогущему, единственному и непревзойдённому Maligno // Работы планируется завершить в ближайшие дни
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#85
+
+# [ENGLISH]
+# Counterfeiter killed at distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Фальшивомонетчик ликвидирован в Распределительном центре
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#86
+
+# [ENGLISH]
+# A dangerous counterfeiter was gunned down yesterday at food distribution center south 3412 by a brave supervisor who took courage in the face of the evil criminal // saving the life of a fearful and insignificant station operator, who was there at the time of the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Вчера в Распределительном центре продовольствия южный 3412 был ликвидирован опасный фальшивомонетчик отважным Руководителем, который не побоялся столкнуться со злодеем // спася жизни трусливого и ничтожного оператора Рабочей станции, находившегося на месте происшествия
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#87
+
+# [ENGLISH]
+# Man commits suicide at train station
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Мужчина покончил с собой на железнодорожной станции
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#88
+
+# [ENGLISH]
+# The miserable suburbanite threw himself under a train when it was on its way to the downtown area // Fortunately, the clean-up crew was able to remove the wreckage in time, preventing the transport service from being delayed // And so none of the brand-new executives traveling on the train were late for their important meetings
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Жалкий пригородный житель бросился под поезд, когда тот отправлялся в центральную зону // К счастью, персонал, отвечающий за уборку, успел вовремя убрать останки, не допустив задержки транспортного обслуживания // Так ни один из блистательных руководителей, ехавших в поезде, не опоздал на свои важные совещания
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#89
+
+# [ENGLISH]
+# I love happy endings
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Я обожаю хэппи-энды
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#90
+
+# [ENGLISH]
+# Dangerous criminal killed in attempted robbery
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Опасный преступник ликвидирован при попытке ограбления
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#91
+
+# [ENGLISH]
+# A criminal robbed one of Nowhere's distribution centers yesterday // Fortunately, the center's supervisor and newly appointed leader of the group 'Maligno Our Savior' managed to take him down, putting an end to his evil intentions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Вчера злоумышленник совершил нападение на один из Распределительных центров Nowhere // К счастью, Руководитель центра, блистательный лидер группы 'Maligno наш спаситель', смог покончить с ним, положив конец его злым намерениям
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#92
+
+# [ENGLISH]
+# We are live with this brave man // This is Papanatas. Can you describe the event?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# Russian: Papanatas
+
+# [TRANSLATION]
+<<<
+Мы в прямом эфире с этим храбрым мужчиной // говорит Papanatas. Можете описать нам произошедшее?
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#93
+
+# [ENGLISH]
+# I had never seen such an evil creature, so full of hate. I was afraid... In an instant, my life flashed before my eyes... // The cruise trips, the plastic surgeries, the shopping malls, the elegant parties... // It was at that moment that I knew I had to end him. Otherwise, my future and that of my poor, unhappy subordinates would come to an end...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Я никогда не видел такое злое существо, полное ненависти. Я испугался... В мгновение ока я увидел, как моя жизнь промелькнула перед моими глазами... // Круизы, пластические операции, торговые центры, элегантные вечеринки... // Именно в этот момент я понял, что должен покончить с ним. Иначе, мое будущее и будущее моих бедных и несчастных подчиненных закончится...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#94
+
+# [ENGLISH]
+# There you have it gentlemen. The words of a great hero.
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Вот и всё, дамы и господа. Слова великого героя.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#95
+
+# [ENGLISH]
+# Minister's missing son found
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Пропавший сын министра найден
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#96
+
+# [ENGLISH]
+# After intense searches all over the country, Jake Coff, the son of the important minister, has been found by an ungraceful employee of the 3412 south distribution center // After his identification he was immediately taken to a medical care facility, where he was found to have temporary memory loss.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# Russian: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+После напряжённых поисков по всей стране, Jake Coff, сын важного министра, был найден не слишком привлекательным сотрудником южного Распределительного центра 3412 // После его опознания он был немедленно доставлен в медицинский центр, где было установлено, что он страдает от временной потери памяти
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#97
+
+# [ENGLISH]
+# Minister's missing son found dead
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Пропавший сын министра найден мёртвым
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#98
+
+# [ENGLISH]
+# In circumstances still under investigation, the son of prominent Nowhere minister Jake Coff, was found dead with gunshot wounds. Maligno announced that the consequences for the heartless evildoer will be unimaginably disproportionate.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PJ_MISSING
+# English: Jake Coff
+# Russian: Jake Coff
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+При обстоятельствах, которые ещё расследуются, сын важного министра Nowhere Jake Coff был найден мёртвым с огнестрельными ранениями. Maligno заявил, что последствия для этого бессердечного злодея будут невообразимо непропорциональными
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#99
+
+# [ENGLISH]
+# Minister's son found!
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Сын министра найден!
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#100
+
+# [ENGLISH]
+# The son of missing minister, Jake Coff, was finally found // It happened yesterday at the 3412 South Distribution Center, while an unenlightened employee ordered his arrest // After the decision made by this poor wretch, the guards who were transporting the missing man to the jail, were able to ascertain that it was none other than the minister's missing son.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# Russian: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Пропавший сын министра, Jake Coff, наконец найден // Это произошло вчера в распределительном центре юг 3412, пока малообразованный сотрудник заказывал его арест // После решения, принятого этим бедняком, охранники, которые вели пропавшего в тюрьму, смогли убедиться, что это был не кто иной, как признанный потерянный сын министра
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#101
+
+# [ENGLISH]
+# A criminal was detained this morning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Добродей был арестован сегодня утром
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#102
+
+# [ENGLISH]
+# A thug calling himself 'William the anarchist' was apprehended while causing disorderly conduct in the street // Tonight he will be transferred to the special detention center, where he will be able to 'express himself freely'...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: WILLIAM
+# English: William
+# Russian: William
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+Самопровозглашенный 'William анархист' был арестован, пока устраивал беспорядки на улице // Сегодня ночью его переведут в специальный центр содержания под стражей, где он сможет 'свободно выразить себя'...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#103
+
+# [ENGLISH]
+# Supervisor's wife missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+
+# [TRANSLATION]
+<<<
+Супруга руководителя пропала
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#104
+
+# [ENGLISH]
+# Yesterday, the wife of an important supervisor who works in the South 3412 distribution center, was reported missing // This is how the husband expressed himself this morning, visibly shaken by the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Russian: Руководитель
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Вчера было сообщено о пропаже жены важного руководителя, который работает в распределительном центре юг 3412 // Вот что говорил муж сегодня утром, будучи явно потрясенным
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#105
+
+# [ENGLISH]
+# My dear wife. I can't live without you... I can't... I can't...
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Дорогая жена. Я не могу жить без тебя... Нет... Я не могу...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#106
+
+# [ENGLISH]
+# There you have it. Poor man...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Вот и всё. Бедный человек...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#107
+
+# [ENGLISH]
+# New gold statue of Maligno
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Новая золотая статуя Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#108
+
+# [ENGLISH]
+# During the day today, under the fluttering of thousands of white doves, has been inaugurated the new golden statue of our lord Maligno // The construction exhibits on its base the following legend: 'Our lord Maligno, who works for the glory of our people day and night. Nothing can match his incalculable magnificence.'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Сегодня, в присутствии тысяч белых голубей, была открыта новая золотая статуя нашего повелителя Maligno // На основании сооружения выгравирована следующая надпись: 'Наш повелитель Maligno, который день и ночь трудится ради славы нашего народа. Ничто не может сравниться с его неоценимым величием'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#109
+
+# [ENGLISH]
+# New Maligno banknote
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Новый банкнот Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#110
+
+# [ENGLISH]
+# Starting today, a new high-denomination banknote has been put into circulation // It will have the honor of displaying the handsome face of His Magnificence, Maligno
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Сегодня в обращение выпущена новая банкнота высокого достоинства // Ей будет выпала честь носить прекрасный лик его величества Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#111
+
+# [ENGLISH]
+# The day of Malignism
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+
+# [TRANSLATION]
+<<<
+День Малигнизма
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#112
+
+# [ENGLISH]
+# Today, this day has been made official, as the day of Malignism // From now on this will be the day on which all Nowherians pray and bestow offerings to our great lord Maligno.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# Russian: Ноуэрианцы
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Сегодня этот день официально объявлен Днём Малигнизма // Начиная с этого дня, все ноуэрианцы будут молиться и приносить дары нашему великому повелителю Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#113
+
+# [ENGLISH]
+# Maligno launches his new book
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno выпускает свою новую книгу
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#114
+
+# [ENGLISH]
+# On the occasion of offering the way to salvation, our lord Maligno has made available to the people, his new work 'Rosank' // The same is placed as a fundamental requirement to enter heaven // They can already be found in all bookstores all over the country at the modest price of $10000.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: ROSANK
+# English: Rosank
+# Russian: Rosank
+
+# [TRANSLATION]
+<<<
+В целях предложения пути к спасению, наш повелитель Maligno предоставил народу своё новое произведение 'Rosank' // Оно установлено как обязательное условие для входа в рай // Книгу уже можно найти во всех книжных магазинах страны, по доступной цене в $10000
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#115
+
+# [ENGLISH]
+# Maligno president for life
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno — пожизненный президент
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#116
+
+# [ENGLISH]
+# This morning, Maligno was unanimously elected as President for Life of Nowhere... // And from now on he will be known as Maligno, President of Nowhere, Absolute leader of Malignism, Savior of Nowhere, Light bearer and miracle worker.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+
+# [TRANSLATION]
+<<<
+Сегодня утром Maligno был единогласно провозглашён пожизненным президентом Nowhere... // И с этого момента его следует называть: Maligno, Президент Nowhere, Абсолютный лидер Малигнизма, Спаситель Ноуэрии, Неся свет и творя чудеса
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#117
+
+# [ENGLISH]
+# New rules at distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Новые правила в распределительных центрах
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#118
+
+# [ENGLISH]
+# As of today, citizens will only be allowed to make purchases at distribution centers associated with their city // In this way Maligno seeks to ensure a good distribution of foodstuffs in Nowhere
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+С сегодняшнего дня граждане смогут осуществлять покупки только в распределительных центрах, назначенных для их города. // Таким образом Maligno стремится обеспечить хорошее распределение продуктов питания в Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#119
+
+# [ENGLISH]
+# Maligno watches over us all
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno заботится о всех
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#120
+
+# [ENGLISH]
+# Today, our brand new ruler Maligno, announced a series of measures aimed at protecting the young and old of Nowhere.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Сегодня наш выдающийся лидер Maligno объявил о ряде мер, направленных на защиту молодежи и пожилых людей Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#121
+
+# [ENGLISH]
+# Providing healthier and more nutritious food to these vulnerable groups is paramount // And this is how our dear and beloved president understands it.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Предоставление более здоровой и питательной пищи этим уязвимым секторам является первостепенной задачей // И так понимает наш любимый и дорогой лидер
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#122
+
+# [ENGLISH]
+# New campaign: Dignified Bills
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Новая кампания: Достойные банкноты
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#123
+
+# [ENGLISH]
+# Starting today, damaged money will no longer be accepted at Nowhere's food distribution centers // Any bill that is faded, torn, or vandalized will be rejected by station operators
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+С сегодняшнего дня в распределительных центрах продуктов Nowhere больше не будет приниматься деньги в плохом состоянии // Любая банкнота, которая выцвела, порвана или повреждена, будет отклонена операторами рабочих станций
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#124
+
+# [ENGLISH]
+# Without a doubt, a clear symbol of poverty that must be eradicated from Nowhere, once and for all.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Без сомнения, это ясный символ бедности, который должен быть искоренен из Nowhere, раз и навсегда
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#125
+
+# [ENGLISH]
+# Maligno crushes evildoers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno раздавливает злодеев
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#126
+
+# [ENGLISH]
+# Today, a list of credit cards and banking entities that will no longer be accepted in Nowhere's distribution centers was released // This measure was taken, after our honorable ruler Maligno, in his voracious desire to put an end to evil, discovered connections of said companies with the corrupt previous government.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Сегодня был опубликован список кредитных карт и банковских учреждений, которые больше не будут приниматься в распределительных центрах Nowhere // Эта мера была принята после того, как наш уважаемый лидер Maligno, в своем неутолимом стремлении покончить со злом, обнаружил связи этих компаний с предыдущим коррумпированным правительством
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#127
+
+# [ENGLISH]
+# Identity theft is on the rise
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Увеличиваются случаи кражи личности
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#128
+
+# [ENGLISH]
+# Based on an analysis conducted by distribution centers, it has become evident a considerably high increase of people showing up at centers with an identification card and other elements that are not of their property // Our excellence Maligno has shown his concern, and announced he will quickly take measures on this to detect and imprison these criminals.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+На основе анализа, проведенного распределительными центрами продуктов, было выявлено значительное увеличение числа людей, которые приходят в центры с удостоверением личности и другими предметами, которые не являются их собственностью // Наше превосходительство Maligno выразил свою обеспокоенность и объявил, что он примет быстрые меры для обнаружения и заключения этих преступников
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#129
+
+# [ENGLISH]
+# Identification card theft
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Кражи удостоверений личности
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#130
+
+# [ENGLISH]
+# Government authorities claim that successive identification card thefts have been reported // For this reason, they assure that controls have been tightened at distribution centers to fight against these misfits
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Правительственные власти заявляют, что были зафиксированы повторные кражи удостоверений личности // По этой причине они утверждают, что контроль в распределительных центрах был ужесточен для борьбы с этими преступниками
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#131
+
+# [ENGLISH]
+# These vermin always find a way to cheat the system // But don't worry. Maligno has taken note and will arrest all those wretches.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Эти негодяи всегда находят способ обойти систему // Но не беспокойтесь. Maligno уже всё заметил и арестует всех этих мерзавцев
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#132
+
+# [ENGLISH]
+# Kidnapping and murder
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Похищение и убийство
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#133
+
+# [ENGLISH]
+# Today, police forces have found the body of a wretch with no signs of life // Preliminary investigations revealed it was a gang dedicated to kidnapping people and extorting their families for ransom // It appears the victim had no one to pay the ransom, which is why they ended up being murdered.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Сегодня полицейские силы обнаружили тело мертвеца // Предварительные исследования показали, что это была банда, занимающаяся похищением людей и вымогательством выкупа у их родственников // Похоже, у жертвы не было людей, готовых заплатить выкуп, и именно по этой причине она была убита
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#134
+
+# [ENGLISH]
+# New Communication Terminals
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Новые терминалы связи
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#135
+
+# [ENGLISH]
+# Station operators at the distribution centers now have telephone terminals // Authorities ask citizens to be patient if their service presents delays // The state also emphasizes its commitment to maintaining efficient and citizen-friendly processes while simultaneously adding more complexity to the system
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Теперь операторы рабочих станций распределительных центров оснащены телефонными терминалами // Власти просят граждан проявить терпение, если обслуживание задерживается // Государство также подчеркивает свою приверженность поддержанию эффективных и дружелюбных к обычному гражданину процессов, добавляя больше сложности в систему
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#136
+
+# [ENGLISH]
+# New internal mail system in stations
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Russian: Почта
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Новая система внутренней почты на рабочих станциях
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#137
+
+# [ENGLISH]
+# As of today, an internal correspondence system has been implemented at the stations within the distribution centers // Authorities point out that services at the food distribution centers may experience delays // But they state that all this is a sign that procedures are being carried out in an excellent manner
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Начиная с сегодняшнего дня в рабочих станциях распределительных центров внедрена система внутренней корреспонденции // Власти отмечают, что услуги в распределительных центрах продовольствия могут задерживаться // Но всё это признак того, что процедуры выполняются превосходно
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#138
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Вводятся новые средства оплаты
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#139
+
+# [ENGLISH]
+# The state is expanding the approved payment options at food distribution centers // From now on, citizens will be able to use promissory notes to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Государство расширяет утвержденные варианты оплаты в распределительных центрах продовольствия // С этого момента граждане смогут предъявлять кредит-ноты для оплаты продуктов
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#140
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Вводятся новые средства оплаты
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#141
+
+# [ENGLISH]
+# The state is expanding the accredited payment options at food distribution centers // From now on, citizens will be able to use credit cards to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Государство расширяет утвержденные варианты оплаты в распределительных центрах продовольствия // С этого момента граждане смогут предъявлять кредитные карты для оплаты продуктов
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#142
+
+# [ENGLISH]
+# Renowned journalist awarded
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Награжденный журналист
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#143
+
+# [ENGLISH]
+# Yesterday, a renowned journalist was awarded for his career // During an important ceremony headed by Maligno at the Nowhere state offices
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+Вчера известный журналист был награжден за свою карьеру // Во время важной церемонии во главе с Maligno в офисах штата Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#144
+
+# [ENGLISH]
+# Checks on bills are being reinforced
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Усиливаются проверки банкнот
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#145
+
+# [ENGLISH]
+# As part of the incorporation of new strategies to detect and arrest criminals // As of today, a bill marking system has been implemented at food distribution centers // With this new system, the authorities of Nowhere reaffirm their commitment to the fight against crime in this country.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+В рамках внедрения новых стратегий для поиска и ареста преступников // С сегодняшнего дня в распределительных центрах продовольствия внедрена система маркировки банкнот // С помощью этой новой системы власти Nowhere подтверждают свою приверженность борьбе с преступностью в этой стране
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#146
+
+# [ENGLISH]
+# Important book burning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Важное сожжение книг
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#147
+
+# [ENGLISH]
+# In order to guarantee order and security in our beloved country // During these days, hundreds of thousands of books whose malicious content only sought to promote chaos and fuel insecurity in our country have been seized // Titles such as 'Love and Equality' and 'All About My Rights' will be burned tomorrow // in what promises to be a fantastic opening ceremony for the presentation of new police vehicles and weaponry
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+С целью обеспечения порядка и безопасности в нашей любимой стране // В последние дни было изъяно сотни тысяч книг, содержание которых было злонамеренным и только стремилось продвигать хаос и подпитывать неуверенность в нашей стране // Названия такие как 'Любовь и равенство' и 'Все о моих правах' будут сожжены завтра // в рамках предстоящей фантастической церемонии открытия для представления новых транспортных средств и полицейского вооружения
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#148
+
+# [ENGLISH]
+# What a privilege to be awarded by our honorable president Maligno // I hope I can also be recognized by our leader one day
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Какая честь быть награжденным нашим уважаемым президентом Maligno // Я надеюсь, что однажды также буду признан нашим лидером
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#149
+
+# [ENGLISH]
+# Yesterday, the most wanted serial killer in Nowhere, Nicola Kullem, was apprehended by the honorable security forces // The criminal will be transferred to the special detention center today // None of this would have been possible without the timely report from a blessedly simple station operator // Who, despite his great limitations, knew how to handle the delicate situation
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Russian: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Вчера в течение дня уважаемыми силами безопасности был задержан знаменитый, самый разыскиваемый серийный убийца Nowhere Nicola Kullem // Злодей будет переведен в специальный центр содержания под стражей сегодня // Все это было бы невозможно без сообщения одного бедного, но все же удачливого оператора Рабочее место // Который, несмотря на свои весьма существенные ограничения, каким-то образом сумел справиться с этой деликатной ситуацией
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#150
+
+# [ENGLISH]
+# New illegal haircuts
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Новые незаконные стрижки
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#151
+
+# [ENGLISH]
+# In an effort to exalt the figure of our powerful leader // And understanding that his exuberant mane is now a symbol of our beloved country // It has been forbidden for the citizens of Nowhere to get haircuts similar to those of our dear ruler // All those who do not comply with this measure face penalties ranging from fines, 20 lashes, and even prison
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+
+# [TRANSLATION]
+<<<
+В стремлении возвеличить образ нашего могущественного лидера // И понимая, что его пышная шевелюра теперь является символом нашей любимой страны // Гражданам Nowhere запрещено делать стрижки, похожие на стрижку нашего дорогого правителя // Все те, кто не соблюдает меру, подвергаются наказаниям от штрафов, 20 ударов плетью и до тюрьмы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#152
+
+# [ENGLISH]
+# So now you know, people of Nowhere // Imitating Maligno is heresy
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Так что, народ Nowhere, вы знаете // Подражать Maligno — это ересь
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#153
+
+# [ENGLISH]
+# New standardized requirement for photographs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Новый стандарт для фотографий
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#154
+
+# [ENGLISH]
+# In accordance with the provisions of the authorities of Nowhere // Any photograph featuring the face of our beloved president must be at least 20% larger than all other conventional photographs // Any person who fails to comply with the newly established standards will be charged with high treason and transferred to the special detention center
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Russian: Специальный центр содержания под стражей
+
+# [TRANSLATION]
+<<<
+В соответствии с предписанием властей Nowhere // Любая фотография с лицом нашего любимого президента должна быть как минимум на 20% больше остальных обычных фотографий // Любое лицо, не соответствующее новым установленным стандартам, будет обвинено в государственной измене и переведено в специальный центр содержания под стражей
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#155
+
+# [ENGLISH]
+# As it should be // But no photograph could ever do justice to the beautiful face of our beloved president Maligno
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Как и должно быть // Но никакая фотография не сможет воздать справедливость прекрасному лицу нашего любимого президента Maligno
+>>>

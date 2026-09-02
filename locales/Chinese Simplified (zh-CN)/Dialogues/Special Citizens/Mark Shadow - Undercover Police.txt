@@ -1,0 +1,404 @@
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#1
+
+# [ENGLISH]
+# Today has been a hard day // Do you think I could get something to relax with?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今天真是辛苦的一天 // 你觉得我能找点什么放松一下吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#2
+
+# [ENGLISH]
+# I need to relieve stress // Do you know of anything that could help me with that?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我需要缓解压力 // 你知道有什么可以帮我吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#3
+
+# [ENGLISH]
+# Hey // Would you recommend something stimulating?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+嘿 // 你能推荐点刺激的东西吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#4
+
+# [ENGLISH]
+# I should relax with something today // I've been working a lot
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今天我应该放松一下 // 我工作了很多
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#5
+
+# [ENGLISH]
+# I'm a bit tense // I'd like to do something relaxing
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我有点紧张 // 我想做点放松的事
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#6
+
+# [ENGLISH]
+# Do you know where I could get something stimulating?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你知道哪里可以弄到提神的东西吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#7
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest for insubordination
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+卧底警官 Mark Shadow // 你因不服从命令而被捕
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#9
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for assaulting a law enforcement officer
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+卧底警官 Mark Shadow // 你被捕了 // 因袭击执法人员
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#10
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for drug possession
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因持有毒品
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#11
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for displaying yourself inappropriately
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因不当暴露
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#12
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for conspiring against the government
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因密谋反对政府
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#13
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for counterfeiting credit cards
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因伪造信用卡
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#14
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for prostituting yourself without government endorsement
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因未经政府批准从事卖淫活动
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#15
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for counterfeiting money
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因伪造货币
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#16
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for stealing from a law enforcement officer
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Chinese Simplified: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 便衣警察 // 你被逮捕了 // 因抢劫执法人员
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#17
+
+# [ENGLISH]
+# Don't you have something interesting for me? // I'm looking for some fun
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你没什么有意思的东西给我吗？ // 我想找点乐子
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#18
+
+# [ENGLISH]
+# I'm looking for something fun // Do you think you can help me?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我想找点好玩的 // 你觉得你能帮我吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#19
+
+# [ENGLISH]
+# I'm looking for something to have a good time with // Any suggestions?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我想找点消遣的 // 有什么建议吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#20
+
+# [ENGLISH]
+# I'm bored // I'd like to have a little fun // Do you know of anything?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我很无聊 // 我想找点乐子 // 你知道有什么吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#21
+
+# [ENGLISH]
+# Tonight I would like to have some fun // What do you recommend?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今晚我想找点乐子 // 你推荐什么？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#22
+
+# [ENGLISH]
+# I feel like getting a little out of control today // Know anything that could help?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今天我想放纵一下 // 你知道有什么吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#23
+
+# [ENGLISH]
+# Do you have anything interesting? // I'm on the lookout for something exciting
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+有什么有趣的吗？ // 我在找点刺激的东西
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#24
+
+# [ENGLISH]
+# Today I would like to release some accumulated stress // What would you recommend?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今天我想释放一下积累的压力 // 你推荐什么？
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#25
+
+# [ENGLISH]
+# Today has been a difficult day // I would like to do something to release tension
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今天过得很辛苦 // 我想做点事来释放压力
+>>>

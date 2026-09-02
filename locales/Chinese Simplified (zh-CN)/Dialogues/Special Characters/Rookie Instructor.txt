@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+我是新兵教官 // 我来给你概述一下你第一天需要做的事情 // 首先要识别公民 // 为此需要阅读公民的身份证件
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+但在此之前先打开检查台 // 你可以在那里更仔细地观察文件 // 试着用鼠标右键旋转身份证件，然后回到这里
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Chinese Simplified: 身份证件读卡器
+
+# [TRANSLATION]
+<<<
+终于好了 // 现在把卡片插入身份证件读卡器来识别公民
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Chinese Simplified: 商品呼叫
+
+# [TRANSLATION]
+<<<
+你做到了！ // 真不敢相信 // 现在是时候处理公民的商品了 // 启动商品呼叫
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Chinese Simplified: 商品读取器
+
+# [TRANSLATION]
+<<<
+现在你必须阅读它们 // 将商品拖到商品读取器以开始
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+哇 // 你比看起来更快 // 我本来还不看好你呢 // 现在该处理付款了 // 但假设我没有出示付款 // 遇到这样的异常时，你都必须进行报告 // 报告该市民没有出示付款
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+好的 // 现在是处理付款的时候了 // 记住先正确找零然后接受
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Chinese Simplified: 收据
+
+# [TRANSLATION]
+<<<
+快结束了 // 现在要完成交易，你必须给我收据
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+#
+# ID: REJECT
+# English: Reject
+# Chinese Simplified: 拒绝
+
+# [TRANSLATION]
+<<<
+正常情况下，这会批准购买，市民会带着商品离开 // 请记住这一点 // 现在让我再告诉你一件事 // 你可以对市民执行行动 // 执行拒绝行动，让我离开
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Simplified: 手册
+
+# [TRANSLATION]
+<<<
+就这些了 // 你不是最机灵的操作员 // 但我相信你能应付得来 // 从现在开始你只能靠自己了 // 不知道怎么做就查阅手册
+>>>

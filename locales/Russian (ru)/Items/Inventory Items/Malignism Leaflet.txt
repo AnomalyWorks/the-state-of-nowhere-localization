@@ -1,0 +1,494 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#1
+
+# [ENGLISH]
+# Malignism Leaflet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Russian: Брошюра о Малигнизме
+
+# [TRANSLATION]
+<<<
+Брошюра о Малигнизме
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#2
+
+# [ENGLISH]
+# Join Malignism. Ensure your place in paradise by giving away just your home and all your money.
+
+# [CONTEXT]
+# Description of the Malignism Leaflet inventory item
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+
+# [TRANSLATION]
+<<<
+Присоединяйтесь к Малигнизму. Обеспечьте себе место в раю, отдав всего лишь свой дом и все свои деньги.
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#3
+
+# [ENGLISH]
+# No // Thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Нет // Спасибо
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#4
+
+# [ENGLISH]
+# I'm not ready for that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я к этому не готов
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#5
+
+# [ENGLISH]
+# That's interesting // I'll think about it
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Интересно // Я подумаю об этом
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#6
+
+# [ENGLISH]
+# Malignism? // I'll think about it
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+
+# [TRANSLATION]
+<<<
+Малигнизм? // Я подумаю об этом
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#7
+
+# [ENGLISH]
+# Sorry // I follow another religion
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Извините // У меня другая религия
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#8
+
+# [ENGLISH]
+# Malignism? // Maybe later
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+
+# [TRANSLATION]
+<<<
+Малигнизм? // Может быть, потом
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#9
+
+# [ENGLISH]
+# The police together with Maligno
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Полиция рядом с Maligno!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#10
+
+# [ENGLISH]
+# Hail Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Да здравствует Maligno!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#11
+
+# [ENGLISH]
+# Praised be to Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Хвала Maligno!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#12
+
+# [ENGLISH]
+# I swear loyalty to Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Клянусь верностью Maligno!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#13
+
+# [ENGLISH]
+# How blind I was // What if Maligno truly has the answers? // You've convinced me // I will join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Как я был слеп // А вдруг Maligno действительно знает ответы // Ты убедил меня // Я присоединюсь
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#14
+
+# [ENGLISH]
+# That Maligno... // He wasn't as bad as I thought // He may indeed be our salvation // I'll join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Тот Maligno... // Не был таким уж плохим, как я думал // Возможно, он и правда наше спасение // Я присоединюсь
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#15
+
+# [ENGLISH]
+# Oh... // I was blinded... // Forgive me great Maligno // I will go and join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Оо... // Я был ослеплён... // Прости мне, великий Maligno // Я пойду и присоединюсь
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#16
+
+# [ENGLISH]
+# Maligno promises to save us // I was so dumb // I will look for his forgiveness
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno обещает нас спасти... // Каким я был дураком... // Я попрошу у него прощения
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#17
+
+# [ENGLISH]
+# Do you think I'm stupid to fall for that?
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ты думаешь, я настолько тупой, чтобы на это вестись?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#18
+
+# [ENGLISH]
+# Maligno? // My loyalty is with the resistance
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Maligno? // Моя верность — сопротивлению!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#19
+
+# [ENGLISH]
+# I will never betray my people!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я никогда не предам своих!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#20
+
+# [ENGLISH]
+# Maligno and his bunch of lies will fall!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno и его сброд лжецов падут!
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#21
+
+# [ENGLISH]
+# I see you are one of us // Thank you for serving Maligno.
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Вижу, ты один из наших // Спасибо за службу Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#22
+
+# [ENGLISH]
+# Keep working // Maligno will reward you my son
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Продолжай работать // Maligno воздаст тебе, сын мой
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#23
+
+# [ENGLISH]
+# Malignism is strong in you // Keep it up my son
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Russian: Малигнизм
+
+# [TRANSLATION]
+<<<
+Малигнизм силён в тебе // Продолжай в том же духе, сын мой
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#24
+
+# [ENGLISH]
+# That's right // Keep working for Maligno // You already have a guaranteed place in paradise.
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Так // Продолжай работать на Maligno // У тебя уже есть место в раю
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#25
+
+# [ENGLISH]
+# Never // Maligno is a cruel and despicable being // This whole situation is his fault
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Никогда // Maligno — жестокое и презренное существо // Вся эта ситуация — его вина
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#26
+
+# [ENGLISH]
+# I'm not drunk enough yet // To join that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я ещё недостаточно пьян // Чтобы присоединиться к этому
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#27
+
+# [ENGLISH]
+# I'm not high enough yet // To join that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я ещё недостаточно накурен // Чтобы присоединиться к этому
+>>>

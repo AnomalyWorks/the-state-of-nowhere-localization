@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#1
+
+# [ENGLISH]
+# Food coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Продовольственный купон
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#3
+
+# [ENGLISH]
+# It's my food coupon // It's worth one purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Это мой продовольственный купон // Действует на одну покупку
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#4
+
+# [ENGLISH]
+# It's my food coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Это мой продовольственный купон // Его нужно обработать
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONALIMENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Нет // Ты должен обработать это сам
+>>>

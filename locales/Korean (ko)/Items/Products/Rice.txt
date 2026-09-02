@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#1
+
+# [ENGLISH]
+# Rice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+쌀
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#2
+
+# [ENGLISH]
+# Legend says that some people eat rice with milk // What? // It tastes really good
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+전설에 따르면 어떤 사람들은 쌀을 우유와 함께 먹는대 // 뭐? // 맛있어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#3
+
+# [ENGLISH]
+# 'Don Maligno Rice' // 'Processed and packaged by the Government of Nowhere' // Interesting.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+
+# [TRANSLATION]
+<<<
+'Don Maligno' 쌀 // 'Nowhere 정부가 가공 및 포장함' // 흥미롭군
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#4
+
+# [ENGLISH]
+# My mother always gave me rice // It was the only thing we had to eat.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+엄마는 항상 밥을 해주셨어 // 우리가 먹을 수 있는 유일한 음식이었지
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#5
+
+# [ENGLISH]
+# Have you tried fried rice? // It's exquisite
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+볶음밥 먹어봤어? // 아주 맛있어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#6
+
+# [ENGLISH]
+# My rice... // Now I won't be able to make sushi
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+나의 밥... // 이제 스시를 만들 수 없겠군
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#7
+
+# [ENGLISH]
+# I can't eat rice with meat // If I don't have any rice...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+고기 없는 밥은 못 먹어 // 밥이 없으면...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#8
+
+# [ENGLISH]
+# Hey! // Rice is a staple in my diet
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이봐! // 쌀은 내 식단의 기본 식품이야
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#9
+
+# [ENGLISH]
+# Wow... // Rice is the main ingredient in my meals...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+와... // 쌀은 내 식사의 주요 재료야...
+>>>

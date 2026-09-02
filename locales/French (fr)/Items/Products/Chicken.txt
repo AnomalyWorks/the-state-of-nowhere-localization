@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#1
+
+# [ENGLISH]
+# Chicken
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Poulet
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#2
+
+# [ENGLISH]
+# Do you know how I enjoy chicken the most? // Baked with potatoes
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu sais comment je préfère le poulet ? // Au four avec des pommes de terre
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#3
+
+# [ENGLISH]
+# Do you know how to prepare lemon chicken? // Exactly // With lemon
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu sais préparer du poulet au citron ? // Exactement // Avec du citron
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#4
+
+# [ENGLISH]
+# I need to bring a chicken // I plan to grill it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je dois emporter un poulet // Je compte le faire griller
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#5
+
+# [ENGLISH]
+# 'Don Maligno Chicken' // 'Genetically modified to provide the best chicken flavor' // Great
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# French: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Poulet Don Maligno' // 'Modifiés génétiquement pour offrir la meilleure saveur de poulet' // Génial
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#6
+
+# [ENGLISH]
+# I wanted to prepare that chicken... // Baked... // With potatoes...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je voulais préparer ce poulet... // Au four... // Avec des pommes de terre...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#7
+
+# [ENGLISH]
+# Can't I bring the chicken? // Too bad
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je ne peux pas emporter le poulet ? // Quel dommage
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#8
+
+# [ENGLISH]
+# Hey // I wanted to roast that chicken today
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hé // Je voulais faire griller ce poulet aujourd'hui
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_POLLO#9
+
+# [ENGLISH]
+# It can't be // I have to eat chicken... // Lots of chicken
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Chicken product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ce n'est pas possible // Je dois manger du poulet... // Beaucoup de poulet
+>>>

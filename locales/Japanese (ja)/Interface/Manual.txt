@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: PROCEDURES
+# English: Procedures
+# Japanese: 手順
+
+# [TRANSLATION]
+<<<
+作業ステーション65のオペレーターとしてのあなたの任務は、現行の規制に従い、食料品の購入に来た市民を処理することです。これは一般的に以下の手順を伴います
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Japanese: 手順
+
+# [TRANSLATION]
+<<<
+定められた規則に従わない場合には、以下の手順を適用できる場合があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+マニュアル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Japanese: 手順
+
+# [TRANSLATION]
+<<<
+詳細については、記載されている手順を確認してください
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+今日のアップデート
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Japanese: ワークステーション
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+従業員100411のワークステーションには以下の更新があります。該当セクションをご参照ください。Malignoがあなたの道を照らしますように
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+以下の規則が導入されました。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Japanese: 手順
+
+# [TRANSLATION]
+<<<
+以下の手順が組み込まれ、更新されました。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+作業ステーションに以下の要素が追加されました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+以下の書類が追加および／または更新されました。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+本日、作業ステーションへの更新は行われませんでした
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+以下の作業エリアが追加および/または更新されました。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Japanese: 手順
+
+# [TRANSLATION]
+<<<
+手順
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+
+# [TRANSLATION]
+<<<
+関与する要素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+関与する書類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民を識別する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Japanese: 呼び出しアクション
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+作業ステーションに到着した際、呼び出しアクションにより市民は身分証明書を提出する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Japanese: 身分証明書リーダー
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+
+# [TRANSLATION]
+<<<
+次に、身分証明書リーダーにカードを通す必要があり、これにより関連するすべてのデータがメインモニターに表示されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品を処理する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+プロセスの説明
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Japanese: 呼び出しアクション
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+呼び出しアクションにより商品が要求される時に始まります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品を読む
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品の計量
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品確認
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品の読み取りを開始するには、商品を商品入力トレイから商品リーダーにスライドさせます.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+これにより、商品リーダーの作業領域にアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Japanese: 入庫倉庫
+
+# [TRANSLATION]
+<<<
+これを行うには、商品を入庫倉庫から作業ステーションのはかりへ移動させる必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+
+# [TRANSLATION]
+<<<
+読み取りエラーの場合、手動商品リーダーのアクセスを通じて、商品を手動で読み取る必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+
+# [TRANSLATION]
+<<<
+これにより、手動商品リーダーの作業エリアにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+
+# [TRANSLATION]
+<<<
+商品の読み取り中に、バーコードのない商品を見つけることがあります。これらははかりを通じて生成する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+
+# [TRANSLATION]
+<<<
+このようにして、はかりの作業エリアにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+商品の読み取りが完了すると、注文リストが生成され、検査台を通じて確認できます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+問題がない場合は、商品の配送を開始する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+
+# [TRANSLATION]
+<<<
+注文リストの商品を拒否する必要がある場合は、そのアクセスを通じて検査台に移動する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+このようにして検査台の作業エリアにアクセスします.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+支払い処理
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+商品の配送が完了すると、市民はそれらの支払いを提供する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+および以下のプロセスをカバーします
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣の処理
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+
+# [TRANSLATION]
+<<<
+この方法でレジの作業エリアにアクセスします。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Japanese: レシート
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+支払い処理後、購入を完了するために市民にレシートを交付する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+支払いは以下の書類の一部を伴う場合があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+
+# [TRANSLATION]
+<<<
+アクションの実行
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+市民に対して何らかのアクションを実行する必要がある場合は、アクションユニットへのアクセスを通じて実行できます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Japanese: 呼び出しアクション
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民呼び出しアクション
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+これにより、市民が作業ステーションで応接するために呼び出されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+作業ステーションへのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Japanese: 呼び出しアクション
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品呼び出しアクション
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Japanese: 入庫倉庫
+
+# [TRANSLATION]
+<<<
+商品の入庫倉庫への到着を開始できます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Japanese: 出庫倉庫
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品の出庫倉庫へのアクセス。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+作業ステーションのアクション
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Japanese: 商品の受け渡し
+
+# [TRANSLATION]
+<<<
+商品の受け渡しアクション。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Japanese: 出庫倉庫
+
+# [TRANSLATION]
+<<<
+それによって商品が認可され、出庫倉庫を通じて市民に提供されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+
+# [TRANSLATION]
+<<<
+手動商品リーダーへのアクセス。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+
+# [TRANSLATION]
+<<<
+それによって手動商品リーダーにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Japanese: 身分証明書リーダー
+
+# [TRANSLATION]
+<<<
+身分証明書リーダー。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+作業ステーションの要素で、身分証明書をスライドして読み取る必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+
+# [TRANSLATION]
+<<<
+メインモニター
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+作業ステーションの要素で、二つのモニターから構成され、身分証明書が読み取られた際のデータを反映します。データは、市民の身体的特徴をまとめた肖像画と関連する個人情報で構成されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Japanese: 入庫倉庫
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+入庫倉庫 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+作業ステーションの要素で商品を取得して加工する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Japanese: ナビゲーションコントロール
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+
+# [TRANSLATION]
+<<<
+メインモニター ナビゲーションコントロール
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民の商品禁止に関する情報をメインモニターで追加にアクセスできます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Japanese: 商品リーダー
+
+# [TRANSLATION]
+<<<
+商品リーダー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品がリーダーに読まれるためには、テーブルの上を右から左にスライドさせる必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+
+# [TRANSLATION]
+<<<
+一部の商品にはバコードがない場合があり、はかりで先に処理しない限り読み取ることができません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+
+# [TRANSLATION]
+<<<
+商品を読み取る際に読み取りエラーが発生することがあります。エラーが繰り返される場合は、手動商品リーダーで処理する必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Japanese: 出庫倉庫
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+出庫倉庫 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Japanese: 出庫倉庫
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+出庫倉庫のアクセスを通じてアクセス可能です。これは市民の注文リストにある商品が承認されるかどうかを決定する作業エリアです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+
+# [TRANSLATION]
+<<<
+レジ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+作業ステーションの要素で、市民の支払書類が預けられる場所です.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+レジで決済手段を通すタイミングでアクセス可能です。これは市民にお釣りを渡す処理を行う作業エリアです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+検査台
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+検査台のアクセスを通じてアクセス可能です。これは様々な種類の書類が検査・処理される作業エリアです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+以下のツールセットを備えています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Japanese: 虫眼鏡
+
+# [TRANSLATION]
+<<<
+虫眼鏡
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Japanese: 真正性の印章
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+その機能は、真正性の印章が本物かどうかを明らかにすることです。また、書類に隠された情報を明らかにするのにも使用できます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Japanese: 穴あけパンチ
+
+# [TRANSLATION]
+<<<
+穴あけパンチ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+その役割は、書類に穴を開けることです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Japanese: 補助書類トレイ
+
+# [TRANSLATION]
+<<<
+補助書類トレイ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Japanese: 補助書類
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+このトレイは、市民対応を適切に行うために必要な追加情報が記載された補助書類を提供します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Japanese: ホッチキス
+
+# [TRANSLATION]
+<<<
+ホッチキス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+あなたのタスクは、ステープラーを使用して特定の書類を綴じることです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Japanese: スタンプ
+
+# [TRANSLATION]
+<<<
+スタンプ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+その役割は、書類にスタンプを押すことです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Japanese: 実施済み検査ビューア
+
+# [TRANSLATION]
+<<<
+実施済み検査ビューア
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+このビューアには、市民に対して実施されたさまざまな検査の情報が反映されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Japanese: 手動商品リーダー
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+手動商品リーダーのアクセスを通じてアクセス可能です。これは商品を手動で読み取る作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+検査台へのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+これにより検査台にアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: SCALE
+# English: Scale
+# Japanese: はかり
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+商品をはかりの上に滑らせたときにアクセス可能です。これはバコードのない商品のためにバコードを生成する作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+インベントリのアクセスから利用可能です。市民と交流するために使用できる物品を保管する作業エリアです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+
+# [TRANSLATION]
+<<<
+電話
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+電話のアクセスから利用可能です。電話をかける作業エリアです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+
+# [TRANSLATION]
+<<<
+インベントリへのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+
+# [TRANSLATION]
+<<<
+インベントリにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+
+# [TRANSLATION]
+<<<
+電話へのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: TELEPHONE
+# English: Telephone
+# Japanese: 電話
+
+# [TRANSLATION]
+<<<
+電話に入るためのアクセスです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Japanese: 真正性の印章
+
+# [TRANSLATION]
+<<<
+真正性の印章
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+特定の文書の真正性を検証するために使用されます。そのため、以下の特徴を満たしている必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+次の形状と色をしている必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Japanese: 虫眼鏡
+
+# [TRANSLATION]
+<<<
+検査台の虫眼鏡に当てたときに光る必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+身分証明書
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Japanese: 身分証明書リーダー
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+身分証明書は市民が提示する文書であり、作業ステーションに設置された身分証明書リーダーを通じて読取る必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+真正性
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+身分証明書が真正であるためには、以下の要件を満たす必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+配置、形状、色において一致すること
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Japanese: 真正性の印章
+
+# [TRANSLATION]
+<<<
+あなたの二つの真正性の印章は本物でなければなりません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+有効性
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+
+# [TRANSLATION]
+<<<
+身分証明書は有効期間があります。この情報は、カードをリーダーに挿入した際にメインモニターの有効期限フィールドに反映されることがあります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+#
+# ID: WORKSTATION
+# English: Workstation
+# Japanese: ワークステーション
+
+# [TRANSLATION]
+<<<
+紙幣は、配送センターで受け入れられる支払い方法の一つです。ワークステーションに設置されたレジで処理する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+配置と形状において一致すること
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Japanese: 真正性の印章
+
+# [TRANSLATION]
+<<<
+あなたの真正性の印章は本物でなければなりません
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣が本物であるためには、これらの要件を満たす必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Japanese: 印付き紙幣
+
+# [TRANSLATION]
+<<<
+印付き紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+お金には、一文字と七つの数字からなるコードがあるマーキングシステムがあり、その裏面にあり、その意味は以下の通りです
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+文字Fコード: 有効な紙幣です
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+文字Xコード: 監視下にあると思われる紙幣です
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Japanese: 虫眼鏡
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Japanese: UVコード一覧
+
+# [TRANSLATION]
+<<<
+監視下にあると思われる紙幣は、そのUVコードによって確認する必要があります。UVコードは検査台の虫眼鏡でしか見られません。UVコードの最後の四桁が監視下のUVコード一覧書類に存在する場合、紙幣はマークされます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣の状態
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民によって提供された紙幣は、完璧な状態でなければなりません。破損、破れ、シミ、または色の劣化があってはなりません。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: CATEGORY
+# English: Category
+# Japanese: カテゴリー
+#
+# ID: LABEL
+# English: Label
+# Japanese: ラベル
+
+# [TRANSLATION]
+<<<
+これは商品の読み取りが完了した後に生成される書類です。市民が要求した商品、承認の状態、および商品が属する異なるカテゴリーに対応する一連のラベルが反映されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Japanese: 商品拒否装置
+
+# [TRANSLATION]
+<<<
+注文リストから商品を無効にするには、商品拒否装置で指定された領域に判子を押す必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Japanese: 補助書類
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Japanese: 補助書類トレイ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: ORDER_LIST
+# English: Order List
+# Japanese: 注文リスト
+#
+# ID: LABEL
+# English: Label
+# Japanese: ラベル
+
+# [TRANSLATION]
+<<<
+これは検査台の補助書類トレイからの書類です。注文リストにおける各ラベルの意味が反映されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+作業ステーションに以下のアクションが導入されました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+作業ステーションに以下のアクセスが追加されました
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+アクションユニットへのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+アクションユニットにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+アクションユニット
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+アクションユニットへのアクセスを通じてアクセス可能です。市民に対して異なる種類のアクションを実行する作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Japanese: 不備通知装置
+
+# [TRANSLATION]
+<<<
+不備通知装置へのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Japanese: 不備通知装置
+
+# [TRANSLATION]
+<<<
+不備通知装置にアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Japanese: 不備通知装置
+
+# [TRANSLATION]
+<<<
+不備通知装置
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Japanese: 不備通知装置
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+不備通知装置のアクセスを通じてアクセス可能です。これは市民に不備を通知するための作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Japanese: 勤務シフト記録
+
+# [TRANSLATION]
+<<<
+勤務シフト記録へのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Japanese: 勤務シフト記録
+
+# [TRANSLATION]
+<<<
+勤務シフト記録にアクセスすることを可能にします。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Japanese: 勤務シフト記録
+
+# [TRANSLATION]
+<<<
+勤務シフト記録
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Japanese: 勤務シフト記録
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+勤務シフト記録のアクセスを通じてアクセス可能です。これは作業ステーションでシフトを開始または終了するための作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+
+# [TRANSLATION]
+<<<
+作業ステーションの要素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+開始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+メインメニュー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+書類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+作業エリア
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+不備を通知する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Japanese: 出庫倉庫
+
+# [TRANSLATION]
+<<<
+出庫倉庫へのアクセスを可能にします。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品を手動で読み取る
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Japanese: レシート
+
+# [TRANSLATION]
+<<<
+レシート
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+商品の配達完了後に生成されます。市民に渡され、購入を承認して完了させる必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+
+# [TRANSLATION]
+<<<
+市民が検査台で支払い方法を提示します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+
+# [TRANSLATION]
+<<<
+確認後、支払い方法はレジに預け入れる必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Japanese: 不備通知装置
+
+# [TRANSLATION]
+<<<
+これにより、不備通知装置の作業エリアにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+
+# [TRANSLATION]
+<<<
+これにより、アクションユニットの作業エリアにアクセスできます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Japanese: 不備通知装置
+
+# [TRANSLATION]
+<<<
+市民の対応中に不備が見つかった場合は、不備通知装置へのアクセスを通じて報告できます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民の支払い方法が預け入れられる要素です。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品を読み取るために処理される要素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品を計量するために処理される要素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+このエリアには、市民が持つ商品が承認ゾーンと非承認ゾーンに分かれて反映されます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+各商品には、後に作業ステーションで食品が承認される際に、このゾーン間で商品を移動させて承認されるかどうかを決定できるメカニズムが関連しています
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+作業エリアの説明
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Japanese: 商品リーダー
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+商品を商品リーダーに通した時点でアクセス可能です。商品を読み取る作業エリアです
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+これにはトレイを開き、集め、市民に渡すべき該当金額を確認する必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+おつりクリア
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+おつり受け取り
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+参照
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+最初に、商品のバーコードの上にスキャナーを展開する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+スキャナーを位置させたら、スキャナーボタンを押し続けながら商品コードを表示します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品コードが表示されたら、キーボードを介して入力し受け入れ、入力を完了します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+コードを削除
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+コードを受け入れる
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+コードの自動完了
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+コードをスキャン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+最初に、商品コードのリストから対応する商品を検索する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+対応するコードが見つかったら、キーボードで入力し、その後印刷して商品にバーコードを貼り付けてください。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+コードを印刷
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+コード自動検索
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民に物品を渡すには、その物品を市民の方にドラッグする必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+
+# [TRANSLATION]
+<<<
+物品を使用
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+通話はフリーダイヤルまたは保存した連絡先を通じて行うことができます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+通話をする
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+連絡先帳簿
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+フリーダイヤル
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Japanese: 却下する
+
+# [TRANSLATION]
+<<<
+却下する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+指紋スキャン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Japanese: 逮捕する
+
+# [TRANSLATION]
+<<<
+逮捕する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+身体をスキャン
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Japanese: 無力化する
+
+# [TRANSLATION]
+<<<
+無力化する
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Japanese: 圧力測定
+
+# [TRANSLATION]
+<<<
+圧力測定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Japanese: アルコール測定
+
+# [TRANSLATION]
+<<<
+アルコール測定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+入退室登録のために、装置のスロットにカードを挿入してください。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品承認 / 不承認
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Japanese: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民に渡すべきお釣りの金額を表示できるようにする改善
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Japanese: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+
+# [TRANSLATION]
+<<<
+お釣りトレイにある金額を表示できるようにする改善
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Japanese: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+改善: 入力されたコードを自動で完成させる.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+改善: 商品リストの現在のコードを自動で完成させる.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Japanese: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+改善: 商品リストから商品を自動で検索する.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Japanese: 改善
+
+# [TRANSLATION]
+<<<
+改善
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+現在の規則
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Japanese: 規則
+
+# [TRANSLATION]
+<<<
+以下の規則のいずれかに違反した場合、従業員の収入から罰金が課されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+ツール
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+作業エリアの表示
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Japanese: 補助書類
+
+# [TRANSLATION]
+<<<
+補助書類
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Japanese: 補助書類
+
+# [TRANSLATION]
+<<<
+補助書類の削除
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+
+# [TRANSLATION]
+<<<
+商品の拒否
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Japanese: 商品拒否装置
+
+# [TRANSLATION]
+<<<
+商品拒否装置
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+その機能は、市民の商品を拒否することです。そのため、拒否する商品の範囲にスタンプを配置し、作動させる必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+ここには、重要な電話番号と頻繁に使用する番号が記録されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: LABEL
+# English: Label
+# Japanese: ラベル
+
+# [TRANSLATION]
+<<<
+検査台でこの文書を参照して、詳しい情報を確認してください。ラベルの意味は表に、追加情報は裏にあります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Japanese: アクション
+#
+# ID: BMI
+# English: BMI
+# Japanese: BMI
+
+# [TRANSLATION]
+<<<
+BMI計算アクション
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Japanese: 食品参考資料
+#
+# ID: OBESITY
+# English: Obesity
+# Japanese: 肥満
+
+# [TRANSLATION]
+<<<
+市民のBMIを取得できます。有効な肥満値は食品参考資料の文書で確認してください。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+実施されたテストを表示
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+行方不明者へのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+行方不明者名簿にアクセスできます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指名手配犯へのアクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指名手配犯名簿にアクセスできます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+行方不明者へのアクセスからアクセス可能で、各個人の行方不明者に関連するすべての個人情報が表示される作業エリアです
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+指名手配犯へのアクセスからアクセス可能で、各個人の指名手配犯に関連するすべての個人情報が表示される作業エリアです
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+報酬を受け取るには、市民が作業ステーションにいる間に、指定された番号に電話をかける必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+すべての行方不明者を素早く一覧表示し、簡単に比較できます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+すべての指名手配犯を素早く一覧表示し、簡単に比較できます
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+アクセス Quick Viewer (指名手配犯)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+アクセス Quick Viewer (行方不明者)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指名手配犯の Quick Viewer へのアクセスを許可します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Japanese: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Japanese: 行方不明者
+
+# [TRANSLATION]
+<<<
+行方不明者の Quick Viewer へのアクセスを許可します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+食料クーポンが本物であるためには、これらの要件を満たす必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+食料クーポンには有効期限があります。この情報は書類の表紙に記載される場合があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+食料クーポンは、配送センターで受け付けられる支払い方法の一つです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+スタンプ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+
+# [TRANSLATION]
+<<<
+その有効性が確認され、検査台でスタンプが押された後、駅のレジに預け入れる必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+中和装置
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+敵対的な市民を無力化する作業エリアです。実行するには正確な射撃を行う必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Japanese: 無力化
+
+# [TRANSLATION]
+<<<
+無力化を実施するための弾薬と時間は限られています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+
+# [TRANSLATION]
+<<<
+郵便アクセス
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+
+# [TRANSLATION]
+<<<
+郵便にアクセスするためのアクセスです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+
+# [TRANSLATION]
+<<<
+郵便
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Japanese: アクセス
+#
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+#
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+
+# [TRANSLATION]
+<<<
+郵便アクセスを通じて利用可能です。予約済みの連絡先にインベントリの物品を送信できる作業エリアです。物品を送信するには、まず小包を準備する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+まず、空箱をテーブルの上に置きます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+
+# [TRANSLATION]
+<<<
+次に、送る物品を箱の中に入れます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+その後、発送用の包装材で箱を包みます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+この段階では、送りたいパッケージの連絡先を選択し、チケットを印刷できます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+パッケージを送信するには、生成されたチケットを貼り付け、配送預け所にパッケージを預ける必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Japanese: 地図
+
+# [TRANSLATION]
+<<<
+都市地図
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Japanese: UVコード一覧
+
+# [TRANSLATION]
+<<<
+UVコード一覧
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Japanese: クレジットカード一覧
+
+# [TRANSLATION]
+<<<
+クレジットカード一覧
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Japanese: 補助書類トレイ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+これは検査台の補助書類トレイからの書類です。配送センターから食品を受け取ることを許可されたNowhereの都市が反映されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+クレジットノートは、配送センターで受け入れられる支払い方法の一つです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Japanese: レジ
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+有効性を確認し、検査台で関連する請求書を添付した後、作業ステーションのレジに預ける必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+クレジットノートには有効期間があります。このデータは書類の表面に反映されている場合があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+クレジットノートが本物であるためには、これらの要件を満たす必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+
+# [TRANSLATION]
+<<<
+作業ステーションにいる市民の体重を反映する要素。メインモニターに記録されたものと比較して体重が過大である場合、盗難の可能性を示すことがあります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Japanese: 不備
+
+# [TRANSLATION]
+<<<
+アクションユニットを通じてアクセスできる作業エリアで、市民の体をスキャンして不備を検索します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+まず、市民の体の上にスキャナーを配置する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+スキャナーが正しい位置にある場合、スキャナーボタンを押したまま市民の体をスキャンする必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Japanese: ナビゲーションコントロール
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Japanese: 不備
+
+# [TRANSLATION]
+<<<
+スキャンが完了すると、ナビゲーションコントロールが表示され、不備を検索する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Japanese: 不備
+
+# [TRANSLATION]
+<<<
+不備を確認
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+詳細については、文書の裏面の考慮事項を確認してください。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Japanese: 補助書類トレイ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Japanese: 印付き紙幣
+
+# [TRANSLATION]
+<<<
+これは検査台の補助書類トレイからの書類です。印付き紙幣の紫外線コードが記載されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Japanese: クレジットカードリーダー
+
+# [TRANSLATION]
+<<<
+クレジットカードは配送センターで利用可能な支払い方法の一つであり、クレジットカードリーダーで処理する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+クレジットカードには、表面にカードコードと所有者の情報、裏面にセキュリティコードが記載されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Japanese: 要素
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+作業ステーションにおいてクレジットカードによる支払いを処理する要素。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+作業ステーションのリーダーにクレジットカードを通すとアクセスできる、クレジットカード決済を処理する作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+次に、クレジットカードのコードの最後の4桁を入力する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: CODE
+# English: Code
+# Japanese: コード
+
+# [TRANSLATION]
+<<<
+次に、クレジットカードのセキュリティコードを入力する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Japanese: コード
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+コードを入力した後、クレジットカードに残高があれば、市民の署名用チケットの印刷が可能になります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+生成されたチケットは、署名のためにトレイを通じて市民に渡される必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民は署名されたチケットを提供し、それカードに表示された署名と一致している必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+署名が一致しない場合は、他人のカードが使用されているため、規定に従って処理を行う必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+署名が一致する場合は、クレジットカードの処理を完了し、指定されたトレイに領収書を保管する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+まず、クレジットカードをリーダーに通す必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+署名を求める
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+カードを複製
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+レシートを印刷
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+アクションユニットを通じてアクセス可能で、飲酒検査を行う作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民の以下の特の以下の特徴は、酔っていることの指標となり得ます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民の飲酒状態を確認するには、まず装置を準備する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+まず、使用済みのマウスピースを廃棄すべきです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+次に、装置で使用済みのマウスピースを新しいものに交換する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+最終的に、市民の口元に装置を持っていき、テストを開始できるようにします.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+準備された装置でテストを開始し、測定が完了するまで装置のボタンを押し続けます.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Japanese: アルコール測定
+
+# [TRANSLATION]
+<<<
+アルコール測定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+留める。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+穿孔する。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+割引クーポンは、支払手段と一緒に交付され、市民の購入金額の一部を負担する文書です。支払い前に処理する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+有効性を確認し、検査台で穿孔した後、受領のために駅の金庫に預ける必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+#
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+割引クーポンには有効期間があります。その情報は書類の表記面に記載されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+有効期限が切れたクーポンは、裏面の指定区域にスタンプを押し、無効にする必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+割引クーポンが本物であるためには、次の要件を満たす必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+アクションユニットを通じてアクセスできるのは、市民の指紋を照合して身元を確認するための作業エリアです.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+まず、身分証明書に關連する指紋アーカイブを参照する必要があります。そのためには、事前に身分証明書の読み取りが必要です。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+次に、読み取りが完了するまで指をリーダーに当てたまま、市民の指紋を読み取る必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+次に、指紋が一致するかどうかを確認する必要があります。一致しない場合、その身分証明書は当該市民のものではなく、規定に従って対応する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+ファイルを開く
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Japanese: 補助書類トレイ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Japanese: 検査台
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+検査台の補助書類トレイにある書類です。クレジットカードに関連する許可されたブランドと銀行が反映されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Japanese: 書類
+
+# [TRANSLATION]
+<<<
+許可されたブランドと銀行は、書類にチェックマークが付きます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Japanese: アクションユニット
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Japanese: 作業エリア
+
+# [TRANSLATION]
+<<<
+アクションユニットを通じてアクセス可能で、血圧テストを行う作業エリアです。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民の以下の特徴は高血圧の指標となる可能性があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民の血圧を確認するには、まずデバイスを準備する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+最初に、市民の腕にカフを装着する必要があります.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+その後、デバイスの聴診器をカフの下に配置します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+準備されたデバイスでテストを進め、測定が終わるまでデバイスのボタンを順番に押します。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Japanese: 圧力測定
+
+# [TRANSLATION]
+<<<
+圧力測定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+不正改造
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+偽造紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Japanese: 物品
+#
+# ID: INVENTORY
+# English: Inventory
+# Japanese: インベントリ
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+これは依存症、肥満、血圧、不耐性など、様々な問題を抱える市民に渡すことができるインベントリの物品です。必要に応じて。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+配達は必須ではありませんが、配布された各チラシに対して、一日の終わりに追加の収入が得られます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民に偽札のお釣りを渡す機能。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+発覚されずに完了した詐欺行為ごとに、一日の終わりに追加の収入が得られます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Japanese: クレジットカードリーダー
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+クレジットカードを複製できるようにするクレジットカードリーダーの修正。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+クレジットカードを複製するには、まずカードの表と裏のキャプチャを行う必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+次に、クローンを完了するには、データを送信する必要があります。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+クローンされたカードごとに、一日の終わりに追加の収入が得られます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+カードキャプチャ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+データを送信
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Japanese: メインモニター
+#
+# ID: PRODUCT
+# English: Product
+# Japanese: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+メインモニターには、市民が持っている一部の商品の禁止事項が表示されます。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+コントロール
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+このゲームは、マウスだけで最後までプレイできるように設計されています。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+追加で、特定のキーの使用が可能であり、例えば
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape、Enter、削除、数字キー、矢印キー
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+OK
+>>>

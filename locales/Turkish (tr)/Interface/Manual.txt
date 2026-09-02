@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: PROCEDURES
+# English: Procedures
+# Turkish: Prosedürler
+
+# [TRANSLATION]
+<<<
+İstasyon 65 operatörü olarak göreviniz, yiyecek satın almaya gelen Vatandaşları yürürlükteki düzenlemelere uygun şekilde işleme almak olacaktır, bu da genel olarak aşağıdaki Prosedürleri içerir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Turkish: Prosedürler
+
+# [TRANSLATION]
+<<<
+Belirlenen düzenlemelere uyulmayan durumlarda, aşağıdaki Prosedürleri uygulayabilirsiniz
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Kılavuz
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Turkish: Prosedürler
+
+# [TRANSLATION]
+<<<
+Daha fazla bilgi için belirtilen Prosedürleri inceleyin
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bugünün güncellemeleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Turkish: Çalışma İstasyonu
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Turkish: Maligno
+
+# [TRANSLATION]
+<<<
+Çalışan 100411, Çalışma İstasyonunuzda aşağıdaki güncellemeler mevcuttur. İlgili bölüme bakın. Maligno yolunuzu aydınlatsın
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Turkish: Kural
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Kurallar eklendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Turkish: Prosedürler
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Prosedürler eklendi ve/veya güncellendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Ögeler İstasyona eklendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Belgeler eklendi ve/veya güncellendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Bugün İstasyona hiçbir güncelleme eklenmedi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Çalışma Alanları eklendi ve/veya güncellendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Turkish: Prosedürler
+
+# [TRANSLATION]
+<<<
+Prosedürler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+
+# [TRANSLATION]
+<<<
+İlgili Ögeler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+İlgili Belgeler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşı tanımla
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Turkish: Çağırma Eylemi
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+
+# [TRANSLATION]
+<<<
+Vatandaşlar, Çağırma Eylemi aracılığıyla İstasyona geldiklerinde Kimlik Kartlarını teslim etmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Turkish: Kimlik Kartı Okuyucu
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+
+# [TRANSLATION]
+<<<
+Ardından Kimlik Kartı Okuyucudan geçirilmelidir. Bu işlem, ilişkili tüm verilerin Ana Monitörde görüntülenmesini sağlayacaktır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünleri işle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Süreç açıklaması
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Turkish: Çağırma Eylemi
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Çağırma Eylemi aracılığıyla Ürünler talep edildiğinde başlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünleri oku
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünleri tart
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünleri kontrol et
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünlerin okunmasına başlamak için Ürün, Ürün giriş deposundan Ürün okuyucuya kaydırılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Bu şekilde Ürün okuyucunun Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: SCALE
+# English: Scale
+# Turkish: Terazi
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Turkish: Giriş Deposu
+
+# [TRANSLATION]
+<<<
+Bunun için Ürün, Giriş Deposunda İstasyondaki Teraziye doğru kaydırılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Turkish: Manuel Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Okuma hatalarında, Ürün Manuel Ürün Okuyucu Erişimi aracılığıyla manuel olarak okunmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Turkish: Manuel Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Bu şekilde Manuel Ürün Okuyucunun Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: SCALE
+# English: Scale
+# Turkish: Terazi
+
+# [TRANSLATION]
+<<<
+Ürünlerin okunması sırasında, barkodsuz Ürünlerle karşılaşmak mümkündür. Bunların Terazi aracılığıyla oluşturulması gerekir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: SCALE
+# English: Scale
+# Turkish: Terazi
+
+# [TRANSLATION]
+<<<
+Bu şekilde Terazinin Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: ORDER_LIST
+# English: Order List
+# Turkish: Sipariş Listesi
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Ürünlerin okunması tamamlandığında, Denetim Masası aracılığıyla gözden geçirilebilecek Sipariş Listesi oluşturulacaktır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Sorun olmaması durumunda, Ürünlerin teslimi etkinleştirilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: ORDER_LIST
+# English: Order List
+# Turkish: Sipariş Listesi
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+
+# [TRANSLATION]
+<<<
+Sipariş Listesindeki Ürünlerin reddedilmesi gerektiğinde, Denetim Masasına kendi Erişimi üzerinden erişilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Bu şekilde Denetim Masasının Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ödemeyi işle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ürünlerin teslimi tamamlandığında, Vatandaş bunların ödemesini yapmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ve aşağıdaki süreçleri kapsar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Banknotları İşle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+
+# [TRANSLATION]
+<<<
+Bu şekilde Yazar Kasanın Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Turkish: Makbuz
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ödeme işlendiğinde ve satın alma işlemini tamamlamak için Makbuz Vatandaşa verilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Ödeme, aşağıdaki Belgelerden bazılarını içerebilir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+
+# [TRANSLATION]
+<<<
+Eylemleri Gerçekleştir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+
+# [TRANSLATION]
+<<<
+Vatandaşlar üzerinde bir Eylem gerçekleştirmek gerekirse, bu Eylem Birimi Erişimi aracılığıyla gerçekleştirilebilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Turkish: Çağırma Eylemi
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaş Çağırma Eylemi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Bunun aracılığıyla Vatandaşlar İstasyonda hizmet almak üzere çağrılır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+İstasyon Erişimleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Turkish: Çağırma Eylemi
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürün Çağırma Eylemi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Turkish: Giriş Deposu
+
+# [TRANSLATION]
+<<<
+Ürünlerin Giriş Deposuna ulaşmasını başlatmayı sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Turkish: Çıkış Deposu
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürün Çıkış Deposu Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+İstasyon Eylemleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Turkish: Ürün Teslimi
+
+# [TRANSLATION]
+<<<
+Ürün Teslimi Eylemi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Turkish: Çıkış Deposu
+
+# [TRANSLATION]
+<<<
+Bununla Ürünler onaylanır ve Ürün Çıkış Deposu aracılığıyla Vatandaşın kullanımına sunulur.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Turkish: Manuel Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Manuel Ürün Okuyucu Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Turkish: Manuel Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Bunun aracılığıyla Manuel Ürün Okuyucuya erişilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Turkish: Kimlik Kartı Okuyucu
+
+# [TRANSLATION]
+<<<
+Kimlik Kartı Okuyucu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+
+# [TRANSLATION]
+<<<
+Kimlik Kartlarının okunmak üzere kaydırılması gereken İstasyon ögesi.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+
+# [TRANSLATION]
+<<<
+Ana Monitör
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Kimlik Kartı okunduğunda verilerini yansıtan iki monitörden oluşan İstasyon ögesi. Veriler, Vatandaşın fiziksel özelliklerini içeren bir portre ve ilişkili kişisel bilgilerden oluşur.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Turkish: Giriş Deposu
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürün Giriş Deposu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünlerin işlenmek üzere alındığı İstasyon ögesi.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Turkish: Gezinme Kontrolü
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+
+# [TRANSLATION]
+<<<
+Ana Monitör Gezinme Kontrolü
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ana Monitörde Vatandaşın Ürün yasaklarıyla ilişkili ek bilgilere erişim sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Turkish: Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Ürün Okuyucu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünler, okuyucu tarafından okunmaları için masa üzerinde sağdan sola kaydırılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: SCALE
+# English: Scale
+# Turkish: Terazi
+
+# [TRANSLATION]
+<<<
+Bazı Ürünlerde barkod bulunmayabilir, bu da Ürünün önce Terazide işlenene kadar okunamamasına neden olur.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Turkish: Manuel Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Ürünlerin okunması sırasında okuma hataları oluşabilir. Bunlar art arda gerçekleşirse Ürün, Manuel Ürün Okuyucu aracılığıyla işlenmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Turkish: Çıkış Deposu
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürün Çıkış Deposu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Turkish: Çıkış Deposu
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: ORDER_LIST
+# English: Order List
+# Turkish: Sipariş Listesi
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ürün Çıkış Deposunun Erişimi üzerinden erişilebilir. Bir Vatandaşın Sipariş Listesindeki bir Ürünün onaylanıp onaylanmayacağının belirlendiği Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+
+# [TRANSLATION]
+<<<
+Yazar Kasa
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşın ödeme Belgelerinin bırakıldığı İstasyon ögesi.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bir ödeme aracının Yazar Kasadan kaydırıldığı anda erişilebilir. Vatandaşa para üstü verilmesinin işlendiği Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Denetim Masası
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Denetim Masasının Erişimi üzerinden erişilebilir. Farklı Belge türlerinin denetlendiği ve işlendiği Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bu, aşağıdaki araç setine sahiptir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Turkish: Büyüteç
+
+# [TRANSLATION]
+<<<
+Büyüteç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Görevi, bir Orijinallik Mührünün orijinal olup olmadığını ortaya çıkarmaktır. Ayrıca Belgelerdeki gizli bilgileri ortaya çıkarmak için de kullanılabilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Turkish: Delgeç
+
+# [TRANSLATION]
+<<<
+Delgeç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Görevi Belgeleri delmektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Turkish: Yardımcı Belgeler Tepsisi
+
+# [TRANSLATION]
+<<<
+Yardımcı Belgeler Tepsisi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Turkish: Yardımcı Belgeler
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bu Tepsi, Vatandaşlara hizmet verirken uygun şekilde çalışmak için gerekli ek bilgileri içeren Yardımcı Belgeler sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Turkish: Zımba
+
+# [TRANSLATION]
+<<<
+Zımba
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Görevi, belirli Belgeleri bir zımba teli aracılığıyla birleştirmektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Turkish: Kaşe
+
+# [TRANSLATION]
+<<<
+Kaşe
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+İşlevi Belgeleri mühürlemektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Turkish: Yapılan Test Görüntüleyicisi
+
+# [TRANSLATION]
+<<<
+Yapılan Test Görüntüleyicisi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bu görüntüleyicide, vatandaş üzerinde gerçekleştirilen farklı testlerin bilgileri gösterilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Turkish: Manuel Ürün Okuyucu
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Manuel Ürün Okuyucu Erişimi aracılığıyla erişilebilir. Ürünlerin manuel olarak okutulduğu Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Denetim Masası Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Bunun aracılığıyla Denetim Masasına erişilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: SCALE
+# English: Scale
+# Turkish: Terazi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Bir Ürün Terazinin üzerine kaydırıldığında erişilebilir. Barkodu olmayan Ürünler için barkodların oluşturulduğu Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: INVENTORY
+# English: Inventory
+# Turkish: Envanter
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: OBJECT
+# English: Object
+# Turkish: Nesne
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Envanter Erişimi aracılığıyla erişilebilir. Vatandaşlarla etkileşim kurmak için kullanılabilecek Nesnelerin depolandığı Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Turkish: Telefon
+
+# [TRANSLATION]
+<<<
+Telefon
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: TELEPHONE
+# English: Telephone
+# Turkish: Telefon
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Telefon Erişimi aracılığıyla erişilebilir. Aramaların yapıldığı Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: INVENTORY
+# English: Inventory
+# Turkish: Envanter
+
+# [TRANSLATION]
+<<<
+Envanter Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Turkish: Envanter
+
+# [TRANSLATION]
+<<<
+Envantere erişmeyi sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: TELEPHONE
+# English: Telephone
+# Turkish: Telefon
+
+# [TRANSLATION]
+<<<
+Telefon Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: TELEPHONE
+# English: Telephone
+# Turkish: Telefon
+
+# [TRANSLATION]
+<<<
+Telefona girmeyi sağlayan Erişim.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Orijinallik Mührü
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Belirli Belgelerin gerçekliğini doğrulamaya yararlar. Bunun için aşağıdaki özellikleri karşılamaları gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Następujący kształt i kolorla eşleşmek
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Turkish: Büyüteç
+
+# [TRANSLATION]
+<<<
+Denetim Masasının Büyütecine maruz kaldığında aydınlanmak
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+
+# [TRANSLATION]
+<<<
+Kimlik Kartı
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Turkish: Kimlik Kartı Okuyucu
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Kimlik Kartları, Vatandaşların sunduğu ve İstasyonda bulunan Kimlik Kartı Okuyucu aracılığıyla okunması gereken Belgelerdir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Otantiklik
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+
+# [TRANSLATION]
+<<<
+Bir Kimlik Kartının gerçek olması için aşağıdaki gereklilikleri karşılaması gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Düzen, şekil ve renkle eşleşmek
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+İki Orijinallik Mührünüz de orijinal olmalıdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Geçerlilik
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+
+# [TRANSLATION]
+<<<
+Kimlik Kartlarının bir geçerlilik süresi vardır. Bu bilgi, kart okuyucuya yerleştirildiğinde Ana Monitördeki Son Kullanma alanında görüntülenebilir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Banknotlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+#
+# ID: WORKSTATION
+# English: Workstation
+# Turkish: Çalışma İstasyonu
+
+# [TRANSLATION]
+<<<
+Banknotlar, Dağıtım Merkezlerinde kabul edilen ödeme yöntemlerinden biridir. Çalışma İstasyonunda bulunan Yazar Kasada işlenmelidir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Düzen ve şekille eşleşmek
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Turkish: Orijinallik Mührü
+
+# [TRANSLATION]
+<<<
+Orijinallik Mührünüz orijinal olmalıdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Banknotların orijinal olması için bu gereklilikleri karşılamaları gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Turkish: İşaretli Banknotlar
+
+# [TRANSLATION]
+<<<
+İşaretli Banknotlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para, arka yüzünde bir harf kodu ve yedi sayıdan oluşan bir işaretleme sistemine sahiptir, anlamı aşağıdaki gibidir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+F harfi kodu: Geçerli Banknotlardır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+X harfi kodu: Takip altında olduklarına dair işaretler taşıyan Banknotlardır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Turkish: Büyüteç
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Turkish: UV Kodları Listesi
+
+# [TRANSLATION]
+<<<
+Takip altında olduklarına dair işaretler taşıyan Banknotlar, yalnızca Denetim Masasındaki Büyüteç ile görülebilen UV kodları aracılığıyla doğrulanmalıdır. UV kodunun son dört hanesi takip altındaki UV Kodları Listesi belgesinde bulunuyorsa banknot işaretlenmiş olacaktır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Banknotların durumu
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşlar tarafından teslim edilen Banknotlar kusursuz durumda olmalıdır. Vandalizm izleri, yırtıklar, lekeler veya renk bozulmaları olmamalıdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: CATEGORY
+# English: Category
+# Turkish: Kategori
+#
+# ID: LABEL
+# English: Label
+# Turkish: Etiket
+
+# [TRANSLATION]
+<<<
+Ürünlerin okunması tamamlandığında oluşturulan bir Belgedir. Vatandaş tarafından talep edilen Ürünler, onay durumları ve Ürünün ait olduğu farklı Kategorilere karşılık gelen bir dizi Etiket burada gösterilir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: ORDER_LIST
+# English: Order List
+# Turkish: Sipariş Listesi
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Turkish: Ürün Reddedici
+
+# [TRANSLATION]
+<<<
+Sipariş Listesinden bir Ürünü iptal etmek için belirtilen alan Ürün Reddedici ile damgalanmalıdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Turkish: Yardımcı Belgeler
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Turkish: Yardımcı Belgeler Tepsisi
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: ORDER_LIST
+# English: Order List
+# Turkish: Sipariş Listesi
+#
+# ID: LABEL
+# English: Label
+# Turkish: Etiket
+
+# [TRANSLATION]
+<<<
+Denetim Masasındaki Yardımcı Belgeler Tepsisinde bulunan bir Belgedir. Sipariş Listesindeki her bir Etiketin anlamı burada gösterilir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Eylemler İstasyona eklendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Aşağıdaki Erişimler İstasyona eklendi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+
+# [TRANSLATION]
+<<<
+Eylem Birimi Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+
+# [TRANSLATION]
+<<<
+Eylem Birimine erişim sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+
+# [TRANSLATION]
+<<<
+Eylem Birimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Eylem Birimi Erişimi üzerinden erişilebilir. Vatandaşlar üzerinde farklı türde Eylemlerin gerçekleştirildiği Çalışma Alanıdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Turkish: Usulsüzlük Bildiricisi
+
+# [TRANSLATION]
+<<<
+Usulsüzlük Bildiricisi Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Turkish: Usulsüzlük Bildiricisi
+
+# [TRANSLATION]
+<<<
+Usulsüzlük Bildiricisine erişim sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Turkish: Usulsüzlük Bildiricisi
+
+# [TRANSLATION]
+<<<
+Usulsüzlük Bildiricisi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Turkish: Usulsüzlük Bildiricisi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Usulsüzlük Bildiricisi Erişimi üzerinden erişilebilir. Vatandaşı usulsüzlükler hakkında bilgilendirmeyi sağlayan Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Turkish: Vardiya Kayıt Defteri
+
+# [TRANSLATION]
+<<<
+Vardiya Kayıt Defteri Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Turkish: Vardiya Kayıt Defteri
+
+# [TRANSLATION]
+<<<
+Vardiya Kayıt Defterine erişim sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Turkish: Vardiya Kayıt Defteri
+
+# [TRANSLATION]
+<<<
+Vardiya Kayıt Defteri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Turkish: Vardiya Kayıt Defteri
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Vardiya Kayıt Defteri Erişimi üzerinden erişilebilir. İstasyonda vardiyayı hem başlatmayı hem de sonlandırmayı sağlayan Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+
+# [TRANSLATION]
+<<<
+İstasyon Ögeleri
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Başlangıç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ana Menü
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Belgeler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Çalışma Alanları
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Usulsüzlüğü bildir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Turkish: Çıkış Deposu
+
+# [TRANSLATION]
+<<<
+Ürünler için Çıkış Deposuna erişim sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünleri Manuel Olarak Oku
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Turkish: Fiş
+
+# [TRANSLATION]
+<<<
+Fiş
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ürünlerin teslimi tamamlandığında oluşturulur. Satın alma işlemini onaylamak ve tamamlamak için Vatandaşa verilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+
+# [TRANSLATION]
+<<<
+Vatandaş, Denetim Masası üzerinde bir ödeme yöntemi sunar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+
+# [TRANSLATION]
+<<<
+Doğrulandıktan sonra ödeme yöntemi Yazar Kasaya yatırılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Turkish: Usulsüzlük Bildiricisi
+
+# [TRANSLATION]
+<<<
+Bu şekilde Usulsüzlük Bildiricisinin Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+
+# [TRANSLATION]
+<<<
+Bu şekilde Eylem Biriminin Çalışma Alanına erişilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Turkish: Usulsüzlük Bildiricisi
+
+# [TRANSLATION]
+<<<
+Vatandaşlara hizmet verilirken herhangi bir usulsüzlük tespit edilmesi durumunda, Usulsüzlük Bildiricisi Erişimi aracılığıyla bildirilebilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşların ödeme yöntemlerinin yatırıldığı Öge.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünlerin okunmak üzere işlendiği Öge.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünlerin tartılmak üzere işlendiği Öge.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bu alanda Vatandaşın taşıdığı tüm Ürünler, biri onaylama diğeri reddetme olmak üzere iki bölge halinde gösterilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Her Ürünle ilişkili olarak, Ürünün bu bölgeler arasında taşınmasını sağlayacak bir mekanizma bulunur ve daha sonra İstasyonda gıdalar onaylandığında Ürünün onaylanıp onaylanmayacağını belirler.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Çalışma Alanının açıklaması
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Turkish: Ürün Okuyucu
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Bir Ürün, Ürün Okuyucu üzerinden kaydırıldığında erişilebilir. Ürünlerin okunduğu Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bunun için tepsi açılmalı, vatandaşa verilecek karşılık gelen tutar biriktirilmeli ve onaylanmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para üstünü temizle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para üstünü kabul et
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Referanslar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Başlamak için tarayıcı Ürünün barkodunun üzerine getirilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Tarayıcı konumdayken, tarayıcı düğmesi basılı tutularak Ürünün Kodu okunur.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünün Kodu okunduktan sonra klavye aracılığıyla girilip kabul edilmelidir, böylece giriş tamamlanır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Kodu sil
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Kodu kabul et
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Kodu otom. tamamla
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Kodu tara
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Başlamak için ilgili Ürün, Ürün Kodları listesinde aranmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+İlgili Kod bulunduktan sonra klavyeyle girilmeli, ardından barkod yazdırılıp Ürünün üzerine yapıştırılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Kodu yazdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Otomatik Kod arama
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Turkish: Nesne
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bir vatandaşa Nesne vermek için Nesne ona doğru sürüklenmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Turkish: Nesne
+
+# [TRANSLATION]
+<<<
+Nesneyi kullan
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Aramalar serbest numara çevirme yoluyla veya kayıtlı bir kişi aracılığıyla yapılabilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Arama yap
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Kişi rehberi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Serbest numara çevirme
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Turkish: Geri Çevir
+
+# [TRANSLATION]
+<<<
+Geri Çevir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Parmak izlerini tara
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Turkish: Tutukla
+
+# [TRANSLATION]
+<<<
+Tutukla
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Vücudu Tara
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Turkish: Etkisiz Hâle Getir
+
+# [TRANSLATION]
+<<<
+Etkisiz Hâle Getir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Turkish: Basıncı Ölç
+
+# [TRANSLATION]
+<<<
+Basıncı Ölç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Turkish: Alkol Ölç
+
+# [TRANSLATION]
+<<<
+Alkol Ölç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Giriş veya çıkışı kaydetmek için kartı cihazın yuvasına takın.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünü onayla / reddet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Turkish: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Turkish: İyileşt.
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşa verilmesi gereken para üstü miktarını görüntülemeyi sağlayan İyileşt.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Turkish: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Turkish: İyileşt.
+
+# [TRANSLATION]
+<<<
+Para üstü tepsisindeki para miktarını görüntülemeyi sağlayan İyileşt.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Turkish: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Turkish: İyileşt.
+#
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+İyileşt. taranan bir Kodun otomatik olarak tamamlanmasını sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Turkish: İyileşt.
+#
+# ID: CODE
+# English: Code
+# Turkish: Kod
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+İyileşt. ürün listesindeki mevcut Kodun otomatik olarak tamamlanmasını sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Turkish: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Turkish: İyileşt.
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+İyileşt. ürün listesinden otomatik olarak bir Ürün aramayı sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Turkish: İyileşt.
+
+# [TRANSLATION]
+<<<
+İyileşt.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Turkish: Kural
+
+# [TRANSLATION]
+<<<
+Yürürlükteki Kurallar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Turkish: Kural
+
+# [TRANSLATION]
+<<<
+Çalışanın aşağıdaki Kurallardan herhangi birine uymaması gelirleri üzerinden cezalandırılacaktır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Araçlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Çalışma Alanlarını görüntüle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Turkish: Yardımcı Belgeler
+
+# [TRANSLATION]
+<<<
+Yardımcı Belgeler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Turkish: Yard. Belg.
+
+# [TRANSLATION]
+<<<
+Yard. Belg. kaldır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+
+# [TRANSLATION]
+<<<
+Ürünü reddet
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Turkish: Ürün Reddedici
+
+# [TRANSLATION]
+<<<
+Ürün Reddedici
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+İşlevi, Vatandaşların Ürünlerini reddetmektir. Bunun için damga, reddedilecek Ürünün alanına yerleştirilmeli ve kullanılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+İçinde önemli ve sık kullanılan telefon numaraları kayıtlıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: LABEL
+# English: Label
+# Turkish: Etiket
+
+# [TRANSLATION]
+<<<
+Daha fazla bilgi için bu Belgeye Denetim Masasında başvurun. Etiketlerin anlamını ön yüzde, ek bilgileri ise Belgenin arka yüzünde bulacaksınız.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Turkish: Eylem
+#
+# ID: BMI
+# English: BMI
+# Turkish: VKİ
+
+# [TRANSLATION]
+<<<
+VKİ hesaplama Eylemi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Turkish: Gıda Referansları
+#
+# ID: OBESITY
+# English: Obesity
+# Turkish: Obezite
+
+# [TRANSLATION]
+<<<
+Vatandaşın vücut kitle indeksini elde etmeyi sağlar. Geçerli Obezite değerleri için Gıda Referansları Belgesine başvurun.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Yapılan testleri görüntüle
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Turkish: Kayıp Kişiler
+
+# [TRANSLATION]
+<<<
+Kayıp Kişilere Erişim
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Turkish: Kayıp Kişiler
+
+# [TRANSLATION]
+<<<
+Kayıp Kişiler kaydına erişmeyi sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Turkish: Aranan Suçlular
+
+# [TRANSLATION]
+<<<
+Aranan Suçlulara Erişim
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Turkish: Aranan Suçlular
+
+# [TRANSLATION]
+<<<
+Aranan Suçlular kaydına erişmeyi sağlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Turkish: Kayıp Kişiler
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Kayıp Kişilere Erişim üzerinden erişilebilen bu, Kayıp Kişilerin her biriyle ilişkili tüm kişisel verilerin görüntülendiği Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Turkish: Aranan Suçlular
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Aranan Suçlulara Erişim üzerinden erişilebilen bu, Aranan Suçluların her biriyle ilişkili tüm kişisel verilerin görüntülendiği Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Ödülün alınabilmesi için Vatandaş İstasyonda bulunurken belirtilen numara aranmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Turkish: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Turkish: Kayıp Kişiler
+
+# [TRANSLATION]
+<<<
+Karşılaştırmayı kolaylaştırmak için tüm Kayıp Kişileri hızlı ve özet bir şekilde görüntülemeyi sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Turkish: Aranan Suçlular
+
+# [TRANSLATION]
+<<<
+Karşılaştırmayı kolaylaştırmak için tüm Aranan Suçluları hızlı ve özet bir şekilde görüntülemeyi sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Turkish: Aranan Suçlular
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Turkish: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer Erişimi (Aranan Suçlular)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Turkish: Kayıp Kişiler
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Turkish: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer Erişimi (Kayıp Kişiler)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Turkish: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Turkish: Aranan Suçlular
+
+# [TRANSLATION]
+<<<
+Aranan Suçlular için Quick Viewer erişimi sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Turkish: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Turkish: Kayıp Kişiler
+
+# [TRANSLATION]
+<<<
+Kayıp Kişiler için Quick Viewer erişimi sağlar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+
+# [TRANSLATION]
+<<<
+Gıda Kuponlarının gerçek olması için bu gereklilikleri karşılamaları gerekir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Gıda Kuponlarının bir geçerlilik süresi vardır. Bu bilgi belgenin ön yüzünde görülebilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+
+# [TRANSLATION]
+<<<
+Gıda Kuponları, Dağıtım Merkezlerinde kabul edilen ödeme yöntemlerinden biridir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Mühürlemek
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+
+# [TRANSLATION]
+<<<
+Geçerlilikleri kontrol edilmeli ve Denetim Masasında damgalanmalı, ardından İstasyonun Yazar Kasasına konulmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Etkisiz Hâle Getirici
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Düşman Vatandaşların etkisiz hâle getirildiği Çalışma Alanı. Bunun için isabetli atışlar yapılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Turkish: Etkisiz Hâle Getirme
+
+# [TRANSLATION]
+<<<
+Etkisiz Hâle Getirmeyi tamamlamak için sınırlı mühimmat ve süreniz olduğunu unutmayın.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MAIL
+# English: Mail
+# Turkish: Posta
+
+# [TRANSLATION]
+<<<
+Posta Erişimi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MAIL
+# English: Mail
+# Turkish: Posta
+
+# [TRANSLATION]
+<<<
+Postaya girmeyi sağlayan erişim.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Turkish: Posta
+
+# [TRANSLATION]
+<<<
+Posta
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Turkish: Erişim
+#
+# ID: MAIL
+# English: Mail
+# Turkish: Posta
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: OBJECT
+# English: Object
+# Turkish: Nesne
+#
+# ID: INVENTORY
+# English: Inventory
+# Turkish: Envanter
+
+# [TRANSLATION]
+<<<
+Posta erişimi üzerinden erişilebilir. Envanterdeki Nesnelerin kayıtlı kişilere gönderilebildiği Çalışma Alanıdır. Bir Nesne göndermek için önce paket hazırlanmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bunun için öncelikle boş kutu masanın üzerine yerleştirilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Turkish: Nesne
+
+# [TRANSLATION]
+<<<
+İkinci olarak, gönderilecek Nesne kutuya konulmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bundan sonra kutu, gönderim ambalajıyla sarılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bu aşamada paketin gönderilmek istendiği kişi seçilebilir ve fiş yazdırılabilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+İşlemi tamamlamak ve paketi göndermek için oluşturulan fiş yapıştırılmalı ve paket gönderim deposuna bırakılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Turkish: Harita
+
+# [TRANSLATION]
+<<<
+Şehir Haritası
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Turkish: UV Kodları Listesi
+
+# [TRANSLATION]
+<<<
+UV Kodları Listesi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Turkish: Kredi Kartları Listesi
+
+# [TRANSLATION]
+<<<
+Kredi Kartları Listesi
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Turkish: Yardımcı Belgeler Tepsisi
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Turkish: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+
+# [TRANSLATION]
+<<<
+Denetim Masası'ndaki Yardımcı Belgeler Tepsisi'nden bir belgedir. Dağıtım Merkezi'nden gıda almaya yetkili Nowhere şehirleri bu belgede listelenir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Turkish: Alacak Notu
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+
+# [TRANSLATION]
+<<<
+Alacak Notları, Dağıtım Merkezlerinde kabul edilen ödeme yöntemlerinden biridir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Geçerliliği kontrol edilmeli ve ilişkili fatura Denetim Masası'nda zımbalanmalı, ardından İstasyonun Yazar Kasasına konulmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Turkish: Alacak Notu
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Alacak Notlarının bir geçerlilik süresi vardır. Bu bilgi belgenin ön yüzünde görülebilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Turkish: Alacak Notu
+
+# [TRANSLATION]
+<<<
+Alacak Notlarının gerçek olması için bu gereklilikleri karşılamaları gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+
+# [TRANSLATION]
+<<<
+İstasyonda bulunan vatandaşın ağırlığını gösteren öge. Ana Monitörde kaydedilene kıyasla fazla ağırlık, olası bir hırsızlığa işaret edebilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Turkish: Usulsüzlük
+
+# [TRANSLATION]
+<<<
+Eylem Birimi aracılığıyla erişilebilen, Vatandaşların vücudunun Usulsüzlükler için tarandığı Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Başlamak için tarayıcı vatandaşın vücudu üzerinde açılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Tarayıcı konumdayken, tarayıcı düğmesi basılı tutularak vatandaşın vücudu taranmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Turkish: Gezinme Kontrolü
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Turkish: Usulsüzlük
+
+# [TRANSLATION]
+<<<
+Tarama tamamlandığında Gezinme Kontrolü görüntülenecek ve Usulsüzlükler aranmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Turkish: Usulsüzlük
+
+# [TRANSLATION]
+<<<
+Usulsüzlüğü kontrol et
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+Daha fazla bilgi için belgenin arka yüzündeki açıklamaları inceleyin.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Turkish: Yardımcı Belgeler Tepsisi
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Turkish: İşaretli Banknotlar
+
+# [TRANSLATION]
+<<<
+Denetim Masası'ndaki Yardımcı Belgeler Tepsisi'nden bir belgedir. İşaretli Banknotların UV kodları bu belgede listelenir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Turkish: Kredi Kartı Okuyucu
+
+# [TRANSLATION]
+<<<
+Kredi Kartları, Dağıtım Merkezlerinde kabul edilen ödeme yöntemlerinden biridir ve Kredi Kartı Okuyucu ile işlenmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+#
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Kredi Kartları, Kodlarını ve sahiplerine ait bilgileri ön yüzde, güvenlik kodlarını ise arka yüzde gösterir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Turkish: Ögeler
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Kredi Kartı ödemelerinin işlendiği İstasyon ögesi.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Kredi Kartı İstasyonun okuyucusundan geçirildiğinde erişilebilir, kart ödemelerinin işlendiği Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Ardından Kredi Kartı Kodunun son 4 hanesi girilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+#
+# ID: CODE
+# English: Code
+# Turkish: Kod
+
+# [TRANSLATION]
+<<<
+Ardından Kredi Kartının güvenlik Kodu girilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Turkish: Kod
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Kodlar girildikten sonra, Kredi Kartında bakiye varsa Vatandaşın imzalayacağı fişin yazdırılması etkinleştirilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Fiş oluşturulduktan sonra, imzalanması için tepsi aracılığıyla Vatandaşa verilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaş imzalı fişi verecek ve bu, kartta bulunan imzayla eşleşmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+İmzalar eşleşmiyorsa, kart başka birine aittir ve yönetmeliğe göre işlem yapılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+İmzalar eşleşiyorsa, fiş belirtilen tepsiye konularak Kredi Kartı işlemi tamamlanmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Başlamak için Kredi Kartı okuyucudan geçirilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+İmza iste
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Kartı klonla
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Makbuzu yazdır
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Eylem Birimi aracılığıyla erişilebilir, alkol testlerinin yapıldığı Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşlardaki aşağıdaki özellikler sarhoşluk göstergesi olabilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşların sarhoşluk durumunu doğrulamak için önce cihaz hazırlanmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Başlamak için kullanılmış ağızlıklar atılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ardından, cihazdaki atılan kullanılmış ağızlık yenisiyle değiştirilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Son olarak, testi başlatabilmek için cihaz Vatandaşın ağzına götürülecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Cihaz hazırlandıktan sonra, ölçüm tamamlanana kadar cihazın düğmesi basılı tutularak test yapılacaktır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Turkish: Alkol Ölç
+
+# [TRANSLATION]
+<<<
+Alkol Ölç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bağla
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Del
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+İndirim kuponları, bir ödeme aracıyla birlikte verilebilen ve vatandaşın satın alma tutarının bir yüzdesini karşılayan belgelerdir. Ödemeden önce işlenmelidirler.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Geçerlilikleri kontrol edilmeli ve inceleme masasinda delinmeli, ardından kabul edilmeleri için istasyon kasasına bırakılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Turkish: İndirim Kuponları
+#
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+İndirim Kuponlarının bir geçerlilik süresi vardır. Bu bilgi Belgenin ön yüzünde görülebilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Süresi dolmuş kuponlar, belirtilen alanda arka yüzlerine damga vurularak geçersiz kılınmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Turkish: İndirim Kuponları
+
+# [TRANSLATION]
+<<<
+İndirim Kuponlarının gerçek olması için bu gereklilikleri karşılamaları gerekir
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Eylem Birimi üzerinden erişilebilen bu, vatandaşın parmak izlerinin kimliğini doğrulamak amacıyla karşılaştırıldığı Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+
+# [TRANSLATION]
+<<<
+Başlamak için Kimlik Kartıyla ilişkili kayıtlı parmak izi kontrol edilmelidir. Bunun için önce Kimlik Kartı okunmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ardından, okuma tamamlanana kadar parmak okuyucuda tutulup vatandaşın parmak izi okunmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Turkish: Kimlik Kartı
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ardından parmak izlerinin eşleşip eşleşmediği kontrol edilmelidir. Eşleşmiyorlarsa, ilişkili Kimlik Kartı vatandaşa ait değildir ve yönetmeliğe uygun işlem yapılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Dosyayı aç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Turkish: Yardımcı Belgeler Tepsisi
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Turkish: Denetim Masası
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Denetim Masasındaki Yardımcı Belgeler Tepsisinden bir belgedir. Kredi Kartlarıyla ilişkili izin verilen markalar ve bankalar burada gösterilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Turkish: Belgeler
+
+# [TRANSLATION]
+<<<
+İzin verilen markalar ve bankalar belgede bir onay işaretiyle gösterilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Turkish: Eylem Birimi
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Turkish: Çalışma Alanları
+
+# [TRANSLATION]
+<<<
+Eylem Birimi üzerinden erişilebilen bu, tansiyon testlerinin yapıldığı Çalışma Alanıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşlardaki aşağıdaki özellikler hipertansiyon belirtisi olabilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşların tansiyonunu doğrulamak için önce cihaz hazırlanmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Başlamak için manşet vatandaşın koluna takılmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ardından cihazın steteskopu manşetin altına yerleştirilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Cihaz hazır olduğunda, ölçüm tamamlanana kadar cihazın düğmesine art arda basılarak teste devam edilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Turkish: Basıncı Ölç
+
+# [TRANSLATION]
+<<<
+Basıncı Ölç
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Yetkisiz Değişiklikler
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+
+# [TRANSLATION]
+<<<
+Sahte Banknotlar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Turkish: Nesne
+#
+# ID: INVENTORY
+# English: Inventory
+# Turkish: Envanter
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Bunlar, bağımlılık, obezite, tansiyon ve intolerans gibi çeşitli sorunları olan Vatandaşlara uygun şekilde verilebilen Envanter Nesneleridir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Dağıtım zorunlu değildir, ancak dağıtılan her broşür için gün sonunda ek gelir elde edilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Turkish: Banknotlar
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Vatandaşa sahte Banknotların para üstünü verme işlevi.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Fark edilmeden gerçekleştirilen her dolandırıcılık için gün sonunda ek gelir elde edilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Turkish: Kredi Kartı Okuyucu
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Kredi Kartı Okuyucunun, Kredi Kartlarını klonlamayı sağlayan modifikasyonu.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Bir Kredi Kartını klonlamak için önce kartın ön ve arka yüzünün görüntüleri alınmalıdır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ardından, klonlamayı tamamlamak için veriler gönderilmelidir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Klonlanan her kart için gün sonunda ek gelir elde edilecektir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Kartı Yakala
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Verileri Gönder
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Turkish: Ana Monitör
+#
+# ID: PRODUCT
+# English: Product
+# Turkish: Ürün
+#
+# ID: CITIZENS
+# English: Citizens
+# Turkish: Vatandaşlar
+
+# [TRANSLATION]
+<<<
+Ana Monitörde Vatandaşların bazı Ürün yasakları gösterilir.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Kontroller
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Bu oyun tamamen yalnızca fare ile oynanabilecek şekilde tasarlanmıştır.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ek olarak, belirli tuşların kullanımı etkinleştirilmiştir, örneğin
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape, Enter, Sil, sayısal tuşlar, yön tuşları
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Tamam
+>>>

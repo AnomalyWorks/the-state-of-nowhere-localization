@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#1
+
+# [ENGLISH]
+# Canned Fruits
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Консервовані фрукти
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#2
+
+# [ENGLISH]
+# I'm bringing a can of fruit to eat for dessert today.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я взяла банку фруктів, щоб з'їсти на десерт сьогодні
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#3
+
+# [ENGLISH]
+# I didn't get fresh fruit // So I'm bringing a can of fruit.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я не знайшла свіжих фруктів // Тому взяла банку фруктів
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#4
+
+# [ENGLISH]
+# Fresh fruit rots // That's why I'll take them in a can
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Мої свіжі фрукти згнили // Тому я взяла банку фруктів
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#5
+
+# [ENGLISH]
+# 'Don Maligno fruit can' // 'Provides all the benefits of fruit in one can' // 'For superior breeds only' // Cool.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Ukrainian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Банка фруктів Don Maligno' // 'Дарить усі переваги фруктів в одній банці' // 'Тільки для вищих рас' // Чудово
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#6
+
+# [ENGLISH]
+# Very well // If Maligno says I can't eat a can of fruit... // I won't complain
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Ukrainian: Maligno
+
+# [TRANSLATION]
+<<<
+Гаразд // Якщо Maligno каже, що я не можу їсти банку фруктів... // Я не буду скаржитися
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#7
+
+# [ENGLISH]
+# Wow... // I didn't get fresh fruit // And I can't carry canned fruit either...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ось так... // Я не знайшла свіжих фруктів // І ще я не можу взяти банку фруктів...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#8
+
+# [ENGLISH]
+# No! // My can of fruit... // There will be no dessert today...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ні! // Моя банка фруктів... // Сьогодні не буде десерту...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LATAFRUTAS#9
+
+# [ENGLISH]
+# Too bad... // I had cream ready for that can of fruit...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Canned Fruits product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Як шкода... // Я приготував крем для цієї банки фруктів...
+>>>

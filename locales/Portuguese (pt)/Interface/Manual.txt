@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: PROCEDURES
+# English: Procedures
+# Portuguese: Procedimentos
+
+# [TRANSLATION]
+<<<
+Sua tarefa como operário da Estação 65 será processar os Cidadãos que vierem comprar alimentos em conformidade com as normas vigentes, o que envolve em geral os seguintes Procedimentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Portuguese: Procedimentos
+
+# [TRANSLATION]
+<<<
+Nos casos em que as normas estabelecidas não forem cumpridas, você poderá aplicar os seguintes Procedimentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Portuguese: Manual
+
+# [TRANSLATION]
+<<<
+Manual
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Portuguese: Procedimentos
+
+# [TRANSLATION]
+<<<
+Verifique os Procedimentos mencionados para mais informações
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Atualizações de hoje
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Portuguese: Estação de Trabalho
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Portuguese: Maligno
+
+# [TRANSLATION]
+<<<
+Funcionário 100411, dispõe das seguintes atualizações na sua Estação de Trabalho. Consulte a seção correspondente. Que Maligno ilumine seu caminho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Portuguese: Norma
+
+# [TRANSLATION]
+<<<
+Foram incorporadas as seguintes Normas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Portuguese: Procedimentos
+
+# [TRANSLATION]
+<<<
+Foram incorporados e/ou atualizados os seguintes Procedimentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Foram incorporados os seguintes Elementos na Estação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Foram incorporados e/ou atualizados os seguintes Documentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Nenhuma atualização foi incorporada à Estação hoje
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Foram incorporadas e/ou atualizadas as seguintes Áreas de Trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Portuguese: Procedimentos
+
+# [TRANSLATION]
+<<<
+Procedimentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+
+# [TRANSLATION]
+<<<
+Elementos envolvidos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Documentos envolvidos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Identificar Cidadão
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Portuguese: Ação de Chamada
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+
+# [TRANSLATION]
+<<<
+Ao se apresentarem na Estação, por meio da Ação de Chamada, os Cidadãos deverão entregar seu Cartão de Identificação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Portuguese: Leitor de Cartões de Identificação
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+
+# [TRANSLATION]
+<<<
+Em seguida, deverá ser deslizado no Leitor de Cartões de Identificação, ação que permitirá exibir todos os dados associados no Monitor Principal.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Processar Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Descrição do processo
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Portuguese: Ação de Chamada
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Inicia-se quando, por meio da Ação de Chamada, os Produtos são solicitados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Ler Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Pesar Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Verificar Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Para iniciar a leitura dos Produtos, o Produto deverá ser deslizado do depósito de entrada de Produtos até o leitor de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Dessa forma, será possível acessar a Área de Trabalho do leitor de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: SCALE
+# English: Scale
+# Portuguese: Balança
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Portuguese: Depósito de Entrada
+
+# [TRANSLATION]
+<<<
+Para isso, o Produto deverá ser deslizado no Depósito de Entrada em direção à Balança na Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Portuguese: Leitor Manual de Produtos
+
+# [TRANSLATION]
+<<<
+Em caso de erros de leitura, o Produto deverá então ser lido manualmente, através do Acesso do Leitor Manual de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Portuguese: Leitor Manual de Produtos
+
+# [TRANSLATION]
+<<<
+Dessa forma, será acessada a área de trabalho do Leitor Manual de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: SCALE
+# English: Scale
+# Portuguese: Balança
+
+# [TRANSLATION]
+<<<
+Durante a leitura de Produtos, é possível encontrar Produtos sem códigos de barras. Estes devem ser gerados através da Balança.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: SCALE
+# English: Scale
+# Portuguese: Balança
+
+# [TRANSLATION]
+<<<
+Dessa forma, será acessada a área de trabalho da Balança.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: ORDER_LIST
+# English: Order List
+# Portuguese: Lista de Pedidos
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+
+# [TRANSLATION]
+<<<
+Ao finalizar a leitura dos Produtos, será gerada a Lista de Pedidos, que poderá ser revisada através da Mesa de Inspeção.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Caso não apresente problemas, será necessário acionar a entrega dos Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: ORDER_LIST
+# English: Order List
+# Portuguese: Lista de Pedidos
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+
+# [TRANSLATION]
+<<<
+Caso seja necessário recusar Produtos da Lista de Pedidos, deverá ser acessada a Mesa de Inspeção através de seu Acesso.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+
+# [TRANSLATION]
+<<<
+Dessa forma, será acessada a área de trabalho da Mesa de Inspeção.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Processar pagamento
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Ao finalizar a entrega dos Produtos, o Cidadão deverá efetuar o pagamento dos mesmos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+E abrange os seguintes processos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Processar Cédulas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+
+# [TRANSLATION]
+<<<
+Dessa forma, será acessada a área de trabalho da Caixa Registradora.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Portuguese: Recibo
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Uma vez processado o pagamento e para concluir a compra, será necessário entregar o Recibo ao Cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+O pagamento pode envolver alguns dos seguintes Documentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Portuguese: Ação
+
+# [TRANSLATION]
+<<<
+Efetuar Ações
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Portuguese: Ação
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+
+# [TRANSLATION]
+<<<
+Caso seja necessário realizar alguma Ação sobre os Cidadãos, ela poderá ser efetuada através do Acesso da Unidade de Ações.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Portuguese: Ação de Chamada
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Ação de Chamada de Cidadãos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Através dele, os Cidadãos são chamados para serem atendidos na Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Acessos da Estação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Portuguese: Ação de Chamada
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Ação de Chamada de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Portuguese: Depósito de Entrada
+
+# [TRANSLATION]
+<<<
+Permite iniciar a chegada de Produtos no Depósito de Entrada de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Portuguese: Depósito de Saída
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Acesso ao Depósito de Saída de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Portuguese: Ação
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Ações da Estação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Portuguese: Ação
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Portuguese: Entrega de Produtos
+
+# [TRANSLATION]
+<<<
+Ação de Entrega de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Portuguese: Depósito de Saída
+
+# [TRANSLATION]
+<<<
+Com ela, os Produtos são autorizados e colocados à disposição do Cidadão através do Depósito de Saída de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Portuguese: Leitor Manual de Produtos
+
+# [TRANSLATION]
+<<<
+Acesso ao Leitor Manual de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Portuguese: Leitor Manual de Produtos
+
+# [TRANSLATION]
+<<<
+Através dele, acessa-se o Leitor Manual de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Portuguese: Leitor de Cartões de Identificação
+
+# [TRANSLATION]
+<<<
+Leitor de Cartões de Identificação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+
+# [TRANSLATION]
+<<<
+Elemento da Estação onde os Cartões de Identificação devem ser deslizados para serem lidos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+
+# [TRANSLATION]
+<<<
+Monitor Principal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Elemento da Estação composto por dois monitores que exibem os dados de um Cartão de Identificação quando ele é lido. Os dados consistem em um retrato que reúne as características físicas do Cidadão e informações pessoais associadas.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Portuguese: Depósito de Entrada
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Depósito de Entrada de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Elemento da Estação por onde os Produtos são retirados para serem processados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Portuguese: Controle de Navegação
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+
+# [TRANSLATION]
+<<<
+Controle de Navegação do Monitor Principal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Permite acessar informações adicionais no Monitor Principal associadas às proibições de Produtos do Cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Portuguese: Leitor de Produtos
+
+# [TRANSLATION]
+<<<
+Leitor de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Os Produtos devem ser deslizados da direita para a esquerda sobre a mesa para serem lidos pelo leitor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: SCALE
+# English: Scale
+# Portuguese: Balança
+
+# [TRANSLATION]
+<<<
+Alguns Produtos podem não apresentar códigos de barras, o que impede que o Produto seja lido até ser previamente processado na Balança.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Portuguese: Leitor Manual de Produtos
+
+# [TRANSLATION]
+<<<
+Durante a leitura de Produtos, podem ocorrer erros de leitura. Se forem sucessivos, o Produto deverá ser processado por meio do Leitor Manual de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Portuguese: Depósito de Saída
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Depósito de Saída de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Portuguese: Depósito de Saída
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: ORDER_LIST
+# English: Order List
+# Portuguese: Lista de Pedidos
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso do Depósito de Saída de Produtos. É a Área de Trabalho onde se determina se um Produto da Lista de Pedidos do Cidadão será aprovado ou não.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+
+# [TRANSLATION]
+<<<
+Caixa Registradora
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Elemento da Estação onde são depositados os Documentos de pagamento do Cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Acessível no momento em que um meio de pagamento é deslizado pela Caixa Registradora. É a Área de Trabalho onde é processada a entrega do troco ao Cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+
+# [TRANSLATION]
+<<<
+Mesa de Inspeção
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso da Mesa de Inspeção. É a Área de Trabalho onde os diferentes tipos de Documentos são inspecionados e processados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Esta dispõe da seguinte série de ferramentas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Portuguese: Lupa
+
+# [TRANSLATION]
+<<<
+Lupa
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Portuguese: Selo de Autenticidade
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Sua função é revelar se um Selo de Autenticidade é autêntico. Também pode ser usada para revelar informações ocultas nos Documentos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Portuguese: Perfurador
+
+# [TRANSLATION]
+<<<
+Perfurador
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Sua função é perfurar Documentos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Portuguese: Bandeja de Documentos Auxiliares
+
+# [TRANSLATION]
+<<<
+Bandeja de Documentos Auxiliares
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Portuguese: Documentos Auxiliares
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Esta Bandeja fornece Documentos Auxiliares com informações adicionais, necessárias para atuar adequadamente no atendimento aos Cidadãos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Portuguese: Grampeador
+
+# [TRANSLATION]
+<<<
+Grampeador
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+A sua tarefa é unir certos Documentos por meio de um grampo.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Portuguese: Carimbador
+
+# [TRANSLATION]
+<<<
+Carimbador
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+A sua função é selar Documentos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Portuguese: Visualizador de Testes Realizados
+
+# [TRANSLATION]
+<<<
+Visualizador de Testes Realizados
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Neste visualizador é apresentada a informação dos diferentes testes que foram realizados no cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Portuguese: Leitor Manual de Produtos
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso do Leitor Manual de Produtos. É a Área de Trabalho onde os Produtos são lidos manualmente.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+
+# [TRANSLATION]
+<<<
+Acesso da Mesa de Inspeção
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+
+# [TRANSLATION]
+<<<
+Através dele, acede-se à Mesa de Inspeção.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: SCALE
+# English: Scale
+# Portuguese: Balança
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível quando um Produto é deslizado sobre a Balança. É a Área de Trabalho onde são gerados códigos de barras para os Produtos que não os têm.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: INVENTORY
+# English: Inventory
+# Portuguese: Inventário
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: OBJECT
+# English: Object
+# Portuguese: Objeto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso do Inventário. É a Área de Trabalho onde são armazenados Objetos que podem ser usados para interagir com os Cidadãos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Portuguese: Telefone
+
+# [TRANSLATION]
+<<<
+Telefone
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: TELEPHONE
+# English: Telephone
+# Portuguese: Telefone
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso do Telefone. É a Área de Trabalho onde são feitas chamadas.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: INVENTORY
+# English: Inventory
+# Portuguese: Inventário
+
+# [TRANSLATION]
+<<<
+Acesso do Inventário
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Portuguese: Inventário
+
+# [TRANSLATION]
+<<<
+Permite aceder ao Inventário.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: TELEPHONE
+# English: Telephone
+# Portuguese: Telefone
+
+# [TRANSLATION]
+<<<
+Acesso do Telefone
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: TELEPHONE
+# English: Telephone
+# Portuguese: Telefone
+
+# [TRANSLATION]
+<<<
+Acesso que permite entrar no Telefone.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Portuguese: Selo de Autenticidade
+
+# [TRANSLATION]
+<<<
+Selo de Autenticidade
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Servem para validar a autenticidade de certos Documentos. Para isso, devem cumprir as seguintes características
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ter a seguinte forma e cor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Portuguese: Lupa
+
+# [TRANSLATION]
+<<<
+Iluminar-se ao ser exposto à Lupa da Mesa de Inspeção
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+
+# [TRANSLATION]
+<<<
+Cartão de Identificação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Portuguese: Leitor de Cartões de Identificação
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Os Cartões de Identificação são Documentos apresentados pelos Cidadãos e que devem ser lidos através do Leitor de Cartões de Identificação instalado na Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Autenticidade
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+
+# [TRANSLATION]
+<<<
+Para que um Cartão de Identificação seja autêntico, deve cumprir os seguintes requisitos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Coincidir em disposição, forma e cor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Portuguese: Selo de Autenticidade
+
+# [TRANSLATION]
+<<<
+Os seus dois Selos de Autenticidade devem ser autênticos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Validade
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+
+# [TRANSLATION]
+<<<
+Os Cartões de Identificação possuem um período de validade. Esta informação pode ser consultada no Monitor Principal, no campo Expiração, ao inserir o cartão no leitor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Cédulas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Portuguese: Centro de Distribuição
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+#
+# ID: WORKSTATION
+# English: Workstation
+# Portuguese: Estação de Trabalho
+
+# [TRANSLATION]
+<<<
+As Cédulas são uma das formas de pagamento aceitas nos Centros de Distribuição. Elas deverão ser processadas na Caixa Registradora disponível na Estação de Trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Coincidir em disposição e forma
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Portuguese: Selo de Autenticidade
+
+# [TRANSLATION]
+<<<
+O seu Selo de Autenticidade deve ser autêntico
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Para que as Cédulas sejam autênticas, devem cumprir estes requisitos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Portuguese: Cédulas Marcadas
+
+# [TRANSLATION]
+<<<
+Cédulas Marcadas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+O dinheiro possui um sistema de marcação composto por um código de uma letra e sete números em seu verso, cujo significado é o seguinte
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Código da letra F: São Cédulas válidas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Código da letra X: São Cédulas com indícios de estarem sob vigilância
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Portuguese: Lupa
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Portuguese: Lista de Códigos UV
+
+# [TRANSLATION]
+<<<
+As Cédulas com indícios de estarem sob vigilância devem ser verificadas por meio do seu código UV, visível apenas com a Lupa da Mesa de Inspeção. A cédula estará marcada se os quatro últimos dígitos do código UV estiverem presentes no documento da Lista de Códigos UV sob vigilância
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Estado das Cédulas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+As Cédulas entregues pelos Cidadãos deverão estar em perfeito estado. Não devem apresentar atos de vandalismo, rasgos, manchas nem deterioração da cor
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: CATEGORY
+# English: Category
+# Portuguese: Categoria
+#
+# ID: LABEL
+# English: Label
+# Portuguese: Etiqueta
+
+# [TRANSLATION]
+<<<
+É um Documento gerado ao finalizar a leitura dos Produtos. Nele estão refletidos os Produtos solicitados pelo Cidadão, o seu estado de aprovação e uma série de Etiquetas correspondentes às diferentes Categorias às quais o Produto pertence
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: ORDER_LIST
+# English: Order List
+# Portuguese: Lista de Pedidos
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Portuguese: Negador de Produtos
+
+# [TRANSLATION]
+<<<
+Para anular algum Produto da Lista de Pedidos, deverá ser carimbada a área indicada com o Negador de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Portuguese: Documentos Auxiliares
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Portuguese: Bandeja de Documentos Auxiliares
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: ORDER_LIST
+# English: Order List
+# Portuguese: Lista de Pedidos
+#
+# ID: LABEL
+# English: Label
+# Portuguese: Etiqueta
+
+# [TRANSLATION]
+<<<
+É um Documento da Bandeja de Documentos Auxiliares da Mesa de Inspeção. Nele está refletido o significado de cada uma das Etiquetas na Lista de Pedidos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Portuguese: Ação
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+As seguintes Ações foram incorporadas à Estação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Os seguintes Acessos foram incorporados à Estação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+
+# [TRANSLATION]
+<<<
+Acesso à Unidade de Ações
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+
+# [TRANSLATION]
+<<<
+Permite acessar a Unidade de Ações.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+
+# [TRANSLATION]
+<<<
+Unidade de Ações
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso da Unidade de Ações. É a Área de Trabalho onde são realizadas diferentes tipos de Ações sobre os Cidadãos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Portuguese: Notificador de Irregularidades
+
+# [TRANSLATION]
+<<<
+Acesso ao Notificador de Irregularidades
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Portuguese: Notificador de Irregularidades
+
+# [TRANSLATION]
+<<<
+Permite aceder ao Notificador de Irregularidades.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Portuguese: Notificador de Irregularidades
+
+# [TRANSLATION]
+<<<
+Notificador de Irregularidades
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Portuguese: Notificador de Irregularidades
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso do Notificador de Irregularidades. É a Área de Trabalho que permite informar o Cidadão sobre irregularidades.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Portuguese: Registro de Jornada de Trabalho
+
+# [TRANSLATION]
+<<<
+Acesso ao Registro de Jornada de Trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Portuguese: Registro de Jornada de Trabalho
+
+# [TRANSLATION]
+<<<
+Permite aceder ao Registro de Jornada de Trabalho.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Portuguese: Registro de Jornada de Trabalho
+
+# [TRANSLATION]
+<<<
+Registro de Jornada de Trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Portuguese: Registro de Jornada de Trabalho
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso ao Registro de Jornada de Trabalho. É a Área de Trabalho que permite iniciar e finalizar a jornada de trabalho na Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+
+# [TRANSLATION]
+<<<
+Elementos da Estação
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Início
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Menu Principal
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Documentos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Áreas de Trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Informar irregularidade
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Portuguese: Depósito de Saída
+
+# [TRANSLATION]
+<<<
+Permite aceder ao Depósito de Saída de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Ler Produtos Manualmente
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Portuguese: Recibo
+
+# [TRANSLATION]
+<<<
+Recibo
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+É gerado ao concluir a entrega dos Produtos. E deve ser entregue ao Cidadão para aprovar e finalizar a compra.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+
+# [TRANSLATION]
+<<<
+O Cidadão apresenta um método de pagamento sobre a Mesa de Inspeção.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+
+# [TRANSLATION]
+<<<
+Depois de verificado, o método de pagamento deverá ser depositado na Caixa Registradora.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Portuguese: Notificador de Irregularidades
+
+# [TRANSLATION]
+<<<
+Dessa forma, será possível aceder à Área de Trabalho do Notificador de Irregularidades.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+
+# [TRANSLATION]
+<<<
+Dessa forma, será possível aceder à Área de Trabalho da Unidade de Ações.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Portuguese: Notificador de Irregularidades
+
+# [TRANSLATION]
+<<<
+Caso seja encontrada alguma irregularidade durante o atendimento aos Cidadãos, ela poderá ser informada através do Acesso ao Notificador de Irregularidades.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Elemento no qual são depositados os meios de pagamento dos Cidadãos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Elemento onde os Produtos são processados para serem lidos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Elemento onde os Produtos são processados para serem pesados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Nesta área são apresentados todos os Produtos que o Cidadão leva, agrupados em duas zonas, uma de aprovação e outra de reprovação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Associado a cada Produto, existe um mecanismo que permitirá mover o Produto entre estas zonas para determinar se será aprovado ou não, quando posteriormente os alimentos forem autorizados na Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Descrição da área de trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Portuguese: Leitor de Produtos
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível no momento em que um Produto é deslizado pelo Leitor de Produtos. É a Área de Trabalho onde os Produtos são lidos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Para isso, deverá ser aberta a bandeja, acumulado e confirmado o valor correspondente a ser entregue ao cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Limpar Troco
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Aceitar Troco
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Referências
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Para começar, deve-se posicionar o escâner sobre o código de barras do Produto.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Com o escâner posicionado, procede-se à leitura do Código do Produto mantendo pressionado o botão do escâner.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Depois de lido o Código do Produto, ele deverá ser inserido e aceito por meio do teclado, concluindo assim o registro.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Apagar Código
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Aceitar Código
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Preench. Código autom.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Escanear Código
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Para começar, deve-se procurar o Produto correspondente na lista de Códigos de Produto.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Depois de encontrado o Código correspondente, ele deverá ser inserido pelo teclado para então imprimir e colar o código de barras no Produto.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Imprimir Código
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Busca automática de Código
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Portuguese: Objeto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Para entregar um Objeto a um cidadão, ele deve ser arrastado até ele.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Portuguese: Objeto
+
+# [TRANSLATION]
+<<<
+Usar Objeto
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+As chamadas podem ser realizadas por discagem livre ou através de um contato agendado.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Fazer chamada
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Agenda de contatos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Discagem livre
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Portuguese: Recusar
+
+# [TRANSLATION]
+<<<
+Recusar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escanear impressões digitais
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Portuguese: Prender
+
+# [TRANSLATION]
+<<<
+Prender
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escanear Corpo
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Portuguese: Neutralizar
+
+# [TRANSLATION]
+<<<
+Neutralizar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Portuguese: Medir Pressão
+
+# [TRANSLATION]
+<<<
+Medir Pressão
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Portuguese: Medir Álcool
+
+# [TRANSLATION]
+<<<
+Medir Álcool
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para registrar a entrada ou saída, insira o cartão pela ranhura do aparelho.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Aprovar / Reprovar Produto
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Portuguese: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Portuguese: Melhoria
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Melhoria que permite visualizar a quantidade de troco que deve ser entregue ao cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Portuguese: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Portuguese: Melhoria
+
+# [TRANSLATION]
+<<<
+Melhoria que permite visualizar a quantidade de dinheiro na bandeja de troco.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Portuguese: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Portuguese: Melhoria
+#
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Melhoria que permite completar automaticamente um Código digitalizado.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Portuguese: Melhoria
+#
+# ID: CODE
+# English: Code
+# Portuguese: Código
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Melhoria que permite completar automaticamente o Código atual da lista de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Portuguese: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Portuguese: Melhoria
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Melhoria que permite procurar automaticamente um Produto da lista de Produtos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Portuguese: Melhoria
+
+# [TRANSLATION]
+<<<
+Melhorias
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Portuguese: Norma
+
+# [TRANSLATION]
+<<<
+Normas Vigentes
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Portuguese: Norma
+
+# [TRANSLATION]
+<<<
+O incumprimento de alguma das seguintes Normas por parte do trabalhador será penalizado nos rendimentos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ferramentas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Ver Áreas de Trabalho
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Portuguese: Documentos Auxiliares
+
+# [TRANSLATION]
+<<<
+Documentos Auxiliares
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Portuguese: Docs. Aux.
+
+# [TRANSLATION]
+<<<
+Remover Docs. Aux.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+
+# [TRANSLATION]
+<<<
+Negar Produto
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Portuguese: Negador de Produtos
+
+# [TRANSLATION]
+<<<
+Negador de Produtos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+A sua função é negar Produtos dos Cidadãos. Para tal, deve posicionar e acionar o carimbo na área do Produto a negar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Nele são registrados números de telefone importantes e de uso frequente.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: LABEL
+# English: Label
+# Portuguese: Etiqueta
+
+# [TRANSLATION]
+<<<
+Consulte este Documento na Mesa de Inspeção para mais informações. Encontrará o significado das Etiquetas na frente e mais informações adicionais no verso do Documento.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Portuguese: Ação
+#
+# ID: BMI
+# English: BMI
+# Portuguese: IMC
+
+# [TRANSLATION]
+<<<
+Ação de cálculo de IMC
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Portuguese: Referências Alimentares
+#
+# ID: OBESITY
+# English: Obesity
+# Portuguese: Obesidade
+
+# [TRANSLATION]
+<<<
+Permite obter o índice de massa corporal do Cidadão. Consulte os valores válidos de Obesidade no Documento de Referências Alimentares.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ver testes realizados
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+
+# [TRANSLATION]
+<<<
+Acesso a Pessoas Desaparecidas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+
+# [TRANSLATION]
+<<<
+Permite aceder ao registo de Pessoas Desaparecidas.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+
+# [TRANSLATION]
+<<<
+Acesso a Criminosos Procurados
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+
+# [TRANSLATION]
+<<<
+Permite aceder ao registo de Criminosos Procurados
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso a Pessoas Desaparecidas, é a Área de Trabalho onde são apresentados todos os dados pessoais associados a cada uma das Pessoas Desaparecidas.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível através do Acesso a Criminosos Procurados, é a Área de Trabalho onde são apresentados todos os dados pessoais associados a cada um dos Criminosos Procurados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+Para poder cobrar a recompensa, deverá ser ligado para o número indicado enquanto o cidadão estiver presente na Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Portuguese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+
+# [TRANSLATION]
+<<<
+Permite visualizar todas as Pessoas Desaparecidas de forma rápida e resumida para facilitar a comparação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+
+# [TRANSLATION]
+<<<
+Permite visualizar todos os Criminosos Procurados de forma rápida e resumida para facilitar a comparação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Portuguese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Acesso Quick Viewer (Criminosos Procurados)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Portuguese: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Acesso Quick Viewer (Pessoas Desaparecidas)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Portuguese: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Portuguese: Criminosos Procurados
+
+# [TRANSLATION]
+<<<
+Permite o acesso ao Quick Viewer de Criminosos Procurados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Portuguese: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Portuguese: Pessoas Desaparecidas
+
+# [TRANSLATION]
+<<<
+Permite o acesso ao Quick Viewer de Pessoas Desaparecidas.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Portuguese: Cupons de Alimentos
+
+# [TRANSLATION]
+<<<
+Para que os Cupons de Alimentos sejam autênticos, devem cumprir estes requisitos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Portuguese: Cupons de Alimentos
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Os Cupons de Alimentos apresentam um período de validade. Essa informação pode ser vista na parte frontal do documento.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Portuguese: Cupons de Alimentos
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Portuguese: Centro de Distribuição
+
+# [TRANSLATION]
+<<<
+Os Cupons de Alimentos são uma das formas de pagamento aceitas nos Centros de Distribuição.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Selar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+
+# [TRANSLATION]
+<<<
+Sua validade deverá ser verificada e eles deverão ser carimbados na Mesa de Inspeção, para depois serem depositados na Caixa Registradora da Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Neutralizador
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Área de Trabalho onde Cidadãos hostis são neutralizados. Para isso, deverão ser efetuados disparos precisos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Portuguese: Neutralização
+
+# [TRANSLATION]
+<<<
+Lembre-se de que dispõe de munição e tempo limitados para concluir a Neutralização.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MAIL
+# English: Mail
+# Portuguese: Correio
+
+# [TRANSLATION]
+<<<
+Acesso ao Correio
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MAIL
+# English: Mail
+# Portuguese: Correio
+
+# [TRANSLATION]
+<<<
+Acesso que permite entrar no Correio.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Portuguese: Correio
+
+# [TRANSLATION]
+<<<
+Correio
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Portuguese: Acesso
+#
+# ID: MAIL
+# English: Mail
+# Portuguese: Correio
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: OBJECT
+# English: Object
+# Portuguese: Objeto
+#
+# ID: INVENTORY
+# English: Inventory
+# Portuguese: Inventário
+
+# [TRANSLATION]
+<<<
+Acessível através do acesso ao Correio. É a Área de Trabalho onde podem ser enviados Objetos do Inventário para contatos cadastrados. Para enviar um Objeto, o pacote deverá ser preparado.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para isso, em primeiro lugar, a caixa vazia deverá ser colocada sobre a mesa.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Portuguese: Objeto
+
+# [TRANSLATION]
+<<<
+Em segundo lugar, o Objeto a ser enviado deverá ser depositado na caixa.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Depois disso, a caixa deverá ser embrulhada com o material de envio.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Nesta etapa, será possível selecionar o contacto para o qual se pretende enviar o pacote e proceder à impressão do recibo.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para finalizar e enviar o pacote, deverá ser colado o recibo gerado e o pacote deverá ser depositado no depósito de envio.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Portuguese: Mapa
+
+# [TRANSLATION]
+<<<
+Mapa de cidades
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Portuguese: Lista de Códigos UV
+
+# [TRANSLATION]
+<<<
+Lista de Códigos UV
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Portuguese: Lista de Cartões de Crédito
+
+# [TRANSLATION]
+<<<
+Lista de Cartões de Crédito
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Portuguese: Bandeja de Documentos Auxiliares
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Portuguese: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Portuguese: Centro de Distribuição
+
+# [TRANSLATION]
+<<<
+É um documento da Bandeja de Documentos Auxiliares da Mesa de Inspeção. Nele estão indicadas as cidades de Nowhere autorizadas a receber alimentos do Centro de Distribuição.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Portuguese: Nota de Crédito
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Portuguese: Centro de Distribuição
+
+# [TRANSLATION]
+<<<
+As Notas de Crédito são uma das formas de pagamento aceitas nos Centros de Distribuição.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Portuguese: Caixa Registradora
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+
+# [TRANSLATION]
+<<<
+A sua validade deverá ser verificada e a fatura associada deverá ser grampeada na Mesa de Inspeção, para depois ser depositada na Caixa Registradora da Estação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Portuguese: Nota de Crédito
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+As Notas de Crédito têm um período de validade. Essa informação pode ser vista na parte frontal do documento.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Portuguese: Nota de Crédito
+
+# [TRANSLATION]
+<<<
+Para que as Notas de Crédito sejam autênticas, devem cumprir estes requisitos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+
+# [TRANSLATION]
+<<<
+Elemento que reflete o peso do cidadão presente na Estação. Um excesso de peso em relação ao registado no Monitor Principal pode indicar um possível roubo.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Portuguese: Irregularidade
+
+# [TRANSLATION]
+<<<
+Acessível através da Unidade de Ações, é a Área de Trabalho onde o corpo dos Cidadãos é escaneado em busca de Irregularidades.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Para começar, deve-se posicionar o scanner sobre o corpo do cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Com o scanner posicionado, deve-se escanear o corpo do cidadão mantendo pressionado o botão do scanner.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Portuguese: Controle de Navegação
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Portuguese: Irregularidade
+
+# [TRANSLATION]
+<<<
+Após a conclusão do escaneamento, os Controles de Navegação serão exibidos e deve-se procurar Irregularidades.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Portuguese: Irregularidade
+
+# [TRANSLATION]
+<<<
+verificar Irregularidade
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Reveja as considerações no verso do documento para mais informações.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Portuguese: Bandeja de Documentos Auxiliares
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Portuguese: Cédulas Marcadas
+
+# [TRANSLATION]
+<<<
+É um documento da Bandeja de Documentos Auxiliares da Mesa de Inspeção. Nele estão listados os códigos UV das Cédulas Marcadas.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Portuguese: Centro de Distribuição
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Portuguese: Leitor de Cartões de Crédito
+
+# [TRANSLATION]
+<<<
+Os Cartões de Crédito são uma das formas de pagamento aceitas nos Centros de Distribuição e devem ser processados com o Leitor de Cartões de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+#
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Os Cartões de Crédito exibem o seu Código e as informações do seu proprietário na frente, e o seu código de segurança no verso.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Portuguese: Elementos
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+Elemento da Estação onde são processados os pagamentos com Cartão de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+#
+# ID: STATION
+# English: Station
+# Portuguese: Estação
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível quando um Cartão de Crédito é passado pelo leitor da Estação, é a Área de Trabalho onde são processados os pagamentos com Cartão de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+Em seguida, deverão ser inseridos os últimos 4 dígitos do Código do Cartão de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+#
+# ID: CODE
+# English: Code
+# Portuguese: Código
+
+# [TRANSLATION]
+<<<
+Em seguida, deverá ser inserido o Código de segurança do Cartão de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Portuguese: Código
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Após a inserção dos Códigos, se o Cartão de Crédito tiver fundos, será habilitada a impressão do ticket a ser assinado pelo Cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Após a geração do ticket, ele deverá ser entregue ao Cidadão por meio da bandeja para ser assinado.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+O Cidadão fornecerá o ticket assinado, e este deverá coincidir com a assinatura apresentada no cartão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Se as assinaturas não coincidirem, trata-se de um cartão de outra pessoa e deverá ser seguido o procedimento previsto na normativa.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+Se as assinaturas coincidirem, deverá ser concluído o processamento do Cartão de Crédito, armazenando o ticket na bandeja indicada.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+Para começar, o Cartão de Crédito deverá ser passado pelo leitor.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Solicitar assinatura
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Clonar cartão
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Imprimir recibo
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível por meio da Unidade de Ações, é a Área de Trabalho onde são realizados os testes de alcoolemia.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+As seguintes características nos Cidadãos podem ser um indicador de embriaguez.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Para confirmar o estado de embriaguez dos Cidadãos, o dispositivo deverá ser preparado primeiro.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Para começar, os bocais usados devem ser descartados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Em seguida, o bocal usado descartado deverá ser substituído por um novo no dispositivo.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Por fim, o dispositivo será levado à boca do Cidadão para que o teste possa ser iniciado.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Com o dispositivo preparado, será realizado o teste, mantendo o botão do dispositivo pressionado até concluir a medição.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Portuguese: Medir Álcool
+
+# [TRANSLATION]
+<<<
+Medir Álcool
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Apertar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Perfurar
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Os cupons de desconto são documentos que podem ser entregues juntamente com um meio de pagamento e que cobrem uma percentagem do valor da compra do cidadão. Devem ser processados antes do pagamento.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+A sua validade deverá ser verificada e deverão ser perfurados na mesa de inspeção, para depois serem depositados na caixa da estação para serem aceitos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Portuguese: Cupons de Desconto
+#
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+Os Cupons de Desconto apresentam um período de validade. Essa informação pode ser vista na parte frontal do Documento.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Os cupons vencidos devem ser invalidados, carimbando-se o verso na área indicada.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Portuguese: Cupons de Desconto
+
+# [TRANSLATION]
+<<<
+Para que os Cupons de Desconto sejam autênticos, devem cumprir estes requisitos
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Acessível através da Unidade de Ações, é a Área de Trabalho onde as impressões digitais do cidadão são comparadas a fim de verificar a sua identidade.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+
+# [TRANSLATION]
+<<<
+Para começar, deve-se consultar a impressão digital registada associada ao Cartão de Identificação. Para isso, é necessário ler primeiro o Cartão de Identificação.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Em seguida, deverá ler-se a impressão digital do cidadão, mantendo o dedo no leitor até a leitura terminar.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Portuguese: Cartão de Identificação
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Deverá então verificar-se se as impressões digitais coincidem. Caso não coincidam, o Cartão de Identificação associado não pertence ao cidadão e deve-se proceder de acordo com os regulamentos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Abrir arquivo
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Portuguese: Bandeja de Documentos Auxiliares
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Portuguese: Mesa de Inspeção
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+É um documento da Bandeja de Documentos Auxiliares da Mesa de Inspeção. Nele estão indicadas as marcas e os bancos permitidos, associados aos Cartões de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Portuguese: Documentos
+
+# [TRANSLATION]
+<<<
+As marcas e os bancos permitidos terão uma marca de verificação no documento.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Portuguese: Unidade de Ações
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Portuguese: Áreas de Trabalho
+
+# [TRANSLATION]
+<<<
+Acessível através da Unidade de Ações, é a Área de Trabalho onde são realizados os testes de pressão arterial.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+As seguintes características nos Cidadãos podem ser um indicador de hipertensão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Para confirmar a pressão arterial dos Cidadãos, deve-se primeiro preparar o dispositivo.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Para começar, deve-se colocar a braçadeira no braço do cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Em seguida, deve-se posicionar o estetoscópio do dispositivo por baixo da braçadeira.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Com o dispositivo preparado, procede-se ao teste, pressionando sucessivamente o botão do dispositivo até concluir a medição.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Portuguese: Medir Pressão
+
+# [TRANSLATION]
+<<<
+Medir Pressão
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Modificações Não Autorizadas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+
+# [TRANSLATION]
+<<<
+Cédulas falsas
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Portuguese: Objeto
+#
+# ID: INVENTORY
+# English: Inventory
+# Portuguese: Inventário
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+São Objetos de Inventário que podem ser entregues aos Cidadãos com diversos problemas, como dependências, obesidade, pressão arterial e intolerâncias, conforme apropriado.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+A entrega não é obrigatória, mas por cada folheto distribuído será recebido um rendimento adicional no final do dia.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Portuguese: Cédulas
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+Funcionalidade que permite dar troco de Cédulas falsas ao cidadão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Por cada fraude concretizada sem ser descoberto, será recebido um rendimento extra no final do dia.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Portuguese: Leitor de Cartões de Crédito
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+Modificação do Leitor de Cartões de Crédito que permite clonar Cartões de Crédito.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Portuguese: Cartão de Crédito
+
+# [TRANSLATION]
+<<<
+Para clonar um Cartão de Crédito, deve-se primeiro fazer as capturas da frente e do verso do cartão.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Em seguida, para finalizar a clonagem, os dados devem ser enviados.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Por cada cartão clonado será recebido um rendimento extra no final do dia.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Capturar Cartão
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Enviar Dados
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Portuguese: Monitor Principal
+#
+# ID: PRODUCT
+# English: Product
+# Portuguese: Produto
+#
+# ID: CITIZENS
+# English: Citizens
+# Portuguese: Cidadãos
+
+# [TRANSLATION]
+<<<
+No Monitor Principal são apresentadas algumas proibições de Produtos dos Cidadãos.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Controles
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Este jogo foi projetado para poder ser jogado inteiramente apenas com o mouse.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Adicionalmente, está habilitado o uso de certas teclas como
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape, Enter, Apagar, teclas numéricas, teclas de direção
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ok
+>>>

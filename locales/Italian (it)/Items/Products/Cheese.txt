@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#1
+
+# [ENGLISH]
+# Cheese
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Formaggio
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#2
+
+# [ENGLISH]
+# Cheese is one of the best foods // Who says so? // Your mother
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Il formaggio è uno dei migliori alimenti // Chi lo dice? // Tua madre
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#3
+
+# [ENGLISH]
+# Today I will prepare cheese stuffed meatballs // Never tried?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oggi preparerò polpette ripiene di formaggio // Non le hai mai provate?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#4
+
+# [ENGLISH]
+# I will bring cheese to prepare some pizzas // They turn out delicious.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Porterò del formaggio per preparare delle pizze // Mi vengono deliziose
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#5
+
+# [ENGLISH]
+# 'Don Maligno Cheese' // 'The government of Nowhere is not responsible for any adverse effects that may result from the consumption of this product' // Sounds good.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Italian: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Italian: Nowhere
+
+# [TRANSLATION]
+<<<
+'Formaggio Don Maligno' // 'Il governo di Nowhere non si assume alcuna responsabilità per gli effetti avversi che il consumo di questo prodotto potrebbe provocare' // Sembra buono
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#6
+
+# [ENGLISH]
+# This must be the fifth time I've been refused cheese // Damn it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Deve essere la quinta volta che non mi lasciano portare il formaggio // Maledizione
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#7
+
+# [ENGLISH]
+# Hey // I was thinking of making some cheese-stuffed meatballs... // Wicked
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ehi // Pensavo di fare delle polpette ripiene di formaggio... // Malvagio
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#8
+
+# [ENGLISH]
+# What cheese will I put on my pizzas now?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E ora che formaggio metterò sulle mie pizze?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_QUESO#9
+
+# [ENGLISH]
+# Can't I bring cheese // Dang it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Cheese product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Non posso portare il formaggio? // Accidenti
+>>>

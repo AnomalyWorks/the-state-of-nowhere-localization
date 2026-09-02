@@ -1,0 +1,304 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#1
+
+# [ENGLISH]
+# Alcohol flask
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ALCOHOL_FLASK
+# English: Alcohol Flask
+# Japanese: 酒用フラスコ
+
+# [TRANSLATION]
+<<<
+酒用フラスコ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#2
+
+# [ENGLISH]
+# Elegant silver flask. Filled with the finest alcohol. Drink in moderation
+
+# [CONTEXT]
+# Description of the Alcohol Flask inventory item
+
+# [TRANSLATION]
+<<<
+エレガントな銀のフラスコ。最高級のお酒で満たす。節度を守って飲もう
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#3
+
+# [ENGLISH]
+# Is that drool? // Disgusting
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+気持ち悪い！ // これは君のよだれ？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#4
+
+# [ENGLISH]
+# Keep it // I don't drink
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+はい // 僕はお酒を飲まない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#5
+
+# [ENGLISH]
+# That's a nice flask mate
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+いい酒のフラスコだよ、友達
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#6
+
+# [ENGLISH]
+# I wouldn't want to drink from that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+あれは飲むのがちょっと…
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#7
+
+# [ENGLISH]
+# Drinking at work isn't good
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+仕事中に飲むのはよくない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#8
+
+# [ENGLISH]
+# Do you know how bad drinking alcohol is? // Me neither
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+酒がどれほど有害か知っていますか？ // 僕も知らない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#9
+
+# [ENGLISH]
+# My old flask... // Hiccup! // So many memories... // Keep it // I gave it to you
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+僕の古いフラスコ… // へぃっ！ // いろんな思い出… // 君にあげる // プレゼントだ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#10
+
+# [ENGLISH]
+# I'm not that drunk yet // to drink that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+あんまり酔ってないから // これ飲めない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#11
+
+# [ENGLISH]
+# Not even if it was the last alcohol in the world... // Well... // Maybe a sip...
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+まるで世界で最後のお酒みたいに... // まあ... // たぶん...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#12
+
+# [ENGLISH]
+# Thanks // but I don't share my booze
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ありがとう // でもお酒は分け合わない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#13
+
+# [ENGLISH]
+# I'm not crazy enough // to drink that thing
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+そんなに狂ってないから // これ飲めない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#14
+
+# [ENGLISH]
+# What are you trying to do? // Get me drunk?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+何しようとしてるの？ // 私を酔わせようとするの？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#15
+
+# [ENGLISH]
+# I can't drink on duty
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+勤務中は飲めない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#16
+
+# [ENGLISH]
+# I'm an officer of the Law // I can't drink alcohol
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+私は法の執行者！ // お酒は飲めない
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#17
+
+# [ENGLISH]
+# Do you think an officer like me has those weaknesses?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+私のような官吏が // そんな弱点があるとでも？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#18
+
+# [ENGLISH]
+# What do you say we go to my house // And have a few drinks on my couch
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+うちに来て // ソファでお酒でもどう？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#19
+
+# [ENGLISH]
+# I need food // No alcohol // Please
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ご飯が必要 // お酒じゃなくて // お願い
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#20
+
+# [ENGLISH]
+# It is a flask with a nice engraving // It would be difficult to make a good imitation with the tools I have
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+きれいな彫刻が入ったフラスコだ // 俺の道具じゃ、いい偽物は作れなかったと思う
+>>>

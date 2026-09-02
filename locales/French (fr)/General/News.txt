@@ -1,0 +1,3086 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#1
+
+# [ENGLISH]
+# Welcome to Maligno News!!! // The country's number one news monopoly! // This is Papanatas with another news broadcast.
+
+# [CONTEXT]
+# News channel introduction. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# French: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# French: Papanatas
+
+# [TRANSLATION]
+<<<
+Bienvenue sur Maligno News !! // Le média d'information monopolistique numéro un du pays ! // Papanatas vous parle dans une nouvelle édition d'information.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#2
+
+# [ENGLISH]
+# And in other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+Et dans d'autres actualités...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#3
+
+# [ENGLISH]
+# Speaking of other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+En parlant d'autres actualités...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#4
+
+# [ENGLISH]
+# Moving on to other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+Passons à d'autres actualités...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#5
+
+# [ENGLISH]
+# And with that concludes our disinformation block for today // I'm Papanatas and this is Maligno News... the best and only news outlet in Nowhere
+
+# [CONTEXT]
+# News anchor's closing remarks. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# French: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# French: Papanatas
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Et c'est ainsi que s'achève notre bloc d'information d'aujourd'hui // Je suis Papanatas et vous regardez Maligno News... le meilleur et unique média d'information de Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#6
+
+# [ENGLISH]
+# Live
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+En direct
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#7
+
+# [ENGLISH]
+# Telephone communication
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+Communication téléphonique
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#8
+
+# [ENGLISH]
+# This morning
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+Ce matin
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#9
+
+# [ENGLISH]
+# Food card operating normally
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+La carte alimentaire fonctionne normalement
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#10
+
+# [ENGLISH]
+# The honorable president-elect Maligno... // has already made available all the necessary elements to carry out the announced controls and the program will be fully operative... // in the country's distribution centers today
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+L'honorable président élu Maligno... // a déjà mis à disposition tous les éléments nécessaires pour effectuer les contrôles annoncés et le programme sera pleinement opérationnel... // dans les Centres de distribution du pays au cours de la journée d'aujourd'hui
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#11
+
+# [ENGLISH]
+# It's unbelievable... // no one before in history has ever cared so much about Nowherians...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# French: Nowhériens
+
+# [TRANSLATION]
+<<<
+C'est incroyable... // jamais personne dans l'histoire ne s'est autant soucié des Nowhériens...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#12
+
+# [ENGLISH]
+# Son of the chief minister is missing
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Fils du chef des ministres disparu
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#13
+
+# [ENGLISH]
+# Yesterday afternoon, a huge commotion was caused by the disappearance of the son of the Chief Minister of Nowhere // Our beloved president expressed himself on the matter this morning...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Hier après-midi, la disparition du fils du Chef des ministres de Nowhere a causé un énorme émoi // Notre cher dirigeant s'est exprimé à ce sujet ce matin...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#14
+
+# [ENGLISH]
+# I will arrange for all government entities to collaborate with the search for the child of one of our own... // providing advanced monitoring tools for that purpose // Do not worry dear nowherians.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# French: Nowhériens
+
+# [TRANSLATION]
+<<<
+Je veillerai à ce que toutes les entités gouvernementales collaborent à la recherche de l'enfant de l'un des nôtres... // en fournissant des outils de surveillance avancés à cette fin // Ne vous inquiétez pas, chers Nowhériens
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#15
+
+# [ENGLISH]
+# Escape occurs at special detention center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Évasion au Centre spécial de détention
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#16
+
+# [ENGLISH]
+# Under the cover of last night 5 former officials of the previous Nowhere government escaped from the special detention center // Let's remember that the entire leadership of the past government was immediately imprisoned and found guilty of corruption // Now let's hear from Maligno who spoke out on the matter this morning
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+À la faveur de la nuit dernière, 5 anciens fonctionnaires du précédent gouvernement de Nowhere se sont évadés du Centre spécial de détention // Rappelons que toute la direction de l'ancien gouvernement a été immédiatement arrêtée et déclarée coupable de corruption // Écoutons maintenant Maligno, qui s'est exprimé à ce sujet ce matin
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#17
+
+# [ENGLISH]
+# These abominable people are going to be caught // don't worry // I have already arranged all the necessary tools to do so // it's only a matter of time my dear compatriots.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Ces personnes abominables vont être capturées // ne vous inquiétez pas // J'ai déjà mis à disposition tous les outils nécessaires pour que cela se produise // Ce n'est qu'une question de temps, mes chers compatriotes
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#18
+
+# [ENGLISH]
+# Theft at food distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Vol dans les Centres de distribution alimentaires
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#19
+
+# [ENGLISH]
+# Distribution centers have registered significant shortages of merchandise // Administrators accuse low-class citizens of shoplifting // Nowhere authorities say they will take action
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Les Centres de distribution ont enregistré d'importants manques de marchandises // Les administrateurs accusent des citoyens de basse condition sociale de vols // Les autorités de Nowhere affirment qu'elles prendront des mesures à ce sujet
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#20
+
+# [ENGLISH]
+# Wretches!!!// For decades they have fed these kind of people!!!// These lazy people who live off us!!!// But this is over!!!// Maligno will put an end to this...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Misérables !! // Depuis des décennies, ils nourrissent ce genre de personnes ! // Ces fainéants qui vivent à nos dépens ! // Mais c'est terminé !! // Maligno va mettre fin à cela...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#21
+
+# [ENGLISH]
+# Brutal robbery at a food distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Braquage brutal dans un Centre de distribution alimentaire
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#22
+
+# [ENGLISH]
+# Last night, a brutal robbery took place at one of Nowhere's food distribution centers // The offender, posing as a citizen, carried out an armed assault on the cashier seriously injuring him // Fortunately, the Nowhere authorities assured the media, that they are working on providing the necessary tools to the centers to combat these situations // It is worth mentioning, that no person of important social position have been physically or psychologically harmed during the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Dans la nuit dernière, un braquage brutal a eu lieu dans l'un des Centres de distribution alimentaires de Nowhere // Le criminel, se faisant passer pour un citoyen, a braqué le caissier à main armée, le blessant gravement // Heureusement, les autorités de Nowhere ont assuré au média qu'elles travaillent à fournir aux centres les outils nécessaires pour lutter contre ces situations // Il convient de souligner qu'aucune personne de statut social important n'a été blessée physiquement ou psychologiquement pendant les faits
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#23
+
+# [ENGLISH]
+# Maligno will offer food coupons
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# French: Coupons alimentaires
+
+# [TRANSLATION]
+<<<
+Maligno offrira des Coupons alimentaires
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#24
+
+# [ENGLISH]
+# Under the opening of an advanced center of aesthetic surgery our dear President Maligno said the following...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Lors de l'inauguration d'un centre avancé de chirurgie esthétique, notre cher Président Maligno a déclaré ce qui suit...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#25
+
+# [ENGLISH]
+# We are going to provide free and healthy options // For this purpose, we will deliver special coupons that will enable people to have access to the best food
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Nous allons vous offrir des options gratuites et saines // Pour cela, nous remettrons des coupons spéciaux qui permettront aux personnes d'accéder aux meilleurs aliments
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#26
+
+# [ENGLISH]
+# Finally someone who does their job and cares about the people of Nowhere...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Enfin quelqu'un qui fait son travail et se soucie des habitants de Nowhere...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#27
+
+# [ENGLISH]
+# Discounts arrive at the distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Les réductions arrivent dans les Centres de distribution
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#28
+
+# [ENGLISH]
+# The government has circulated a series of discount coupons. These will be applicable to purchases made at Nowhere distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# French: Coupons de réduction
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Le gouvernement a mis en circulation une série de Coupons de réduction. Ils seront applicables aux achats effectués dans les Centres de distribution de Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#29
+
+# [ENGLISH]
+# A wonderful measure that will be one more among the many that our beloved President Maligno has been taking.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Une mesure merveilleuse qui s'ajoutera aux nombreuses autres prises par notre cher Président Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#30
+
+# [ENGLISH]
+# Document forgery organization dismantled
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Démantèlement d'une organisation de falsification de documents
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#31
+
+# [ENGLISH]
+# In today's news security forces have carried out an operation where they apprehended two brothers of foreign nationality who were engaged in the forgery of state documents // The authorities suspect that they may be part of a whole network of forgers // As for the criminals, who are of low social status, they have been transferred to the special detention center where they will be arduously interrogated
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, les forces de sécurité ont mené une opération au cours de laquelle elles ont arrêté deux frères de nationalité étrangère qui se livraient à la falsification de documents d'État // Les autorités soupçonnent qu'ils puissent faire partie de tout un réseau de faussaires // Quant aux criminels, qui sont issus d'un milieu social modeste, ils ont été transférés au Centre spécial de détention où ils seront durement interrogés
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#32
+
+# [ENGLISH]
+# One more proof of the problems that the poor and foreigners bring to our beloved country.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Une preuve de plus des problèmes que les pauvres et les étrangers nous apportent dans notre cher pays
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#33
+
+# [ENGLISH]
+# 'Eating Better' program launched
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# French: Mieux manger
+
+# [TRANSLATION]
+<<<
+Le programme 'Mieux manger' est lancé
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#34
+
+# [ENGLISH]
+# Maligno announced the implementation of a new program 'Eating Better' // Let's listen to what our new president had to say.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# French: Mieux manger
+
+# [TRANSLATION]
+<<<
+Maligno a annoncé l'entrée en vigueur d'un nouveau programme 'Mieux manger' // Écoutons ce que disait notre tout nouveau dirigeant
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#35
+
+# [ENGLISH]
+# The current diet of the Nowherians encourages obesity and it can't go on like this // That's why I've decided to help you by launching a new program that will seek to increase the quality of life by removing foods that are unsuitable for people with obesity disorder.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# French: Nowhériens
+
+# [TRANSLATION]
+<<<
+Le régime alimentaire actuel des Nowhériens favorise l'obésité. Cela ne peut pas continuer ainsi // c'est pourquoi j'ai décidé de les aider en lançant un nouveau programme qui cherchera à améliorer la qualité de vie en supprimant les aliments inadaptés aux personnes présentant un trouble lié à l'obésité
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#36
+
+# [ENGLISH]
+# A more than wise measure. the inhabitants of the suburbs do nothing but eat and get fat. it was about time that someone controlled them.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Une mesure plus que judicieuse. Les habitants des banlieues ne font que manger et grossir. Il était temps que quelqu'un les contrôle.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#37
+
+# [ENGLISH]
+# New extension of the 'Eating Better' program
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# French: Mieux manger
+
+# [TRANSLATION]
+<<<
+Nouvelle extension du programme 'Mieux manger'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#38
+
+# [ENGLISH]
+# On World Heart Day, our brand-new president has decided to extend the program to include those foods that are not suitable for people with blood pressure problems // To this end, the distribution centers have been adapted with special devices for that purpose.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+À l'occasion de la Journée mondiale du cœur, notre tout nouveau président a décidé d'élargir le programme en y incluant les aliments non adaptés aux personnes souffrant de problèmes de tension artérielle // À cette fin, les Centres de distribution ont été adaptés avec des équipements spéciaux.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#39
+
+# [ENGLISH]
+# Maligno takes care of our hearts. That's our president.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno prend soin de nos cœurs. Voilà notre président.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#40
+
+# [ENGLISH]
+# A large part of the population suffers from food intolerances
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Une grande partie de la population souffre d'intolérances alimentaires
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#41
+
+# [ENGLISH]
+# According to a study, more than 70% of the inhabitants of Nowhere have some kind of food intolerance without knowing it // This is what our honorable president assured, after his golf match with the country's top executives
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Selon une étude, plus de 70 % des habitants de Nowhere présentent une intolérance alimentaire sans le savoir // C'est ce qu'affirmait notre honorable dirigeant après sa partie de golf avec d'importants cadres du pays
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#42
+
+# [ENGLISH]
+# My goal as president of the Nowherians is that they can live better every day // I am aware of their eating disorders, and for that reason I will expand the “Eating Better” program to ensure that every resident of Nowhere can eat properly without putting their health at risk.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# French: Nowhériens
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# French: Mieux manger
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Mon objectif en tant que président des Nowhériens est qu'ils puissent vivre chaque jour mieux // Je suis au courant de leurs troubles alimentaires et, pour cette raison, j'élargirai le programme 'Mieux manger'. Afin que chaque habitant de Nowhere puisse se nourrir sans que cela ne représente un risque pour sa santé
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#43
+
+# [ENGLISH]
+# Awesome. Maligno is awesome
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Incroyable. Maligno est incroyable
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#44
+
+# [ENGLISH]
+# Terrible accident claims the life of an important Nowhere family
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Un terrible sinistre coûte la vie à une importante famille de Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#45
+
+# [ENGLISH]
+# The event happened yesterday afternoon, when the family was happily on their way, as they do every day, to the Nowhere shopping mall to do their usual shopping // when suddenly an alcoholic drifter, crossing the street irresponsibly, causes the family's luxury car to crash into a pole, thus claiming the family's life // Reliable witnesses of important social position assured that these are common maneuvers of these miserable paupers, in order to obtain some economic benefit // Faced with this tragic event, the government decided to establish breathalyzer controls in food distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Les faits se sont produits hier après-midi, lorsque la famille se rendait joyeusement, comme tous les jours, au centre commercial de Nowhere pour faire ses courses habituelles // quand soudain, un vagabond alcoolique, traversant la rue de manière irresponsable, provoque la collision de la luxueuse voiture familiale contre un poteau, coûtant ainsi la vie à la famille // Des témoins fiables d'une importante position sociale ont assuré qu'il s'agit de manœuvres courantes de ces misérables indigents, afin d'en tirer quelque avantage économique // Face à ce tragique événement, le gouvernement a décidé d'instaurer des contrôles d'alcoolémie dans les Centres de distribution alimentaire.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#46
+
+# [ENGLISH]
+# Undoubtedly a great loss for the country...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Sans aucun doute, une grande perte pour le pays...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#47
+
+# [ENGLISH]
+# New Awareness Campaign
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Nouvelle campagne de sensibilisation
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#48
+
+# [ENGLISH]
+# In order to raise awareness among the population, our beloved ruler Maligno, ordered the distribution centers to issue health pamphlets // which will address issues such as blood pressure, obesity, intolerances and addictions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# French: Brochures de santé
+
+# [TRANSLATION]
+<<<
+Afin de sensibiliser la population, notre cher dirigeant Maligno a ordonné que les Centres de distribution publieront des Brochures de santé // Lesquelles aborderont des problématiques telles que la tension artérielle, l'obésité, les intolérances et les dépendances.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#49
+
+# [ENGLISH]
+# Attack on government offices
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Attentat dans des bureaux du gouvernement
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#50
+
+# [ENGLISH]
+# A group of hooded rebels entered one of the government offices this morning. It is still unknown what the purpose of these thugs was // The authorities are trying to determine what they took with them. Fortunately no one of high social standing was hurt, only service personnel.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Un groupe de rebelles encapuchonnés est entré ce matin dans l'un des bureaux du gouvernement. Le but de ces malfaiteurs reste inconnu // Les autorités cherchent à déterminer ce qu'ils ont emporté avec eux. Heureusement, personne de haut rang social n'a été blessé, seulement du personnel de service.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#51
+
+# [ENGLISH]
+# Wretched man dies in flames
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Un misérable meurt dans les flammes
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#52
+
+# [ENGLISH]
+# In the midst of a senseless protest, a wretched man ignoring all environmental consequences, decided to set himself on fire // Amidst the piercing screams of pain and the incessant flames, one could hear ridicule such as freedom, equality, justice and so much other nonsense.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Au milieu d'une protestation insensée, un malfaiteur, ignorant toute conséquence environnementale, a décidé de s'immoler // Parmi les cris de douleur déchirants et les flammes incessantes, on pouvait entendre des absurdités telles que liberté, égalité, justice et tant d'autres sottises
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#53
+
+# [ENGLISH]
+# Today we have invited an expert in environmental protection. With you Dr. Morzat...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# French: Morzat
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, nous avons invité un expert en protection de l'environnement. Avec vous, le Dr Morzat...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#54
+
+# [ENGLISH]
+# Mr. Morzat. Do you believe that the residues given off by these wretches when they burn... Represent something detrimental to the health of superior people like us?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# French: Morzat
+
+# [TRANSLATION]
+<<<
+M. Morzat. Pensez-vous que les résidus dégagés par ces misérables lorsqu'ils brûlent... représentent un danger pour la santé de gens supérieurs comme nous ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#55
+
+# [ENGLISH]
+# I would say no, Mr. Papanatas
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# French: Papanatas
+
+# [TRANSLATION]
+<<<
+Je dirais que non, M. Papanatas
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#56
+
+# [ENGLISH]
+# There you have it. Nothing to worry about
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Vous l'avez entendu. Il n'y a pas de quoi s'inquiéter
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#57
+
+# [ENGLISH]
+# Criminal sentenced to life imprisonment
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Perpétuité pour un criminel
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#58
+
+# [ENGLISH]
+# The lowlife accused of multiple attempted robberies in the distribution centers of Nowhere was sentenced today to life imprisonment // The wretch will be transferred in the next few days to the special detention center, where he will spend his last days stripped of all hope and welfare...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Le malfaiteur accusé de multiples tentatives de vol dans les Centres de distribution de Nowhere a été condamné aujourd'hui à la réclusion à perpétuité // Le misérable sera transféré dans les prochains jours au Centre spécial de détention, où il passera ses derniers jours dépouillé de tout espoir et bien-être.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#59
+
+# [ENGLISH]
+# Wave of deaths in the suburbs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Vague de morts dans les banlieues
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#60
+
+# [ENGLISH]
+# According to the authorities in Nowhere, a mysterious disease that leaves people malnourished has spread throughout the suburbs // To combat it, the government has set up a fence around the suburbs to prevent its spread. In addition, calls on Nowherians to stay away from low-income people to avoid possible transmission of the disease.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# French: Nowhériens
+
+# [TRANSLATION]
+<<<
+Selon les autorités de Nowhere, une mystérieuse maladie qui laisse les gens dénutris s'est répandue dans toutes les banlieues // Pour la combattre, le gouvernement a ordonné de boucler les banlieues afin d'éviter sa propagation. De plus, il appelle les Nowhériens à se tenir éloignés des personnes à faibles revenus pour éviter une possible contagion.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#61
+
+# [ENGLISH]
+# Death on a cliff
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Mort sur une falaise
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#62
+
+# [ENGLISH]
+# During last night, a man in an evident state of drunkenness died when he threw himself off a cliff after fervently exclaiming 'To infinity and beyond!!!' // His remains rest in the depths of the sea.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Au cours de la nuit dernière, un homme en état d'ébriété manifeste est mort en se jetant d'une falaise après s'être exclamé avec ferveur '¡¡Vers l'infini et au-delà !!' // Ses restes reposent dans les profondeurs de la mer
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#63
+
+# [ENGLISH]
+# Man found dead in alleyway
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Un individu mort retrouvé dans une ruelle
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#64
+
+# [ENGLISH]
+# Yesterday some homeless people reported the existence of a corpse // It was located in the south alley of our city // The autopsy revealed that the person presented high concentrations of an unknown drug in his body // The authorities are investigating its origin.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Hier, des vagabonds ont signalé l'existence d'un cadavre // Celui-ci se trouvait dans la ruelle sud de notre ville // L'autopsie a révélé que la personne présentait de fortes concentrations d'une drogue inconnue dans son organisme // Les autorités enquêtent sur sa provenance
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#65
+
+# [ENGLISH]
+# Famous serial killer caught
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Célèbre tueur en série capturé
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#66
+
+# [ENGLISH]
+# During the course of yesterday, the famous and most wanted serial killer of Nowhere Nicola Kullem, was arrested by the honorable security forces // 'Damn you!!!', 'I'll get my revenge!!!', 'You'll see you vermin!!!'. Shouted the murderer fiercely, as he was being transferred to the special detention center.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# French: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Au cours de la journée d'hier, le célèbre tueur en série le plus recherché de Nowhere, Nicola Kullem, a été arrêté par les honorables forces de sécurité // 'Maudit!!', 'Je me vengerai!!', 'Tu verras, vermine!!'. Hurlait férocement le tueur tandis qu'il était emmené au Centre spécial de détention.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#67
+
+# [ENGLISH]
+# Notorious serial killer escapes
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Célèbre tueur en série s'évade
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#68
+
+# [ENGLISH]
+# Yesterday, inexplicably, Nowhere's vicious and dangerous serial killer Nicola Kullem escaped // Authorities still don't know how he circumvented the strict security protocols // They also revealed that in the fugitive's cell, multiple phrases written in blood could be found, reading: 'I will kill you', 'You will die you damn' and 'I will tear out your entrails slowly and painfully'.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# French: Nicola Kullem
+
+# [TRANSLATION]
+<<<
+Hier, de manière inexplicable, le cruel et dangereux tueur en série de Nowhere, Nicola Kullem, s'est échappé // Les autorités ignorent encore comment il a réussi à contourner les stricts protocoles de sécurité // Elles ont également révélé que plusieurs phrases écrites avec du sang ont été retrouvées dans la cellule du fugitif, où l'on pouvait lire : 'Je te tuerai', 'Tu mourras, maudit' et 'Je t'arracherai les entrailles lentement et douloureusement'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#69
+
+# [ENGLISH]
+# Well-known distribution center guard missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: PJ_GUARD
+# English: Guard
+# French: Garde
+
+# [TRANSLATION]
+<<<
+Garde reconnu du Centre de distribution disparu
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#70
+
+# [ENGLISH]
+# The famous guard, recognized for his remarkable work in the guard service, has been reported missing by his relatives yesterday // In the last time he has been a prominent figure of the online video platform 'Maligno Tube' // Making successful video tutorials how to: 'Brutally immobilizing a person', 'Successfully bludgeoning bums' and 'How to remove blood stains effortlessly'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_GUARD
+# English: Guard
+# French: Garde
+#
+# ID: MALIGNO_TUBE
+# English: Maligno Tube
+# French: Maligno Tube
+
+# [TRANSLATION]
+<<<
+La célèbre Garde, reconnue pour son remarquable travail dans le service de garde, a été signalée disparue par ses proches hier // Ces derniers temps, elle est devenue une figure importante de la plateforme de vidéos en ligne 'Maligno Tube' // En réalisant des tutoriels à succès tels que : 'Immobiliser brutalement une personne', 'Rosser des vagabonds avec succès' et 'Comment enlever des taches de sang sans effort'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#71
+
+# [ENGLISH]
+# Government buildings looted
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Pillages dans des bâtiments gouvernementaux
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#72
+
+# [ENGLISH]
+# Yesterday there were multiple lootings of government buildings // The authorities managed to capture some of the miserable members of this vile crime // They have already been transferred to the special detention center for a harsh and intense interrogation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Au cours de la journée d'hier, de multiples pillages de bâtiments gouvernementaux ont eu lieu // Les autorités ont réussi à capturer certains des misérables auteurs de ce crime vil // Ils ont déjà été transférés au Centre spécial de détention pour un interrogatoire rude et intense.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#73
+
+# [ENGLISH]
+# The government punishes the wicked
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Le gouvernement punit les méchants
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#74
+
+# [ENGLISH]
+# This morning the authorities reported that the thugs captured during the looting of government buildings a few days ago, were executed last night.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Ce matin, les autorités ont annoncé que les malfaiteurs capturés lors des pillages de bâtiments gouvernementaux il y a quelques jours ont été exécutés la nuit dernière
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#75
+
+# [ENGLISH]
+# Our great ruler Maligno, reaffirms his unwavering commitment to the fight against crime.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Notre grand dirigeant Maligno réaffirme son engagement indéfectible dans la lutte contre le crime
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#76
+
+# [ENGLISH]
+# Heavy police confrontation against thugs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Violente confrontation entre la police et des malfaiteurs
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#77
+
+# [ENGLISH]
+# At this moment the honorable security forces of Nowhere, are fighting against a foul mob of thugs
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+En ce moment, les honorables forces de sécurité de Nowhere luttent contre une foule répugnante de malfaiteurs
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#78
+
+# [ENGLISH]
+# From here, all my support to our beloved security forces // Who every day sacrifice themselves for us, confronting the lowest and most disgusting in this society
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+D'ici, tout mon soutien à nos chères forces de sécurité // Qui se sacrifient chaque jour pour nous, affrontant ce qu'il y a de plus bas et de plus désagréable dans cette société
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#79
+
+# [ENGLISH]
+# Maligno lies!!!
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno ment!!
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#80
+
+# [ENGLISH]
+# Finally, people of Nowhere! No more lies! // No more rules! No more controls! Down with Maligno! Down with the regime! Freedom! Freedom!
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Enfin, peuple de Nowhere ! Les mensonges sont terminés ! // Plus de règles ! Plus de contrôles ! À bas Maligno ! À bas le régime ! Liberté ! Liberté !
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#81
+
+# [ENGLISH]
+# Maligno monuments to be unveiled throughout Nowhere
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Des monuments de Maligno seront inaugurés dans tout Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#82
+
+# [ENGLISH]
+# The monuments to our savior the great Maligno have been completed. And will be inaugurated during this night, where prayers will be said to our leader // All inhabitants are requested to attend the monuments punctually. Those who present offerings to Maligno will be one step closer to salvation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Les monuments de notre sauveur, le grand Maligno, sont terminés. Ils seront inaugurés cette nuit, où des prières seront adressées à notre dirigeant // Tous les habitants sont priés de se rendre ponctuellement aux monuments. Ceux qui présenteront des offrandes à Maligno seront un pas plus près du salut
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#83
+
+# [ENGLISH]
+# Construction of Maligno's monuments begins
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Début de la construction des monuments de Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#84
+
+# [ENGLISH]
+# Today work has just begun all over Nowhere. The purpose of this work is to build monuments to our great lord, almighty, unique and peerless, Maligno // They are expected to be finished in the next few days.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, des travaux ont commencé dans tout Nowhere // Ils ont pour objet la construction de monuments à notre grand seigneur, tout-puissant, unique et incomparable, Maligno // Ils devraient être achevés dans les prochains jours
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#85
+
+# [ENGLISH]
+# Counterfeiter killed at distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Faux-monnayeur abattu au Centre de distribution
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#86
+
+# [ENGLISH]
+# A dangerous counterfeiter was gunned down yesterday at food distribution center south 3412 by a brave supervisor who took courage in the face of the evil criminal // saving the life of a fearful and insignificant station operator, who was there at the time of the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# French: Superviseur
+#
+# ID: STATION
+# English: Station
+# French: Poste
+
+# [TRANSLATION]
+<<<
+Un dangereux faux-monnayeur a été abattu hier au Centre de distribution alimentaire sud 3412, par un courageux Superviseur qui a pris son courage à deux mains face au criminel maléfique // sauvant la vie d'un opérateur de Poste craintif et insignifiant, qui se trouvait là au moment des faits
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#87
+
+# [ENGLISH]
+# Man commits suicide at train station
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Un homme se suicide dans une gare
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#88
+
+# [ENGLISH]
+# The miserable suburbanite threw himself under a train when it was on its way to the downtown area // Fortunately, the clean-up crew was able to remove the wreckage in time, preventing the transport service from being delayed // And so none of the brand-new executives traveling on the train were late for their important meetings
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Le misérable banlieusard s'est jeté sous un train alors que celui-ci partait vers le centre-ville // Heureusement, le personnel de nettoyage a pu retirer les restes à temps, évitant que le service de transport ne soit retardé // Ainsi, aucun des brillants cadres qui voyageaient dans le train n'est arrivé en retard à ses importantes réunions
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#89
+
+# [ENGLISH]
+# I love happy endings
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+J'adore les fins heureuses
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#90
+
+# [ENGLISH]
+# Dangerous criminal killed in attempted robbery
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Dangereux criminel abattu lors d'une tentative de braquage
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#91
+
+# [ENGLISH]
+# A criminal robbed one of Nowhere's distribution centers yesterday // Fortunately, the center's supervisor and newly appointed leader of the group 'Maligno Our Savior' managed to take him down, putting an end to his evil intentions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# French: Superviseur
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Un malfaiteur a attaqué hier l'un des Centres de distribution de Nowhere // Heureusement, le Superviseur du centre, et tout nouveau dirigeant du groupe 'Maligno notre sauveur', a réussi à en finir avec lui, mettant fin à ses intentions maléfiques.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#92
+
+# [ENGLISH]
+# We are live with this brave man // This is Papanatas. Can you describe the event?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# French: Papanatas
+
+# [TRANSLATION]
+<<<
+Nous sommes en direct avec cet homme courageux // Parlez, Papanatas. Pouvez-vous nous décrire les faits ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#93
+
+# [ENGLISH]
+# I had never seen such an evil creature, so full of hate. I was afraid... In an instant, my life flashed before my eyes... // The cruise trips, the plastic surgeries, the shopping malls, the elegant parties... // It was at that moment that I knew I had to end him. Otherwise, my future and that of my poor, unhappy subordinates would come to an end...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Je n'avais jamais vu une créature aussi malfaisante, pleine de haine. J'ai eu peur... En un instant, j'ai vu ma vie défiler devant mes yeux... // Les croisières, les chirurgies esthétiques, les centres commerciaux, les fêtes élégantes... // C'est à ce moment-là que j'ai su que je devais en finir avec lui. Sinon, mon avenir et celui de mes pauvres et malheureux subordonnés prendraient fin...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#94
+
+# [ENGLISH]
+# There you have it gentlemen. The words of a great hero.
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Voilà, messieurs. Les paroles d'un grand héros.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#95
+
+# [ENGLISH]
+# Minister's missing son found
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Le fils disparu du ministre est retrouvé
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#96
+
+# [ENGLISH]
+# After intense searches all over the country, Jake Coff, the son of the important minister, has been found by an ungraceful employee of the 3412 south distribution center // After his identification he was immediately taken to a medical care facility, where he was found to have temporary memory loss.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# French: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Après d'intenses recherches dans tout le pays, Jake Coff, le fils de l'important ministre, a été retrouvé par un employé peu séduisant du Centre de distribution sud 3412 // Après son identification, il a immédiatement été transféré dans un centre de soins médicaux, où il a été constaté qu'il souffrait d'une perte de mémoire temporaire
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#97
+
+# [ENGLISH]
+# Minister's missing son found dead
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Le fils disparu du ministre est retrouvé mort
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#98
+
+# [ENGLISH]
+# In circumstances still under investigation, the son of prominent Nowhere minister Jake Coff, was found dead with gunshot wounds. Maligno announced that the consequences for the heartless evildoer will be unimaginably disproportionate.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PJ_MISSING
+# English: Jake Coff
+# French: Jake Coff
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Dans des circonstances encore en cours d'investigation, le fils de l'important ministre de Nowhere, Jake Coff, a été retrouvé mort avec des blessures par balle. Maligno a annoncé que les conséquences pour le malfaisant sans cœur seront inimaginablement disproportionnées
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#99
+
+# [ENGLISH]
+# Minister's son found!
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Le fils du ministre est retrouvé !
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#100
+
+# [ENGLISH]
+# The son of missing minister, Jake Coff, was finally found // It happened yesterday at the 3412 South Distribution Center, while an unenlightened employee ordered his arrest // After the decision made by this poor wretch, the guards who were transporting the missing man to the jail, were able to ascertain that it was none other than the minister's missing son.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# French: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Le fils disparu du ministre, Jake Coff, a finalement été retrouvé // Cela s'est produit hier, au Centre de distribution sud 3412, alors qu'un employé peu éclairé ordonnait son arrestation // Après la décision prise par ce pauvre malheureux, les gardes qui emmenaient le disparu en prison ont pu constater qu'il s'agissait ni plus ni moins que du célèbre fils perdu du ministre
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#101
+
+# [ENGLISH]
+# A criminal was detained this morning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Un malfaiteur a été arrêté ce matin
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#102
+
+# [ENGLISH]
+# A thug calling himself 'William the anarchist' was apprehended while causing disorderly conduct in the street // Tonight he will be transferred to the special detention center, where he will be able to 'express himself freely'...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: WILLIAM
+# English: William
+# French: William
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Un voyou se faisant appeler 'William l'anarchiste' a été arrêté alors qu'il causait des troubles dans la rue // Ce soir, il sera transféré au Centre spécial de détention, où il pourra 's'exprimer livremente'...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#103
+
+# [ENGLISH]
+# Supervisor's wife missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# French: Superviseur
+
+# [TRANSLATION]
+<<<
+Épouse de Superviseur disparue
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#104
+
+# [ENGLISH]
+# Yesterday, the wife of an important supervisor who works in the South 3412 distribution center, was reported missing // This is how the husband expressed himself this morning, visibly shaken by the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# French: Superviseur
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+La disparition de l'épouse d'un important Superviseur, qui travaille au Centre de distribution sud 3412, a été signalée hier // Voici comment s'exprimait le mari ce matin, visiblement ému
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#105
+
+# [ENGLISH]
+# My dear wife. I can't live without you... I can't... I can't...
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Ma chère épouse. Je ne peux pas vivre sans toi... Non... Je ne peux pas...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#106
+
+# [ENGLISH]
+# There you have it. Poor man...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Vous l'avez. Pauvre homme...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#107
+
+# [ENGLISH]
+# New gold statue of Maligno
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Nouvelle statue en or de Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#108
+
+# [ENGLISH]
+# During the day today, under the fluttering of thousands of white doves, has been inaugurated the new golden statue of our lord Maligno // The construction exhibits on its base the following legend: 'Our lord Maligno, who works for the glory of our people day and night. Nothing can match his incalculable magnificence.'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, sous le battement d'ailes de milliers de colombes blanches, la nouvelle statue en or de notre seigneur Maligno a été inaugurée // Le monument affiche à sa base l'inscription suivante : 'Notre seigneur Maligno, qui œuvre jour et nuit pour la gloire de notre peuple. Rien ne peut égaler son incalculable magnificence'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#109
+
+# [ENGLISH]
+# New Maligno banknote
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Nouveau billet de Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#110
+
+# [ENGLISH]
+# Starting today, a new high-denomination banknote has been put into circulation // It will have the honor of displaying the handsome face of His Magnificence, Maligno
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+À partir d'aujourd'hui, un nouveau billet de grande valeur a été mis en circulation // Il aura l'honneur d'arborer le beau visage de sa magnificence Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#111
+
+# [ENGLISH]
+# The day of Malignism
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# French: Malignisme
+
+# [TRANSLATION]
+<<<
+Le jour du Malignisme
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#112
+
+# [ENGLISH]
+# Today, this day has been made official, as the day of Malignism // From now on this will be the day on which all Nowherians pray and bestow offerings to our great lord Maligno.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# French: Malignisme
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# French: Nowhériens
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, ce jour a été officialisé comme le jour du Malignisme // Désormais, ce sera le jour où tous les Nowhériens prient et font des offrandes à notre grand seigneur Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#113
+
+# [ENGLISH]
+# Maligno launches his new book
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno lance son nouveau livre
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#114
+
+# [ENGLISH]
+# On the occasion of offering the way to salvation, our lord Maligno has made available to the people, his new work 'Rosank' // The same is placed as a fundamental requirement to enter heaven // They can already be found in all bookstores all over the country at the modest price of $10000.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: ROSANK
+# English: Rosank
+# French: Rosank
+
+# [TRANSLATION]
+<<<
+Afin d'offrir le chemin du salut, notre seigneur Maligno a mis à la disposition du peuple sa nouvelle œuvre 'Rosank' // Celle-ci est exigée comme condition fondamentale pour entrer au paradis // Elle est désormais disponible dans toutes les librairies du pays, au modique prix de $10000
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#115
+
+# [ENGLISH]
+# Maligno president for life
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno président à vie
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#116
+
+# [ENGLISH]
+# This morning, Maligno was unanimously elected as President for Life of Nowhere... // And from now on he will be known as Maligno, President of Nowhere, Absolute leader of Malignism, Savior of Nowhere, Light bearer and miracle worker.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: MALIGNISM
+# English: Malignism
+# French: Malignisme
+
+# [TRANSLATION]
+<<<
+Ce matin, Maligno a été proclamé à l'unanimité président à vie de Nowhere... // Et à partir de maintenant, il devra être nommé Maligno, Président de Nowhere, chef absolu du Malignisme, sauveur de Nowhere, porteur de lumière et faiseur de miracles
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#117
+
+# [ENGLISH]
+# New rules at distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Nouvelles règles dans les Centres de distribution
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#118
+
+# [ENGLISH]
+# As of today, citizens will only be allowed to make purchases at distribution centers associated with their city // In this way Maligno seeks to ensure a good distribution of foodstuffs in Nowhere
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+À partir d'aujourd'hui, les citoyens ne pourront faire leurs achats que dans les Centres de distribution attribués à leur ville. // De cette façon, Maligno cherche à assurer une bonne distribution des aliments à Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#119
+
+# [ENGLISH]
+# Maligno watches over us all
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno prend soin de tous
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#120
+
+# [ENGLISH]
+# Today, our brand new ruler Maligno, announced a series of measures aimed at protecting the young and old of Nowhere.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, notre flamboyant dirigeant Maligno a annoncé une série de mesures destinées à protéger les jeunes et les personnes âgées de Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#121
+
+# [ENGLISH]
+# Providing healthier and more nutritious food to these vulnerable groups is paramount // And this is how our dear and beloved president understands it.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Fournir des aliments plus sains et nutritifs à ces secteurs défavorisés est primordial // Et c'est ainsi que l'entend notre cher et aimé dirigeant
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#122
+
+# [ENGLISH]
+# New campaign: Dignified Bills
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# French: Billets
+
+# [TRANSLATION]
+<<<
+Nouvelle campagne : Billets dignes
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#123
+
+# [ENGLISH]
+# Starting today, damaged money will no longer be accepted at Nowhere's food distribution centers // Any bill that is faded, torn, or vandalized will be rejected by station operators
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: BILLS
+# English: Bills
+# French: Billets
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: STATION
+# English: Station
+# French: Poste
+
+# [TRANSLATION]
+<<<
+À partir d'aujourd'hui, l'argent en mauvais état ne sera plus accepté dans les Centres de distribution alimentaire de Nowhere // Tout Billet décoloré, déchiré ou vandalisé sera rejeté par les opérateurs des Postes
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#124
+
+# [ENGLISH]
+# Without a doubt, a clear symbol of poverty that must be eradicated from Nowhere, once and for all.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Sans aucun doute, un symbole clair de pauvreté qui doit être éradiqué de Nowhere, une fois pour toutes
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#125
+
+# [ENGLISH]
+# Maligno crushes evildoers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno écrase les méchants
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#126
+
+# [ENGLISH]
+# Today, a list of credit cards and banking entities that will no longer be accepted in Nowhere's distribution centers was released // This measure was taken, after our honorable ruler Maligno, in his voracious desire to put an end to evil, discovered connections of said companies with the corrupt previous government.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# French: Carte de crédit
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, une liste de Cartes de crédit et d'établissements bancaires qui ne seront plus acceptés dans les Centres de distribution de Nowhere a été publiée // Cette mesure a été prise après que notre honorable dirigeant Maligno, dans son désir vorace d'en finir avec le mal, a découvert les liens de ces entreprises avec l'ancien gouvernement corrompu
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#127
+
+# [ENGLISH]
+# Identity theft is on the rise
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Les cas de vol d'identité augmentent
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#128
+
+# [ENGLISH]
+# Based on an analysis conducted by distribution centers, it has become evident a considerably high increase of people showing up at centers with an identification card and other elements that are not of their property // Our excellence Maligno has shown his concern, and announced he will quickly take measures on this to detect and imprison these criminals.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# French: Carte d'identification
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Sur la base d'une analyse menée par les centres de distribution alimentaire, une augmentation considérable du nombre de personnes se présentant dans les centres avec une Carte d'identification et d'autres éléments ne leur appartenant pas a été mise en évidence // Son excellence Maligno a fait part de son inquiétude et a annoncé qu'il prendrait des mesures rapides pour détecter et emprisonner ces criminels
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#129
+
+# [ENGLISH]
+# Identification card theft
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# French: Carte d'identification
+
+# [TRANSLATION]
+<<<
+Vols de Cartes d'identification
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#130
+
+# [ENGLISH]
+# Government authorities claim that successive identification card thefts have been reported // For this reason, they assure that controls have been tightened at distribution centers to fight against these misfits
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# French: Carte d'identification
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+
+# [TRANSLATION]
+<<<
+Les autorités gouvernementales affirment que des vols successifs de Cartes d'identification ont été signalés // C'est pourquoi elles assurent que les contrôles dans les Centres de distribution ont été renforcés pour lutter contre ces marginaux
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#131
+
+# [ENGLISH]
+# These vermin always find a way to cheat the system // But don't worry. Maligno has taken note and will arrest all those wretches.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Ces vermines trouvent toujours un moyen de contourner le système // Mais ne vous inquiétez pas. Maligno a déjà pris note et arrêtera tous ces misérables
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#132
+
+# [ENGLISH]
+# Kidnapping and murder
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Enlèvement et meurtre
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#133
+
+# [ENGLISH]
+# Today, police forces have found the body of a wretch with no signs of life // Preliminary investigations revealed it was a gang dedicated to kidnapping people and extorting their families for ransom // It appears the victim had no one to pay the ransom, which is why they ended up being murdered.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Aujourd'hui, les forces de police ont retrouvé le corps sans vie d'un misérable // Les enquêtes préliminaires ont révélé qu'il s'agissait d'un gang qui se consacre à enlever des personnes et à les extorquer en demandant une rançon à leurs proches // Apparemment, la victime n'avait personne pour payer la rançon et a donc fini par être assassinée.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#134
+
+# [ENGLISH]
+# New Communication Terminals
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Nouveaux terminaux de communication
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#135
+
+# [ENGLISH]
+# Station operators at the distribution centers now have telephone terminals // Authorities ask citizens to be patient if their service presents delays // The state also emphasizes its commitment to maintaining efficient and citizen-friendly processes while simultaneously adding more complexity to the system
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: STATION
+# English: Station
+# French: Poste
+
+# [TRANSLATION]
+<<<
+Désormais, les opérateurs des Postes des Centres de distribution disposent de terminaux téléphoniques // Les autorités demandent à la population de faire preuve de patience si leur prise en charge connaît des retards // L'État souligne également son engagement à maintenir des procédures efficaces et conviviales pour le citoyen ordinaire en ajoutant davantage de complexité au système
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#136
+
+# [ENGLISH]
+# New internal mail system in stations
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# French: Courrier
+#
+# ID: STATION
+# English: Station
+# French: Poste
+
+# [TRANSLATION]
+<<<
+Nouveau système de courrier interne dans les Postes
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#137
+
+# [ENGLISH]
+# As of today, an internal correspondence system has been implemented at the stations within the distribution centers // Authorities point out that services at the food distribution centers may experience delays // But they state that all this is a sign that procedures are being carried out in an excellent manner
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: STATION
+# English: Station
+# French: Poste
+
+# [TRANSLATION]
+<<<
+À partir d'aujourd'hui, un système de correspondance interne a été mis en place dans les Postes des Centres de distribution // Les autorités indiquent que les services dans les Centres de distribution de denrées alimentaires peuvent connaître des retards // Mais que tout cela est le signe que les procédures sont respectées de manière excellente
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#138
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+De nouveaux moyens de paiement sont ajoutés
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#139
+
+# [ENGLISH]
+# The state is expanding the approved payment options at food distribution centers // From now on, citizens will be able to use promissory notes to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# French: Avoir
+
+# [TRANSLATION]
+<<<
+L'État élargit les options de paiement autorisées dans les Centres de distribution de denrées alimentaires // Désormais, les citoyens pourront présenter des avoirs pour payer leurs denrées alimentaires
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#140
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+De nouveaux moyens de paiement sont ajoutés
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#141
+
+# [ENGLISH]
+# The state is expanding the accredited payment options at food distribution centers // From now on, citizens will be able to use credit cards to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# French: Carte de crédit
+
+# [TRANSLATION]
+<<<
+L'État élargit les options de paiement autorisées dans les Centres de distribution de denrées alimentaires // Désormais, les citoyens pourront présenter des cartes de crédit pour payer leurs denrées alimentaires
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#142
+
+# [ENGLISH]
+# Renowned journalist awarded
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Journaliste reconnu récompensé
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#143
+
+# [ENGLISH]
+# Yesterday, a renowned journalist was awarded for his career // During an important ceremony headed by Maligno at the Nowhere state offices
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Hier, un journaliste reconnu a été récompensé pour sa carrière // Lors d'une importante cérémonie présidée par Maligno dans les bureaux de l'État de Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#144
+
+# [ENGLISH]
+# Checks on bills are being reinforced
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# French: Billets
+
+# [TRANSLATION]
+<<<
+Les contrôles sur les Billets sont renforcés
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#145
+
+# [ENGLISH]
+# As part of the incorporation of new strategies to detect and arrest criminals // As of today, a bill marking system has been implemented at food distribution centers // With this new system, the authorities of Nowhere reaffirm their commitment to the fight against crime in this country.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# French: Billets
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# French: Centre de distribution
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Dans le cadre de l'adoption de nouvelles stratégies visant à trouver et arrêter des criminels // À partir d'aujourd'hui, un système de marquage des Billets a été mis en place dans les Centres de distribution alimentaire // Avec ce nouveau système, les autorités de Nowhere réaffirment leur engagement dans la lutte contre la criminalité dans ce pays
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#146
+
+# [ENGLISH]
+# Important book burning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Importante autodafé de livres
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#147
+
+# [ENGLISH]
+# In order to guarantee order and security in our beloved country // During these days, hundreds of thousands of books whose malicious content only sought to promote chaos and fuel insecurity in our country have been seized // Titles such as 'Love and Equality' and 'All About My Rights' will be burned tomorrow // in what promises to be a fantastic opening ceremony for the presentation of new police vehicles and weaponry
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Afin de garantir l'ordre et la sécurité dans notre cher pays // Ces derniers jours, des centaines de milliers de livres dont le contenu malveillant ne cherchait qu'à promouvoir le chaos et à alimenter l'insécurité dans notre pays ont été saisis // Des titres comme 'Amour et égalité' et 'Tout sur mes droits' seront brûlés demain // lors de ce qui promet d'être une fantastique cérémonie d'ouverture pour la présentation de nouveaux véhicules et armements policiers
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#148
+
+# [ENGLISH]
+# What a privilege to be awarded by our honorable president Maligno // I hope I can also be recognized by our leader one day
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Quel privilège de pouvoir être récompensé par notre honorable président Maligno // J'espère moi aussi pouvoir être reconnu par notre dirigeant un jour
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#149
+
+# [ENGLISH]
+# Yesterday, the most wanted serial killer in Nowhere, Nicola Kullem, was apprehended by the honorable security forces // The criminal will be transferred to the special detention center today // None of this would have been possible without the timely report from a blessedly simple station operator // Who, despite his great limitations, knew how to handle the delicate situation
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# French: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+#
+# ID: STATION
+# English: Station
+# French: Poste
+
+# [TRANSLATION]
+<<<
+Au cours de la journée d'hier, le célèbre tueur en série le plus recherché de Nowhere, Nicola Kullem, a été arrêté par les honorables forces de sécurité // Le malfaiteur sera transféré aujourd'hui au Centre spécial de détention // Tout cela n'aurait pas été possible sans le signalement d'un pauvre et malheureux opérateur de Poste // Qui, malgré ses grandes limitations, a su faire face à la situation délicate
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#150
+
+# [ENGLISH]
+# New illegal haircuts
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Nouvelles coupes de cheveux illégales
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#151
+
+# [ENGLISH]
+# In an effort to exalt the figure of our powerful leader // And understanding that his exuberant mane is now a symbol of our beloved country // It has been forbidden for the citizens of Nowhere to get haircuts similar to those of our dear ruler // All those who do not comply with this measure face penalties ranging from fines, 20 lashes, and even prison
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+
+# [TRANSLATION]
+<<<
+Dans le but de magnifier la figure de notre puissant dirigeant // Et étant donné que son opulente chevelure est désormais un symbole de notre pays bien-aimé // Il est interdit aux citoyens de Nowhere de se faire des coupes de cheveux semblables à celles de notre cher gouvernant // Tous ceux qui ne respecteront pas cette mesure s'exposent à des peines allant d'amendes, 20 coups de fouet et même à la prison
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#152
+
+# [ENGLISH]
+# So now you know, people of Nowhere // Imitating Maligno is heresy
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Alors vous le savez, peuple de Nowhere // Imiter Maligno est une hérésie
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#153
+
+# [ENGLISH]
+# New standardized requirement for photographs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+Nouvelle mesure standard pour les photographies
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#154
+
+# [ENGLISH]
+# In accordance with the provisions of the authorities of Nowhere // Any photograph featuring the face of our beloved president must be at least 20% larger than all other conventional photographs // Any person who fails to comply with the newly established standards will be charged with high treason and transferred to the special detention center
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# French: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# French: Centre spécial de détention
+
+# [TRANSLATION]
+<<<
+Conformément aux dispositions des autorités de Nowhere // Toute photographie montrant le visage de notre président bien-aimé doit être au moins 20 % plus grande que les autres photographies conventionnelles // Toute personne ne respectant pas les nouvelles normes établies sera accusée de haute trahison et transférée au Centre spécial de détention
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#155
+
+# [ENGLISH]
+# As it should be // But no photograph could ever do justice to the beautiful face of our beloved president Maligno
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# French: Maligno
+
+# [TRANSLATION]
+<<<
+Comme il se doit // Mais aucune photographie ne pourra rendre justice au beau visage de notre président bien-aimé Maligno
+>>>

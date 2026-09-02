@@ -1,0 +1,244 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#1
+
+# [ENGLISH]
+# Gift card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT_CARD
+# English: Gift Card
+# Japanese: ギフトカード
+
+# [TRANSLATION]
+<<<
+ギフトカード
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#2
+
+# [ENGLISH]
+# To give to mom on Mother's day
+
+# [CONTEXT]
+# Description of the Gift Card inventory item
+
+# [TRANSLATION]
+<<<
+お母さんの誕生日にあげる.
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#3
+
+# [ENGLISH]
+# Now that you mention it... // I should get my mom something
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+そういえば... // お母さんに何かプレゼントすべきだね
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#4
+
+# [ENGLISH]
+# What? // I'm not your mom
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+え？ // 私はあなたのママじゃないよ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#5
+
+# [ENGLISH]
+# I don't have a mother... // I'm an orphan
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんいないんだ... // 孤児なの
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#6
+
+# [ENGLISH]
+# I never met my mother... // She abandoned me when I was a baby
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんに会ったことはない... // 赤ちゃんの時に捨てられたんだ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#7
+
+# [ENGLISH]
+# I admire your mother... // It must be tough having such a son
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんを尊敬するよ... // あなたのような息子を持つのは大変だろう
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#8
+
+# [ENGLISH]
+# Your mother must be proud of you...
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんはあなたを誇りに思っているだろう...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#9
+
+# [ENGLISH]
+# Oh... // My mother... // I mean // Do you want me to put you in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ああ... // 私のお母さん... // というか... // あなたを監獄に入れてあげようか？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#10
+
+# [ENGLISH]
+# My mother was a cop too // She was the best mom in the world
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんも警察官だったんだ... // お母さんは世界で一番優しいお母さんだったんだ...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#11
+
+# [ENGLISH]
+# Stop wasting my time // Do your job
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+私に時間を無駄にしないで // あなたの仕事をしなさい
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#12
+
+# [ENGLISH]
+# Do you want me to put you in prison? // Then stop wasting your time
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+刑務所に送ってあげようか？ // じゃあ時間を無駄にしないで
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#13
+
+# [ENGLISH]
+# Don't make me remember my mother.... // She never accepted me as I am
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんを思い出させないで... // お母さんはありのままの私を受け入れてくれなかった
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#14
+
+# [ENGLISH]
+# A card? // Hip! // But I'm not a mother // Yet
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+カード？ // ふう！ // でも私はお母さんじゃないよ... // まだ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#15
+
+# [ENGLISH]
+# How thoughtful of you, my friend // I'm sure your mother will love that card
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+親切だね友達 // きっとお母さんはこのカードを喜ぶよ
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_TARJETAMADRES#16
+
+# [ENGLISH]
+# I remember my mother's delicious meals // She's no longer here // And it's better this way // It would break her heart to see me like this
+
+# [CONTEXT]
+# Dialogue associated with giving the Gift Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+お母さんが作ってくれた美味しいご飯を思い出す... // お母さんはもういない... // それでいい... // 私を見たらきっと悲しむだろう
+>>>

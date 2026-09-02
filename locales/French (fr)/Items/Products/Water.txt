@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#1
+
+# [ENGLISH]
+# Water
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Eau
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#2
+
+# [ENGLISH]
+# Remember to drink water every day // Most people don't.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+N'oublie pas de boire de l'eau tous les jours // La plupart ne le font pas
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#3
+
+# [ENGLISH]
+# 'Don Maligno Mineral Water' // 'Free of impurities' // 'In case of intoxication, consult your doctor' // Incredible...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# French: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Eau minérale Don Maligno' // 'Sans impuretés' // 'En cas d'intoxication, consultez votre médecin' // Incroyable...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#4
+
+# [ENGLISH]
+# Refreshing water // Vital and essential for life
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Eau rafraîchissante // Vitale et essentielle à la vie
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#5
+
+# [ENGLISH]
+# Do you know the benefits of drinking water every day?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Connais-tu les bienfaits de boire de l'eau tous les jours ?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#6
+
+# [ENGLISH]
+# Really? // Do you know how essential water is?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sérieusement ? // Tu sais à quel point l'eau est essentielle ?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#7
+
+# [ENGLISH]
+# Hey // I can't live without water
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hé // Je ne peux pas vivre sans eau
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#8
+
+# [ENGLISH]
+# Hey! // What? // Are you telling me to drink tap water? // Are you crazy?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hé ! // Quoi ? // Tu me dis de boire de l'eau du robinet ? // Tu es fou ?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_AGUA#9
+
+# [ENGLISH]
+# What? // But it's only water // Something basic and essential.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the water product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Quoi ? // Mais ce n'est que de l'eau // Quelque chose de basique et essentiel
+>>>

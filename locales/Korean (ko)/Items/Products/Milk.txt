@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#1
+
+# [ENGLISH]
+# Milk
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+우유
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#2
+
+# [ENGLISH]
+# Do you like milk? // No? // But it's tasty!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+우유 좋아해? // 아니? // 하지만 맛있는데
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#3
+
+# [ENGLISH]
+# 'Don Maligno's milk' // 'Obtained from the purest superior breed of cows' // The best milk without a doubt.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno 우유' // '가장 순수한 우월한 혈통의 소에서 얻은 우유' // 의심할 여지 없이 최고의 우유
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#4
+
+# [ENGLISH]
+# I will bring milk for my children to eat their cereal.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+아이들이 시리얼을 먹을 수 있게 우유를 가져갈게
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#5
+
+# [ENGLISH]
+# This milk is addictive... // I don't know what's in it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+이 우유는 중독성이 있어... // 뭐가 들어있는지 모르겠어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#6
+
+# [ENGLISH]
+# No! // My milk! // My breakfast!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안돼! // 내 우유! // 내 아침식사!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#7
+
+# [ENGLISH]
+# Why do you cancel my milk // Do you know how vital it is to me?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+왜 내 우유를 없애는 거야? // 그것이 나에게 얼마나 중요한지 알아?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#8
+
+# [ENGLISH]
+# My children won't be able to have their cereal with milk for breakfast.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+내 아이들이 우유와 함께 아침식사를 할 수 없게 되었어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#9
+
+# [ENGLISH]
+# Well // If you say so // I'll have to give up that milk.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+좋아 // 네가 그렇게 말한다면 // 그 우유는 놔둬야겠어
+>>>

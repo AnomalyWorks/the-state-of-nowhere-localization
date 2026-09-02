@@ -1,0 +1,319 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#1
+
+# [ENGLISH]
+# Police Report
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: POLICE_REPORT
+# English: Police Report
+# Korean: 경찰 보고서
+
+# [TRANSLATION]
+<<<
+경찰 보고서
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#4
+
+# [ENGLISH]
+# Taxes
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+세금
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#5
+
+# [ENGLISH]
+# Administrative charges
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+행정 비용
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#7
+
+# [ENGLISH]
+# Resistance to authority
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+공무집행방해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#8
+
+# [ENGLISH]
+# Attempted Homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+살인 미수
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#9
+
+# [ENGLISH]
+# Simple homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+일반 살인
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#10
+
+# [ENGLISH]
+# Multiple Homicide
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+연쇄 살인
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#11
+
+# [ENGLISH]
+# Sale of narcotics
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+마약 판매
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#12
+
+# [ENGLISH]
+# Obscene exhibition
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+음란 행위 공개
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#13
+
+# [ENGLISH]
+# Participation in a criminal organization
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+범죄 단체 가입
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#14
+
+# [ENGLISH]
+# Counterfeit
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+문서 위조
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#15
+
+# [ENGLISH]
+# Prostitution
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+매춘
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#16
+
+# [ENGLISH]
+# Did you get arrested?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+체포당했어요?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#17
+
+# [ENGLISH]
+# So... how cold are the cells?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+그리고 감방이 얼마나 추워요?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#18
+
+# [ENGLISH]
+# So... how is food in prison?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+그리고 감옥 밥은 어때요?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#19
+
+# [ENGLISH]
+# Did you bend over to pick up the soap?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+비누 주으러 허리 숙였어요?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#21
+
+# [ENGLISH]
+# Do you see what happens when you break the law?
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+법을 안 지키면 어떻게 되는지 보세요?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#22
+
+# [ENGLISH]
+# You'd better behave from now on
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+지금부터는 제대로 행동하는 게 좋을 겁니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#23
+
+# [ENGLISH]
+# Do you want me to add more charges? // That's what I thought
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+더 많은 혐의를 추가할까요? // 그게 내가 생각한 대로야
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#24
+
+# [ENGLISH]
+# There won't be second chances // Obey the law
+
+# [CONTEXT]
+# Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+두 번의 기회는 없을 겁니다 // 법을 따르세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEPOLICIAL#25
+
+# [ENGLISH]
+# Theft
+
+# [CONTEXT]
+# Offense described in a police report
+
+# [TRANSLATION]
+<<<
+절도
+>>>

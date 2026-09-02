@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: PROCEDURES
+# English: Procedures
+# Russian: Процедуры
+
+# [TRANSLATION]
+<<<
+Ваша задача как оператора рабочей станции 65 будет заключаться в обработке граждан, прибывающих для покупки продуктов питания, с соблюдением действующих нормативов, что в целом включает следующие процедуры
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Russian: Процедуры
+
+# [TRANSLATION]
+<<<
+В случаях несоблюдения установленных нормативов могут быть применены следующие процедуры
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Руководство
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Russian: Процедуры
+
+# [TRANSLATION]
+<<<
+Для получения дополнительной информации проверьте упомянутые процедуры
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Обновления на сегодня
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Russian: Рабочее место
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Russian: Maligno
+
+# [TRANSLATION]
+<<<
+Сотрудник 100411 имеет следующие обновления на своем рабочем месте. Ознакомьтесь с соответствующим разделом. Пусть Maligno озарит ваш путь
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Russian: Правило
+
+# [TRANSLATION]
+<<<
+Были введены следующие правила
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Russian: Процедуры
+
+# [TRANSLATION]
+<<<
+Были включены и/или обновлены следующие процедуры.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+В рабочую станцию были добавлены следующие элементы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Включены и/или обновлены следующие документы.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+На рабочей станции сегодня не была произведена никакая обновление
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Были добавлены и/или обновлены следующие рабочие зоны
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Russian: Процедуры
+
+# [TRANSLATION]
+<<<
+Процедуры
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+
+# [TRANSLATION]
+<<<
+Задействованные элементы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Вовлечённые документы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Идентифицировать гражданина
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Russian: Действие вызова
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+При появлении на рабочей станции посредством действия вызова граждане должны предъявить удостоверение личности.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Russian: Считыватель удостоверений личности
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+
+# [TRANSLATION]
+<<<
+Затем её следует провести через считыватель удостоверений личности, что позволит отобразить все связанные данные на главном мониторе.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Обрабатывать товары
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Описание процессу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Russian: Действие вызова
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Начинается когда, посредством действия вызова, запрашиваются товары
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Читать товары
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Взвешивание товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Проверить товары
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Для начала чтения товаров товар следует переместить из приемника товаров на считыватель.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Таким образом вы получите доступ к рабочей области считывателя товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: SCALE
+# English: Scale
+# Russian: Весы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Russian: Входной склад
+
+# [TRANSLATION]
+<<<
+Для этого следует переместить товар из входного склада на весы на рабочей станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Russian: Ручной считыватель товаров
+
+# [TRANSLATION]
+<<<
+При ошибках чтения следует вручную считать продукт через Доступ к Ручному считывателю товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Russian: Ручной считыватель товаров
+
+# [TRANSLATION]
+<<<
+Таким образом будет получен доступ к рабочей зоне Ручного считывателя товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: SCALE
+# English: Scale
+# Russian: Весы
+
+# [TRANSLATION]
+<<<
+При считывании товаров возможно обнаружить товары без штрих-кодов. Их необходимо генерировать с помощью весов.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: SCALE
+# English: Scale
+# Russian: Весы
+
+# [TRANSLATION]
+<<<
+Таким образом, вы получите доступ к рабочей зоне весов.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: ORDER_LIST
+# English: Order List
+# Russian: Список заказа
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+По завершении считывания товаров будет сформирован список заказа, который можно будет проверить через инспекционный стол.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+При отсутствии проблем необходимо будет активировать выдачу товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: ORDER_LIST
+# English: Order List
+# Russian: Список заказа
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+
+# [TRANSLATION]
+<<<
+При необходимости отказать в товарах из списка заказа, следует перейти к инспекционному столу через его доступ.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+Таким образом будет обеспечен доступ к рабочей зоне инспекционного стола.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Обработка платежа
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+После завершения доставки товаров, гражданин должен предоставить оплату за них.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+И охватывает следующие процессы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Обработка банкнот
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+
+# [TRANSLATION]
+<<<
+Таким образом будет получен доступ к рабочей зоне кассового аппарата.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Russian: Чек
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+После обработки платежа и для завершения покупки необходимо выдать чек гражданину.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Оплата может включать некоторые из следующих документов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+
+# [TRANSLATION]
+<<<
+Выполнение действий
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+
+# [TRANSLATION]
+<<<
+В случае необходимости выполнения каких-либо действий в отношении граждан это можно сделать через доступ к единице действий.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Russian: Действие вызова
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Действие вызова граждан
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Через это действие вызываются граждане для обслуживания на станции.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Доступы станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Russian: Действие вызова
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Действие вызова товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Russian: Входной склад
+
+# [TRANSLATION]
+<<<
+Позволяет начать поступление товаров на входной склад.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Russian: Выходной склад
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Доступ к выходному складу товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Действия рабочей станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Russian: Выдача товаров
+
+# [TRANSLATION]
+<<<
+Действие по выдаче товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Russian: Выходной склад
+
+# [TRANSLATION]
+<<<
+С его помощью авторизуют товары и предоставляют их гражданам через выходной склад товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Russian: Ручной считыватель товаров
+
+# [TRANSLATION]
+<<<
+Доступ к ручному считывателю товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Russian: Ручной считыватель товаров
+
+# [TRANSLATION]
+<<<
+Через него осуществляется доступ к ручному считывателю товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Russian: Считыватель удостоверений личности
+
+# [TRANSLATION]
+<<<
+Считыватель удостоверений личности.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Элемент рабочей станции, куда нужно вставлять удостоверения личности для считывания.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+
+# [TRANSLATION]
+<<<
+Главный монитор
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Элемент рабочей станции, состоящий из двух мониторов, отображающих данные удостоверения личности при его считывании. Данные включают портрет, объединяющий физические характеристики гражданина, и связанную личную информацию.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Russian: Входной склад
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Входной склад товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Элемент рабочей станции, с которого берутся товары для обработки
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Russian: Элемент навигации
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+
+# [TRANSLATION]
+<<<
+Элемент навигации Главного монитора
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к дополнительной информации на Главном мониторе, связанной с запретами на товары для граждан
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Russian: Считыватель товаров
+
+# [TRANSLATION]
+<<<
+Считыватель товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Для считывания лектором товары должны быть перемещены с правой стороны на левую по столу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: SCALE
+# English: Scale
+# Russian: Весы
+
+# [TRANSLATION]
+<<<
+Некоторые товары могут не иметь штрихкодов, из-за чего их невозможно считать, пока они не будут обработаны на весах
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Russian: Ручной считыватель товаров
+
+# [TRANSLATION]
+<<<
+При считывании товаров могут возникать ошибки чтения. При их повторении товар должен быть обработан через ручной считыватель товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Russian: Выходной склад
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Выходной склад товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Russian: Выходной склад
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: ORDER_LIST
+# English: Order List
+# Russian: Список заказа
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Доступен через Доступ к выходному складу товаров. Это рабочая зона, в которой определяется, будет ли товар из списке заказов гражданина одобрен или нет.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+
+# [TRANSLATION]
+<<<
+Кассовый аппарат
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Элемент рабочей станции, куда размещаются документы об оплате гражданина.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Доступен в момент, когда средство оплаты проводится через кассовый аппарат. Это рабочая зона, где обрабатывается выдача сдачи гражданину.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+Инспекционный стол
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к инспекционному столу. Это рабочая зона, где проверяются и обрабатываются различные типы документов.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Она включает в себя следующий набор инструментов.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Russian: Лупа
+
+# [TRANSLATION]
+<<<
+Лупа
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Russian: Печать подлинности
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Её функция - выявлять, является ли печать подлинности подлинной. Она также может использоваться для выявления скрытой информации в документах.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Russian: Дырокол
+
+# [TRANSLATION]
+<<<
+Дырокол
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Её задача — перфорировать документы.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Russian: Лоток для вспомогательных документов
+
+# [TRANSLATION]
+<<<
+Лоток для вспомогательных документов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Russian: Вспомогательные документы
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Этот лоток предоставляет вспомогательные документы с дополнительной информацией, необходимой для правильной работы при обслуживании граждан.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Russian: Степлер
+
+# [TRANSLATION]
+<<<
+Степлер
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Ваша задача - скрепить определенные документы с помощью скрепки.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Russian: Штамп
+
+# [TRANSLATION]
+<<<
+Штамп
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Её функция — ставить печати на документы.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Russian: Просмотр выполненных тестов
+
+# [TRANSLATION]
+<<<
+Просмотр выполненных тестов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+В этом обзоре отражается информация о различных тестах, которые были проведены над гражданином.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Russian: Ручной считыватель товаров
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Доступен через доступ Ручного считывателя товаров. Это рабочая зона, в которой товары считываются вручную.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+Доступ к Инспекционному столу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+Через него осуществляется доступ к инспекционному столу.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: SCALE
+# English: Scale
+# Russian: Весы
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступен, когда товар скользит по весам. Это рабочая зона, в которой для тех товаров, у которых нет штрихкодов, генерируются штрихкоды.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: INVENTORY
+# English: Inventory
+# Russian: Инвентарь
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: OBJECT
+# English: Object
+# Russian: Предмет
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к инвентарю. Это рабочая зона, где хранятся предметы, которые можно использовать для взаимодействия с гражданами.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Russian: Телефон
+
+# [TRANSLATION]
+<<<
+Телефон
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: TELEPHONE
+# English: Telephone
+# Russian: Телефон
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к телефону. Это рабочая зона, в которой осуществляются звонки.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: INVENTORY
+# English: Inventory
+# Russian: Инвентарь
+
+# [TRANSLATION]
+<<<
+Доступ к инвентарю
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Russian: Инвентарь
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к инвентарю.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: TELEPHONE
+# English: Telephone
+# Russian: Телефон
+
+# [TRANSLATION]
+<<<
+Доступ к телефону
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: TELEPHONE
+# English: Telephone
+# Russian: Телефон
+
+# [TRANSLATION]
+<<<
+Доступ, который позволяет войти в телефон.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Russian: Печать подлинности
+
+# [TRANSLATION]
+<<<
+Печать подлинности
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Служат для проверки подлинности определённых документов. Для этого они должны соответствовать следующим характеристикам
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Иметь следующую форму и цвет
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Russian: Лупа
+
+# [TRANSLATION]
+<<<
+Подсвечиваться при воздействии лупы инспекционного стола
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Удостоверение личности
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Russian: Считыватель удостоверений личности
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Удостоверения личности - это документы, которые предъявляют граждане и которые должны считываться считывателем удостоверений личности, расположенным на рабочей станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Подлинность
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Чтобы удостоверение личности было подлинным, оно должно соответствовать следующим требованиям
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Совпадать в расположении, форме и цвете
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Russian: Печать подлинности
+
+# [TRANSLATION]
+<<<
+Две ваши печати подлинности должны быть подлинными
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Действительность
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+
+# [TRANSLATION]
+<<<
+Удостоверения личности имеют период действия. Эта информация может отображаться на Главном мониторе, в поле Срок действия при введении карты в считыватель.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Банкноты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+#
+# ID: WORKSTATION
+# English: Workstation
+# Russian: Рабочее место
+
+# [TRANSLATION]
+<<<
+Банкноты являются одной из форм оплаты, принимаемых в распределительных центрах. Они должны обрабатываться в кассовом аппарате, расположенном на рабочем месте.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Совпадать в расположении и форме
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Russian: Печать подлинности
+
+# [TRANSLATION]
+<<<
+Ваша печать подлинности должна быть подлинной
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Чтобы банкноты были подлинными, они должны соответствовать этим требованиям
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Russian: Меченые банкноты
+
+# [TRANSLATION]
+<<<
+Меченые банкноты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Деньги имеют систему маркировки, состоящую из кода, состоящего из одной буквы и семи цифр на обороте, значение которого следующее
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Код буквы F: Это действительные банкноты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Код буквы X: Это банкноты с признаками нахождения под наблюдением
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Russian: Лупа
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Russian: Список УФ-кодов
+
+# [TRANSLATION]
+<<<
+Банкноты с признаками нахождения под наблюдением должны быть подтверждены посредством их UV-кода, видимого только с помощью лупы инспекционного стола. Банкнота будет помечена, если последние четыре цифры UV-кода присутствуют в документе списка UV-кодов под наблюдением.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Состояние банкнот
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Банкноты, переданные гражданами, должны быть в идеальном состоянии. Они не должны иметь признаков вандализма, разрывов, пятен или ухудшения цвета.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: CATEGORY
+# English: Category
+# Russian: Категория
+#
+# ID: LABEL
+# English: Label
+# Russian: Этикетка
+
+# [TRANSLATION]
+<<<
+Это документ, который генерируется после завершения чтения товаров. В нем отражаются товары, запрошенные гражданами, их статус утверждения и набор этикеток, соответствующих различным категориям, которым принадлежит товар.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: ORDER_LIST
+# English: Order List
+# Russian: Список заказа
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Russian: Отклонитель товаров
+
+# [TRANSLATION]
+<<<
+Для аннулирования какого-либо товара из списка заказа необходимо проставить печать на указанной области отклонителем товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Russian: Вспомогательные документы
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Russian: Лоток для вспомогательных документов
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: ORDER_LIST
+# English: Order List
+# Russian: Список заказа
+#
+# ID: LABEL
+# English: Label
+# Russian: Этикетка
+
+# [TRANSLATION]
+<<<
+Это документ из лотка для вспомогательных документов инспекционного стола. В нем отражается значение каждой из этикеток в списке заказа.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Были включены следующие действия на рабочей станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+В рабочую станцию были добавлены следующие доступы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+
+# [TRANSLATION]
+<<<
+Доступ к единице действий
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к единице действий.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+
+# [TRANSLATION]
+<<<
+Единица действий
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к единице действий. Это рабочая зона, в которой выполняются различные действия над гражданами.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Russian: Уведомитель о несоответствиях
+
+# [TRANSLATION]
+<<<
+Доступ к уведомителю о несоответствиях
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Russian: Уведомитель о несоответствиях
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к уведомителю о несоответствиях.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Russian: Уведомитель о несоответствиях
+
+# [TRANSLATION]
+<<<
+Уведомитель о несоответствиях
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Russian: Уведомитель о несоответствиях
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к уведомителю о несоответствиях. Это рабочая зона, которая позволяет гражданину сообщить о несоответствиях.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Russian: Журнал рабочей смены
+
+# [TRANSLATION]
+<<<
+Доступ к журналу рабочей смены
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Russian: Журнал рабочей смены
+
+# [TRANSLATION]
+<<<
+Позволяет доступ к журналу рабочей смены.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Russian: Журнал рабочей смены
+
+# [TRANSLATION]
+<<<
+Журнал рабочей смены
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Russian: Журнал рабочей смены
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к журналу рабочей смены. Это рабочая зона, которая позволяет как начать, так и завершить рабочую смену на рабочей станции.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+
+# [TRANSLATION]
+<<<
+Элементы рабочей станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Начало
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Главное меню
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Документы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Рабочие зоны
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Сообщить о несоответствии
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Russian: Выходной склад
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к выходному складу.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Читать товары вручную
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Russian: Чек
+
+# [TRANSLATION]
+<<<
+Чек
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Создается после завершения доставки товаров. И должен быть передан гражданину для утверждения и завершения покупки.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+Гражданин предъявляет способ оплаты на инспекционном столе.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+
+# [TRANSLATION]
+<<<
+После проверки способ оплаты должен быть внесен в кассовый аппарат.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Russian: Уведомитель о несоответствиях
+
+# [TRANSLATION]
+<<<
+Таким образом будет предоставлен доступ к рабочей зоне уведомителя о несоответствиях.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+
+# [TRANSLATION]
+<<<
+Таким образом будет предоставлен доступ к рабочей зоне единицы действий.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Russian: Уведомитель о несоответствиях
+
+# [TRANSLATION]
+<<<
+В случае обнаружения каких-либо несоответствий во время обслуживания граждан, об этом можно сообщить через доступ к уведомителю о несоответствиях.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Элемент, в который вносятся средства оплаты граждан.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Элемент для обработки товаров для чтения
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Элемент для обработки товаров для взвешивания
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+В этой области отражаются все товары, которые везет гражданин, сгруппированные в две зоны: одна для одобрения, а другая для неодобрения
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+С каждым товаром связан механизм, который позволит перемещать товар между этими зонами для определения, будет ли он одобрен или нет, когда позже на станции будут утверждаться продукты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Описание рабочей области
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Russian: Считыватель товаров
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступна в момент, когда товар скользит по считывателю товаров. Это рабочая область, где считываются товары
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Для этого необходимо открыть лоток, накопить и подтвердить сумму, соответствующую сумме, подлежащей выдаче гражданину
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Очистить сдачу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Принять сдачу
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Справки
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Для начала необходимо развернуть сканер над штрих-кодом товара.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Со сканером в положении приступают к раскрытию кода товара, удерживая нажатой кнопку сканера.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+После раскрытия кода товара он вводится и принимается с помощью клавиатуры, завершая тем самым ввод.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Удалить код
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Принять код
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Автозаполнение кода
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Сканировать код
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Для начала необходимо найти соответствующий товар в списке кодов товара.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+После нахождения соответствующего кода его следует ввести с клавиатуры, после чего напечатать и приклеить штрих-код на товар.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Печать кода
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Автопоиск кода
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Russian: Предмет
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Чтобы вручить предмет гражданину, его необходимо перетащить к нему.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Russian: Предмет
+
+# [TRANSLATION]
+<<<
+Использовать предмет
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Звонки могут быть выполнены с помощью свободного набора номера или через сохраненный контакт.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Совершить звонок
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Контактная книга
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Свободное набор
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Russian: Отклонить
+
+# [TRANSLATION]
+<<<
+Отклонить
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Сканирование отпечатков
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Russian: Арестовать
+
+# [TRANSLATION]
+<<<
+Арестовать
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Сканировать тело
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Russian: Нейтрализовать
+
+# [TRANSLATION]
+<<<
+Нейтрализовать
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Russian: Измерить давление
+
+# [TRANSLATION]
+<<<
+Измерить давление
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Russian: Измерить алкоголь
+
+# [TRANSLATION]
+<<<
+Измерить алкоголь
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Для регистрации входа или выхода вставьте карту в прорезь аппарата
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Одобрить / Не одобрить товар
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Russian: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Russian: Улучш.
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Улучшение, позволяющее видеть сумму сдачи, которую необходимо выдать гражданину
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Russian: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Russian: Улучш.
+
+# [TRANSLATION]
+<<<
+Улучшение, позволяющее видеть сумму денег в лотке для сдачи
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Russian: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Russian: Улучш.
+#
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Улучш. для автоматического завершения введённого кода.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Russian: Улучш.
+#
+# ID: CODE
+# English: Code
+# Russian: Код
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Улучш. для автоматического завершения текущего кода из списка товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Russian: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Russian: Улучш.
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Улучш. для автоматического поиска товара из списка товаров.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Russian: Улучш.
+
+# [TRANSLATION]
+<<<
+Улучш.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Russian: Правило
+
+# [TRANSLATION]
+<<<
+Действующие правила
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Russian: Правило
+
+# [TRANSLATION]
+<<<
+Нарушение работником любого из следующих правил повлечет штраф в доход.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Инструменты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Просмотр рабочей зоны
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Russian: Вспомогательные документы
+
+# [TRANSLATION]
+<<<
+Вспомогательные документы
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Russian: Вспом. док.
+
+# [TRANSLATION]
+<<<
+Удалить Вспом. док.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+
+# [TRANSLATION]
+<<<
+Отклонить товар
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Russian: Отклонитель товаров
+
+# [TRANSLATION]
+<<<
+Отклонитель товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Его функция — отклонять товары граждан. Для этого необходимо разместить и активировать печать в области товара для отказа.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+В нем регистрируются важные номера телефонов и номера частого пользования.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: LABEL
+# English: Label
+# Russian: Этикетка
+
+# [TRANSLATION]
+<<<
+Обратитесь к этому документу на инспекционном столе для получения дополнительной информации. Вы найдете значение этикеток на лицевой стороне и дополнительную информацию на обороте документа.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+#
+# ID: BMI
+# English: BMI
+# Russian: ИМТ
+
+# [TRANSLATION]
+<<<
+Действие по расчету ИМТ
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Russian: Пищевые рекомендации
+#
+# ID: OBESITY
+# English: Obesity
+# Russian: Ожирение
+
+# [TRANSLATION]
+<<<
+Позволяет получить индекс массы тела гражданина. Обратитесь к допустимым значениям ожирения в документе пищевых рекомендаций.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Просмотреть выполненные тесты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Russian: Пропавшие без вести
+
+# [TRANSLATION]
+<<<
+Доступ к разделу Пропавшие без вести
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Russian: Пропавшие без вести
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к реестру пропавших без вести
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+
+# [TRANSLATION]
+<<<
+Доступ к разыскиваемым преступникам
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+
+# [TRANSLATION]
+<<<
+Позволяет получить доступ к реестру разыскиваемых преступников
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Russian: Пропавшие без вести
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к пропавшим без вести, это рабочая зона, где отображаются все личные данные, связанные с каждым из пропавших без вести
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к разыскиваемым преступникам, это рабочая зона, где отображаются все личные данные, связанные с каждым из разыскиваемых преступников
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Для получения вознаграждения следует позвонить по указанному номеру, пока гражданин находится на станции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Russian: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Russian: Пропавшие без вести
+
+# [TRANSLATION]
+<<<
+Позволяет быстро и кратко просмотреть всех пропавших без вести для удобства сравнения
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+
+# [TRANSLATION]
+<<<
+Позволяет быстро и кратко просмотреть всех разыскиваемых преступников для удобства сравнения
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Russian: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Доступ Quick Viewer (Разыскиваемые преступники)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Russian: Пропавшие без вести
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Russian: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Доступ Quick Viewer (Пропавшие без вести)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Russian: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+
+# [TRANSLATION]
+<<<
+Позволяет доступ к Quick Viewer для разыскиваемых преступников.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Russian: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Russian: Пропавшие без вести
+
+# [TRANSLATION]
+<<<
+Позволяет доступ к Quick Viewer для пропавших без вести.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Чтобы продовольственные купоны были подлинными, они должны соответствовать этим требованиям.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Продовольственные купоны имеют период действия. Эта информация может быть отражена на лицевой стороне документа.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Продовольственные купоны являются одной из форм оплаты, принимаемых в распределительных центрах.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Штамп
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+
+# [TRANSLATION]
+<<<
+Его действительность должна быть проверена и поставлен штамп на инспекционном столе, а затем помещен в кассовый аппарат станции.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Нейтрализатор
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Рабочая зона для нейтрализации враждебных граждан. Для её выполнения необходимо осуществлять точные выстрелы.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Russian: Нейтрализация
+
+# [TRANSLATION]
+<<<
+Помните, что у вас ограничены боеприпасы и время для проведения нейтрализации.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MAIL
+# English: Mail
+# Russian: Почта
+
+# [TRANSLATION]
+<<<
+Доступ к почте
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MAIL
+# English: Mail
+# Russian: Почта
+
+# [TRANSLATION]
+<<<
+Доступ, который позволяет войти в Почту.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Russian: Почта
+
+# [TRANSLATION]
+<<<
+Почта
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Russian: Доступ
+#
+# ID: MAIL
+# English: Mail
+# Russian: Почта
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: OBJECT
+# English: Object
+# Russian: Предмет
+#
+# ID: INVENTORY
+# English: Inventory
+# Russian: Инвентарь
+
+# [TRANSLATION]
+<<<
+Доступен через доступ к почте. Это рабочая зона, где можно отправлять предметы из инвентаря запланированным контактам. Для отправки предмета необходимо сначала подготовить посылку.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Для этого, в первую очередь, установите пустую коробку на стол.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Russian: Предмет
+
+# [TRANSLATION]
+<<<
+Во-вторых, поместите в коробку предмет для отправки.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+После этого оберните коробку с помощью обёртки для отправки.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+На этом этапе можно будет выбрать контакт, которому отправляется посылка, и приступить к печати квитанции.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Для завершения отправки посылки необходимо приклеить сгенерированную квитанцию и поместить посылку в отправочный депозит.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Russian: Карта
+
+# [TRANSLATION]
+<<<
+Карта городов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Russian: Список УФ-кодов
+
+# [TRANSLATION]
+<<<
+Список УФ-кодов
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Russian: Список кредитных карт
+
+# [TRANSLATION]
+<<<
+Список кредитных карт
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Russian: Лоток для вспомогательных документов
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Russian: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Это документ из лотка для вспомогательных документов инспекционного стола. В нем отражены города Nowhere, уполномоченные принимать пищевые продукты из распределительного центра.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+
+# [TRANSLATION]
+<<<
+Кредит-ноты являются одной из форм оплаты, принимаемых в распределительных центрах.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Russian: Кассовый аппарат
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+
+# [TRANSLATION]
+<<<
+Необходимо проверить его действительность и прикрепить сопровождающий счет на инспекционном столе, а затем поместить в кассовый аппарат рабочей станции.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Кредит-ноты имеют срок действия. Эта информация отражена на лицевой стороне документа.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Для того чтобы кредит-ноты были подлинными, они должны соответствовать этим требованиям
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+
+# [TRANSLATION]
+<<<
+Элемент, отражающий вес гражданина, присутствующего на рабочей станции. Превышение веса по сравнению с указанным на главном мониторе может указывать на возможную кражу.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Russian: Несоответствие
+
+# [TRANSLATION]
+<<<
+Доступная через единицу действий, это рабочая зона, где сканируется тело граждан в поисках несоответствий.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Для начала необходимо развернуть сканер над телом гражданина.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Когда сканер находится в нужном положении, следует приступить к сканированию тела гражданина, удерживая кнопку сканера.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Russian: Элемент навигации
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Russian: Несоответствие
+
+# [TRANSLATION]
+<<<
+После завершения сканирования появятся элементы навигации, и необходимо приступить к поиску несоответствий.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Russian: Несоответствие
+
+# [TRANSLATION]
+<<<
+проверить несоответствие
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Просмотрите условия на обороте документа для получения дополнительной информации.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Russian: Лоток для вспомогательных документов
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Russian: Меченые банкноты
+
+# [TRANSLATION]
+<<<
+Это документ из лотка для вспомогательных документов инспекционного стола. В нем перечислены ультрафиолетовые коды меченых банкнот.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Russian: Распределительный центр
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Russian: Считыватель кредитных карт
+
+# [TRANSLATION]
+<<<
+Кредитные карты являются одной из форм оплаты, принимаемых в распределительных центрах, и должны обрабатываться с помощью считывателя кредитных карт.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+#
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Кредитные карты отображают свой код и информацию о владельце на лицевой стороне, а код безопасности — на обороте.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Russian: Элементы
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Элемент рабочей станции, на котором обрабатываются платежи с помощью кредитных карт.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+#
+# ID: STATION
+# English: Station
+# Russian: Рабочая станция
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступна при протягивании кредитной карты через считыватель станции, это рабочая зона, в которой обрабатываются платежи по кредитной карте.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Далее необходимо ввести последние 4 цифры кода кредитной карты.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+#
+# ID: CODE
+# English: Code
+# Russian: Код
+
+# [TRANSLATION]
+<<<
+Затем необходимо ввести код безопасности кредитной карты.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Russian: Код
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+После ввода кодов, если на кредитной карте есть средства, будет доступна печать чека для подписи гражданином.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Сформированный чек должен быть передан гражданину через лоток для подписи.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Гражданин предоставляет подписанный чек, и он должен совпадать с подписью на карте.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Если подписи не совпадают, это указывает на то, что используется чужая карта, и следует действовать в соответствии с нормативными требованиями.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Если подписи совпадают, следует завершить обработку кредитной карты, сохранив чек в указанном отсеке.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Для начала следует провести кредитную карту через считыватель.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Запросить подпись
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Клонировать карту
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Печать квитанции
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступная через единицу действий, это рабочая зона, в которой проводятся тесты на алкоголь.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Следующие особенности у граждан могут являться признаком опьянения.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Для подтверждения состояния опьянения граждан необходимо сначала подготовить устройство.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Для начала следует утилизировать использованные загубники.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Затем необходимо заменить использованный загубник устройства на новый.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Наконец, устройство подносят ко рту гражданина для запуска теста.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+С подготовленным устройством приступают к тесту, удерживая кнопку устройства до завершения измерения.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Russian: Измерить алкоголь
+
+# [TRANSLATION]
+<<<
+Измерить алкоголь
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Застегнуть.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Проколоть.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Купоны на скидку — это документы, которые могут выдаваться вместе со средством оплаты и покрывают процент суммы покупки гражданина. Их необходимо обработать раньше оплаты.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Необходимо проверить их действительность и пробить на столе инспекции, после чего поместить в кассу станции для принятия.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+#
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Купоны на скидку имеют срок действия. Эта информация отображается на лицевой стороне документа.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Просроченные купоны должны быть аннулированы путём проставления штампа на обороте, в указанной зоне.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+
+# [TRANSLATION]
+<<<
+Для подлинности купонов на скидку они должны соответствовать следующим требованиям.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Через единицу действий открывается рабочая зона, где для проверки личности гражданина сверяются его отпечатки пальцев.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Для начала необходимо обратиться к архиву отпечатков пальцев, связанному с удостоверением личности. Для этого предварительно требуется считывание удостоверения личности.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Затем необходимо считать отпечаток пальца гражданина, удерживая палец на считывателе до завершения процесса.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Затем необходимо проверить совпадение отпечатков. Если они не совпадают, удостоверение личности не принадлежит гражданину, и действовать необходимо согласно установленным нормам.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Открыть файл
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Russian: Лоток для вспомогательных документов
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Это документ из лотка для вспомогательных документов на инспекционном столе. В нём отражены разрешённые марки и банки, связанные с кредитными картами.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Russian: Документы
+
+# [TRANSLATION]
+<<<
+Разрешённые марки и банки будут отмечены галочкой в документе.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Russian: Единица действий
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Russian: Рабочие зоны
+
+# [TRANSLATION]
+<<<
+Доступна через единицу действий, это рабочая зона, где проводятся тесты артериального давления.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Следующие характеристики у граждан могут быть показателем гипертензии.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Для подтверждения артериального давления граждан необходимо сначала подготовить устройство.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Для начала необходимо надеть манжету на руку гражданина.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Затем необходимо разместить фонендоскоп устройства под манжетой.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+С подготовленным устройством приступают к тесту, последовательно нажимая кнопку устройства до завершения измерения.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Russian: Измерить давление
+
+# [TRANSLATION]
+<<<
+Измерить давление
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Неавторизированные модификации
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Фальшивые банкноты
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Russian: Предмет
+#
+# ID: INVENTORY
+# English: Inventory
+# Russian: Инвентарь
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Это предметы инвентаря, которые могут быть переданы гражданам с различными проблемами, такими как зависимости, ожирение, артериальное давление и непереносимость, в зависимости от обстоятельств.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Доставка не является обязательной, но за каждый распространенный листовок будет получен дополнительный доход в конце дня.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Функциональность, позволяющая выдать сдачу поддельными банкнотами гражданину.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+За каждую успешно проведенную аферу без обнаружения будет получен дополнительный доход в конце дня.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Russian: Считыватель кредитных карт
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Модификация считывателя кредитных карт, которая позволяет клонировать кредитные карты.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Для клонирования кредитной карты сначала необходимо выполнить съемку передней и задней сторон карты.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Затем, чтобы завершить клонирование, необходимо отправить данные.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+За каждую склонированную карту будет получен дополнительный доход в конце дня.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Считать карту
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Отправить данные
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Russian: Главный монитор
+#
+# ID: PRODUCT
+# English: Product
+# Russian: Товар
+#
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+На главном мониторе отображаются некоторые запреты на товары, которые имеют граждане.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Управление
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Эта игра разработана так, чтобы в неё можно было играть полностью, используя только мышь.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Дополнительно доступно использование определенных клавиш, таких как
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape, Enter, Удалить, Цифровые клавиши, Клавиши направления
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Ок
+>>>

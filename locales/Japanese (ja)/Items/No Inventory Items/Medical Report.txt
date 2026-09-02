@@ -1,0 +1,154 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#1
+
+# [ENGLISH]
+# Medical Report
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICAL_REPORT
+# English: Medical Report
+# Japanese: 医療報告書
+
+# [TRANSLATION]
+<<<
+医療報告書
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#3
+
+# [ENGLISH]
+# Multiple trauma and fractures
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+多数の打撲と骨折
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#4
+
+# [ENGLISH]
+# Sexually Transmitted Disease: Terminal Phase
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+性病：終末期
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#5
+
+# [ENGLISH]
+# Alcohol intoxication
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+アルコール中毒
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#6
+
+# [ENGLISH]
+# Drug intoxication
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+薬物中毒
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#7
+
+# [ENGLISH]
+# Firearm injury
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+銃傷
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#8
+
+# [ENGLISH]
+# Did you get out of the hospital? // That's good
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+病院から出られたの？ // 良かったね
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#9
+
+# [ENGLISH]
+# You should be more careful next time.
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+次はもっと気をつけなきゃ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#10
+
+# [ENGLISH]
+# I wish you a quick recovery
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ご早期の回復をお祈りしています
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#11
+
+# [ENGLISH]
+# It could've been worse
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+もっと悪くなる可能性もあった
+>>>

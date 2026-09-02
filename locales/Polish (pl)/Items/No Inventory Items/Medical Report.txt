@@ -1,0 +1,154 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#1
+
+# [ENGLISH]
+# Medical Report
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICAL_REPORT
+# English: Medical Report
+# Polish: Raport medyczny
+
+# [TRANSLATION]
+<<<
+Raport medyczny
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#3
+
+# [ENGLISH]
+# Multiple trauma and fractures
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Liczne stłuczenia i złamania
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#4
+
+# [ENGLISH]
+# Sexually Transmitted Disease: Terminal Phase
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Choroba przenoszona drogą płciową: faza terminalna
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#5
+
+# [ENGLISH]
+# Alcohol intoxication
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Zatrucie alkoholem
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#6
+
+# [ENGLISH]
+# Drug intoxication
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Zatrucie narkotykami
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#7
+
+# [ENGLISH]
+# Firearm injury
+
+# [CONTEXT]
+# Medical condition described in a medical report
+
+# [TRANSLATION]
+<<<
+Rana postrzałowa
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#8
+
+# [ENGLISH]
+# Did you get out of the hospital? // That's good
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Wyszedłeś ze szpitala? // To dobrze
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#9
+
+# [ENGLISH]
+# You should be more careful next time.
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Następnym razem musisz bardziej uważać
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#10
+
+# [ENGLISH]
+# I wish you a quick recovery
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Życzę ci szybkiego powrotu do zdrowia
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_INFORMEMEDICO#11
+
+# [ENGLISH]
+# It could've been worse
+
+# [CONTEXT]
+# Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mogło być gorzej
+>>>

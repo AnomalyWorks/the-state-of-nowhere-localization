@@ -1,0 +1,1309 @@
+# ============================================================================
+# [KEY]
+# ESTADISTICAS#0
+
+# [ENGLISH]
+# Statistics
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Statistici
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#1
+
+# [ENGLISH]
+# Infractions committed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Abateri comise
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#2
+
+# [ENGLISH]
+# Unprotected sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Întâlniri sexuale neprotejate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#3
+
+# [ENGLISH]
+# Sexual encounters
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Întâlniri sexuale
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#4
+
+# [ENGLISH]
+# Sexual encounters offered
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Întâlniri sexuale oferite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#5
+
+# [ENGLISH]
+# Sexual encounters received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Întâlniri sexuale primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#6
+
+# [ENGLISH]
+# Alcohol consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Consumul de alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#7
+
+# [ENGLISH]
+# Drug consumption
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Consumul de droguri
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#8
+
+# [ENGLISH]
+# Embezzlements
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Delapidări
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#9
+
+# [ENGLISH]
+# Cash shortages
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Lipsuri de casă
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#10
+
+# [ENGLISH]
+# Household debts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Datorii gospodărești
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#11
+
+# [ENGLISH]
+# Citizens completed correctly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeni finalizați corect
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#12
+
+# [ENGLISH]
+# Citizens completed incorrectly
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeni finalizați incorect
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#13
+
+# [ENGLISH]
+# Alcohol blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Leșinuri din cauza alcoolului
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#14
+
+# [ENGLISH]
+# Drug-induced blackouts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Leșinuri din cauza drogurilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#15
+
+# [ENGLISH]
+# Confirmed citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeni confirmați
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#16
+
+# [ENGLISH]
+# Rejected citizens
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeni respinși
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#17
+
+# [ENGLISH]
+# Citizens neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeni neutralizați
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#18
+
+# [ENGLISH]
+# Citizens arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Romanian: Cetățeni
+
+# [TRANSLATION]
+<<<
+Cetățeni reținuți
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#19
+
+# [ENGLISH]
+# Drug deliveries
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Livrări de droguri
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#20
+
+# [ENGLISH]
+# Health pamphlets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Romanian: Broșuri de sănătate
+
+# [TRANSLATION]
+<<<
+Broșuri de sănătate distribuite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#21
+
+# [ENGLISH]
+# Addiction brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ADICTION_BROCHURE
+# English: Addiction Brochure
+# Romanian: Broșură despre dependențe
+
+# [TRANSLATION]
+<<<
+Broșuri despre dependențe distribuite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#22
+
+# [ENGLISH]
+# Intolerance brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: INTOLERANCES_BROCHURE
+# English: Intolerances Brochure
+# Romanian: Broșură despre intoleranțe
+
+# [TRANSLATION]
+<<<
+Broșuri despre intoleranțe distribuite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#23
+
+# [ENGLISH]
+# Malignism leaflets delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Romanian: Broșură Malignism
+
+# [TRANSLATION]
+<<<
+Broșuri Malignism distribuite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#24
+
+# [ENGLISH]
+# Obesity brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: OBESITY_BROCHURE
+# English: Obesity Brochure
+# Romanian: Broșură despre obezitate
+
+# [TRANSLATION]
+<<<
+Broșuri despre obezitate distribuite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#25
+
+# [ENGLISH]
+# Blood pressure brochures delivered
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: BLOOD_PRESSURE_BROCHURE
+# English: Blood Pressure Brochure
+# Romanian: Broșură despre tensiunea arterială
+
+# [TRANSLATION]
+<<<
+Broșuri despre tensiunea arterială distribuite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#26
+
+# [ENGLISH]
+# Wanted Criminals reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Romanian: Infractori căutați
+
+# [TRANSLATION]
+<<<
+Infractori căutați raportați prin apel
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#27
+
+# [ENGLISH]
+# Missing Persons reported via call
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Romanian: Persoane dispărute
+
+# [TRANSLATION]
+<<<
+Persoane dispărute raportate prin apel
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#28
+
+# [ENGLISH]
+# Arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#29
+
+# [ENGLISH]
+# Undercover arrests received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări sub acoperire primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#30
+
+# [ENGLISH]
+# Resisting arrest charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru rezistență primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#31
+
+# [ENGLISH]
+# Attempted crime charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru tentativă primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#32
+
+# [ENGLISH]
+# Single homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru omor simplu primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#33
+
+# [ENGLISH]
+# Multiple homicide charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru omor multiplu primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#34
+
+# [ENGLISH]
+# Drug-related charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru droguri primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#35
+
+# [ENGLISH]
+# Exhibitionism charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru exhibiționism primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#36
+
+# [ENGLISH]
+# Criminal association charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru asociere ilegală primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#37
+
+# [ENGLISH]
+# Forgery charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru falsificare primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#38
+
+# [ENGLISH]
+# Prostitution charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru prostituție primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#39
+
+# [ENGLISH]
+# Theft charges received
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Arestări pentru furt primite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#40
+
+# [ENGLISH]
+# Packages delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Romanian: Poliție Secretă
+
+# [TRANSLATION]
+<<<
+Pachete livrate Poliției Secrete
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#41
+
+# [ENGLISH]
+# Packages delivered to rebels
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Colete livrate rebelilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#42
+
+# [ENGLISH]
+# Information delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Romanian: Poliție Secretă
+
+# [TRANSLATION]
+<<<
+Informații livrate Poliției Secrete
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#43
+
+# [ENGLISH]
+# Incorrect info delivered to secret police
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: SECRET_POLICE
+# English: Secret Police
+# Romanian: Poliție Secretă
+
+# [TRANSLATION]
+<<<
+Transmitere incorectă de informații către Poliția Secretă
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#44
+
+# [ENGLISH]
+# Unpaid rent
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Chirie neplătită
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#45
+
+# [ENGLISH]
+# Unpaid household expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Cheltuieli gospodărești neplătite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#46
+
+# [ENGLISH]
+# Unpaid taxes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Impozite neplătite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#47
+
+# [ENGLISH]
+# Unpaid Arrest Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Cheltuieli de arest neplătite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#48
+
+# [ENGLISH]
+# Unpaid Medical Expenses
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Cheltuieli medicale neplătite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#49
+
+# [ENGLISH]
+# Unpaid condoms
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Prezervative neplătite
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#50
+
+# [ENGLISH]
+# Change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Furturi de rest
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#51
+
+# [ENGLISH]
+# Detected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Furturi de rest detectate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#52
+
+# [ENGLISH]
+# Undetected change thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Furturi de rest nedetectate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#53
+
+# [ENGLISH]
+# Accepted bribes
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Mită acceptată
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#54
+
+# [ENGLISH]
+# Drug deliveries to addicts
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Livrări de droguri către dependenți
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#55
+
+# [ENGLISH]
+# Thieves not arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hoți nearestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#56
+
+# [ENGLISH]
+# Thief rejections
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Respingerea hoților
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#57
+
+# [ENGLISH]
+# Poor not rejected
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Săraci nerespinși
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#58
+
+# [ENGLISH]
+# Robber thefts
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Romanian: Jefuitori
+
+# [TRANSLATION]
+<<<
+Jafuri ale Jefuitorilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#59
+
+# [ENGLISH]
+# Robbers neutralized
+
+# [CONTEXT]
+# Statistical labels
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Romanian: Jefuitori
+
+# [TRANSLATION]
+<<<
+Neutralizări ale Jefuitorilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#60
+
+# [ENGLISH]
+# Minor inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Penalizare minoră pentru inactivitate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#61
+
+# [ENGLISH]
+# Major inactivity penalty
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Penalizare majoră pentru inactivitate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#62
+
+# [ENGLISH]
+# Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Spitalizări
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#63
+
+# [ENGLISH]
+# Fake bill scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Escrocherii cu bancnote false
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#64
+
+# [ENGLISH]
+# Cloned card scams
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Escrocherii cu carduri clonate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#65
+
+# [ENGLISH]
+# Alcohol tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Teste de alcool efectuate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#66
+
+# [ENGLISH]
+# Blood pressure tests performed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Teste de tensiune efectuate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#67
+
+# [ENGLISH]
+# Body scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Scanări corporale
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#68
+
+# [ENGLISH]
+# Fingerprint scans
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Scanări ale amprentelor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#69
+
+# [ENGLISH]
+# Thieves arrested
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Hoți arestați
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#70
+
+# [ENGLISH]
+# Bets placed
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Pariuri plasate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#71
+
+# [ENGLISH]
+# Bets won
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Pariuri câștigate
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#72
+
+# [ENGLISH]
+# Bets lost
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Pariuri pierdute
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#73
+
+# [ENGLISH]
+# Gift purchases
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Cumpărări de cadouri
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#74
+
+# [ENGLISH]
+# Times in debt
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Dăți îndatorat
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#75
+
+# [ENGLISH]
+# Injury Hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Spitalizări din cauza loviturilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#76
+
+# [ENGLISH]
+# Sex-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Spitalizări din cauze sexuale
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#77
+
+# [ENGLISH]
+# Alcohol-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Spitalizări din cauza alcoolului
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#78
+
+# [ENGLISH]
+# Drug-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Spitalizări din cauza drogurilor
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#79
+
+# [ENGLISH]
+# Firearm-related hospitalizations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Spitalizări din cauza armelor de foc
+>>>
+
+# ============================================================================
+# [KEY]
+# ESTADISTICAS_GENERALES#80
+
+# [ENGLISH]
+# Product cancellations
+
+# [CONTEXT]
+# Statistical labels
+
+# [TRANSLATION]
+<<<
+Anularea produselor
+>>>

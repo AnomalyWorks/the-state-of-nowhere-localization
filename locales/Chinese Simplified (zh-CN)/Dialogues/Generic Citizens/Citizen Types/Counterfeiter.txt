@@ -1,0 +1,607 @@
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#1
+
+# [ENGLISH]
+# How? // My ID card is fake? // It must be a mistake.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+什么？ // 我的身份证是假的？ // 一定是搞错了
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#2
+
+# [ENGLISH]
+# Wow // You discovered my fake ID card... // I congratulate you
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+哇 // 你发现我的假身份证了... // 恭喜你
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#3
+
+# [ENGLISH]
+# My ID card is not fake // You are wrong
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我的身份证不是假的 // 你弄错了
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#4
+
+# [ENGLISH]
+# You figured me out buddy // The ID card is fake // You're very good.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+被你发现了，朋友 // 身份证是假的 // 你真厉害
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#5
+
+# [ENGLISH]
+# My ID card is not a fake // Check it out // It has the stamps on it.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+我的身份证不是假的 // 仔细检查 // 它有真伪印章
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#6
+
+# [ENGLISH]
+# Oh... // You realized... // I won't forge again // Please don't rat me out...
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+噢... // 你发现了... // 我不会再伪造了 // 请不要举报我
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#7
+
+# [ENGLISH]
+# How? // It can't be // I was told it was an undetectable replica.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+什么？ // 不可能 // 他们告诉我这是无法检测的复制品
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#8
+
+# [ENGLISH]
+# What do you mean, fakes? // No way // The guy who sold me the falsifications told me that nobody would notice.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+怎么会是假的？ // 不可能 // 卖给我赝品的人告诉我没人会发现
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#9
+
+# [ENGLISH]
+# False? // Must be an error // Check it again
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+假的？ // 一定是搞错了 // 再检查一次
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#10
+
+# [ENGLISH]
+# But it's an exact replica // How could you tell?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+但这明明是一模一样的复制品 // 你怎么发现的？
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#11
+
+# [ENGLISH]
+# That the bill is counterfeit? // It must be a mistake!
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+纸币是假的？ // 那一定是搞错了！
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#12
+
+# [ENGLISH]
+# Counterfeit? // You're crazy // That bill is real.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+伪造？ // 你疯了吧 // 那张纸币是真的
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#13
+
+# [ENGLISH]
+# But this is a new bill! // Maligno announced it recently // Didn't you hear about it?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+但这张纸币是新的！ // Maligno前不久才发行的 // 你不知道吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#14
+
+# [ENGLISH]
+# It can't be // They just handed me that bill.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+不可能 // 这张纸币刚刚才给我的
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#15
+
+# [ENGLISH]
+# How did you figure it out // I made that bill myself // With the latest technology
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+你怎么发现的？ // 那张纸币可是我自己做的 // 用的最新技术
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#16
+
+# [ENGLISH]
+# It's authentic! // Isn't that the seal of authenticity?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+是真的！ // 那不是真伪印章吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#17
+
+# [ENGLISH]
+# Counterfeit? // But I just got it // Look // It has the seal of authenticity.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+伪造？ // 这可是他们刚给我的 // 你看 // 上面有真伪印章
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#18
+
+# [ENGLISH]
+# What do you mean it's a fake? // But it has all the stamps // I made sure to put them on properly
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+假的？ // 可是上面的印章都齐了 // 是我自己认真贴上去的
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#19
+
+# [ENGLISH]
+# Fake? // But look // It has Nowhere's seal of authenticity.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+假的？ // 你看啊 // 上面有Nowhere的真伪印章
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#20
+
+# [ENGLISH]
+# You noticed // You're the first one // What gave it away // The seals of authenticity?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+你发现了 // 你是第一个 // 那是什么？ // 真伪印章？
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#21
+
+# [ENGLISH]
+# My credit note is fake? // How can this be possible?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我的信用票据是假的？ // 怎么可能？
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#22
+
+# [ENGLISH]
+# This credit note is authentic // Check again
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+那张信用票据是真的 // 请再检查一次
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#23
+
+# [ENGLISH]
+# I didn't forge that credit note... // Well, yes, I did
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我没有伪造那张信用票据... // 好吧是的
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#24
+
+# [ENGLISH]
+# Come on // It's not a fake credit note // It says it right there // 'This is not a forgery'
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+算了 // 这不是假的信用票据 // 上面写着 // '这不是伪造的'
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#25
+
+# [ENGLISH]
+# Yes // I forged that credit note // So what?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+是的 // 我伪造了那张信用票据 // 那又怎样?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#26
+
+# [ENGLISH]
+# The coupon is authentic // Check it again please
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+这是正品优惠券 // 请再检查一次
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#27
+
+# [ENGLISH]
+# What? // Don't look at me like that // I didn't forge that coupon.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+什么？ // 别那样看我 // 我没有伪造那张优惠券
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#28
+
+# [ENGLISH]
+# Shoot // The guy who gave me that coupon said that they wouldn't notice.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+可恶 // 给我这张优惠券的家伙说不会被发现的
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#29
+
+# [ENGLISH]
+# Oh... // You got me, buddy // Don't rat me out // I'll never fake coupons again.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+哦... // 你发现了，朋友 // 别举报我 // 我不再伪造优惠券了
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#30
+
+# [ENGLISH]
+# That my coupon is fake? // Do you know how crazy that sounds? // ...
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+什么？我的优惠券是假的？ // 你知道这听起来有多荒唐吗？ // ...
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#31
+
+# [ENGLISH]
+# Alright // What do you say if I give you some bills // And you forget about that fake card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+那么 // 如果我给你一些纸币 // 你就忘掉那张假卡如何
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#32
+
+# [ENGLISH]
+# Please don't arrest me // Ignore my fake ID card // I'll pay you
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+求你了别逮捕我 // 忽略我的假身份证 // 我会付你钱
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#33
+
+# [ENGLISH]
+# Are you going to arrest me for the fake card? // Maybe a bribe will change your mind
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你要因为假卡逮捕我吗？ // 也许一笔贿赂能让你改变主意
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#34
+
+# [ENGLISH]
+# Hey // I could give you money // If you overlook that fake card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+听着 // 我可以给你钱 // 如果你无视那张假卡的事
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#35
+
+# [ENGLISH]
+# Come on // Let me give you some money to forget about it // It's just a fake ID card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+来吧 // 让我给你点钱让你忘了这事 // 只是一张假身份证而已
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#36
+
+# [ENGLISH]
+# Please // I can't go to prison // I'm just a humble counterfeiter // Let me give you money
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+拜托 // 我不能进监狱 // 我只是个卑微的伪造者 // 让我给你钱
+>>>

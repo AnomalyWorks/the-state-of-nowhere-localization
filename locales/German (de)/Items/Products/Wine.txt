@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#1
+
+# [ENGLISH]
+# Wine
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Wein
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#2
+
+# [ENGLISH]
+# Well // I'll have a glass of wine today
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Na gut // Heute trinke ich ein Gläschen Wein
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#3
+
+# [ENGLISH]
+# Nothing like wine // With a good piece of meat
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nichts geht über Wein // Zu einem guten Stück Fleisch
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#4
+
+# [ENGLISH]
+# Do you like wine? // Don't you drink alcohol? // No wonder you're so boring
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Magst du Wein? // Du trinkst keinen Alkohol? // Kein Wunder, dass du so langweilig bist
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#5
+
+# [ENGLISH]
+# 'Don Maligno Wine' // 'Drink in moderation' // Yeah... // Maybe another day
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Wein Don Maligno' // 'In Maßen trinken' // Ja... // Vielleicht ein andermal
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#6
+
+# [ENGLISH]
+# Hey // I wanted to have a glass of wine
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey // Ich wollte ein Glas Wein trinken
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#7
+
+# [ENGLISH]
+# Great... // Meat won't taste the same without a glass of wine.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Großartig... // Das Fleisch wird ohne ein Glas Wein nicht gleich schmecken
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#8
+
+# [ENGLISH]
+# What about my wine? // Can't I take it? // It's okay.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Und mein Wein? // Ich darf ihn nicht mitnehmen? // Schon gut
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#9
+
+# [ENGLISH]
+# No! // My wine... // Anything but that...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nein! // Mein Wein... // Alles, nur das nicht...
+>>>

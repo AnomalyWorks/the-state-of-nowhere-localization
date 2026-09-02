@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#1
+
+# [ENGLISH]
+# Rice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+米饭
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#2
+
+# [ENGLISH]
+# Legend says that some people eat rice with milk // What? // It tastes really good
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+据说有些人会把米饭和牛奶一起吃 // 什么？ // 很好吃
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#3
+
+# [ENGLISH]
+# 'Don Maligno Rice' // 'Processed and packaged by the Government of Nowhere' // Interesting.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Chinese Simplified: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+'Don Maligno'大米 // '由Nowhere政府加工包装' // 有意思
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#4
+
+# [ENGLISH]
+# My mother always gave me rice // It was the only thing we had to eat.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我妈妈总是给我米饭 // 这是我们唯一能吃的东西
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#5
+
+# [ENGLISH]
+# Have you tried fried rice? // It's exquisite
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你吃过炒饭吗？ // 非常好吃
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#6
+
+# [ENGLISH]
+# My rice... // Now I won't be able to make sushi
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我的米饭... // 现在做不了寿司了
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#7
+
+# [ENGLISH]
+# I can't eat rice with meat // If I don't have any rice...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+没有肉我不能吃米饭 // 如果没有米饭...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#8
+
+# [ENGLISH]
+# Hey! // Rice is a staple in my diet
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+嘿！// 米饭是我饮食的主食
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#9
+
+# [ENGLISH]
+# Wow... // Rice is the main ingredient in my meals...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+哇... // 米饭是我饭菜里的主要食材...
+>>>

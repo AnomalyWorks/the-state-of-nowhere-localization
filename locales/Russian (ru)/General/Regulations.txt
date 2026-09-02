@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+Нарушение
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Следует принимать действительных граждан
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+
+# [TRANSLATION]
+<<<
+Граждане, которые крадут товары, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Russian: Грабители
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Russian: Нейтрализован
+
+# [TRANSLATION]
+<<<
+Грабители должны быть нейтрализованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Граждане должны обрабатываться с удостоверением личности и быть отклонены, если они его не предъявляют
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Граждане с просроченным удостоверением личности должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие чужое удостоверение личности, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие поддельное удостоверение личности, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+
+# [TRANSLATION]
+<<<
+Граждане из запрещенных городов должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Russian: Разыскиваемые преступники
+
+# [TRANSLATION]
+<<<
+Разыскиваемые преступники должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+
+# [TRANSLATION]
+<<<
+Граждане с высоким уровнем алкогольного опьянения должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Продукция должна быть обработана с соответствующим кодом
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Russian: Несовершеннолетние
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов, не подходящих для несовершеннолетних
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Russian: Пожилые люди
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов, не подходящих для пожилых людей
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Russian: Люди с ожирением
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов, не подходящих для людей с ожирением
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Russian: Люди с тяжёлым ожирением
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов, не подходящих для людей с тяжёлым ожирением
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Russian: Гипертоники
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов, содержащих соль, гипертоникам
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов, содержащих алкоголь, гражданам с положительным тестом
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Russian: Пищевая непереносимость
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов с фруктозой гражданам с пищевой непереносимостью
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Russian: Пищевая непереносимость
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов с сахарозой гражданам с пищевой непереносимостью
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Russian: Пищевая непереносимость
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов с лактозой гражданам с пищевой непереносимостью
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Russian: Пищевая непереносимость
+
+# [TRANSLATION]
+<<<
+Запрещена продажа продуктов с глютеном гражданам с пищевой непереносимостью
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Russian: Список запрещённых лиц
+
+# [TRANSLATION]
+<<<
+Запрещена продажа товаров, находящихся в списке запрещённых товаров гражданина
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Russian: Список запрещённых лиц
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Russian: Категории товаров
+
+# [TRANSLATION]
+<<<
+Запрещена продажа категорий товаров, находящихся в списке запрещённых категорий гражданина
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+
+# [TRANSLATION]
+<<<
+Граждане должны предъявить какой-либо способ оплаты, иначе они будут отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+
+# [TRANSLATION]
+<<<
+Граждане не должны предъявлять недостаток денег в платежах
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие поддельные банкноты, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Граждане, которые настаивают на оплате порванными, испачканными или поврежденными банкнотами, должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: BILLS
+# English: Bills
+# Russian: Банкноты
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие помеченные банкноты, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие чужую кредитную карту, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие кредитную карту с запрещенной маркой, должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие кредитные карты запрещенных банков, должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Russian: Кредитная карта
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие кредитную карту без средств, должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие чужую кредит-ноту, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие просроченную кредит-ноту, должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие поддельную кредит-ноту, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие чужие продовольственные купоны, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие поддельные продовольственные купоны, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: REJECTED
+# English: Rejected
+# Russian: Отклонено
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие просроченные продовольственные купоны, должны быть отклонены
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Russian: Граждане
+#
+# ID: ARRESTED
+# English: Arrested
+# Russian: Арестован
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+
+# [TRANSLATION]
+<<<
+Граждане, предъявляющие поддельные купоны на скидку, должны быть арестованы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+
+# [TRANSLATION]
+<<<
+Купоны на скидку с истекшим сроком действия не должны приниматься и должны быть аннулированы
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+
+# [TRANSLATION]
+<<<
+Принятые купоны на скидку должны быть пробиты в указанной зоне
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Russian: Кредит-нота
+
+# [TRANSLATION]
+<<<
+Кредит-ноты должны быть скреплены со счетом-фактурой в указанной зоне
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Russian: Продовольственные купоны
+
+# [TRANSLATION]
+<<<
+Продовольственные купоны должны быть проштампованы в указанной зоне
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Не должно быть недостачи в кассе из-за переплаты сдачи
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Russian: Купоны на скидку
+
+# [TRANSLATION]
+<<<
+Купоны на скидку должны быть приняты или аннулированы
+>>>

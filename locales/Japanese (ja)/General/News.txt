@@ -1,0 +1,3086 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#1
+
+# [ENGLISH]
+# Welcome to Maligno News!!! // The country's number one news monopoly! // This is Papanatas with another news broadcast.
+
+# [CONTEXT]
+# News channel introduction. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# Japanese: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# Japanese: Papanatas
+
+# [TRANSLATION]
+<<<
+Maligno Newsへようこそ!! // 国内トップのニュース独占メディアです！ // Papanatasが新たなニュースをお届けします。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#2
+
+# [ENGLISH]
+# And in other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+そして他のニュースへ...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#3
+
+# [ENGLISH]
+# Speaking of other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+他のニュースについて話すと...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#4
+
+# [ENGLISH]
+# Moving on to other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+他のニュースに移りましょう...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#5
+
+# [ENGLISH]
+# And with that concludes our disinformation block for today // I'm Papanatas and this is Maligno News... the best and only news outlet in Nowhere
+
+# [CONTEXT]
+# News anchor's closing remarks. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# Japanese: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# Japanese: Papanatas
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+そしてこれで今日の情報ブロックが終わります // 私はパパナタスです、これはMaligno News... Nowhereの最高で唯一のニュースメディアです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#6
+
+# [ENGLISH]
+# Live
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+生中継
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#7
+
+# [ENGLISH]
+# Telephone communication
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+電話通信
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#8
+
+# [ENGLISH]
+# This morning
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+今朝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#9
+
+# [ENGLISH]
+# Food card operating normally
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+食糧カードが通常通り稼働中
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#10
+
+# [ENGLISH]
+# The honorable president-elect Maligno... // has already made available all the necessary elements to carry out the announced controls and the program will be fully operative... // in the country's distribution centers today
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+名誉ある次期大統領Malignoは... // 発表された検査を実施するために必要なすべての要素をすでに整え、プログラムは完全に稼働する予定です... // 本日中に国内の配送センターで
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#11
+
+# [ENGLISH]
+# It's unbelievable... // no one before in history has ever cared so much about Nowherians...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+
+# [TRANSLATION]
+<<<
+信じられない... // 歴史上かつてノーウェア人をこれほどまでに気にかけた者はいなかった...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#12
+
+# [ENGLISH]
+# Son of the chief minister is missing
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+首相の息子が失踪
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#13
+
+# [ENGLISH]
+# Yesterday afternoon, a huge commotion was caused by the disappearance of the son of the Chief Minister of Nowhere // Our beloved president expressed himself on the matter this morning...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+昨日夕方、Nowhere国務首相の息子の失踪が大きな騒動を引き起こしました // 我々の愛される指導者は今朝これについて語りました...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#14
+
+# [ENGLISH]
+# I will arrange for all government entities to collaborate with the search for the child of one of our own... // providing advanced monitoring tools for that purpose // Do not worry dear nowherians.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+
+# [TRANSLATION]
+<<<
+すべての政府機関が私たちの誰かの子供の捜索に協力するようにします // そのために高度な監視ツールを提供します // 心配しないでください、親愛なるノーウェア人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#15
+
+# [ENGLISH]
+# Escape occurs at special detention center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+特別拘置施設からの脱走
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#16
+
+# [ENGLISH]
+# Under the cover of last night 5 former officials of the previous Nowhere government escaped from the special detention center // Let's remember that the entire leadership of the past government was immediately imprisoned and found guilty of corruption // Now let's hear from Maligno who spoke out on the matter this morning
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+昨夜の闇の帳の下で、Nowhereの前政府の元役人5人が特別拘置施設から脱獄しました // 過去の政府の幹部は即座に逮捕され、汚職の有罪判決を受けたことを覚えましょう // では、今朝これについて声明を発表したMalignoを聞いてみましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#17
+
+# [ENGLISH]
+# These abominable people are going to be caught // don't worry // I have already arranged all the necessary tools to do so // it's only a matter of time my dear compatriots.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+これらの憎むべき人々は捕まるでしょう // 心配しないでください // そうなるように必要なすべての道具をすでに用意しました // これは単に時間の問題です、愛する同胞たち
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#18
+
+# [ENGLISH]
+# Theft at food distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+食料配送センターでの窃盗
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#19
+
+# [ENGLISH]
+# Distribution centers have registered significant shortages of merchandise // Administrators accuse low-class citizens of shoplifting // Nowhere authorities say they will take action
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+配送センターは商品の重要な不足を記録しました // 管理者は社会的地位の低い市民による窃盗を非難しています // Nowhereの当局はこれに対して措置を講じると述べています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#20
+
+# [ENGLISH]
+# Wretches!!!// For decades they have fed these kind of people!!!// These lazy people who live off us!!!// But this is over!!!// Maligno will put an end to this...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+卑劣な奴らめ！ // 数十年間、この手の連中を養ってきた！ // 我々にすがって生きるこの怠け者どもを！ // だが、それも終わりだ！！ // Malignoがこれを終わらせる...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#21
+
+# [ENGLISH]
+# Brutal robbery at a food distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+食料配送センターでの残忍な襲撃
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#22
+
+# [ENGLISH]
+# Last night, a brutal robbery took place at one of Nowhere's food distribution centers // The offender, posing as a citizen, carried out an armed assault on the cashier seriously injuring him // Fortunately, the Nowhere authorities assured the media, that they are working on providing the necessary tools to the centers to combat these situations // It is worth mentioning, that no person of important social position have been physically or psychologically harmed during the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+昨夜、nowhereの食料配送センターの一つで残忍な襲撃が発生しました // 犯人は市民を装い、武装して会計員を襲い、重傷を負わせました // 幸いなことに、Nowhereの当局は、これらと戦うためにセンターに必要なツールを提供するために作業しているとメディアに確約しました // 特に、この事件で重要な社会的地位を持つ人が身体的または精神的に損害を被らなかったことを注目に値します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#23
+
+# [ENGLISH]
+# Maligno will offer food coupons
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+Malignoは食料クーポンを提供します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#24
+
+# [ENGLISH]
+# Under the opening of an advanced center of aesthetic surgery our dear President Maligno said the following...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+先進的な美容外科センターの開設で、愛する大統領Malignoは次のように述べました...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#25
+
+# [ENGLISH]
+# We are going to provide free and healthy options // For this purpose, we will deliver special coupons that will enable people to have access to the best food
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+無料で健康的な選択肢を提供します // そのために、人々が最高の食品にアクセスできる特別なクーポンを配布します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#26
+
+# [ENGLISH]
+# Finally someone who does their job and cares about the people of Nowhere...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+ついに自分の仕事をこなし、Nowhereの住民を気にかける人が現れた...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#27
+
+# [ENGLISH]
+# Discounts arrive at the distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+割引が配送センターに到着します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#28
+
+# [ENGLISH]
+# The government has circulated a series of discount coupons. These will be applicable to purchases made at Nowhere distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+政府は一連の割引クーポンを流通させました。これらはNowhereの配送センターでの購入に適用されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#29
+
+# [ENGLISH]
+# A wonderful measure that will be one more among the many that our beloved President Maligno has been taking.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+私たちの愛する大統領Malignoが講じてきた数多くの措置の1つとなる素晴らしい措置です
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#30
+
+# [ENGLISH]
+# Document forgery organization dismantled
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+偽造文書組織が摘発されました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#31
+
+# [ENGLISH]
+# In today's news security forces have carried out an operation where they apprehended two brothers of foreign nationality who were engaged in the forgery of state documents // The authorities suspect that they may be part of a whole network of forgers // As for the criminals, who are of low social status, they have been transferred to the special detention center where they will be arduously interrogated
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+本日、治安当局は国家文書の偽造に従事していた外国籍の兄弟二人を拘束する作戦を実施しました // 当局は彼らが大規模な偽造犯ネットワークの一員である可能性を疑っています // 社会的下層階級に属するこの犯罪者たちは、特別拘置施設に移送され、厳しい尋問を受ける予定です
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#32
+
+# [ENGLISH]
+# One more proof of the problems that the poor and foreigners bring to our beloved country.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+貧しい人々と外国人が私たちの愛する国にもたらす問題のさらに一つの証拠です
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#33
+
+# [ENGLISH]
+# 'Eating Better' program launched
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+
+# [TRANSLATION]
+<<<
+「より良い食生活」プログラムを開始します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#34
+
+# [ENGLISH]
+# Maligno announced the implementation of a new program 'Eating Better' // Let's listen to what our new president had to say.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+
+# [TRANSLATION]
+<<<
+Malignoが「より良い食生活」新プログラムの施行を発表しました // 新たな指導者のお言葉を聴いてみましょう
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#35
+
+# [ENGLISH]
+# The current diet of the Nowherians encourages obesity and it can't go on like this // That's why I've decided to help you by launching a new program that will seek to increase the quality of life by removing foods that are unsuitable for people with obesity disorder.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+
+# [TRANSLATION]
+<<<
+現在のノーウェア人の食事は肥満を促進しています。これはこのままにはできません // そこで、肥満障害を有する人々に不適切な食品を除去し生活の質の向上を目指す新しいプログラムを開始することにしました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#36
+
+# [ENGLISH]
+# A more than wise measure. the inhabitants of the suburbs do nothing but eat and get fat. it was about time that someone controlled them.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+これ以上ないほど適切な措置です。郊外の住民は食べ太ることしかしていません。誰かが彼らを管理すべき時が来ました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#37
+
+# [ENGLISH]
+# New extension of the 'Eating Better' program
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+
+# [TRANSLATION]
+<<<
+「より良い食生活」プログラムの新たな拡張
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#38
+
+# [ENGLISH]
+# On World Heart Day, our brand-new president has decided to extend the program to include those foods that are not suitable for people with blood pressure problems // To this end, the distribution centers have been adapted with special devices for that purpose.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+世界心臓の日を迎えて、私たちの新たな大統領は、血圧に問題を抱える人々に適さない食品を含め、プログラムを拡大することを決定しました // そのために、配送センターは特別な装置を備えて調整されました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#39
+
+# [ENGLISH]
+# Maligno takes care of our hearts. That's our president.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoが私たちの心を守ってくれます。それが私たちの大統領です.
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#40
+
+# [ENGLISH]
+# A large part of the population suffers from food intolerances
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+多くの住民が食物不耐症に苦しんでいます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#41
+
+# [ENGLISH]
+# According to a study, more than 70% of the inhabitants of Nowhere have some kind of food intolerance without knowing it // This is what our honorable president assured, after his golf match with the country's top executives
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+研究によると、Nowhereの住民の70%以上が、それを知らずに何らかの食物不耐症に苦しんでいます // 国の重要な経営者たちとゴルフをした後、私たちの尊敬すべき指導者がそう語りました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#42
+
+# [ENGLISH]
+# My goal as president of the Nowherians is that they can live better every day // I am aware of their eating disorders, and for that reason I will expand the “Eating Better” program to ensure that every resident of Nowhere can eat properly without putting their health at risk.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Japanese: より良い食生活
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+ノーウェア人の大統領としての私の目的は、皆さんが毎日より良い生活を送れることです // 私は皆さんの食事障害について承知しており、そのために『より良い食生活』プログラムを拡充します。Nowhereのすべての住民が食事をし、それが健康にリスクとならないようにするためです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#43
+
+# [ENGLISH]
+# Awesome. Maligno is awesome
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+信じられない。Malignoは信じられない
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#44
+
+# [ENGLISH]
+# Terrible accident claims the life of an important Nowhere family
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+悲劇的な事故がNowhereの重要な家族の命を奪います
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#45
+
+# [ENGLISH]
+# The event happened yesterday afternoon, when the family was happily on their way, as they do every day, to the Nowhere shopping mall to do their usual shopping // when suddenly an alcoholic drifter, crossing the street irresponsibly, causes the family's luxury car to crash into a pole, thus claiming the family's life // Reliable witnesses of important social position assured that these are common maneuvers of these miserable paupers, in order to obtain some economic benefit // Faced with this tragic event, the government decided to establish breathalyzer controls in food distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+出来たのは昨日の午後で、その家族は毎日のように幸せに買い物のためにNowhereのショッピングモールに向かっていました // ところが突然、酔っ払いの浮浪者が無責任に横断歩道を渡り、高級な家族用車が街灯に衝突する事故を起こし、家族の命を奪いました // 社会的に重要な地位を持つ信頼できる目撃者は、彼らが経済的利益を得るために行う一般的な手口だと証言しました // 悲劇的な出来事を受けて、政府は食料品流通センターでアルコール検査を導入することを決定しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#46
+
+# [ENGLISH]
+# Undoubtedly a great loss for the country...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+疑いなく、国にとって大きな損失です...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#47
+
+# [ENGLISH]
+# New Awareness Campaign
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新たな啓発キャンペーン
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#48
+
+# [ENGLISH]
+# In order to raise awareness among the population, our beloved ruler Maligno, ordered the distribution centers to issue health pamphlets // which will address issues such as blood pressure, obesity, intolerances and addictions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Japanese: 健康パンフレット
+
+# [TRANSLATION]
+<<<
+人口の意識を高めるため、私たちの大切な指導者Malignoは、配送センターが健康パンフレットを発行するよう命じました // それらは血圧、肥満、不耐症、依存症などの問題に取り組みます。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#49
+
+# [ENGLISH]
+# Attack on government offices
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+政府办公厅でのテロ
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#50
+
+# [ENGLISH]
+# A group of hooded rebels entered one of the government offices this morning. It is still unknown what the purpose of these thugs was // The authorities are trying to determine what they took with them. Fortunately no one of high social standing was hurt, only service personnel.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+今朝、フードを被った反乱者のグループが政府のオフィスの一つに入りました。これらの犯罪者の目的はまだ不明です // 当局は彼らが何を持ち出したかを特定しようとしています。幸い、高い社会的地位を持つ人は誰も怪我をせず、サービス担当人員のみが負傷しました。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#51
+
+# [ENGLISH]
+# Wretched man dies in flames
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+惨めな者が炎に包まれて死ぬ
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#52
+
+# [ENGLISH]
+# In the midst of a senseless protest, a wretched man ignoring all environmental consequences, decided to set himself on fire // Amidst the piercing screams of pain and the incessant flames, one could hear ridicule such as freedom, equality, justice and so much other nonsense.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+無意味な抗議の中で、犯罪者は環境へのあらゆる影響を無視して、自分に火を放つことを決めました // 痛ましい苦痛の叫びと絶え間ない炎の中で、自由、平等、正義といったばかげたことやその他の愚行が聞こえてきました。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#53
+
+# [ENGLISH]
+# Today we have invited an expert in environmental protection. With you Dr. Morzat...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# Japanese: Morzat
+
+# [TRANSLATION]
+<<<
+今日は環境管理の専門家をゲストにお迎えしました。こちらはMorzat博士です...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#54
+
+# [ENGLISH]
+# Mr. Morzat. Do you believe that the residues given off by these wretches when they burn... Represent something detrimental to the health of superior people like us?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# Japanese: Morzat
+
+# [TRANSLATION]
+<<<
+Morzatさん。これらの惨めな者が燃えるときに放出される残留物は...私たちのような優等な人間の健康に有害なのでしょうか？
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#55
+
+# [ENGLISH]
+# I would say no, Mr. Papanatas
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# Japanese: Papanatas
+
+# [TRANSLATION]
+<<<
+私はそうは思いませんね、Papanatasさん
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#56
+
+# [ENGLISH]
+# There you have it. Nothing to worry about
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+それです。心配することは何もありません
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#57
+
+# [ENGLISH]
+# Criminal sentenced to life imprisonment
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+犯罪者に終身刑
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#58
+
+# [ENGLISH]
+# The lowlife accused of multiple attempted robberies in the distribution centers of Nowhere was sentenced today to life imprisonment // The wretch will be transferred in the next few days to the special detention center, where he will spend his last days stripped of all hope and welfare...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+Nowhereの配送センターでの複数の盗みの試みで告発された犯罪者は、今日終身刑を言い渡されました // 惨めな者は今後数日以内に特別拘置施設に移送され、すべての希望と幸福を奪われて最後の日々を過ごすでしょう
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#59
+
+# [ENGLISH]
+# Wave of deaths in the suburbs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+郊外での死の波
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#60
+
+# [ENGLISH]
+# According to the authorities in Nowhere, a mysterious disease that leaves people malnourished has spread throughout the suburbs // To combat it, the government has set up a fence around the suburbs to prevent its spread. In addition, calls on Nowherians to stay away from low-income people to avoid possible transmission of the disease.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+
+# [TRANSLATION]
+<<<
+Nowhereの当局によると、人々を栄養失調にする謎の病気がすべての郊外に広がっています // これに対抗するため、政府は拡大を防ぐために郊外を囲むよう命じました。さらに、可能な感染を避けるために、低所得者から離れるようノーウェア人に呼びかけています。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#61
+
+# [ENGLISH]
+# Death on a cliff
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+断崖の死
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#62
+
+# [ENGLISH]
+# During last night, a man in an evident state of drunkenness died when he threw himself off a cliff after fervently exclaiming 'To infinity and beyond!!!' // His remains rest in the depths of the sea.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+先晩、明らかに泥酔した男性が「宇宙の涯てまで！！」と叫んで断崖から身を投げ死亡 // 彼の遺骸は海の奥深くに眠っている
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#63
+
+# [ENGLISH]
+# Man found dead in alleyway
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+路地裏で遺体を発見
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#64
+
+# [ENGLISH]
+# Yesterday some homeless people reported the existence of a corpse // It was located in the south alley of our city // The autopsy revealed that the person presented high concentrations of an unknown drug in his body // The authorities are investigating its origin.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+昨日、浮浪者たちが遺体の発見を通報した // その遺体は町内の南の路地にあった // 験死の結果、体内に未知の薬物が高濃度で検出された // 当局はその出所を調査中
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#65
+
+# [ENGLISH]
+# Famous serial killer caught
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+著名連続殺人犯逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#66
+
+# [ENGLISH]
+# During the course of yesterday, the famous and most wanted serial killer of Nowhere Nicola Kullem, was arrested by the honorable security forces // 'Damn you!!!', 'I'll get my revenge!!!', 'You'll see you vermin!!!'. Shouted the murderer fiercely, as he was being transferred to the special detention center.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Japanese: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+昨日、捜査当局はNowhereで最も指名手配されていた有名な連続殺人犯Nicola Kullemを逮捕した // '呪われし者め!!', '報復してやる!!', '覚えていろ、クズ!!' — 殺人犯は特別拘置施設に送られる間、激しく叫んだ
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#67
+
+# [ENGLISH]
+# Notorious serial killer escapes
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+著名連続殺人犯逃走
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#68
+
+# [ENGLISH]
+# Yesterday, inexplicably, Nowhere's vicious and dangerous serial killer Nicola Kullem escaped // Authorities still don't know how he circumvented the strict security protocols // They also revealed that in the fugitive's cell, multiple phrases written in blood could be found, reading: 'I will kill you', 'You will die you damn' and 'I will tear out your entrails slowly and painfully'.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Japanese: Nicola Kullem
+
+# [TRANSLATION]
+<<<
+昨日、不思議なことにNowhereの残忍で危険な連続殺人犯Nicola Kullemが脱走した // 権威は彼がどのように厳重なセキュリティプロトコルを突破したのかまだ把握していない // さらに、逃亡犯の独房からは血で書かれた多数のフレーズが発見され、「殺すぞ」「死ね、呪われし者」「ゆっくりと苦しみながらお前の内臓を引きずり出してやる」と読める文章があった
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#69
+
+# [ENGLISH]
+# Well-known distribution center guard missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: PJ_GUARD
+# English: Guard
+# Japanese: 警備員
+
+# [TRANSLATION]
+<<<
+知名配送センター警備員行方不明
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#70
+
+# [ENGLISH]
+# The famous guard, recognized for his remarkable work in the guard service, has been reported missing by his relatives yesterday // In the last time he has been a prominent figure of the online video platform 'Maligno Tube' // Making successful video tutorials how to: 'Brutally immobilizing a person', 'Successfully bludgeoning bums' and 'How to remove blood stains effortlessly'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_GUARD
+# English: Guard
+# Japanese: 警備員
+#
+# ID: MALIGNO_TUBE
+# English: Maligno Tube
+# Japanese: Maligno Tube
+
+# [TRANSLATION]
+<<<
+有名な警備員は、その顕著な勤務で知られ、家族により昨日行方不明届が出されました // 最近、彼はオンライン動画プラットフォーム「Maligno Tube」で注目すべき人物となりました // 「人を残忍に無力化する方法」、「ホームレスを成功裏に殴る方法」、「血痕を楽に落とす方法」といった成功したチュートリアル動画を作りながら
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#71
+
+# [ENGLISH]
+# Government buildings looted
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+政府ビルの略奪
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#72
+
+# [ENGLISH]
+# Yesterday there were multiple lootings of government buildings // The authorities managed to capture some of the miserable members of this vile crime // They have already been transferred to the special detention center for a harsh and intense interrogation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+昨日、政府の建物に対する略奪が多数発生しました // 当局は、この悪質な犯罪の数人の卑劣な構成員を逮捕することに成功しました // 彼らはすでに厳しく激しい聴取のために特別拘置施設に移送されました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#73
+
+# [ENGLISH]
+# The government punishes the wicked
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+政府は悪人を罰する
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#74
+
+# [ENGLISH]
+# This morning the authorities reported that the thugs captured during the looting of government buildings a few days ago, were executed last night.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+今朝、当局は数日前に政府ビルの略奪で捕まった悪党たちが昨夜処刑されたと発表しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#75
+
+# [ENGLISH]
+# Our great ruler Maligno, reaffirms his unwavering commitment to the fight against crime.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+私たちの偉大な指導者Malignoは、犯罪との闘いに対する揺るぎない約束を再確認します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#76
+
+# [ENGLISH]
+# Heavy police confrontation against thugs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+警察と悪党の激しい対峙
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#77
+
+# [ENGLISH]
+# At this moment the honorable security forces of Nowhere, are fighting against a foul mob of thugs
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+現在、名誉あるNowhereの治安部隊は、ひどい犯罪者の集団と戦っています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#78
+
+# [ENGLISH]
+# From here, all my support to our beloved security forces // Who every day sacrifice themselves for us, confronting the lowest and most disgusting in this society
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+ここから、私たちの愛する治安部隊への全面的な支持を伝えます // 毎日私たちのために犠牲となり、この社会の最も低俗で不快な存在と立ち向かう
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#79
+
+# [ENGLISH]
+# Maligno lies!!!
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoは嘘をついています!!
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#80
+
+# [ENGLISH]
+# Finally, people of Nowhere! No more lies! // No more rules! No more controls! Down with Maligno! Down with the regime! Freedom! Freedom!
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+ついにNowhereの人々よ！嘘はもう終わった！ // もうルールはない！もう統制はない！Maligno打倒！体制打倒！自由！自由！
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#81
+
+# [ENGLISH]
+# Maligno monuments to be unveiled throughout Nowhere
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Nowhere全土にMalignoの像が建立されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#82
+
+# [ENGLISH]
+# The monuments to our savior the great Maligno have been completed. And will be inaugurated during this night, where prayers will be said to our leader // All inhabitants are requested to attend the monuments punctually. Those who present offerings to Maligno will be one step closer to salvation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+私たちの救い主偉大なるMalignoの像は完成しました。今夜、私たちの指導者への祈りが捧げられる中で開幕されます // 全ての住民が時間通りに像に集まるようお願いします。Malignoに供物を捧げる者は、救いへの一歩近づきます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#83
+
+# [ENGLISH]
+# Construction of Maligno's monuments begins
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoの像の建設が始まりました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#84
+
+# [ENGLISH]
+# Today work has just begun all over Nowhere. The purpose of this work is to build monuments to our great lord, almighty, unique and peerless, Maligno // They are expected to be finished in the next few days.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+本日、Nowhere全体で建設工事が始まりました // その目的は、我らが偉大なる主、全能なる唯一無二のMaligno様への記念碑を建立することです // 工事は今後数日で完成予定です
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#85
+
+# [ENGLISH]
+# Counterfeiter killed at distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+配送センターにて偽造業者撃毙
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#86
+
+# [ENGLISH]
+# A dangerous counterfeiter was gunned down yesterday at food distribution center south 3412 by a brave supervisor who took courage in the face of the evil criminal // saving the life of a fearful and insignificant station operator, who was there at the time of the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+昨日、配給センター南部3412で、危険な偽造業者が勇敢な監督官によって射殺されました // 悪質な犯罪者に立ち向かい勇気を奮い立たせた彼は // その場にいた臆病な作業ステーションの小作人の命を救いました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#87
+
+# [ENGLISH]
+# Man commits suicide at train station
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+男性、駅で自殺
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#88
+
+# [ENGLISH]
+# The miserable suburbanite threw himself under a train when it was on its way to the downtown area // Fortunately, the clean-up crew was able to remove the wreckage in time, preventing the transport service from being delayed // And so none of the brand-new executives traveling on the train were late for their important meetings
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+惨めな郊外住民が中央地区へ向かう列車が出発する際にその下に飛び込みました // 幸い、清掃担当の職員が遺骸をすぐに片付け、交通サービスの遅延を防ぎました // こうして列車に乗っていた立派な幹部たちが重要な会議に遅れる者は誰もいませんでした
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#89
+
+# [ENGLISH]
+# I love happy endings
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+ハッピーエンドが大好きです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#90
+
+# [ENGLISH]
+# Dangerous criminal killed in attempted robbery
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+危険な犯罪者が強盗未遂の際に撃毙
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#91
+
+# [ENGLISH]
+# A criminal robbed one of Nowhere's distribution centers yesterday // Fortunately, the center's supervisor and newly appointed leader of the group 'Maligno Our Savior' managed to take him down, putting an end to his evil intentions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+昨日、悪漢がNowhereの配給センターの一つを襲撃しました // 幸い、センターの監督官であり、'Maligno我らが救い主'の立派なリーダーが彼の悪意に終止符を打ち、制圧しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#92
+
+# [ENGLISH]
+# We are live with this brave man // This is Papanatas. Can you describe the event?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# Japanese: Papanatas
+
+# [TRANSLATION]
+<<<
+私たちはこの勇敢な男性と共にお届けしています // Papanatasです。出来事について詳しく教えていただけますか？
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#93
+
+# [ENGLISH]
+# I had never seen such an evil creature, so full of hate. I was afraid... In an instant, my life flashed before my eyes... // The cruise trips, the plastic surgeries, the shopping malls, the elegant parties... // It was at that moment that I knew I had to end him. Otherwise, my future and that of my poor, unhappy subordinates would come to an end...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+私はこれほど悪意に満ちた邪悪な生き物を見たことがありません。恐怖を感じました...一瞬で、私の人生が目の前を駆け抜けるのを見ました... // クルーズ、美容整形、ショッピングモール、洗練されたパーティー... // その時、私は彼に终结をもたらさなければならないと悟りました。そうしなければ、私の未来と私の悲惨で不幸な部下たちの未来は終わってしまうのです...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#94
+
+# [ENGLISH]
+# There you have it gentlemen. The words of a great hero.
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+皆様、以上です。偉大なる英雄の言葉でした。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#95
+
+# [ENGLISH]
+# Minister's missing son found
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+行方不明だった大臣の息子が発見される
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#96
+
+# [ENGLISH]
+# After intense searches all over the country, Jake Coff, the son of the important minister, has been found by an ungraceful employee of the 3412 south distribution center // After his identification he was immediately taken to a medical care facility, where he was found to have temporary memory loss.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# Japanese: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+全国を対象にした激しい捜索の結果、重要な大臣の息子であるJake Coffは、南部配送センター3412のあまり魅力的ではない職員によって発見されました // 彼の身元確認後、直ちに医療センターに搬送され、一時的な記憶喪失に苦しんでいることが判明しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#97
+
+# [ENGLISH]
+# Minister's missing son found dead
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+行方不明だった大臣の息子が遺体で発見される
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#98
+
+# [ENGLISH]
+# In circumstances still under investigation, the son of prominent Nowhere minister Jake Coff, was found dead with gunshot wounds. Maligno announced that the consequences for the heartless evildoer will be unimaginably disproportionate.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PJ_MISSING
+# English: Jake Coff
+# Japanese: Jake Coff
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+まだ調査中の状況で、Nowhereの重要な大臣の息子であるJake Coffは、銃傷を負って死亡しているのが発見されました。Malignoは、この邪悪で冷酷な者への報いは、想像を絶するほど不釣り合いなものになると発表しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#99
+
+# [ENGLISH]
+# Minister's son found!
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+大臣の息子が発見された！
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#100
+
+# [ENGLISH]
+# The son of missing minister, Jake Coff, was finally found // It happened yesterday at the 3412 South Distribution Center, while an unenlightened employee ordered his arrest // After the decision made by this poor wretch, the guards who were transporting the missing man to the jail, were able to ascertain that it was none other than the minister's missing son.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# Japanese: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+大臣のいなくなった息子、Jake Coffがついに発見されました // これ昨日、配送センター南3412で、無知な従業員が彼の逮捕を命じているうちに起こりました // この不幸な人が下した決定の後、行方不明者を刑務所に護送していた警備員たちは、彼がまさに大臣の喪失した息子であることを確認できました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#101
+
+# [ENGLISH]
+# A criminal was detained this morning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+悪党が今朝逮捕されました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#102
+
+# [ENGLISH]
+# A thug calling himself 'William the anarchist' was apprehended while causing disorderly conduct in the street // Tonight he will be transferred to the special detention center, where he will be able to 'express himself freely'...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: WILLIAM
+# English: William
+# Japanese: William
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+自称「アナーキストのWilliam」が街で暴れ回っているところを逮捕されました // 今夜、特別拘置施設に移送され、そこで「自由に自己表現」できるでしょう...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#103
+
+# [ENGLISH]
+# Supervisor's wife missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+
+# [TRANSLATION]
+<<<
+監督官の妻が失踪しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#104
+
+# [ENGLISH]
+# Yesterday, the wife of an important supervisor who works in the South 3412 distribution center, was reported missing // This is how the husband expressed himself this morning, visibly shaken by the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+昨日、配送センター南3412で働く重要な監督官の妻が失踪したと報道されました // 本日朝、夫は明らかに動揺しながら次のように語りました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#105
+
+# [ENGLISH]
+# My dear wife. I can't live without you... I can't... I can't...
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+愛しい妻よ。君がいなければ生きられない... いや... できない...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#106
+
+# [ENGLISH]
+# There you have it. Poor man...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+これで終わりです。かわいそうな人...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#107
+
+# [ENGLISH]
+# New gold statue of Maligno
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoの新しい黄金像
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#108
+
+# [ENGLISH]
+# During the day today, under the fluttering of thousands of white doves, has been inaugurated the new golden statue of our lord Maligno // The construction exhibits on its base the following legend: 'Our lord Maligno, who works for the glory of our people day and night. Nothing can match his incalculable magnificence.'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+本日、何千羽もの白鳩の舞う中、我らが主Malignoの新しい黄金像が除幕されました // 建物の基部には次のような伝説が刻まれています： '我らが主Maligno、日夜我らが民の栄光のために働く者。その計り知れない壮大さにcompareものは何もない'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#109
+
+# [ENGLISH]
+# New Maligno banknote
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoの新しい紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#110
+
+# [ENGLISH]
+# Starting today, a new high-denomination banknote has been put into circulation // It will have the honor of displaying the handsome face of His Magnificence, Maligno
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+本日、高額紙幣の新しい銀行券が発行されました // こちらには、その尊大なるMalignoの美しい顔を掲げる光栄が与えられます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#111
+
+# [ENGLISH]
+# The day of Malignism
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Japanese: マリグニズム
+
+# [TRANSLATION]
+<<<
+マリグニズムの日
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#112
+
+# [ENGLISH]
+# Today, this day has been made official, as the day of Malignism // From now on this will be the day on which all Nowherians pray and bestow offerings to our great lord Maligno.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Japanese: マリグニズム
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# Japanese: ノーウェア人
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+本日、この日はマリグニズムの日として公式に宣言されました // 今後、この日はすべてのノーウェア人が我らが偉大なる主Malignoに祈りを捧げ、供え物をする日となります
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#113
+
+# [ENGLISH]
+# Maligno launches his new book
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoが新しい本を出版
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#114
+
+# [ENGLISH]
+# On the occasion of offering the way to salvation, our lord Maligno has made available to the people, his new work 'Rosank' // The same is placed as a fundamental requirement to enter heaven // They can already be found in all bookstores all over the country at the modest price of $10000.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: ROSANK
+# English: Rosank
+# Japanese: Rosank
+
+# [TRANSLATION]
+<<<
+救いへの道を示すため、我らが主Malignoは民にその新作 'Rosank' を提供しました // これは天国に入るための必須条件と定められています // すでに国内のすべての書店で$10000という手頃な価格で入手可能です
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#115
+
+# [ENGLISH]
+# Maligno president for life
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno終身大統領
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#116
+
+# [ENGLISH]
+# This morning, Maligno was unanimously elected as President for Life of Nowhere... // And from now on he will be known as Maligno, President of Nowhere, Absolute leader of Malignism, Savior of Nowhere, Light bearer and miracle worker.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: MALIGNISM
+# English: Malignism
+# Japanese: マリグニズム
+
+# [TRANSLATION]
+<<<
+本日朝、Malignoは全会一致でNowhereの終身大統領に選出されました... // そしてこの瞬間から、以下のように呼称されます：Maligno、Nowhere大統領、マリグニズムの絶対的指導者、ノーウェアの救い主、光をもたらし奇跡を為す者
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#117
+
+# [ENGLISH]
+# New rules at distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+配送センターの新しい規則
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#118
+
+# [ENGLISH]
+# As of today, citizens will only be allowed to make purchases at distribution centers associated with their city // In this way Maligno seeks to ensure a good distribution of foodstuffs in Nowhere
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+本日から、市民は自市に割り当てられた配送センターでのみ買い物が可能となります // このようにして、MalignoはNowhereにおける食料の適切な分配を確保しようとしています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#119
+
+# [ENGLISH]
+# Maligno watches over us all
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoが皆を守ります
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#120
+
+# [ENGLISH]
+# Today, our brand new ruler Maligno, announced a series of measures aimed at protecting the young and old of Nowhere.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+本日、我々の偉大な指導者Malignoが、Nowhereの若者と高齢者を保護するための一連の対策を発表しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#121
+
+# [ENGLISH]
+# Providing healthier and more nutritious food to these vulnerable groups is paramount // And this is how our dear and beloved president understands it.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+これらの保護されていない層により健康で栄養価の高い食料を提供することは不可欠です // そして我々の愛され尊敬される指導者はそう理解しています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#122
+
+# [ENGLISH]
+# New campaign: Dignified Bills
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+新キャンペーン：値打ちのある紙幣
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#123
+
+# [ENGLISH]
+# Starting today, damaged money will no longer be accepted at Nowhere's food distribution centers // Any bill that is faded, torn, or vandalized will be rejected by station operators
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+本日からNowhereの配送センターでは、状態の悪いお金は受け付けません // 褪せた、破れた、または破損した紙幣は、作業ステーションの操作員によって拒否されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#124
+
+# [ENGLISH]
+# Without a doubt, a clear symbol of poverty that must be eradicated from Nowhere, once and for all.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+疑いなく、これはNowhereから根絶されるべき明確な貧困の象徴であり、一度で永遠に
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#125
+
+# [ENGLISH]
+# Maligno crushes evildoers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+Malignoが悪人を粉砕する
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#126
+
+# [ENGLISH]
+# Today, a list of credit cards and banking entities that will no longer be accepted in Nowhere's distribution centers was released // This measure was taken, after our honorable ruler Maligno, in his voracious desire to put an end to evil, discovered connections of said companies with the corrupt previous government.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+本日、Nowhereの配送センターで今後受け付けられなくなるクレジットカードおよび銀行機関の一覧が発表されました // この措置は、我々の尊敬すべき指導者Malignoが、悪を根絶したいという飽くなき願いのもと、これらの企業と以前の腐敗した政府とのつながりを発見したことを受けて実施されました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#127
+
+# [ENGLISH]
+# Identity theft is on the rise
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+身元詐欺の件数が増加している
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#128
+
+# [ENGLISH]
+# Based on an analysis conducted by distribution centers, it has become evident a considerably high increase of people showing up at centers with an identification card and other elements that are not of their property // Our excellence Maligno has shown his concern, and announced he will quickly take measures on this to detect and imprison these criminals.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+配送センターの分析に基づくと、身分証明書や彼らの所有物ではない他の物品を持ってセンターに集まる人の数がかなり増加していることが明らかになりました // 我々の優れたMalignoは懸念を表明し、これらの犯罪者を発見し収監するための迅速な措置を取ると発表しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#129
+
+# [ENGLISH]
+# Identification card theft
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+身分証明書の盗難
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#130
+
+# [ENGLISH]
+# Government authorities claim that successive identification card thefts have been reported // For this reason, they assure that controls have been tightened at distribution centers to fight against these misfits
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+
+# [TRANSLATION]
+<<<
+政府当局は、身分証明書の盗難が相次いで報告されていると述べています // その理由により、配送センターでの検問を強化し、これらの犯罪者たちと戦っていると確信しています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#131
+
+# [ENGLISH]
+# These vermin always find a way to cheat the system // But don't worry. Maligno has taken note and will arrest all those wretches.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+これらの悪党はいつもシステムをかいくぐる方法を見つける // しかし心配しないでください。Malignoはすでに把握しており、これらの卑劣な連中をすべて逮捕します
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#132
+
+# [ENGLISH]
+# Kidnapping and murder
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+誘拐と殺人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#133
+
+# [ENGLISH]
+# Today, police forces have found the body of a wretch with no signs of life // Preliminary investigations revealed it was a gang dedicated to kidnapping people and extorting their families for ransom // It appears the victim had no one to pay the ransom, which is why they ended up being murdered.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+本日、警察は遺体を発見しました // 初期調査の結果、これは人々を誘拐し、家族に身代金を要求する犯罪組織であることが判明しました // 被害者は身代金を支払う人がおらず、その結果殺害されたようです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#134
+
+# [ENGLISH]
+# New Communication Terminals
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新しい通信端末
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#135
+
+# [ENGLISH]
+# Station operators at the distribution centers now have telephone terminals // Authorities ask citizens to be patient if their service presents delays // The state also emphasizes its commitment to maintaining efficient and citizen-friendly processes while simultaneously adding more complexity to the system
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+今後、配送センターの作業ステーションのオペレーターは電話端末を使用できます // 当局は、サービスに遅延がある場合は市民に忍耐を求めています // 国はまた、通常の市民にとって効率的で親しみやすいプロセスを維持するという姿勢を強調し、システムにより多くの複雑さを加えています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#136
+
+# [ENGLISH]
+# New internal mail system in stations
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Japanese: 郵便
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+作業ステーションの新内部郵便システム
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#137
+
+# [ENGLISH]
+# As of today, an internal correspondence system has been implemented at the stations within the distribution centers // Authorities point out that services at the food distribution centers may experience delays // But they state that all this is a sign that procedures are being carried out in an excellent manner
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+本日より、配送センターの作業ステーションに内部通信システムが導入されました // 当局は、食品配送センターのサービスに遅延が生じる可能性があると指摘しています // しかし、これらすべては手順が優れた方法で履行されているという兆しです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#138
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新しい支払い手段が導入されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#139
+
+# [ENGLISH]
+# The state is expanding the approved payment options at food distribution centers // From now on, citizens will be able to use promissory notes to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+国は配送センターで承認された支払いオプションを拡大します // 今後、市民は食料を支払うためにクレジットノートを提示できるようになります
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#140
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新しい支払い手段が導入されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#141
+
+# [ENGLISH]
+# The state is expanding the accredited payment options at food distribution centers // From now on, citizens will be able to use credit cards to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+国は配送センターで承認された支払いオプションを拡大します // 今後、市民は食料を支払うためにクレジットカードを提示できるようになります
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#142
+
+# [ENGLISH]
+# Renowned journalist awarded
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+受賞したジャーナリスト
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#143
+
+# [ENGLISH]
+# Yesterday, a renowned journalist was awarded for his career // During an important ceremony headed by Maligno at the Nowhere state offices
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+昨日、有名なジャーナリストがそのキャリアのために授与されました // Malignoが先頭に立ったNowhere州のオフィスでの重要な式典の中で
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#144
+
+# [ENGLISH]
+# Checks on bills are being reinforced
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+紙幣の管理が強化されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#145
+
+# [ENGLISH]
+# As part of the incorporation of new strategies to detect and arrest criminals // As of today, a bill marking system has been implemented at food distribution centers // With this new system, the authorities of Nowhere reaffirm their commitment to the fight against crime in this country.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Japanese: 配送センター
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+犯罪者を発見し逮捕するための新たな戦略導入の一環として // 本日より配送センターに紙幣のマーキングシステムが導入されました // この新たなシステムにより、Nowhere当局はこの国の犯罪撲滅に取り組む姿勢を改めて示しました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#146
+
+# [ENGLISH]
+# Important book burning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+重要な焚書
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#147
+
+# [ENGLISH]
+# In order to guarantee order and security in our beloved country // During these days, hundreds of thousands of books whose malicious content only sought to promote chaos and fuel insecurity in our country have been seized // Titles such as 'Love and Equality' and 'All About My Rights' will be burned tomorrow // in what promises to be a fantastic opening ceremony for the presentation of new police vehicles and weaponry
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+私たちの愛する国の秩序と安全を確保するため // 最近、悪意のある内容が混沌を促し、私たちの国の不安を増幅させるだけの目的を持つ何十万冊の本が押収されました // '愛と平等'や'私の権利についてすべて'といったタイトルは明日焼却されます // 新しい車両と警察の武器の発表のための素晴らしい開会式となることが約束されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#148
+
+# [ENGLISH]
+# What a privilege to be awarded by our honorable president Maligno // I hope I can also be recognized by our leader one day
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+尊敬する大統領Malignoから賞を受ける特権は光栄です // いつか私たちの指導者にも認められることを願っています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#149
+
+# [ENGLISH]
+# Yesterday, the most wanted serial killer in Nowhere, Nicola Kullem, was apprehended by the honorable security forces // The criminal will be transferred to the special detention center today // None of this would have been possible without the timely report from a blessedly simple station operator // Who, despite his great limitations, knew how to handle the delicate situation
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Japanese: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+#
+# ID: STATION
+# English: Station
+# Japanese: 作業ステーション
+
+# [TRANSLATION]
+<<<
+昨日、名誉ある治安部隊によってNowhereで最も指名手配されていた有名な連続殺人犯Nicola Kullemが逮捕されました // この悪党は本日、特別拘置施設へ移送される予定です // これもすべて、ワークステーションの哀れながらも運だけは良かった作業員からの通報があったおかげです // 彼はその大きな能力的限界にもかかわらず、どうにかこのデリケートな状況に対処することができました
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#150
+
+# [ENGLISH]
+# New illegal haircuts
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新しい違法な髪型
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#151
+
+# [ENGLISH]
+# In an effort to exalt the figure of our powerful leader // And understanding that his exuberant mane is now a symbol of our beloved country // It has been forbidden for the citizens of Nowhere to get haircuts similar to those of our dear ruler // All those who do not comply with this measure face penalties ranging from fines, 20 lashes, and even prison
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+
+# [TRANSLATION]
+<<<
+私たちの強力な指導者の像を称えるために // そして彼の豊かな髪が今や私たちの愛する国の象徴であることを理解 // Nowhereの市民は、私たちの親愛なる統治者と似た髪型をすることは禁止されています // この措置に従わない者は、罰金、20発のムチ打ちから投獄まで、処罰にさらされます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#152
+
+# [ENGLISH]
+# So now you know, people of Nowhere // Imitating Maligno is heresy
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+ですから、Nowhereの人々は分かっています // Malignoに似ることは異端です
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#153
+
+# [ENGLISH]
+# New standardized requirement for photographs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+写真のための新しい基準
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#154
+
+# [ENGLISH]
+# In accordance with the provisions of the authorities of Nowhere // Any photograph featuring the face of our beloved president must be at least 20% larger than all other conventional photographs // Any person who fails to comply with the newly established standards will be charged with high treason and transferred to the special detention center
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Japanese: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Japanese: 特別拘置施設
+
+# [TRANSLATION]
+<<<
+Nowhereの当局の規定に従い // 私たちの愛する大統領の顔を含む写真は、通常の写真より少なくとも20%大きくなければなりません // 新しい基準を満たさない者は、重大な裏切り罪で告発され、特別拘置施設に移送されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#155
+
+# [ENGLISH]
+# As it should be // But no photograph could ever do justice to the beautiful face of our beloved president Maligno
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Japanese: Maligno
+
+# [TRANSLATION]
+<<<
+その通りです // しかし、いかなる写真も私たちの愛する大統領Malignoの美しい顔に正当性を与えることはできません
+>>>

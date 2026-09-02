@@ -1,0 +1,607 @@
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#1
+
+# [ENGLISH]
+# How? // My ID card is fake? // It must be a mistake.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Wie bitte? // Mein Ausweis ist gefälscht? // Das muss ein Fehler sein
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#2
+
+# [ENGLISH]
+# Wow // You discovered my fake ID card... // I congratulate you
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tja // Du hast meinen gefälschten Ausweis entdeckt... // Ich gratuliere dir
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#3
+
+# [ENGLISH]
+# My ID card is not fake // You are wrong
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mein Ausweis ist nicht gefälscht // Du liegst falsch
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#4
+
+# [ENGLISH]
+# You figured me out buddy // The ID card is fake // You're very good.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Du hast mich erwischt, Freund // Der Ausweis ist gefälscht // Du bist sehr gut
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#5
+
+# [ENGLISH]
+# My ID card is not a fake // Check it out // It has the stamps on it.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+
+# [TRANSLATION]
+<<<
+Mein Ausweis ist nicht gefälscht // Sieh genau hin // Er hat die Echtheitssiegel
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#6
+
+# [ENGLISH]
+# Oh... // You realized... // I won't forge again // Please don't rat me out...
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oh... // Du hast es gemerkt... // Ich werde nicht mehr fälschen // Bitte verrate mich nicht
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#7
+
+# [ENGLISH]
+# How? // It can't be // I was told it was an undetectable replica.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Wie bitte? // Das kann nicht sein // Man sagte mir, es sei eine nicht erkennbare Kopie
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#8
+
+# [ENGLISH]
+# What do you mean, fakes? // No way // The guy who sold me the falsifications told me that nobody would notice.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Was heißt hier gefälscht? // Das kann nicht sein // Der Typ, der mir die Fälschungen verkauft hat, sagte, niemand würde es bemerken
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#9
+
+# [ENGLISH]
+# False? // Must be an error // Check it again
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Gefälscht? // Das muss ein Fehler sein // Überprüf es noch mal
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#10
+
+# [ENGLISH]
+# But it's an exact replica // How could you tell?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Aber es ist eine exakte Nachbildung // Wie hast du das bemerkt?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#11
+
+# [ENGLISH]
+# That the bill is counterfeit? // It must be a mistake!
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Die Banknote ist gefälscht? // Das muss ein Fehler sein!
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#12
+
+# [ENGLISH]
+# Counterfeit? // You're crazy // That bill is real.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Eine Fälschung? // Du bist verrückt // Diese Banknote ist echt
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#13
+
+# [ENGLISH]
+# But this is a new bill! // Maligno announced it recently // Didn't you hear about it?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# German: Maligno
+#
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Aber diese Banknote ist neu! // Maligno hat sie erst kürzlich angekündigt // Hast du das nicht mitbekommen?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#14
+
+# [ENGLISH]
+# It can't be // They just handed me that bill.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Das kann nicht sein // Diese Banknote wurde mir gerade erst gegeben
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#15
+
+# [ENGLISH]
+# How did you figure it out // I made that bill myself // With the latest technology
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Wie hast du das bemerkt? // Ich habe diese Banknote doch selbst gemacht // Mit modernster Technologie
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#16
+
+# [ENGLISH]
+# It's authentic! // Isn't that the seal of authenticity?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+
+# [TRANSLATION]
+<<<
+Sie ist echt! // Ist das nicht das Echtheitssiegel?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#17
+
+# [ENGLISH]
+# Counterfeit? // But I just got it // Look // It has the seal of authenticity.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+
+# [TRANSLATION]
+<<<
+Eine Fälschung? // Aber ich habe sie gerade erst bekommen // Schau // Sie hat das Echtheitssiegel
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#18
+
+# [ENGLISH]
+# What do you mean it's a fake? // But it has all the stamps // I made sure to put them on properly
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+
+# [TRANSLATION]
+<<<
+Wie kann sie gefälscht sein? // Aber sie hat alle Echtheitssiegel // Ich selbst habe mich darum gekümmert, sie ordentlich aufzukleben
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#19
+
+# [ENGLISH]
+# Fake? // But look // It has Nowhere's seal of authenticity.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+#
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+
+# [TRANSLATION]
+<<<
+Gefälscht? // Aber sieh doch // Sie hat das Echtheitssiegel von Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#20
+
+# [ENGLISH]
+# You noticed // You're the first one // What gave it away // The seals of authenticity?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# German: Echtheitssiegel
+
+# [TRANSLATION]
+<<<
+Du hast es bemerkt // Du bist der Erste // Was waren sie? // Die Echtheitssiegel?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#21
+
+# [ENGLISH]
+# My credit note is fake? // How can this be possible?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Meine Gutschrift ist gefälscht? // Wie kann das möglich sein?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#22
+
+# [ENGLISH]
+# This credit note is authentic // Check again
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Diese Gutschrift ist echt // Überprüf es noch mal
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#23
+
+# [ENGLISH]
+# I didn't forge that credit note... // Well, yes, I did
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich habe diese Gutschrift nicht gefälscht... // Na gut, doch
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#24
+
+# [ENGLISH]
+# Come on // It's not a fake credit note // It says it right there // 'This is not a forgery'
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Los geht's // Das ist keine gefälschte Gutschrift // Das steht doch da // 'Das ist keine Fälschung'
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#25
+
+# [ENGLISH]
+# Yes // I forged that credit note // So what?
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ja // Ich habe diese Gutschrift gefälscht // Na und?
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#26
+
+# [ENGLISH]
+# The coupon is authentic // Check it again please
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Das ist ein echter Gutschein // Bitte überprüf es noch mal
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#27
+
+# [ENGLISH]
+# What? // Don't look at me like that // I didn't forge that coupon.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Was? // Schau mich nicht so an // Ich habe diesen Gutschein nicht gefälscht
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#28
+
+# [ENGLISH]
+# Shoot // The guy who gave me that coupon said that they wouldn't notice.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Verdammt // Der Typ, der mir diesen Coupon gegeben hat, sagte, sie würden es nicht merken
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#29
+
+# [ENGLISH]
+# Oh... // You got me, buddy // Don't rat me out // I'll never fake coupons again.
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Oh... // Du hast mich erwischt, Freund // Verrate mich nicht // Ich werde keine Coupons mehr fälschen
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#30
+
+# [ENGLISH]
+# That my coupon is fake? // Do you know how crazy that sounds? // ...
+
+# [CONTEXT]
+# Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mein Coupon ist gefälscht? // Weißt du, wie absurd das klingt? // ...
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#31
+
+# [ENGLISH]
+# Alright // What do you say if I give you some bills // And you forget about that fake card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Also // Was sagst du, wenn ich dir ein paar Banknoten gebe // Und du diese falsche Karte vergisst
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#32
+
+# [ENGLISH]
+# Please don't arrest me // Ignore my fake ID card // I'll pay you
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Verhafte mich bitte nicht // Ignoriere meinen gefälschten Ausweis // Ich werde dich bezahlen
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#33
+
+# [ENGLISH]
+# Are you going to arrest me for the fake card? // Maybe a bribe will change your mind
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Willst du mich wegen des gefälschten Ausweises verhaften? // Vielleicht lässt dich ein Bestechungsgeld deine Meinung ändern
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#34
+
+# [ENGLISH]
+# Hey // I could give you money // If you overlook that fake card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey // Ich könnte dir Geld geben // Wenn du diese Sache mit dem gefälschten Ausweis ignorierst
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#35
+
+# [ENGLISH]
+# Come on // Let me give you some money to forget about it // It's just a fake ID card
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Komm schon // Lass mich dir etwas Geld geben, damit du es vergisst // Es ist nur ein gefälschter Ausweis
+>>>
+
+# ============================================================================
+# [KEY]
+# DIALOGOS-GEN_FALSIFICADOR#36
+
+# [ENGLISH]
+# Please // I can't go to prison // I'm just a humble counterfeiter // Let me give you money
+
+# [CONTEXT]
+# Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bitte // Ich kann nicht ins Gefängnis // Ich bin ein bescheidener Fälscher // Lass mich dir Geld geben
+>>>

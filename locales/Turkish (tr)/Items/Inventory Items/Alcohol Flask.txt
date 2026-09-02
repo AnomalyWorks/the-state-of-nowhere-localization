@@ -1,0 +1,304 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#1
+
+# [ENGLISH]
+# Alcohol flask
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ALCOHOL_FLASK
+# English: Alcohol Flask
+# Turkish: Alkol Matarası
+
+# [TRANSLATION]
+<<<
+Alkol Matarası
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#2
+
+# [ENGLISH]
+# Elegant silver flask. Filled with the finest alcohol. Drink in moderation
+
+# [CONTEXT]
+# Description of the Alcohol Flask inventory item
+
+# [TRANSLATION]
+<<<
+Şık bir gümüş matara. En kaliteli alkolle dolu. Ölçülü için
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#3
+
+# [ENGLISH]
+# Is that drool? // Disgusting
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ne iğrenç! // Bu senin salyan mı?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#4
+
+# [ENGLISH]
+# Keep it // I don't drink
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Al // Alkol içmem
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#5
+
+# [ENGLISH]
+# That's a nice flask mate
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Güzel bir alkollü matara, dostum
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#6
+
+# [ENGLISH]
+# I wouldn't want to drink from that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Onu içmek istemezdim...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#7
+
+# [ENGLISH]
+# Drinking at work isn't good
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+İş sırasında içmek kötüdür
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#8
+
+# [ENGLISH]
+# Do you know how bad drinking alcohol is? // Me neither
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Alkol içmenin ne kadar zararlı olduğunu biliyor musunuz? // Ben de bilmiyorum
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#9
+
+# [ENGLISH]
+# My old flask... // Hiccup! // So many memories... // Keep it // I gave it to you
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Eski matarama... // Hık! // Ne çok anı... // Onu al // Sana hediye ettim
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#10
+
+# [ENGLISH]
+# I'm not that drunk yet // to drink that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bunu içecek kadar // sarhoş değilim
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#11
+
+# [ENGLISH]
+# Not even if it was the last alcohol in the world... // Well... // Maybe a sip...
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Dünyadaki son alkol olsa bile... // Şey... // Belki...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#12
+
+# [ENGLISH]
+# Thanks // but I don't share my booze
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Teşekkürler // Ama alkolümü paylaşmam
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#13
+
+# [ENGLISH]
+# I'm not crazy enough // to drink that thing
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bunu içecek kadar // deli değilim
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#14
+
+# [ENGLISH]
+# What are you trying to do? // Get me drunk?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ne yapmaya çalışıyorsun? // Beni sarhoş etmek mi?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#15
+
+# [ENGLISH]
+# I can't drink on duty
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Görev sırasında içemem
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#16
+
+# [ENGLISH]
+# I'm an officer of the Law // I can't drink alcohol
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ben bir kanun görevlisiyim! // Alkol içemem
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#17
+
+# [ENGLISH]
+# Do you think an officer like me has those weaknesses?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Benim gibi bir memurun // böyle zayıflıkları olduğunu mu sanıyorsun?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#18
+
+# [ENGLISH]
+# What do you say we go to my house // And have a few drinks on my couch
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ya evime gitsek // Ve kanepemde birkaç kadeh içsek ne dersin?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#19
+
+# [ENGLISH]
+# I need food // No alcohol // Please
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Yiyeceğe ihtiyacım var // Alkole değil // Lütfen
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#20
+
+# [ENGLISH]
+# It is a flask with a nice engraving // It would be difficult to make a good imitation with the tools I have
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Üzerinde güzel bir gravür olan bir matara // Sahip olduğum aletlerle iyi bir taklit yapmak zor olurdu
+>>>

@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#1
+
+# [ENGLISH]
+# Credit Card
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Kreditkarte
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#3
+
+# [ENGLISH]
+# That's my credit card // To pay for the purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Das ist meine Kreditkarte // Um den Einkauf zu bezahlen
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#4
+
+# [ENGLISH]
+# That's my credit card // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Das ist meine Kreditkarte // Du musst sie bearbeiten
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_TARJETACREDITO#5
+
+# [ENGLISH]
+# No // It's for the payment // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nein // Es ist zur Bezahlung // Du musst es bearbeiten
+>>>

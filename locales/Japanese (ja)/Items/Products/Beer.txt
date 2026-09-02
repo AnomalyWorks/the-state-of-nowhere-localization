@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#1
+
+# [ENGLISH]
+# Beer
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+ビール
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#2
+
+# [ENGLISH]
+# Do you like beer? // Wow... // How delicate
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ビールは好き？ // へえ... // おしゃれさんだね
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#3
+
+# [ENGLISH]
+# 'Don Maligno's beer' // 'Brewed from grains of a superior race' // The best grains...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno' ビール // '優等な血統の穀物で醸造' // 最高の穀物...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#4
+
+# [ENGLISH]
+# I worked hard today // I will really enjoy that beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+今日はよく働いた // このビールを堪能するよ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#5
+
+# [ENGLISH]
+# Do you drink beer? // Non-alcoholic beer? // Are you one of those...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ビール飲むの？ // 無アルコールビール？ // あんたそういう人
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#6
+
+# [ENGLISH]
+# Hey! // Not my beer! // Nooooo!!!!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ちょっと！ // 僕のビールだけはやめて！ // やめろーーー!!!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#7
+
+# [ENGLISH]
+# Please don't! // Everything but my beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+やめてくれ！ // ビールだけはやめて！
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#8
+
+# [ENGLISH]
+# Well... // I guess I'll go with pizza without beer
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+まあ... // ビールなしだね、ピザには
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_CERVEZA#9
+
+# [ENGLISH]
+# My beer... // Breaks my heart... // It breaks my heart...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Beer product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+僕のビールが... // 心が張り裂けそう... // 張り裂ける...
+>>>

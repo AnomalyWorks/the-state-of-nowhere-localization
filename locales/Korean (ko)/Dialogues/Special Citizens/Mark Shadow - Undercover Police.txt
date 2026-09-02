@@ -1,0 +1,404 @@
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#1
+
+# [ENGLISH]
+# Today has been a hard day // Do you think I could get something to relax with?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘 힘든 날이었어요 // 나 좀 편하게 할 수 있는 거 구할 수 있을 것 같아요?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#2
+
+# [ENGLISH]
+# I need to relieve stress // Do you know of anything that could help me with that?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+스트레스를 풀어야 해 // 그럴 수 있는 뭔가 알고 있어?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#3
+
+# [ENGLISH]
+# Hey // Would you recommend something stimulating?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+저기 // 좀 자극적인 거 추천해 줄래?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#4
+
+# [ENGLISH]
+# I should relax with something today // I've been working a lot
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘은 뭔가로 긴장을 풀어야겠어 // 많이 일했거든
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#5
+
+# [ENGLISH]
+# I'm a bit tense // I'd like to do something relaxing
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+좀 긴장됐어 // 편안하게 할 뭔가 하고 싶은데
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#6
+
+# [ENGLISH]
+# Do you know where I could get something stimulating?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+어디에서 자극적인 거 구할 수 있는지 알아?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#7
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest for insubordination
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+잠복 수사관 Mark Shadow // 명령 불복종으로 체포합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#9
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for assaulting a law enforcement officer
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+잠복 수사관 Mark Shadow // 체포합니다 // 법 집행관 폭행 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#10
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for drug possession
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 마약 소지 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#11
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for displaying yourself inappropriately
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 부적절한 노출 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#12
+
+# [ENGLISH]
+# Undercover Officer Mark Shadow // You are under arrest // for conspiring against the government
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 정부 음모 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#13
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for counterfeiting credit cards
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 신용카드 위조 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#14
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for prostituting yourself without government endorsement
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 정부 인가 없이 매춘을 한 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#15
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for counterfeiting money
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 위조 화폐 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#16
+
+# [ENGLISH]
+# Undercover officer Mark Shadow // You are under arrest // for stealing from a law enforcement officer
+
+# [CONTEXT]
+# Detention dialogue at the station associated with the special character Mark Shadow, who is undercover police officer. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Mark Shadow 잠복 경찰 // 체포합니다 // 법 집행관을 강도한 혐의로
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#17
+
+# [ENGLISH]
+# Don't you have something interesting for me? // I'm looking for some fun
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+저에게 재미있는 거 없나요? // 저는 재미를 찾고 있어요
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#18
+
+# [ENGLISH]
+# I'm looking for something fun // Do you think you can help me?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+재미있는 거 찾고 있어요 // 저 좀 도와줄 수 있을 것 같아요?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#19
+
+# [ENGLISH]
+# I'm looking for something to have a good time with // Any suggestions?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+좋은 시간을 보낼 거 찾고 있어요 // 제안 있으세요?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#20
+
+# [ENGLISH]
+# I'm bored // I'd like to have a little fun // Do you know of anything?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+지루해 // 좀 재미있게 놀고 싶은데 // 뭔가 알아?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#21
+
+# [ENGLISH]
+# Tonight I would like to have some fun // What do you recommend?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘 밤 재미있게 놀고 싶은데 // 뭐 추천해 줄래?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#22
+
+# [ENGLISH]
+# I feel like getting a little out of control today // Know anything that could help?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘 좀 제멋대로 놀고 싶은데 // 뭔가 알아?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#23
+
+# [ENGLISH]
+# Do you have anything interesting? // I'm on the lookout for something exciting
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+흥미로운 거 있어? // 멋진 거 찾고 있어
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#24
+
+# [ENGLISH]
+# Today I would like to release some accumulated stress // What would you recommend?
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘 쌓인 스트레스를 풀고 싶은데 // 뭐 추천해 줄래?
+>>>
+
+# ============================================================================
+# [KEY]
+# COMPRADORES_POLICIAENCUBIERTO#25
+
+# [ENGLISH]
+# Today has been a difficult day // I would like to do something to release tension
+
+# [CONTEXT]
+# Dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+오늘 힘든 하루였어 // 긴장을 풀 수 있는 뭔가 하고 싶은데
+>>>

@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#1
+
+# [ENGLISH]
+# Bread
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Pane
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#2
+
+# [ENGLISH]
+# I should bring bread to accompany my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Devo portare del pane per accompagnare i miei pasti
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#3
+
+# [ENGLISH]
+# 'Don Maligno Bread' // 'Made with grains of the purest superior race' // Well, it looks like a normal bread to me.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Italian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Pane Don Maligno' // 'Preparato con grani della più pura razza superiore' // Beh, a me sembra un pane normale
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#4
+
+# [ENGLISH]
+# Do you like bread // Some come with seeds
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ti piace il pane? // Alcuni hanno dei semi
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#5
+
+# [ENGLISH]
+# This bread... // It emanates a smell... // Sinister
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Questo pane... // Emana un odore... // Sinistro
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#6
+
+# [ENGLISH]
+# And now? // What bread will I have with my meals?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+E ora? // Con quale pane accompagnerò i pasti?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#7
+
+# [ENGLISH]
+# My bread 'Don Maligno'... // It's not fair // As tasty as it is...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Italian: Don Maligno
+
+# [TRANSLATION]
+<<<
+Il mio pane 'Don Maligno'... // Non è giusto // Ed è così gustoso
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#8
+
+# [ENGLISH]
+# Why are you canceling my bread? // I was planning to toast it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Perché annulli il mio pane? // E io che pensavo di tostarlo
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#9
+
+# [ENGLISH]
+# All right // The sinister aura of that bread gave me a bad feeling anyway.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Va bene // In ogni caso, l'aura sinistra di quel pane mi dava un brutto presentimento
+>>>

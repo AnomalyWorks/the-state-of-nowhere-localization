@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#1
+
+# [ENGLISH]
+# Rice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Reis
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#2
+
+# [ENGLISH]
+# Legend says that some people eat rice with milk // What? // It tastes really good
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Der Legende nach essen manche Reis mit Milch // Was? // Er schmeckt sehr gut
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#3
+
+# [ENGLISH]
+# 'Don Maligno Rice' // 'Processed and packaged by the Government of Nowhere' // Interesting.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# German: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# German: Nowhere
+
+# [TRANSLATION]
+<<<
+'Don Maligno Reis' // 'Verarbeitet und verpackt von der Regierung von Nowhere' // Interessant
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#4
+
+# [ENGLISH]
+# My mother always gave me rice // It was the only thing we had to eat.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Meine Mutter gab mir immer Reis // Es war das Einzige, was wir zu essen hatten
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#5
+
+# [ENGLISH]
+# Have you tried fried rice? // It's exquisite
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hast du schon mal gebratenen Reis probiert? // Er ist köstlich
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#6
+
+# [ENGLISH]
+# My rice... // Now I won't be able to make sushi
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Mein Reis... // Jetzt kann ich kein Sushi machen
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#7
+
+# [ENGLISH]
+# I can't eat rice with meat // If I don't have any rice...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ich kann keinen Reis mit Fleisch essen // Wenn ich keinen Reis habe...
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#8
+
+# [ENGLISH]
+# Hey! // Rice is a staple in my diet
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hey! // Reis ist ein Grundnahrungsmittel in meiner Ernährung
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_ARROZ#9
+
+# [ENGLISH]
+# Wow... // Rice is the main ingredient in my meals...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the rice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tja... // Reis ist die Hauptzutat meiner Mahlzeiten...
+>>>

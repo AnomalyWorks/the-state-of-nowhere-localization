@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#1
+
+# [ENGLISH]
+# Juice
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+ジュース
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#2
+
+# [ENGLISH]
+# What is your favorite juice? // Mine is orange juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+君のお気に入りのジュースは？ // 僕はオレンジジュース
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#3
+
+# [ENGLISH]
+# 'Don Maligno Juice' // 'It contains all the vitamins and minerals that a nowherian of superior race needs' // It's a tasty juice.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Don Maligno ジュース' // '優越人種のノーウェア人に必要なすべてのビタミンとミネラルを含む' // おいしいジュース
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#4
+
+# [ENGLISH]
+# It is necessary to drink a good orange juice in the morning
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+朝はいいオレンジジュースを飲むべきだ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#5
+
+# [ENGLISH]
+# Do you drink juice? // You should // It's healthy... // Or so they say
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ジュース飲んでる？ // 飲んだほうがいいよ // 体にいいらしいよ... // そう言ってるよ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#6
+
+# [ENGLISH]
+# Can't I bring juice? // I'll have to drink water
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ジュースを持っていけないの？ // 水でも飲むしかない
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#7
+
+# [ENGLISH]
+# My children will have no juice // You are evil.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+子供たちはジュースが飲めなくなるぞ // 君は悪魔だ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#8
+
+# [ENGLISH]
+# Will you cancel my juice? // Well // At least there's a little left in the house.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+ジュースをキャンセルするの？ // まあいいか // 少なくとも家に少し残ってる
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_JUGO#9
+
+# [ENGLISH]
+# Hey // My juice... // My mornings won't be the same without it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Juice product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+オイ // 私のジュース... // なしの朝は同じにならないよ
+>>>

@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#1
+
+# [ENGLISH]
+# Bread
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Хлеб
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#2
+
+# [ENGLISH]
+# I should bring bread to accompany my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я должен взять хлеб, чтобы сопровождать мои обеды
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#3
+
+# [ENGLISH]
+# 'Don Maligno Bread' // 'Made with grains of the purest superior race' // Well, it looks like a normal bread to me.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Russian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Pan Don Maligno' // 'Изготовлен из зёрен самой чистой высшей расы' // Но мне кажется, это обычный хлеб
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#4
+
+# [ENGLISH]
+# Do you like bread // Some come with seeds
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Тебе нравится хлеб? // Некоторые идут с семечками
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#5
+
+# [ENGLISH]
+# This bread... // It emanates a smell... // Sinister
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Этот хлеб... // Исходит запах... // Зловещий
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#6
+
+# [ENGLISH]
+# And now? // What bread will I have with my meals?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+И что теперь? // С каким хлебом я буду сопровождать обеды?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#7
+
+# [ENGLISH]
+# My bread 'Don Maligno'... // It's not fair // As tasty as it is...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Russian: Don Maligno
+
+# [TRANSLATION]
+<<<
+Мой хлеб 'Don Maligno'... // Это нечестно // И такой вкусный
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#8
+
+# [ENGLISH]
+# Why are you canceling my bread? // I was planning to toast it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Зачем ты аннулируешь мой хлеб? // А я собирался его поджарить
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#9
+
+# [ENGLISH]
+# All right // The sinister aura of that bread gave me a bad feeling anyway.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ладно // В любом случае aura от этого хлеба вызывала у меня подозрения
+>>>

@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+違反
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+有効な市民を受け入れるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+
+# [TRANSLATION]
+<<<
+商品を盗む市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Japanese: 強盗
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Japanese: 無力化済み
+
+# [TRANSLATION]
+<<<
+強盗は無力化すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+市民は身分証明書で手続きし、提示しない場合は却下すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+有効期限の切れた身分証明書を持つ市民は、却下すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+他人の身分証明書を提示した市民は、逮捕すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Japanese: 身分証明書
+
+# [TRANSLATION]
+<<<
+偽造の身分証明書を提示した市民は、逮捕すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+
+# [TRANSLATION]
+<<<
+制限された都市の市民は、却下すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Japanese: 指名手配犯
+
+# [TRANSLATION]
+<<<
+指名手配犯は逮捕すべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+
+# [TRANSLATION]
+<<<
+血中アルコール濃度が高い市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+製品は対応するコードで処理される必要があります
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Japanese: 未成年者
+
+# [TRANSLATION]
+<<<
+未成年者に不適切な製品の販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Japanese: 高齢者
+
+# [TRANSLATION]
+<<<
+高齢者に不適切な製品の販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Japanese: 肥満者
+
+# [TRANSLATION]
+<<<
+肥満者に不適切な製品の販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Japanese: 重度肥満者
+
+# [TRANSLATION]
+<<<
+重度肥満者に不適切な製品の販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Japanese: 高血圧患者
+
+# [TRANSLATION]
+<<<
+高血圧患者への塩分含有製品の販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+アルコールを含む製品の販売は、検査陽性の市民には禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Japanese: 食物不耐症
+
+# [TRANSLATION]
+<<<
+フルクトースを含む製品の販売は、食物不耐症の市民には禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Japanese: 食物不耐症
+
+# [TRANSLATION]
+<<<
+蔗糖を含む製品の販売は、食物不耐症の市民には禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Japanese: 食物不耐症
+
+# [TRANSLATION]
+<<<
+乳糖を含む製品の販売は、食物不耐症の市民には禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Japanese: 食物不耐症
+
+# [TRANSLATION]
+<<<
+グルテンを含む製品の販売は、食物不耐症の市民には禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Japanese: 禁止者リスト
+
+# [TRANSLATION]
+<<<
+市民の禁止製品リストにある製品の販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Japanese: 禁止者リスト
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Japanese: 商品カテゴリー
+
+# [TRANSLATION]
+<<<
+市民の禁止商品カテゴリーリストにある商品カテゴリーの販売は禁止されています
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+
+# [TRANSLATION]
+<<<
+市民は支払い手段を提示するか、却下されます
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+
+# [TRANSLATION]
+<<<
+市民は支払いに際して資金不足を提示してはなりません
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+偽札を提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+切り裂かれた、汚された、または破損された紙幣での支払いを主張する市民は却下されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: BILLS
+# English: Bills
+# Japanese: 紙幣
+
+# [TRANSLATION]
+<<<
+印を付けられた紙幣を提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+他人のクレジットカードを提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+禁止マーク付きのクレジットカードを提示する市民は却下されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+禁止された銀行のクレジットカードを提示する市民は却下されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Japanese: クレジットカード
+
+# [TRANSLATION]
+<<<
+資金のないクレジットカードを提示する市民は却下されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+他人のクレジットノートを提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+期限切れのクレジットノートを提示する市民は却下されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+偽造クレジットノートを提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+他人の食料クーポンを提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+偽造食料クーポンを提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: REJECTED
+# English: Rejected
+# Japanese: 却下済み
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+期限切れの食料クーポンを提示する市民は却下されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Japanese: 市民
+#
+# ID: ARRESTED
+# English: Arrested
+# Japanese: 逮捕済み
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+偽造割引クーポンを提示する市民は逮捕されるべきです
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+有効期限の切れた割引クーポンは受け付けてはならず、無効にすべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+受理された割引クーポンは、指定された区域で穿孔すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Japanese: クレジットノート
+
+# [TRANSLATION]
+<<<
+クレジットノートは、指定された区域で該当の請求書とステープルで留めるべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Japanese: 食料クーポン
+
+# [TRANSLATION]
+<<<
+食料クーポンは指定された区域に押印すべきである
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+おつりの過払いによる金銭不足があってはならない
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+割引クーポンは受け付けるか無効にすべきである
+>>>

@@ -1,0 +1,197 @@
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#1
+
+# [ENGLISH]
+# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+
+# [TRANSLATION]
+<<<
+Я инструктор для новичков // Я пришел дать вам общий обзор того, что вам нужно делать в свой первый день // Первое - это идентифицировать гражданина // Для этого нужно прочитать удостоверение личности гражданина
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#2
+
+# [ENGLISH]
+# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Russian: Удостоверение личности
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Russian: Инспекционный стол
+
+# [TRANSLATION]
+<<<
+Но прежде чем это сделать откройте инспекционный стол // Там вы можете внимательнее рассмотреть документы // Попробуйте повернуть удостоверение личности правой кнопкой мыши, а затем вернитесь сюда
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#3
+
+# [ENGLISH]
+# About time // Now insert the card into the Identification Card Reader to identify the citizen
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Russian: Считыватель удостоверений личности
+
+# [TRANSLATION]
+<<<
+Наконец-то // Теперь вставьте карту в считыватель удостоверений личности, чтобы идентифицировать гражданина
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#4
+
+# [ENGLISH]
+# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCTS_CALL_ACTION
+# English: Products Call Action
+# Russian: Вызов товаров
+
+# [TRANSLATION]
+<<<
+Вы справились! // Не могу поверить // Теперь пора обработать товары гражданина // Активируйте вызов товаров
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#5
+
+# [ENGLISH]
+# Now you must read them // Drag the product to the product reader to start
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Russian: Считыватель товаров
+
+# [TRANSLATION]
+<<<
+Теперь вы должны их прочитать // Перетащите товар к Считывателю товаров, чтобы начать
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#6
+
+# [ENGLISH]
+# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Ого // Вы быстрее, чем кажетесь // А я-то в вас не верил // Теперь пора обработать оплату // Но предположим, что я не предъявил оплату // При таком несоответствии вы всегда должны сообщить о нём // Сообщите, что гражданин не предъявил оплату
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#7
+
+# [ENGLISH]
+# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+Хорошо // Теперь пора обработать оплату // Не забудьте дать сдачу правильно, а затем принять ее
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#8
+
+# [ENGLISH]
+# We're almost done // Now to finalize the transaction, you must hand me the receipt
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Russian: Чек
+
+# [TRANSLATION]
+<<<
+Мы почти закончили // Теперь, чтобы завершить транзакцию, вы должны вручить мне Чек
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#9
+
+# [ENGLISH]
+# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Russian: Действие
+#
+# ID: REJECT
+# English: Reject
+# Russian: Отклонить
+
+# [TRANSLATION]
+<<<
+При нормальных обстоятельствах это одобрит покупку, и гражданин уйдёт с товарами // Имейте это в виду // Теперь просто позвольте мне сказать вам кое-что ещё // Вы можете выполнять Действия над гражданами // Выполните Действие Отклонить, чтобы я ушёл
+>>>
+
+# ============================================================================
+# [KEY]
+# TUTORIAL_INTRODUCCION#10
+
+# [ENGLISH]
+# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+
+# [CONTEXT]
+# Introductory tutorial dialogue. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Russian: Руководство
+
+# [TRANSLATION]
+<<<
+Это все // Ты не самый сообразительный оператор // Но я думаю, что ты сможешь справиться с этим // С этого момента ты один // прочитай руководство, если не знаешь, что делать
+>>>

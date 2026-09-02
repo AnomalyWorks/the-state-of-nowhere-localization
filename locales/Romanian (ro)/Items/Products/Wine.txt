@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#1
+
+# [ENGLISH]
+# Wine
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Vin
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#2
+
+# [ENGLISH]
+# Well // I'll have a glass of wine today
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Bine // Astăzi voi bea un păhărel de vin
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#3
+
+# [ENGLISH]
+# Nothing like wine // With a good piece of meat
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nimic nu se compară cu vinul // Alături de o bucată bună de carne
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#4
+
+# [ENGLISH]
+# Do you like wine? // Don't you drink alcohol? // No wonder you're so boring
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Îți place vinul? // Nu bei alcool? // Nu-i de mirare că ești atât de plictisitor
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#5
+
+# [ENGLISH]
+# 'Don Maligno Wine' // 'Drink in moderation' // Yeah... // Maybe another day
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Romanian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Vin Don Maligno' // 'Consumați cu moderație' // Da... // Poate altă dată
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#6
+
+# [ENGLISH]
+# Hey // I wanted to have a glass of wine
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hei // Voiam să beau un pahar de vin
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#7
+
+# [ENGLISH]
+# Great... // Meat won't taste the same without a glass of wine.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Grozav... // Carnea nu va avea același gust fără un pahar de vin
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#8
+
+# [ENGLISH]
+# What about my wine? // Can't I take it? // It's okay.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Și vinul meu? // Nu pot să-l iau? // Bine
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_VINO#9
+
+# [ENGLISH]
+# No! // My wine... // Anything but that...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Wine product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Nu! // Vinul meu... // Orice, numai asta nu...
+>>>

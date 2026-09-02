@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: PROCEDURES
+# English: Procedures
+# Chinese Simplified: 程序
+
+# [TRANSLATION]
+<<<
+你作为65号工作站操作员的任务是，按照现行规定处理前来购买食品的公民，这通常涉及以下程序
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Chinese Simplified: 程序
+
+# [TRANSLATION]
+<<<
+在不遵守既定规范的情况下，可适用以下程序
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Simplified: 手册
+
+# [TRANSLATION]
+<<<
+手册
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Chinese Simplified: 程序
+
+# [TRANSLATION]
+<<<
+有关更多信息，请核实所提到的程序
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+今日的更新
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Chinese Simplified: 工作站
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+员工100411，您的工作站有以下更新。请查阅相关章节。愿Maligno照亮您的道路
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Simplified: 规定
+
+# [TRANSLATION]
+<<<
+已纳入以下规定。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Chinese Simplified: 程序
+
+# [TRANSLATION]
+<<<
+已纳入和/或更新了以下程序。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+工作站已加入以下元素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+以下文件已添加和/或更新。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+今日工作站未进行任何更新
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+已添加和/或更新以下工作区域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Chinese Simplified: 程序
+
+# [TRANSLATION]
+<<<
+程序
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+
+# [TRANSLATION]
+<<<
+涉及的元素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+涉及文件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+识别公民
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Chinese Simplified: 呼叫行动
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+到达工作站时，通过呼叫行动，公民须提交其身份证件。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Chinese Simplified: 身份证件读卡器
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+
+# [TRANSLATION]
+<<<
+接下来将其滑过身份证件读卡器，此操作将使所有相关数据显示在主显示器上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+处理商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+流程描述
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Chinese Simplified: 呼叫行动
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+当通过呼叫行动请求商品时开始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+读取商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+称量商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+检查商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+要开始读取商品，应将商品从商品入口槽滑动到商品读取器。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+这样即可进入商品读取器的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: SCALE
+# English: Scale
+# Chinese Simplified: 秤
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Chinese Simplified: 入库仓库
+
+# [TRANSLATION]
+<<<
+为此，应将商品从入库仓库移至工作站的秤上
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Simplified: 手动商品读取器
+
+# [TRANSLATION]
+<<<
+在读取错误时，应通过手动商品读取器访问来手动读取商品。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Simplified: 手动商品读取器
+
+# [TRANSLATION]
+<<<
+这样即可访问手动商品读取器的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: SCALE
+# English: Scale
+# Chinese Simplified: 秤
+
+# [TRANSLATION]
+<<<
+在读取商品时，可能会遇到没有条形码的商品。这些商品需要通过秤来生成。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: SCALE
+# English: Scale
+# Chinese Simplified: 秤
+
+# [TRANSLATION]
+<<<
+这样，您将访问秤的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Simplified: 订单列表
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+产品扫描完成后，将生成订单列表，可通过检查台进行查看。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+如无问题，则必须启动商品交付。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Simplified: 订单列表
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+
+# [TRANSLATION]
+<<<
+如需拒绝订单列表中的商品，必须通过其入口进入检查台。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+这样可以进入检查台的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+处理付款
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+在商品交付完成后，公民必须提供相应的付款。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+并涵盖以下流程
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+处理纸币
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+
+# [TRANSLATION]
+<<<
+这样将进入收银机的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Chinese Simplified: 收据
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+付款处理完毕后，为完成购买，需向公民发放收据。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+付款可能涉及以下文件中的一些。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+
+# [TRANSLATION]
+<<<
+执行操作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+
+# [TRANSLATION]
+<<<
+如需对公民执行任何操作，可通过操作单位的访问进行。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Chinese Simplified: 呼叫行动
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+呼叫公民操作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+通过此操作呼叫公民到工作站接受服务。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+工作站访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Chinese Simplified: 呼叫行动
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+呼叫商品操作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Chinese Simplified: 入库仓库
+
+# [TRANSLATION]
+<<<
+允许开始将商品运送到入库仓库。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Chinese Simplified: 出库仓库
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+访问出库仓库。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+工作站操作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Chinese Simplified: 商品交付
+
+# [TRANSLATION]
+<<<
+商品交付行动。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Chinese Simplified: 出库仓库
+
+# [TRANSLATION]
+<<<
+通过它授权商品并通过出库仓库提供给公民。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Simplified: 手动商品读取器
+
+# [TRANSLATION]
+<<<
+访问手动商品读取器。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Simplified: 手动商品读取器
+
+# [TRANSLATION]
+<<<
+通过它访问手动商品读取器。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Chinese Simplified: 身份证件读卡器
+
+# [TRANSLATION]
+<<<
+身份证件读卡器。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+工作站的元素，需要滑动身份证件以进行读取。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+
+# [TRANSLATION]
+<<<
+主显示器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+工作站的元素，由两个监视器组成，在读取身份证件时显示其数据。数据包括汇总公民身体特征的肖像和相关个人信息。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Chinese Simplified: 入库仓库
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+入库仓库 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+工作站中用于获取商品进行加工的元素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Chinese Simplified: 导航控件
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+
+# [TRANSLATION]
+<<<
+主显示器 导航控件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+允许访问与公民产品禁令相关的附加信息，在主显示器上查看
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Chinese Simplified: 商品读取器
+
+# [TRANSLATION]
+<<<
+商品读取器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+商品必须在桌面上从右向左滑动，以便读取器读取
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: SCALE
+# English: Scale
+# Chinese Simplified: 秤
+
+# [TRANSLATION]
+<<<
+部分商品可能没有条形码，必须先在秤上处理才能读取
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Simplified: 手动商品读取器
+
+# [TRANSLATION]
+<<<
+读取产品时可能出现读取错误。如连续出现错误，则必须通过手动商品读取器处理该产品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Chinese Simplified: 出库仓库
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+出库仓库 商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Chinese Simplified: 出库仓库
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Simplified: 订单列表
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+通过出库仓库访问进入。这是用于决定公民订单列表中的商品是否获批的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+
+# [TRANSLATION]
+<<<
+收银机
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+工作站元素，用于存放公民的付款文件。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+在通过收银机刷支付工具时可以进入。这是处理向公民交付找零的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+检查台
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+通过检查台访问进入。这是检查和处理不同类型文件的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+包含以下一系列工具。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Chinese Simplified: 放大镜
+
+# [TRANSLATION]
+<<<
+放大镜
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+其功能是揭示真伪印章是否为真。也可用于揭示文件中的隐藏信息。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Chinese Simplified: 打孔器
+
+# [TRANSLATION]
+<<<
+打孔器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+其作用是在文件上打孔。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Chinese Simplified: 辅助文件托盘
+
+# [TRANSLATION]
+<<<
+辅助文件托盘
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Chinese Simplified: 辅助文件
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+此托盘提供包含所需附加信息的辅助文件，以便在服务公民时能够正常运作。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Chinese Simplified: 订书机
+
+# [TRANSLATION]
+<<<
+订书机
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+您的任务是使用订书机装订某些文件。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Chinese Simplified: 印章
+
+# [TRANSLATION]
+<<<
+印章
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+其作用是在文件上盖章。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Chinese Simplified: 已执行检测查看器
+
+# [TRANSLATION]
+<<<
+已执行检测查看器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+此查看器反映对公民进行的不同检测的信息。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Chinese Simplified: 手动商品读取器
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+可通过手动商品读取器访问。这是手动读取商品的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+检查台访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+通过它访问检查台。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: SCALE
+# English: Scale
+# Chinese Simplified: 秤
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+当商品滑到秤上时可访问。这是为那些没有条形码的商品生成条形码的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: INVENTORY
+# English: Inventory
+# Chinese Simplified: 物品栏
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: OBJECT
+# English: Object
+# Chinese Simplified: 物品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+可通过物品栏访问。这是存储可用于与公民互动的物品的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Simplified: 电话
+
+# [TRANSLATION]
+<<<
+电话
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Simplified: 电话
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+可通过电话访问。这是进行通话的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: INVENTORY
+# English: Inventory
+# Chinese Simplified: 物品栏
+
+# [TRANSLATION]
+<<<
+物品栏访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Chinese Simplified: 物品栏
+
+# [TRANSLATION]
+<<<
+允许访问物品栏。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Simplified: 电话
+
+# [TRANSLATION]
+<<<
+电话访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: TELEPHONE
+# English: Telephone
+# Chinese Simplified: 电话
+
+# [TRANSLATION]
+<<<
+允许进入电话的访问。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+真伪印章
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+用于验证某些文件的真伪。为此，必须符合以下特征
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+应具有以下形状和颜色
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Chinese Simplified: 放大镜
+
+# [TRANSLATION]
+<<<
+暴露在检查台的放大镜下时会发光
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+身份证件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Chinese Simplified: 身份证件读卡器
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+身份证件是公民出示的文件，必须通过工作站上的身份证件读卡器读取
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+真伪
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+为使身份证件真实有效，必须符合以下要求
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+在布局、形状和颜色上相符
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+您的两个真伪印章必须是真实的
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+有效期
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+
+# [TRANSLATION]
+<<<
+身份证件有有效期。此信息可以在插入卡片到读卡器时，反映在主显示器的过期字段中。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+纸币
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+#
+# ID: WORKSTATION
+# English: Workstation
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+纸币是配送中心接受的支付方式之一。必须在工作站设置的收银机中处理。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+在布局和形状上相符
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Chinese Simplified: 真伪印章
+
+# [TRANSLATION]
+<<<
+您的真伪印章必须是真实的
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+为了使纸币真实，必须满足这些要求
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Chinese Simplified: 标记钞票
+
+# [TRANSLATION]
+<<<
+标记钞票
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+钱币具有一个标记系统，由背面的一字母和七个数字组成的代码构成，其含义如下
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+字母F代码：是有效纸币
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+字母X代码：是有迹象表明正在被监视的纸币
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Chinese Simplified: 放大镜
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Chinese Simplified: UV代码列表
+
+# [TRANSLATION]
+<<<
+有迹象表明正在被监视的纸币必须通过其UV代码进行确认，该代码仅在检查台的放大镜下可见。如果UV代码的最后四位数字出现在监视中的UV代码列表文件中，则纸币将被标记。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+纸币状态
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+公民交付的纸币必须处于完美状态。不得有破坏、撕裂、污渍或颜色褪色。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: CATEGORY
+# English: Category
+# Chinese Simplified: 类别
+#
+# ID: LABEL
+# English: Label
+# Chinese Simplified: 标签
+
+# [TRANSLATION]
+<<<
+这是在完成商品读取后生成的文件。其中反映了公民请求的商品、其批准状态以及对应商品所属不同类别的一系列标签。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Simplified: 订单列表
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Chinese Simplified: 商品拒绝器
+
+# [TRANSLATION]
+<<<
+要取消订单列表中的任何商品，必须用商品拒绝器在指定区域盖章。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Chinese Simplified: 辅助文件
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Chinese Simplified: 辅助文件托盘
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: ORDER_LIST
+# English: Order List
+# Chinese Simplified: 订单列表
+#
+# ID: LABEL
+# English: Label
+# Chinese Simplified: 标签
+
+# [TRANSLATION]
+<<<
+这是来自检查台辅助文件托盘的文件。其中反映了订单列表中每个标签的含义。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+在工作站中纳入了以下行动
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+工作站已添加以下访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+
+# [TRANSLATION]
+<<<
+行动单位访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+
+# [TRANSLATION]
+<<<
+允许访问行动单位。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+
+# [TRANSLATION]
+<<<
+行动单位
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+可通过行动单位访问进入。这是对公民执行不同类型行动的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Chinese Simplified: 异常通知器
+
+# [TRANSLATION]
+<<<
+异常通知器访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Chinese Simplified: 异常通知器
+
+# [TRANSLATION]
+<<<
+允许访问异常通知器。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Chinese Simplified: 异常通知器
+
+# [TRANSLATION]
+<<<
+异常通知器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Chinese Simplified: 异常通知器
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+可通过异常通知器访问访问。这是允许公民报告异常的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Chinese Simplified: 工作班次记录
+
+# [TRANSLATION]
+<<<
+工作班次记录访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Chinese Simplified: 工作班次记录
+
+# [TRANSLATION]
+<<<
+允许访问工作班次记录。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Chinese Simplified: 工作班次记录
+
+# [TRANSLATION]
+<<<
+工作班次记录
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Chinese Simplified: 工作班次记录
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+可通过工作班次记录访问访问。这是允许在工作站开始或结束工作班次的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+
+# [TRANSLATION]
+<<<
+工作站元素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+开始
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+主菜单
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+文件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+工作区域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+报告异常
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Chinese Simplified: 出库仓库
+
+# [TRANSLATION]
+<<<
+允许访问出库仓库。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+手动读取商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Chinese Simplified: 收据
+
+# [TRANSLATION]
+<<<
+收据
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+商品配送完成后生成。必须交付给公民以批准并完成购买。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+
+# [TRANSLATION]
+<<<
+公民在检查台上出示支付方式。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+
+# [TRANSLATION]
+<<<
+验证后，支付方式应存入收银机。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Chinese Simplified: 异常通知器
+
+# [TRANSLATION]
+<<<
+这样即可访问异常通知器的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+
+# [TRANSLATION]
+<<<
+这样即可访问行动单位的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Chinese Simplified: 异常通知器
+
+# [TRANSLATION]
+<<<
+如果在服务公民时发现任何异常，可通过访问异常通知器进行报告。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+存放公民支付方式的元素。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+用于读取处理商品的元素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+用于称重处理商品的元素
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+此区域内反映公民携带的所有商品，分为批准区和不批准区
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+每个产品都有一个机制，允许在这些区域之间移动产品，以确定稍后在工作站批准食品时该产品是否会被批准
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+工作区域描述
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Chinese Simplified: 商品读取器
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+当商品滑过商品读取器时可访问。这是读取商品的工作区域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+为此必须打开托盘，累计并确认应交给公民的相应金额
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+清除找零
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+接受找零
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+参考文献
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+要开始，应将扫描仪部署在产品的条形码上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+扫描仪就位后，按住扫描仪按钮以显示产品代码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+产品代码显示后，通过键盘输入并接受，从而完成输入。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+删除代码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+接受代码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+自动完成代码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+扫描代码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+要开始，应在产品代码列表中搜索相应的产品。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+找到对应代码后，需要通过键盘输入，然后打印条形码并贴在商品上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+打印代码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+自动搜索代码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Chinese Simplified: 物品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+要将物品交给公民，需要将其拖拽到公民身上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Chinese Simplified: 物品
+
+# [TRANSLATION]
+<<<
+使用物品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+通话可以通过手动拨号或通过保存的联系人进行。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+拨打电话
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+联系人列表
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+自由拨打
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Chinese Simplified: 拒绝
+
+# [TRANSLATION]
+<<<
+拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+扫描指纹
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Chinese Simplified: 逮捕
+
+# [TRANSLATION]
+<<<
+逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+扫描身体
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Chinese Simplified: 消除威胁
+
+# [TRANSLATION]
+<<<
+消除威胁
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Chinese Simplified: 测量压力
+
+# [TRANSLATION]
+<<<
+测量压力
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Chinese Simplified: 测量酒精
+
+# [TRANSLATION]
+<<<
+测量酒精
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+要登记进出，请将卡片插入设备的插槽中。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+批准/不批准商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Chinese Simplified: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Simplified: 改进
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+改进功能，使可以显示应交付给公民的零钱金额
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Chinese Simplified: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Simplified: 改进
+
+# [TRANSLATION]
+<<<
+改进功能，使可以显示找零托盘中的金额
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Chinese Simplified: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Simplified: 改进
+#
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+改进：用于自动完成输入的代码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Simplified: 改进
+#
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+改进：用于自动完成商品列表的当前代码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Chinese Simplified: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Simplified: 改进
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+改进：用于自动搜索商品列表中的商品。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Chinese Simplified: 改进
+
+# [TRANSLATION]
+<<<
+改进
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Simplified: 规定
+
+# [TRANSLATION]
+<<<
+现行规定
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Chinese Simplified: 规定
+
+# [TRANSLATION]
+<<<
+员工违反以下任何规定将在收入中受到处罚。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+工具
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+查看工作区域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Chinese Simplified: 辅助文件
+
+# [TRANSLATION]
+<<<
+辅助文件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Chinese Simplified: 辅助文件
+
+# [TRANSLATION]
+<<<
+删除辅助文件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+
+# [TRANSLATION]
+<<<
+拒绝商品
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Chinese Simplified: 商品拒绝器
+
+# [TRANSLATION]
+<<<
+商品拒绝器
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+其功能是拒绝公民的商品。为此，必须将印章定位并操作在要拒绝的商品区域上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+这里登记重要的和常用的电话号码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: LABEL
+# English: Label
+# Chinese Simplified: 标签
+
+# [TRANSLATION]
+<<<
+请在检查台上查阅此文件以获取更多信息。您会找到标签在正面的含义，以及文件背面的更多附加信息。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Chinese Simplified: 行动
+#
+# ID: BMI
+# English: BMI
+# Chinese Simplified: BMI
+
+# [TRANSLATION]
+<<<
+BMI计算操作
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Chinese Simplified: 食品参考资料
+#
+# ID: OBESITY
+# English: Obesity
+# Chinese Simplified: 肥胖
+
+# [TRANSLATION]
+<<<
+可以获取公民的身体质量指数。请查阅食品参考资料文件中的有效肥胖值。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+查看已执行测试
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+
+# [TRANSLATION]
+<<<
+访问失踪人员部分
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+
+# [TRANSLATION]
+<<<
+允许访问失踪人员登记表
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+
+# [TRANSLATION]
+<<<
+访问通缉犯
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+
+# [TRANSLATION]
+<<<
+允许访问通缉犯登记表
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+可通过失踪人员访问入口进入，这是一个显示所有失踪人员相关个人信息的的工作区域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+可通过通缉犯访问入口进入，这是一个显示所有通缉犯相关个人信息的的工作区域
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+要领取赏金，应在公民在工作站时拨打指定号码
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Simplified: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+
+# [TRANSLATION]
+<<<
+可快速简要地查看所有失踪人员，方便进行比较
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+
+# [TRANSLATION]
+<<<
+可快速简要地查看所有通缉犯，方便进行比较
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Simplified: Quick Viewer
+
+# [TRANSLATION]
+<<<
+访问 Quick Viewer (通缉犯)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Simplified: Quick Viewer
+
+# [TRANSLATION]
+<<<
+访问 Quick Viewer (失踪人员)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Simplified: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+
+# [TRANSLATION]
+<<<
+允许访问通缉犯的 Quick Viewer。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Chinese Simplified: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Chinese Simplified: 失踪人员
+
+# [TRANSLATION]
+<<<
+允许访问失踪人员的 Quick Viewer。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+
+# [TRANSLATION]
+<<<
+为使食品券真实有效，必须满足以下要求。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+食品券有一个有效期。该信息可在文件的正面上看到。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+食品券是配送中心接受的支付方式之一。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+盖章
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+
+# [TRANSLATION]
+<<<
+其有效性必须在检查台上验证并盖章，然后存入站点的收银机中。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+中和装置
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+用于消除敌对公民的工作区域。执行时必须进行精确射击。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Chinese Simplified: 消除威胁
+
+# [TRANSLATION]
+<<<
+请记住，用于完成消除威胁的弹药和时间是有限的。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MAIL
+# English: Mail
+# Chinese Simplified: 邮件
+
+# [TRANSLATION]
+<<<
+邮件访问
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MAIL
+# English: Mail
+# Chinese Simplified: 邮件
+
+# [TRANSLATION]
+<<<
+允许进入邮件的访问。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Chinese Simplified: 邮件
+
+# [TRANSLATION]
+<<<
+邮件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Chinese Simplified: 访问
+#
+# ID: MAIL
+# English: Mail
+# Chinese Simplified: 邮件
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: OBJECT
+# English: Object
+# Chinese Simplified: 物品
+#
+# ID: INVENTORY
+# English: Inventory
+# Chinese Simplified: 物品栏
+
+# [TRANSLATION]
+<<<
+可通过邮件访问进入。这是可以将物品栏中的物品发送给已添加联系人的工作区域。发送物品前需要先准备好包裹。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+首先，将空盒子放在桌子上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Chinese Simplified: 物品
+
+# [TRANSLATION]
+<<<
+其次，将要发送的物品放入盒子中。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+之后，用发货包装材料将盒子包裹好。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+在此阶段，您可以选择要发送包裹的联系人并打印票据。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+要完成并发送包裹，必须将生成的票据贴上并将包裹存放在发送寄存处。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Chinese Simplified: 地图
+
+# [TRANSLATION]
+<<<
+城市地图
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Chinese Simplified: UV代码列表
+
+# [TRANSLATION]
+<<<
+UV代码列表
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Chinese Simplified: 信用卡列表
+
+# [TRANSLATION]
+<<<
+信用卡列表
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Chinese Simplified: 辅助文件托盘
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+这是来自检查台辅助文件托盘的文件。其中反映了授权接收配送中心食品的Nowhere城市。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+贷项通知单是配送中心接受的付款方式之一。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Chinese Simplified: 收银机
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+必须验证其有效性并在检查台上附上相关发票，然后存放在工作站的收银机中。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+贷项通知单具有有效期。此信息可以在文件的正面体现。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+
+# [TRANSLATION]
+<<<
+为使贷项通知单真实有效，必须满足以下要求。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+
+# [TRANSLATION]
+<<<
+反映工作站内公民体重的元素。与主显示器上记录的体重相比，超重可能表明存在盗窃嫌疑。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Chinese Simplified: 异常
+
+# [TRANSLATION]
+<<<
+通过行动单位可访问，这是扫描公民身体以寻找异常的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+首先，必须将扫描仪部署在公民的身体上方。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+扫描仪就位后，必须按住扫描仪按钮扫描公民的身体。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Chinese Simplified: 导航控件
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Chinese Simplified: 异常
+
+# [TRANSLATION]
+<<<
+扫描完成后，将显示导航控件，并必须开始寻找异常。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Chinese Simplified: 异常
+
+# [TRANSLATION]
+<<<
+检查异常
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+请查看文件背面的注意事项以获取更多信息。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Chinese Simplified: 辅助文件托盘
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Chinese Simplified: 标记钞票
+
+# [TRANSLATION]
+<<<
+这是检查台辅助文件托盘中的文件。其中列出了标记钞票的紫外线代码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Chinese Simplified: 信用卡读卡器
+
+# [TRANSLATION]
+<<<
+信用卡是配送中心接受的付款方式之一，必须使用信用卡读卡器进行处理。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+#
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+信用卡正面显示其代码和持卡人信息，背面显示其安全代码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Chinese Simplified: 元素
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+工作站上处理信用卡付款的元素。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+当信用卡划过工作站的读卡器时可访问的、处理信用卡付款的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+接下来，需要输入信用卡代码的最后4位数字。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+#
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+
+# [TRANSLATION]
+<<<
+然后，需要输入信用卡的安全代码。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Chinese Simplified: 代码
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+输入代码后，如果信用卡内有资金，将允许打印供公民签署的票证。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+生成的票证必须通过托盘交给公民以便签署。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+公民提供签署的票证，且该票证必须与卡上显示的签名一致。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+如果签名不符，则说明是使用了他人的卡片，应按规定进行处理。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+如果签名一致，则应完成信用卡处理，并将收据存放在指定隔层。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+首先，应将信用卡在读卡器上刷过。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+请求签名
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+克隆卡片
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+打印收据
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+通过行动单位可以访问，这是进行酒精测试的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+以下公民特征可能表明其处于醉酒状态。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+为确认公民的醉酒状态，必须先准备设备。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+首先，应丢弃使用过的口含器。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+然后，必须将设备中已使用的口含器更换为新的。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+最后，将设备带至公民的嘴边以开始测试。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+使用准备好的设备进行测试，保持设备按钮直至测量完成。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Chinese Simplified: 测量酒精
+
+# [TRANSLATION]
+<<<
+测量酒精
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+扣紧。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+打孔。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+折扣券是可随支付方式一同发放，并覆盖公民购买金额一定比例的文件。必须在支付之前处理。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+必须检查其有效性并在检查台上打孔，然后投入站点的钱箱以供接收。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+#
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+优惠券具有有效期。该信息可在文件正面体现。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+过期的优惠券必须通过在背面指定区域盖章来作废。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+
+# [TRANSLATION]
+<<<
+为确保优惠券为真品，必须满足以下要求。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+通过行动单位可进入工作区域，在该区域对公民的指纹进行比对以验证其身份。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+首先需查阅与身份证件关联的指纹档案。为此，必须事先读取身份证件。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+随后将读取公民的指纹，在读取完成前需保持手指放在读取器上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+随后需比对指纹是否匹配。若不匹配，则该身份证件不属于该公民，必须按规定处理。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+打开文件
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Chinese Simplified: 辅助文件托盘
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Chinese Simplified: 检查台
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+这是检查台辅助文件托盘中的文件。其中显示了与信用卡相关的允许品牌和银行。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Chinese Simplified: 文件
+
+# [TRANSLATION]
+<<<
+允许的品牌和银行将在文件上打勾标记。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Chinese Simplified: 行动单位
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Chinese Simplified: 工作区域
+
+# [TRANSLATION]
+<<<
+可通过行动单位访问，这是进行血压测试的工作区域。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+公民的以下特征可能是高血压的指标。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+要确认公民的血压，首先需要准备设备。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+首先，必须将袖带放在公民的胳膊上。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+然后，必须将设备的听诊器放置在袖带下方。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+准备好设备后，开始测试，依次按下设备按钮直至测量完成。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Chinese Simplified: 测量压力
+
+# [TRANSLATION]
+<<<
+测量压力
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+未授权修改
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+假币
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Chinese Simplified: 物品
+#
+# ID: INVENTORY
+# English: Inventory
+# Chinese Simplified: 物品栏
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+这些是物品栏中的物品，可以交给有成瘾、肥胖、血压和不耐受等不同问题的公民，视情况而定。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+交付不是强制性的，但每分发一份宣传单，将在一天结束时获得额外收入。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+允许用假纸币向公民交付找零的功能。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+每完成一笔未被发现的诈骗，将在一天结束时获得额外收入。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Chinese Simplified: 信用卡读卡器
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+修改信用卡读卡器，使其能够克隆信用卡。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+要克隆信用卡，必须首先捕捉卡片的正面和背面。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+然后，为完成克隆，必须发送数据。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+每克隆一张卡，将在一天结束时获得额外收入。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+读取卡片
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+发送数据
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Chinese Simplified: 主显示器
+#
+# ID: PRODUCT
+# English: Product
+# Chinese Simplified: 商品
+#
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+主显示器上显示公民所拥有的一些商品禁令。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+控制
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+本游戏设计为仅使用鼠标即可完整游玩。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+此外，还可以使用某些键，例如
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape、Enter、删除、数字键、方向键
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+确定
+>>>

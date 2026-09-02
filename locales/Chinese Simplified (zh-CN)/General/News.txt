@@ -1,0 +1,3086 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#1
+
+# [ENGLISH]
+# Welcome to Maligno News!!! // The country's number one news monopoly! // This is Papanatas with another news broadcast.
+
+# [CONTEXT]
+# News channel introduction. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# Chinese Simplified: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# Chinese Simplified: Papanatas
+
+# [TRANSLATION]
+<<<
+欢迎来到Maligno News！！ // 全国第一垄断新闻媒体！ // 您好，我是Papanatas，为您带来新一期新闻。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#2
+
+# [ENGLISH]
+# And in other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+在其他新闻中...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#3
+
+# [ENGLISH]
+# Speaking of other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+说到其他新闻...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#4
+
+# [ENGLISH]
+# Moving on to other news...
+
+# [CONTEXT]
+# News transition phrase
+
+# [TRANSLATION]
+<<<
+我们来看其他新闻...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#5
+
+# [ENGLISH]
+# And with that concludes our disinformation block for today // I'm Papanatas and this is Maligno News... the best and only news outlet in Nowhere
+
+# [CONTEXT]
+# News anchor's closing remarks. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNO_NEWS
+# English: Maligno News
+# Chinese Simplified: Maligno News
+#
+# ID: PAPANATAS
+# English: Papanatas
+# Chinese Simplified: Papanatas
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+至此，我们今天的资讯板块结束 // 我是Papanatas，这里是Maligno News... Nowhere最好也是唯一的新闻媒体
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#6
+
+# [ENGLISH]
+# Live
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+直播
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#7
+
+# [ENGLISH]
+# Telephone communication
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+电话通讯
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#8
+
+# [ENGLISH]
+# This morning
+
+# [CONTEXT]
+# Phrase related to a television news broadcast
+
+# [TRANSLATION]
+<<<
+今天早上
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#9
+
+# [ENGLISH]
+# Food card operating normally
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+粮食卡运行正常
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#10
+
+# [ENGLISH]
+# The honorable president-elect Maligno... // has already made available all the necessary elements to carry out the announced controls and the program will be fully operative... // in the country's distribution centers today
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+尊敬的当选总统Maligno... // 已安排好进行已宣布检查所需的一切，该项目将全面投入运行... // 于今天在全国的配送中心
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#11
+
+# [ENGLISH]
+# It's unbelievable... // no one before in history has ever cared so much about Nowherians...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Simplified: Nowhere人
+
+# [TRANSLATION]
+<<<
+难以置信... // 历史上从未有人如此关心过Nowhere人...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#12
+
+# [ENGLISH]
+# Son of the chief minister is missing
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+总理之子失踪
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#13
+
+# [ENGLISH]
+# Yesterday afternoon, a huge commotion was caused by the disappearance of the son of the Chief Minister of Nowhere // Our beloved president expressed himself on the matter this morning...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+昨天下午，Nowhere国总理的儿子失踪一事引起巨大轰动 // 我们敬爱的领导人今早对此发表了讲话...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#14
+
+# [ENGLISH]
+# I will arrange for all government entities to collaborate with the search for the child of one of our own... // providing advanced monitoring tools for that purpose // Do not worry dear nowherians.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Simplified: Nowhere人
+
+# [TRANSLATION]
+<<<
+我将确保所有政府机构合作寻找我们其中一人的孩子... // 为此提供先进的监控工具 // 请不要担心，亲爱的Nowhere人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#15
+
+# [ENGLISH]
+# Escape occurs at special detention center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+特别拘留中心发生越狱
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#16
+
+# [ENGLISH]
+# Under the cover of last night 5 former officials of the previous Nowhere government escaped from the special detention center // Let's remember that the entire leadership of the past government was immediately imprisoned and found guilty of corruption // Now let's hear from Maligno who spoke out on the matter this morning
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+在昨夜的掩护下，Nowhere前政府的5名前官员从特别拘留中心逃脱 // 请记住，前政府的整个领导层立即被捕并被判犯有腐败罪 // 现在让我们听听Maligno今天早上对此发表的声明
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#17
+
+# [ENGLISH]
+# These abominable people are going to be caught // don't worry // I have already arranged all the necessary tools to do so // it's only a matter of time my dear compatriots.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+这些可憎的人将会被捕 // 不要担心 // 我已经安排了所有必要的工具来确保这一点 // 这只是时间问题，我亲爱的同胞们
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#18
+
+# [ENGLISH]
+# Theft at food distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+食品配送中心盗窃案
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#19
+
+# [ENGLISH]
+# Distribution centers have registered significant shortages of merchandise // Administrators accuse low-class citizens of shoplifting // Nowhere authorities say they will take action
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+配送中心记录了重要的商品短缺 // 管理人员指责低社会阶层的市民盗窃 // Nowhere当局声称将采取措施对此进行处理
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#20
+
+# [ENGLISH]
+# Wretches!!!// For decades they have fed these kind of people!!!// These lazy people who live off us!!!// But this is over!!!// Maligno will put an end to this...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+可恶的家伙！！ // 几十年来，他们一直在供养这种人！ // 这些依靠我们生活的懒汉！ // 但是这一切结束了！！ // Maligno将结束这一切...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#21
+
+# [ENGLISH]
+# Brutal robbery at a food distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+食品配送中心的残酷袭击
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#22
+
+# [ENGLISH]
+# Last night, a brutal robbery took place at one of Nowhere's food distribution centers // The offender, posing as a citizen, carried out an armed assault on the cashier seriously injuring him // Fortunately, the Nowhere authorities assured the media, that they are working on providing the necessary tools to the centers to combat these situations // It is worth mentioning, that no person of important social position have been physically or psychologically harmed during the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+昨晚，nowhere的一个食品配送中心发生了残酷袭击 // 犯罪分子冒充市民，武装抢劫收银员，致其重伤 // 值得庆幸的是，Nowhere当局向媒体保证，他们正在努力为各中心提供必要的工具来应对此类情况 // 值得注意的是，在此事件中，任何重要社会地位的人均未受到身体或心理上的伤害
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#23
+
+# [ENGLISH]
+# Maligno will offer food coupons
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+
+# [TRANSLATION]
+<<<
+Maligno将提供食品券
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#24
+
+# [ENGLISH]
+# Under the opening of an advanced center of aesthetic surgery our dear President Maligno said the following...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+在一家先进的整形外科中心的开幕式上，我们敬爱的总统Maligno说了以下的话...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#25
+
+# [ENGLISH]
+# We are going to provide free and healthy options // For this purpose, we will deliver special coupons that will enable people to have access to the best food
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+我们将提供免费健康的选项 // 为此我们将发行特别优惠券，使人们能够获得最好的食物
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#26
+
+# [ENGLISH]
+# Finally someone who does their job and cares about the people of Nowhere...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+终于有人做好自己的工作，关心Nowhere的居民了...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#27
+
+# [ENGLISH]
+# Discounts arrive at the distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+折扣商品运抵配送中心
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#28
+
+# [ENGLISH]
+# The government has circulated a series of discount coupons. These will be applicable to purchases made at Nowhere distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+政府已发行一系列优惠券。这些优惠券适用于在Nowhere配送中心进行的购物
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#29
+
+# [ENGLISH]
+# A wonderful measure that will be one more among the many that our beloved President Maligno has been taking.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+这是一个美妙的举措，将是我们敬爱的Maligno总统采取的众多措施之一
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#30
+
+# [ENGLISH]
+# Document forgery organization dismantled
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+伪造证件组织被捣毁
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#31
+
+# [ENGLISH]
+# In today's news security forces have carried out an operation where they apprehended two brothers of foreign nationality who were engaged in the forgery of state documents // The authorities suspect that they may be part of a whole network of forgers // As for the criminals, who are of low social status, they have been transferred to the special detention center where they will be arduously interrogated
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+今天，安全部门展开行动，逮捕了两名从事伪造国家证件的外国籍兄弟 // 当局怀疑他们可能属于一个庞大的伪造网络 // 至于这些社会地位低下的罪犯，已被移送到特别拘留中心接受严厉审讯
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#32
+
+# [ENGLISH]
+# One more proof of the problems that the poor and foreigners bring to our beloved country.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+这是穷人和外国人在我们热爱的国家带来问题的又一证据
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#33
+
+# [ENGLISH]
+# 'Eating Better' program launched
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Simplified: 健康饮食
+
+# [TRANSLATION]
+<<<
+启动'健康饮食'程序
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#34
+
+# [ENGLISH]
+# Maligno announced the implementation of a new program 'Eating Better' // Let's listen to what our new president had to say.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Simplified: 健康饮食
+
+# [TRANSLATION]
+<<<
+Maligno宣布实施新的'健康饮食'计划 // 让我们听听我们新任总统的讲话
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#35
+
+# [ENGLISH]
+# The current diet of the Nowherians encourages obesity and it can't go on like this // That's why I've decided to help you by launching a new program that will seek to increase the quality of life by removing foods that are unsuitable for people with obesity disorder.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Simplified: Nowhere人
+
+# [TRANSLATION]
+<<<
+Nowhere人目前的饮食助长了肥胖。这不能继续下去了 // 正因如此，我决定通过启动一项新计划来帮助他们，该计划旨在通过去除不适合肥胖症患者的食物来提高生活质量
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#36
+
+# [ENGLISH]
+# A more than wise measure. the inhabitants of the suburbs do nothing but eat and get fat. it was about time that someone controlled them.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+无比正确的措施。郊区的居民除了吃就是胖。早就该有人管管他们了
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#37
+
+# [ENGLISH]
+# New extension of the 'Eating Better' program
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Simplified: 健康饮食
+
+# [TRANSLATION]
+<<<
+'健康饮食'计划再次扩展
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#38
+
+# [ENGLISH]
+# On World Heart Day, our brand-new president has decided to extend the program to include those foods that are not suitable for people with blood pressure problems // To this end, the distribution centers have been adapted with special devices for that purpose.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+在世界心脏日，我们新上任的总统决定扩大该计划，将不适合高血压人群的食品纳入其中 // 为此，配送中心配备了特殊设备以实现这一目的
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#39
+
+# [ENGLISH]
+# Maligno takes care of our hearts. That's our president.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno守护着我们的心。那就是我们的总统。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#40
+
+# [ENGLISH]
+# A large part of the population suffers from food intolerances
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+大部分居民都患有食物不耐受症
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#41
+
+# [ENGLISH]
+# According to a study, more than 70% of the inhabitants of Nowhere have some kind of food intolerance without knowing it // This is what our honorable president assured, after his golf match with the country's top executives
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+根据一项研究，超过70%的Nowhere居民患有某种食物不耐受症而不自知 // 我们尊敬的领导人与国内重要企业高管打完高尔夫后这样保证道
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#42
+
+# [ENGLISH]
+# My goal as president of the Nowherians is that they can live better every day // I am aware of their eating disorders, and for that reason I will expand the “Eating Better” program to ensure that every resident of Nowhere can eat properly without putting their health at risk.
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Simplified: Nowhere人
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Chinese Simplified: 健康饮食
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+作为Nowhere人的总统，我的目标是让大家的生活一天比一天好 // 我了解你们的饮食障碍，因此我将扩大'健康饮食'计划。目的是让Nowhere的每个居民都能进食，而这不会对他们的健康造成风险
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#43
+
+# [ENGLISH]
+# Awesome. Maligno is awesome
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+难以置信。Maligno真了不起
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#44
+
+# [ENGLISH]
+# Terrible accident claims the life of an important Nowhere family
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+可怕的惨案夺走了Nowhere一个重要家庭的生命
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#45
+
+# [ENGLISH]
+# The event happened yesterday afternoon, when the family was happily on their way, as they do every day, to the Nowhere shopping mall to do their usual shopping // when suddenly an alcoholic drifter, crossing the street irresponsibly, causes the family's luxury car to crash into a pole, thus claiming the family's life // Reliable witnesses of important social position assured that these are common maneuvers of these miserable paupers, in order to obtain some economic benefit // Faced with this tragic event, the government decided to establish breathalyzer controls in food distribution centers.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+事件发生在昨天下午，当时一家人正像往常一样开心地前往Nowhere购物中心购物 // 突然，一个醉酒的流浪汉不负责任地横穿马路，导致豪华的家庭汽车撞上电线杆，夺走了这家人的生命 // 拥有重要社会地位的可靠证人声称，这些可怜的无家可归者经常使用这种手段来获取经济利益 // 鉴于这起悲惨事件，政府决定在配送中心设立酒精检测
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#46
+
+# [ENGLISH]
+# Undoubtedly a great loss for the country...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+毫无疑问，这对国家是一个巨大的损失...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#47
+
+# [ENGLISH]
+# New Awareness Campaign
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新的公益宣传活动
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#48
+
+# [ENGLISH]
+# In order to raise awareness among the population, our beloved ruler Maligno, ordered the distribution centers to issue health pamphlets // which will address issues such as blood pressure, obesity, intolerances and addictions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: HEALTH_PAMPHLETS
+# English: Health Pamphlets
+# Chinese Simplified: 健康宣传册
+
+# [TRANSLATION]
+<<<
+为了提高公众意识，我们敬爱的领导者Maligno下令配送中心发行健康宣传册 // 这些宣传册将探讨诸如血压、肥胖、不耐受和成瘾等问题。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#49
+
+# [ENGLISH]
+# Attack on government offices
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+政府办公室袭击事件
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#50
+
+# [ENGLISH]
+# A group of hooded rebels entered one of the government offices this morning. It is still unknown what the purpose of these thugs was // The authorities are trying to determine what they took with them. Fortunately no one of high social standing was hurt, only service personnel.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+今天早上，一群戴兜帽的叛乱分子进入了政府办公室之一。这些犯罪分子的目的尚不清楚 // 当局正试图确定他们带走了什么。幸运的是，没有高社会地位的人受伤，只有服务人员。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#51
+
+# [ENGLISH]
+# Wretched man dies in flames
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+可怜虫在火焰中死去
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#52
+
+# [ENGLISH]
+# In the midst of a senseless protest, a wretched man ignoring all environmental consequences, decided to set himself on fire // Amidst the piercing screams of pain and the incessant flames, one could hear ridicule such as freedom, equality, justice and so much other nonsense.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+在一场无意义的抗议中，一名犯罪分子无视一切环境后果，决定自焚 // 在痛苦的撕心裂肺的呼喊和不断的火焰中，可以听到诸如自由、平等、正义之类的荒谬言论和其他废话。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#53
+
+# [ENGLISH]
+# Today we have invited an expert in environmental protection. With you Dr. Morzat...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# Chinese Simplified: Morzat
+
+# [TRANSLATION]
+<<<
+今天我们邀请了一位环境护理专家。有请Morzat博士...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#54
+
+# [ENGLISH]
+# Mr. Morzat. Do you believe that the residues given off by these wretches when they burn... Represent something detrimental to the health of superior people like us?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MORZAT
+# English: Morzat
+# Chinese Simplified: Morzat
+
+# [TRANSLATION]
+<<<
+Morzat先生。您认为这些可怜虫在燃烧时释放的残留物...对我们这样的优等人群的健康有害吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#55
+
+# [ENGLISH]
+# I would say no, Mr. Papanatas
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# Chinese Simplified: Papanatas
+
+# [TRANSLATION]
+<<<
+我会说不是，Papanatas先生
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#56
+
+# [ENGLISH]
+# There you have it. Nothing to worry about
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+就这样。没有必要担心
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#57
+
+# [ENGLISH]
+# Criminal sentenced to life imprisonment
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+罪犯被判无期徒刑
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#58
+
+# [ENGLISH]
+# The lowlife accused of multiple attempted robberies in the distribution centers of Nowhere was sentenced today to life imprisonment // The wretch will be transferred in the next few days to the special detention center, where he will spend his last days stripped of all hope and welfare...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+被控在Nowhere配送中心多次抢劫未遂的犯罪分子今天被判无期徒刑 // 这名可怜虫将在未来几天内被转移到特别拘留中心，在那里他将失去所有希望和幸福，度过他的最后时光。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#59
+
+# [ENGLISH]
+# Wave of deaths in the suburbs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+郊区死亡浪潮
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#60
+
+# [ENGLISH]
+# According to the authorities in Nowhere, a mysterious disease that leaves people malnourished has spread throughout the suburbs // To combat it, the government has set up a fence around the suburbs to prevent its spread. In addition, calls on Nowherians to stay away from low-income people to avoid possible transmission of the disease.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Simplified: Nowhere人
+
+# [TRANSLATION]
+<<<
+根据Nowhere当局的说法，一种使人营养不良的神秘疾病已在所有郊区蔓延 // 为了对抗这种疾病，政府下令包围郊区以防止其扩散。此外，它呼吁Nowhere人远离低收入人群以避免可能的传染。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#61
+
+# [ENGLISH]
+# Death on a cliff
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+悬崖死亡事件
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#62
+
+# [ENGLISH]
+# During last night, a man in an evident state of drunkenness died when he threw himself off a cliff after fervently exclaiming 'To infinity and beyond!!!' // His remains rest in the depths of the sea.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+昨夜，一名明显醉酒的男子在高喊'飞向太空，宇宙无限！！'后跳下悬崖身亡 // 他的遗骸沉睡在大海深处
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#63
+
+# [ENGLISH]
+# Man found dead in alleyway
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+小巷发现尸体
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#64
+
+# [ENGLISH]
+# Yesterday some homeless people reported the existence of a corpse // It was located in the south alley of our city // The autopsy revealed that the person presented high concentrations of an unknown drug in his body // The authorities are investigating its origin.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+昨日，几名流浪汉报告发现了一具尸体 // 尸体位于我市南部的小巷中 // 法医解剖显示死者体内含有大量不明药物 // 当局正在调查该药物的来源
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#65
+
+# [ENGLISH]
+# Famous serial killer caught
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+知名连环杀手落网
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#66
+
+# [ENGLISH]
+# During the course of yesterday, the famous and most wanted serial killer of Nowhere Nicola Kullem, was arrested by the honorable security forces // 'Damn you!!!', 'I'll get my revenge!!!', 'You'll see you vermin!!!'. Shouted the murderer fiercely, as he was being transferred to the special detention center.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Chinese Simplified: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+昨日，执法部门逮捕了Nowhere臭名昭著的头号通缉连环杀手Nicola Kullem // '该死的!!', '我会报仇的!!', '你等着瞧，混蛋!!' — 杀手在被押往特别拘留中心的途中疯狂嘶吼着
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#67
+
+# [ENGLISH]
+# Notorious serial killer escapes
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+知名连环杀手越狱
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#68
+
+# [ENGLISH]
+# Yesterday, inexplicably, Nowhere's vicious and dangerous serial killer Nicola Kullem escaped // Authorities still don't know how he circumvented the strict security protocols // They also revealed that in the fugitive's cell, multiple phrases written in blood could be found, reading: 'I will kill you', 'You will die you damn' and 'I will tear out your entrails slowly and painfully'.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Chinese Simplified: Nicola Kullem
+
+# [TRANSLATION]
+<<<
+昨日，Nowhere残忍而危险的连环杀手Nicola Kullem莫名其妙地越狱了 // 当局至今仍不清楚他是如何突破严格安保协议的 // 此外，在逃犯的牢房中发现了用血写下的多处文字，可以辨认出：'我会杀了你'、'去死吧，你这被诅咒的家伙'和'我会缓慢而痛苦地掏出你的内脏'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#69
+
+# [ENGLISH]
+# Well-known distribution center guard missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: PJ_GUARD
+# English: Guard
+# Chinese Simplified: 警卫
+
+# [TRANSLATION]
+<<<
+知名配送中心警卫失踪
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#70
+
+# [ENGLISH]
+# The famous guard, recognized for his remarkable work in the guard service, has been reported missing by his relatives yesterday // In the last time he has been a prominent figure of the online video platform 'Maligno Tube' // Making successful video tutorials how to: 'Brutally immobilizing a person', 'Successfully bludgeoning bums' and 'How to remove blood stains effortlessly'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_GUARD
+# English: Guard
+# Chinese Simplified: 警卫
+#
+# ID: MALIGNO_TUBE
+# English: Maligno Tube
+# Chinese Simplified: Maligno Tube
+
+# [TRANSLATION]
+<<<
+著名警卫因其在警卫服务中的出色工作而闻名，昨日被家人报告失踪 // 近期他成为在线视频平台「Maligno Tube」的知名人物 // 制作诸如「残暴地制服一个人」、「成功殴打流浪汉」和「轻松去除血迹」等成功教程视频
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#71
+
+# [ENGLISH]
+# Government buildings looted
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+政府大楼遭抢劫
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#72
+
+# [ENGLISH]
+# Yesterday there were multiple lootings of government buildings // The authorities managed to capture some of the miserable members of this vile crime // They have already been transferred to the special detention center for a harsh and intense interrogation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+昨日发生多起政府大楼抢劫事件 // 当局成功抓获了这一卑鄙犯罪的一些可悲成员 // 他们已被移送至特别拘留中心进行严厉而紧张的审讯
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#73
+
+# [ENGLISH]
+# The government punishes the wicked
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+政府惩罚恶人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#74
+
+# [ENGLISH]
+# This morning the authorities reported that the thugs captured during the looting of government buildings a few days ago, were executed last night.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+今天早上当局宣布，几天前因抢劫政府大楼而被捕的歹徒已于昨晚被处决
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#75
+
+# [ENGLISH]
+# Our great ruler Maligno, reaffirms his unwavering commitment to the fight against crime.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+我们伟大的领导人Maligno重申其打击犯罪的坚定承诺
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#76
+
+# [ENGLISH]
+# Heavy police confrontation against thugs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+警方与歹徒激烈对抗
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#77
+
+# [ENGLISH]
+# At this moment the honorable security forces of Nowhere, are fighting against a foul mob of thugs
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+目前Nowhere的荣誉安全部队正在与一群令人厌恶的歹徒战斗
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#78
+
+# [ENGLISH]
+# From here, all my support to our beloved security forces // Who every day sacrifice themselves for us, confronting the lowest and most disgusting in this society
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+在此，我全力支持我们热爱的安全部队 // 他们每天为我们牺牲，对抗这个社会中最卑劣和令人不快的部分
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#79
+
+# [ENGLISH]
+# Maligno lies!!!
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno撒谎！！
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#80
+
+# [ENGLISH]
+# Finally, people of Nowhere! No more lies! // No more rules! No more controls! Down with Maligno! Down with the regime! Freedom! Freedom!
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+终于，Nowhere的人民！谎言到此为止！ // 不再有规则！不再有控制！打倒Maligno！打倒政权！自由！自由！
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#81
+
+# [ENGLISH]
+# Maligno monuments to be unveiled throughout Nowhere
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Nowhere全境将为Maligno揭幕雕像
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#82
+
+# [ENGLISH]
+# The monuments to our savior the great Maligno have been completed. And will be inaugurated during this night, where prayers will be said to our leader // All inhabitants are requested to attend the monuments punctually. Those who present offerings to Maligno will be one step closer to salvation.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+我们伟大的救世主Maligno的雕像已经完工。它们将在今晚揭幕，并将向我们的领袖祈祷 // 敬请所有居民准时前往雕像处。向Maligno献上祭品的人，将离救赎更近一步
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#83
+
+# [ENGLISH]
+# Construction of Maligno's monuments begins
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno雕像建设开始
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#84
+
+# [ENGLISH]
+# Today work has just begun all over Nowhere. The purpose of this work is to build monuments to our great lord, almighty, unique and peerless, Maligno // They are expected to be finished in the next few days.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+今天，整个Nowhere开始了工程 // 目的是为我们的伟大主宰、全能、唯一且无与伦比的Maligno建造纪念碑 // 工程有望在近日内完工
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#85
+
+# [ENGLISH]
+# Counterfeiter killed at distribution center
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+造假者在配送中心被击毙
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#86
+
+# [ENGLISH]
+# A dangerous counterfeiter was gunned down yesterday at food distribution center south 3412 by a brave supervisor who took courage in the face of the evil criminal // saving the life of a fearful and insignificant station operator, who was there at the time of the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+昨天，在南部3412配送中心，一名危险的造假者被勇敢的主管击毙 // 他勇敢面对邪恶的罪犯 // 拯救了当时在场的怯懦且微不足道的工作站操作员的生命
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#87
+
+# [ENGLISH]
+# Man commits suicide at train station
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+男子在火车站自杀
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#88
+
+# [ENGLISH]
+# The miserable suburbanite threw himself under a train when it was on its way to the downtown area // Fortunately, the clean-up crew was able to remove the wreckage in time, preventing the transport service from being delayed // And so none of the brand-new executives traveling on the train were late for their important meetings
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+可悲的郊区居民在列车驶往中心区域时跳到了车下 // 幸好负责清洁的人员及时清理了遗骸，避免了交通服务延误 // 这样一来，列车上那些光鲜的高管们都没有错过重要的会议
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#89
+
+# [ENGLISH]
+# I love happy endings
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+我喜欢幸福的结局
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#90
+
+# [ENGLISH]
+# Dangerous criminal killed in attempted robbery
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+危险的罪犯在企图抢劫时被击毙
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#91
+
+# [ENGLISH]
+# A criminal robbed one of Nowhere's distribution centers yesterday // Fortunately, the center's supervisor and newly appointed leader of the group 'Maligno Our Savior' managed to take him down, putting an end to his evil intentions.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+昨天，一名恶徒袭击了Nowhere的一个配送中心 // 幸运的是，中心的主管兼'Maligno我们的救世主'组织的杰出领袖成功将其制服，终结了他的邪恶企图
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#92
+
+# [ENGLISH]
+# We are live with this brave man // This is Papanatas. Can you describe the event?
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PAPANATAS
+# English: Papanatas
+# Chinese Simplified: Papanatas
+
+# [TRANSLATION]
+<<<
+我们正在与这位勇敢的男子进行直播连线 // 我是Papanatas。您能描述一下当时的情况吗？
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#93
+
+# [ENGLISH]
+# I had never seen such an evil creature, so full of hate. I was afraid... In an instant, my life flashed before my eyes... // The cruise trips, the plastic surgeries, the shopping malls, the elegant parties... // It was at that moment that I knew I had to end him. Otherwise, my future and that of my poor, unhappy subordinates would come to an end...
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+我从未见过如此邪恶、充满仇恨的生物。我害怕了...一刹那间，我看到我的生命在眼前飞速掠过... // 邮轮旅行、整形手术、购物中心、优雅的派对... // 就在那一刻，我知道必须了结他。否则，我和我那些可怜又不幸的下属们的未来就将终结...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#94
+
+# [ENGLISH]
+# There you have it gentlemen. The words of a great hero.
+
+# [CONTEXT]
+# News broadcast interview. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+各位观众，以上就是。一位伟大英雄的话语。
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#95
+
+# [ENGLISH]
+# Minister's missing son found
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+失踪部长的儿子被找到
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#96
+
+# [ENGLISH]
+# After intense searches all over the country, Jake Coff, the son of the important minister, has been found by an ungraceful employee of the 3412 south distribution center // After his identification he was immediately taken to a medical care facility, where he was found to have temporary memory loss.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# Chinese Simplified: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+经过在全国范围内的紧张搜寻，重要部长的儿子Jake Coff被南部3412配送中心的一名并不起眼的员工找到 // 确认身份后，他立即被送往医疗中心，经检查患有暂时性记忆丧失
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#97
+
+# [ENGLISH]
+# Minister's missing son found dead
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+失踪部长的儿子被找到时已死亡
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#98
+
+# [ENGLISH]
+# In circumstances still under investigation, the son of prominent Nowhere minister Jake Coff, was found dead with gunshot wounds. Maligno announced that the consequences for the heartless evildoer will be unimaginably disproportionate.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PJ_MISSING
+# English: Jake Coff
+# Chinese Simplified: Jake Coff
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+在仍在调查的情况下，Nowhere重要部长的儿子Jake Coff被发现身中枪弹死亡。Maligno宣布，对这个无情恶人的惩罚将不成比例到难以想象的程度
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#99
+
+# [ENGLISH]
+# Minister's son found!
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+部长的儿子找到了！
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#100
+
+# [ENGLISH]
+# The son of missing minister, Jake Coff, was finally found // It happened yesterday at the 3412 South Distribution Center, while an unenlightened employee ordered his arrest // After the decision made by this poor wretch, the guards who were transporting the missing man to the jail, were able to ascertain that it was none other than the minister's missing son.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PJ_MISSING
+# English: Jake Coff
+# Chinese Simplified: Jake Coff
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+失踪的部长之子Jake Coff终于被找到了 // 昨天发生在南部配送中心3412，当时一位不怎么开窍的员工下令逮捕他 // 在这个可怜虫做出决定后，负责将失踪者押送至监狱的守卫们确认，此人正是部长失踪已久的著名儿子
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#101
+
+# [ENGLISH]
+# A criminal was detained this morning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+一名歹徒今早被捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#102
+
+# [ENGLISH]
+# A thug calling himself 'William the anarchist' was apprehended while causing disorderly conduct in the street // Tonight he will be transferred to the special detention center, where he will be able to 'express himself freely'...
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: WILLIAM
+# English: William
+# Chinese Simplified: William
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+自称‘无政府主义者William’在街头制造骚乱时被捕 // 今晚将被移送至特别拘留中心，在那里他可以‘自由表达自己’...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#103
+
+# [ENGLISH]
+# Supervisor's wife missing
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+
+# [TRANSLATION]
+<<<
+主管的妻子失踪了
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#104
+
+# [ENGLISH]
+# Yesterday, the wife of an important supervisor who works in the South 3412 distribution center, was reported missing // This is how the husband expressed himself this morning, visibly shaken by the incident
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Simplified: 主管
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+据报道，昨天南部配送中心3412的一位重要主管的妻子失踪了 // 今天早上，其丈夫明显情绪激动地表示如下
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#105
+
+# [ENGLISH]
+# My dear wife. I can't live without you... I can't... I can't...
+
+# [CONTEXT]
+# Dialogue from a pre-recorded telephone conversation. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+亲爱的妻子。我不能没有你... 不... 我做不到...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#106
+
+# [ENGLISH]
+# There you have it. Poor man...
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+就是这样了。可怜的人...
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#107
+
+# [ENGLISH]
+# New gold statue of Maligno
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno新金像
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#108
+
+# [ENGLISH]
+# During the day today, under the fluttering of thousands of white doves, has been inaugurated the new golden statue of our lord Maligno // The construction exhibits on its base the following legend: 'Our lord Maligno, who works for the glory of our people day and night. Nothing can match his incalculable magnificence.'
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+今日，在数千只白鸽的飞舞下，我们的主人Maligno的新金像揭幕了 // 建筑底座上刻有以下铭文：'我们的主人Maligno，日夜为我们的民族荣耀而工作。没有什么能比得上他那无法估量的伟大'
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#109
+
+# [ENGLISH]
+# New Maligno banknote
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno新纸币
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#110
+
+# [ENGLISH]
+# Starting today, a new high-denomination banknote has been put into circulation // It will have the honor of displaying the handsome face of His Magnificence, Maligno
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+今日，一张新的高面额纸币已投入流通 // 它将有幸展示尊贵的Maligno的美丽面容
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#111
+
+# [ENGLISH]
+# The day of Malignism
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Simplified: 马利格诺主义
+
+# [TRANSLATION]
+<<<
+马利格诺主义日
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#112
+
+# [ENGLISH]
+# Today, this day has been made official, as the day of Malignism // From now on this will be the day on which all Nowherians pray and bestow offerings to our great lord Maligno.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Simplified: 马利格诺主义
+#
+# ID: NOWHERIANS
+# English: Nowherians
+# Chinese Simplified: Nowhere人
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+今日，这一天被正式宣布为马利格诺主义日 // 从今往后，这一天将是所有Nowhere人向我们伟大的主人Maligno祈祷并献上供品的日子
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#113
+
+# [ENGLISH]
+# Maligno launches his new book
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno发布新书
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#114
+
+# [ENGLISH]
+# On the occasion of offering the way to salvation, our lord Maligno has made available to the people, his new work 'Rosank' // The same is placed as a fundamental requirement to enter heaven // They can already be found in all bookstores all over the country at the modest price of $10000.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: ROSANK
+# English: Rosank
+# Chinese Simplified: Rosank
+
+# [TRANSLATION]
+<<<
+为了提供救赎之路，我们的主人Maligno已向人民提供了他的新作'Rosank' // 它被设定为进入天堂的基本要求 // 现已在全国所有书店以10000美元的适中价格发售
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#115
+
+# [ENGLISH]
+# Maligno president for life
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno终身总统
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#116
+
+# [ENGLISH]
+# This morning, Maligno was unanimously elected as President for Life of Nowhere... // And from now on he will be known as Maligno, President of Nowhere, Absolute leader of Malignism, Savior of Nowhere, Light bearer and miracle worker.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Simplified: 马利格诺主义
+
+# [TRANSLATION]
+<<<
+今天上午，Maligno被一致推选为Nowhere的终身总统... // 从即刻起，他应被称为：Maligno，Nowhere总统，马利格诺主义绝对领袖，Nowhere的救世主，带来光明并创造奇迹的人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#117
+
+# [ENGLISH]
+# New rules at distribution centers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+配送中心新规
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#118
+
+# [ENGLISH]
+# As of today, citizens will only be allowed to make purchases at distribution centers associated with their city // In this way Maligno seeks to ensure a good distribution of foodstuffs in Nowhere
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+从今天起，市民只能在指定给自己城市的配送中心进行购物 // 这样一来，Maligno旨在确保Nowhere的食品得到良好分配
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#119
+
+# [ENGLISH]
+# Maligno watches over us all
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno关爱所有人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#120
+
+# [ENGLISH]
+# Today, our brand new ruler Maligno, announced a series of measures aimed at protecting the young and old of Nowhere.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+今日，我们杰出的领导人Maligno宣布了一系列旨在保护Nowhere青年和老年人的措施
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#121
+
+# [ENGLISH]
+# Providing healthier and more nutritious food to these vulnerable groups is paramount // And this is how our dear and beloved president understands it.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+为这些弱势群体提供更健康、更有营养的食品至关重要 // 我们敬爱的领导人也这样理解
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#122
+
+# [ENGLISH]
+# New campaign: Dignified Bills
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+新运动：有尊严的纸币
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#123
+
+# [ENGLISH]
+# Starting today, damaged money will no longer be accepted at Nowhere's food distribution centers // Any bill that is faded, torn, or vandalized will be rejected by station operators
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+从今天起，Nowhere的配送中心将不再接受状态不佳的纸币 // 任何褪色、破损或被破坏的纸币都将被工作站操作员拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#124
+
+# [ENGLISH]
+# Without a doubt, a clear symbol of poverty that must be eradicated from Nowhere, once and for all.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+毫无疑问，这是必须从Nowhere根除的贫困的明确象征，一劳永逸
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#125
+
+# [ENGLISH]
+# Maligno crushes evildoers
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno粉碎邪恶势力
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#126
+
+# [ENGLISH]
+# Today, a list of credit cards and banking entities that will no longer be accepted in Nowhere's distribution centers was released // This measure was taken, after our honorable ruler Maligno, in his voracious desire to put an end to evil, discovered connections of said companies with the corrupt previous government.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+今日，公布了一份将不再被Nowhere配送中心接受的信用卡和银行机构名单 // 该措施是在我们尊敬的领导人Maligno怀着消灭邪恶的强烈愿望，发现这些公司与前腐败政府存在联系后采取的
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#127
+
+# [ENGLISH]
+# Identity theft is on the rise
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+身份盗窃案件增加
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#128
+
+# [ENGLISH]
+# Based on an analysis conducted by distribution centers, it has become evident a considerably high increase of people showing up at centers with an identification card and other elements that are not of their property // Our excellence Maligno has shown his concern, and announced he will quickly take measures on this to detect and imprison these criminals.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+根据配送中心进行的分析，有相当多的人持身份证件和其他不属于他们的物品前往中心 // 我们卓越的Maligno表示担忧，并宣布将采取快速措施来发现和监禁这些罪犯
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#129
+
+# [ENGLISH]
+# Identification card theft
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+身份证件盗窃
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#130
+
+# [ENGLISH]
+# Government authorities claim that successive identification card thefts have been reported // For this reason, they assure that controls have been tightened at distribution centers to fight against these misfits
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+
+# [TRANSLATION]
+<<<
+政府当局表示，已接到多起身份证件盗窃报案 // 因此他们确保在配送中心加强管控，以打击这些犯罪分子
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#131
+
+# [ENGLISH]
+# These vermin always find a way to cheat the system // But don't worry. Maligno has taken note and will arrest all those wretches.
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+这些无赖总是能找到逃避系统的方法 // 但不用担心。Maligno已经记下了，会逮捕所有这些卑鄙小人
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#132
+
+# [ENGLISH]
+# Kidnapping and murder
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+绑架与谋杀
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#133
+
+# [ENGLISH]
+# Today, police forces have found the body of a wretch with no signs of life // Preliminary investigations revealed it was a gang dedicated to kidnapping people and extorting their families for ransom // It appears the victim had no one to pay the ransom, which is why they ended up being murdered.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+今天，警方发现了一具尸体 // 初步调查显示，这是一个从事绑架并勒索赎金的犯罪团伙 // 据悉，受害者没有愿意支付赎金的人，因此最终被杀害
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#134
+
+# [ENGLISH]
+# New Communication Terminals
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新型通讯终端
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#135
+
+# [ENGLISH]
+# Station operators at the distribution centers now have telephone terminals // Authorities ask citizens to be patient if their service presents delays // The state also emphasizes its commitment to maintaining efficient and citizen-friendly processes while simultaneously adding more complexity to the system
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+现在，配送中心的工作站操作员配备了电话终端 // 当局请求市民在服务出现延迟时保持耐心 // 国家还强调其维护高效且对普通市民友好的流程的承诺，同时为系统增加更多复杂性
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#136
+
+# [ENGLISH]
+# New internal mail system in stations
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Chinese Simplified: 邮件
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+工作站新内部邮件系统
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#137
+
+# [ENGLISH]
+# As of today, an internal correspondence system has been implemented at the stations within the distribution centers // Authorities point out that services at the food distribution centers may experience delays // But they state that all this is a sign that procedures are being carried out in an excellent manner
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+从今天起，配送中心的工作站实施了内部通信系统 // 当局指出，食品配送中心的服务可能会出现延迟 // 但这一切都表明，程序正在出色地执行
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#138
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+引入新的支付方式
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#139
+
+# [ENGLISH]
+# The state is expanding the approved payment options at food distribution centers // From now on, citizens will be able to use promissory notes to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+
+# [TRANSLATION]
+<<<
+国家扩大配送中心认可的支付选项 // 从现在起，公民将能够出示贷项通知单来支付食品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#140
+
+# [ENGLISH]
+# New payment methods are being incorporated
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+引入新的支付方式
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#141
+
+# [ENGLISH]
+# The state is expanding the accredited payment options at food distribution centers // From now on, citizens will be able to use credit cards to pay for their food
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+国家扩大配送中心认可的支付选项 // 从现在起，公民将能够出示信用卡来支付食品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#142
+
+# [ENGLISH]
+# Renowned journalist awarded
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+获奖记者
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#143
+
+# [ENGLISH]
+# Yesterday, a renowned journalist was awarded for his career // During an important ceremony headed by Maligno at the Nowhere state offices
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+昨天，一位知名记者因其职业生涯而获奖 // 在Maligno主持的Nowhere州办公室举行的重要典礼期间
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#144
+
+# [ENGLISH]
+# Checks on bills are being reinforced
+
+# [CONTEXT]
+# TV news headline
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+加强纸币管控
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#145
+
+# [ENGLISH]
+# As part of the incorporation of new strategies to detect and arrest criminals // As of today, a bill marking system has been implemented at food distribution centers // With this new system, the authorities of Nowhere reaffirm their commitment to the fight against crime in this country.
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Simplified: 配送中心
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+作为引入寻找和逮捕罪犯的新策略的一环 // 从今天起，配送中心实施了纸币标记系统 // 通过这一新系统，Nowhere当局重申了打击该国犯罪活动的承诺
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#146
+
+# [ENGLISH]
+# Important book burning
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+重要焚书事件
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#147
+
+# [ENGLISH]
+# In order to guarantee order and security in our beloved country // During these days, hundreds of thousands of books whose malicious content only sought to promote chaos and fuel insecurity in our country have been seized // Titles such as 'Love and Equality' and 'All About My Rights' will be burned tomorrow // in what promises to be a fantastic opening ceremony for the presentation of new police vehicles and weaponry
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [TRANSLATION]
+<<<
+为了保障我们热爱国家的秩序与安全 // 近日已查获数十万册图书，其恶意内容仅旨在宣扬混乱并加剧我们国家的不安全感 // 明天将焚烧诸如《爱与平等》和《关于我权利的一切》等书籍 // 这预示着一场为展示新车辆和警用武器而举办的盛大开幕典礼
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#148
+
+# [ENGLISH]
+# What a privilege to be awarded by our honorable president Maligno // I hope I can also be recognized by our leader one day
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+能被我们尊敬的总统Maligno表彰真是荣幸 // 希望有一天也能得到我们领导人的认可
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#149
+
+# [ENGLISH]
+# Yesterday, the most wanted serial killer in Nowhere, Nicola Kullem, was apprehended by the honorable security forces // The criminal will be transferred to the special detention center today // None of this would have been possible without the timely report from a blessedly simple station operator // Who, despite his great limitations, knew how to handle the delicate situation
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PJ_SERIAL_KILLER
+# English: Nicola Kullem
+# Chinese Simplified: Nicola Kullem
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+#
+# ID: STATION
+# English: Station
+# Chinese Simplified: 工作站
+
+# [TRANSLATION]
+<<<
+昨天，我们尊敬的安全部队逮捕了Nowhere大名鼎鼎的头号通缉连环杀手Nicola Kullem // 这名恶徒将于今天被移送至特别拘留中心 // 这一切都多亏了工作站一位可怜却还算走运的操作员所提交的报告 // 尽管能力相当有限，他居然还是设法应对了这一棘手局面
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#150
+
+# [ENGLISH]
+# New illegal haircuts
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+新的非法发型
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#151
+
+# [ENGLISH]
+# In an effort to exalt the figure of our powerful leader // And understanding that his exuberant mane is now a symbol of our beloved country // It has been forbidden for the citizens of Nowhere to get haircuts similar to those of our dear ruler // All those who do not comply with this measure face penalties ranging from fines, 20 lashes, and even prison
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+
+# [TRANSLATION]
+<<<
+为了提升我们强大领导人的形象 // 并理解他浓密的头发现在是我们热爱国家的象征 // 已禁止Nowhere的市民进行与我们亲爱的统治者相似的发型 // 所有不遵守此措施的人将面临从罚款、20鞭打到监禁的惩罚
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#152
+
+# [ENGLISH]
+# So now you know, people of Nowhere // Imitating Maligno is heresy
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+所以，Nowhere的人民，你们知道了 // 模仿Maligno就是异端
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#153
+
+# [ENGLISH]
+# New standardized requirement for photographs
+
+# [CONTEXT]
+# TV news headline
+
+# [TRANSLATION]
+<<<
+照片的新标准
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#154
+
+# [ENGLISH]
+# In accordance with the provisions of the authorities of Nowhere // Any photograph featuring the face of our beloved president must be at least 20% larger than all other conventional photographs // Any person who fails to comply with the newly established standards will be charged with high treason and transferred to the special detention center
+
+# [CONTEXT]
+# Presenter's dialogue describing the news story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Chinese Simplified: Nowhere
+#
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Simplified: 特别拘留中心
+
+# [TRANSLATION]
+<<<
+根据Nowhere当局的规定 // 任何包含我们敬爱总统面容的照片必须比普通照片至少大20% // 任何不符合新标准的人将被控以叛国罪并移送至特别拘留中心
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_NOTICIAS#155
+
+# [ENGLISH]
+# As it should be // But no photograph could ever do justice to the beautiful face of our beloved president Maligno
+
+# [CONTEXT]
+# Additional comment by the news anchor about the story. Sentences are separated by //
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Simplified: Maligno
+
+# [TRANSLATION]
+<<<
+理应如此 // 但没有任何照片能公正地展现我们敬爱总统Maligno的美丽面容
+>>>

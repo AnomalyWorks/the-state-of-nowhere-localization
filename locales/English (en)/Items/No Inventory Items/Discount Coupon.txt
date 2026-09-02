@@ -1,0 +1,71 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#1
+
+# [ENGLISH]
+# Discount Coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+
+# [TRANSLATION]
+<<<
+Discount Coupon
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#3
+
+# [ENGLISH]
+# It's a discount coupon // For my purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+
+# [TRANSLATION]
+<<<
+It's a discount coupon // For my purchase
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#4
+
+# [ENGLISH]
+# It's my discount coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+
+# [TRANSLATION]
+<<<
+It's my discount coupon // You have to process it
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+No // You have to process it yourself
+>>>

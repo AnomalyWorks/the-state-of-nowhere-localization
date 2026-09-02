@@ -1,0 +1,139 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#1
+
+# [ENGLISH]
+# Milk
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+Молоко
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#2
+
+# [ENGLISH]
+# Do you like milk? // No? // But it's tasty!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Тебе нравится молоко? // Нет? // Но ведь оно вкусное
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#3
+
+# [ENGLISH]
+# 'Don Maligno's milk' // 'Obtained from the purest superior breed of cows' // The best milk without a doubt.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Russian: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Молоко Don Maligno' // 'Получено от самой чистой высшей породы коров' // Лучшее молоко без сомнений
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#4
+
+# [ENGLISH]
+# I will bring milk for my children to eat their cereal.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Я возьму молоко, чтобы мои дети ели свои хлопья
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#5
+
+# [ENGLISH]
+# This milk is addictive... // I don't know what's in it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Это молоко притягивает... // Я не знаю, что в нём есть
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#6
+
+# [ENGLISH]
+# No! // My milk! // My breakfast!
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Нет! // Моё молоко! // Мой завтрак!
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#7
+
+# [ENGLISH]
+# Why do you cancel my milk // Do you know how vital it is to me?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Зачем ты отменяешь моё молоко? // Ты знаешь, как оно важно для меня?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#8
+
+# [ENGLISH]
+# My children won't be able to have their cereal with milk for breakfast.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Мои дети не смогут есть свой завтрак с молоком
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_LECHE#9
+
+# [ENGLISH]
+# Well // If you say so // I'll have to give up that milk.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Milk product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Хорошо // Если ты так считаешь // Придётся оставить это молоко
+>>>

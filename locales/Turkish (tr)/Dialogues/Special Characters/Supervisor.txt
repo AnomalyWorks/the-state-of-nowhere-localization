@@ -1,0 +1,997 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#1
+
+# [ENGLISH]
+# Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+
+# [TRANSLATION]
+<<<
+Amir
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#2
+
+# [ENGLISH]
+# Good morning // I'll be your supervisor // Let's see what we have here... // workstation 65... // Employee 100411... // You seem to have experience in this... // If you have any questions, consult your manual // There you will find indications of the elements you have at your station // In addition to the current regulations // Respect the regulations // Don't make mistakes and you'll do well // Each mistake will count as a penalty in your salary... // Anyway... // May the glory of Maligno shine upon you... // Employee 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Turkish: Amir
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Turkish: Maligno
+#
+# ID: WORKSTATION
+# English: Workstation
+# Turkish: Çalışma İstasyonu
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Günaydın // Senin amirin olacağım // Bakalım burada neler var... // Çalışma İstasyonu 65... // Çalışan 100411... // Bu konuda deneyimli gibisin... // Herhangi bir endişen olursa Kılavuza bak // Orada istasyonunda bulunan unsurlarla ilgili talimatları bulacaksın // Yürürlükteki düzenlemelerin yanı sıra // Düzenlemelere uy // Hata yapma, o zaman işlerin iyi gider // Her ihlal maaşına ceza olarak yansıtılacak... // Neyse... // Maligno'nun ihtişamı üzerine parlasın... // Çalışan 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#3
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see the news? // Arrest those criminals // We have also installed new equipment // Check your manual for more information // You'll be fitted with the other gadgets soon... // This station used to be empty // The last wretch who used it left his entrails scattered all over the place // Yeah... // He was attacked... // You should have seen it... // We're refurbishing // Equipment's missing // You've got enough to operate though // Now get back to your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Merhaba çalışan 100411 // Haberleri gördün mü? // O haydutları tutukla // Ayrıca yeni ekipmanlar kurduk // Daha fazla bilgi için Kılavuzuna bak // Yakında diğer cihazları da kuracaklar... // Bu İstasyon eskiden boştu // Onu kullanan son zavallı, bağırsaklarını her yere saçılmış halde bıraktı // Evet... // Ona saldırdılar... // Görmeliydin... // Yenileme yapıyoruz // Ekipman eksik // Gerçi çalışman için yeterli şeyin var // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#4
+
+# [ENGLISH]
+# Employee 100411 // Did you see the news? // There are new rules // Check your manual... // You must cancel non-compliant products // We must educate these people // Only then will we build a better Nowhere... // Now do your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Turkish: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // Haberleri gördün mü? // Yeni kurallar var // Kılavuzuna bak... // Düzenlemelere uymayan ürünleri geçersiz kılmalısın // Bu insanları eğitmeliyiz // Ancak böyle daha iyi bir Nowhere inşa edeceğiz... // Şimdi işini yap
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#5
+
+# [ENGLISH]
+# Hello employee 100411 // The product readers have been crashing lately... // I don't know what it could be... // They were the cheapest on the market... // Anyway... // You can enter the products manually if you have any problems // See the manual for more information...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Turkish: Ürün Okuyucu
+
+# [TRANSLATION]
+<<<
+Merhaba çalışan 100411 // Son zamanlarda Ürün Okuyucular arızalanıyor... // Ne olduğunu bilmiyorum... // Oysa piyasadaki en ucuz olanlardı... // Neyse... // Sorun çıkarırsa ürünleri manuel olarak girebilirsin // Daha fazla bilgi için Kılavuza bak
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#6
+
+# [ENGLISH]
+# Hello employee 100411 // As you can see, we have placed a storage unit in your station // There you can store your belongings // By the way... // I saw this and perhaps it could be useful to you // Don't thank me // Return to your work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Merhaba çalışan 100411 // Gördüğün gibi İstasyonuna bir depo koyduk // Eşyalarını orada saklayabilirsin // Bu arada... // Bunu gördüm ve belki işine yarar // Bana teşekkür etme // İşine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#7
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see about the missing minister's son // It breaks my heart... // That's why new equipment has been sent // You can see it in your manual // Your new job will be to check if any of the citizens // are present in the missing list... // Anyway... // Go back to your job 100411 // And by the way // There are juicy rewards for those who find these people // It would be a good opportunity for you // You could get that much needed plastic surgery...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // Bakanın kayıp oğluyla ilgili olanı gördün mü? // Kalbimi parçalıyor... // Bu nedenle yeni ekipman gönderdiler // Onu Kılavuzunda görebilirsin // Yeni görevin, vatandaşlardan herhangi birinin // kayıp kişiler listesinde olup olmadığını doğrulamak olacak... // Neyse... // İşine dön 100411 // Bu arada // Bu kişileri bulanlar için bol ödüller var // Senin için iyi bir fırsat olurdu // Çok ihtiyaç duyduğun o estetik ameliyatı olabilirdin...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#8
+
+# [ENGLISH]
+# Hello 100411 // We have been sent new equipment // You can see it in your manual // You will be able to verify if a citizen is a wanted criminal // The state of Nowhere has zero tolerance for criminals // You must arrest them // It is your duty now employee 100411 // Do not forget to claim the reward before proceeding with the arrest
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Turkish: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bize yeni ekipman gönderdiler // Onu Kılavuzunda görebilirsin // Bir vatandaşın aranan bir suçlu olup olmadığını doğrulayabileceksin // Nowhere devleti suçlulara karşı sıfır toleransa sahiptir // Onları tutuklamalısın // Bu artık senin görevin çalışan 100411 // Tutuklamaya geçmeden önce ödülü almayı unutma
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#9
+
+# [ENGLISH]
+# Hello 100411 // We have received a call from the police department of investigations // They have informed us about marked money // Money that they use to track certain criminals // You must arrest any individual with marked bills // That will be your new task employee 100411 // For more information please consult your manual.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Soruşturma polis departmanından bir çağrı aldık // Bize işaretli para hakkında bilgi verdiler // Bazı suçluları takip etmek için kullandıkları para // İşaretli para taşıyan herkesi tutuklamalısın // Bu senin yeni görevin olacak çalışan 100411 // Daha fazla bilgi için Kılavuzuna bak
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#10
+
+# [ENGLISH]
+# Employee 100411 // Are you aware of the situation? // Thefts are becoming more frequent in the distribution centers // But don't worry // A scanner system has been implemented in the station // With it you will be able to detect if these bad guys have hidden products in their clothes // That's all employee 100411 // Don't forget to check your manual...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+#
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // Durumdan haberin var mı? // Dağıtım Merkezlerinde hırsızlıklar daha sık hale geliyor // Ama sakin ol // İstasyonda bir tarayıcı sistemi uygulamaya kondu // Bununla bu suçluların kıyafetlerinde ürün gizleyip gizlemediklerini tespit edebilirsin // Hepsi bu çalışan 100411 // Kılavuzuna bakmayı unutma
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#11
+
+# [ENGLISH]
+# Hello employee 100411 // New defense tools have arrived for the distribution center // You will be in charge of their operation // Last night's brutal assault has prompted the authorities to take serious measures... // Anyway // You can find more information in the manual // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Turkish: Dağıtım Merkezi
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Merhaba çalışan 100411 // Dağıtım Merkezi için yeni savunma araçları geldi // Bunların kullanımı senin sorumluluğunda olacak // Dün geceki vahşi saldırı yetkilileri ciddi önlemler almaya sevk etti... // Neyse // Daha fazla bilgiyi Kılavuzda bulabilirsin // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#12
+
+# [ENGLISH]
+# Hello 100411 // As you will see, we have provided new tools at your station // You can now process credit card payments // Check your manual // And fix that tie // Where do you think you are? // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Gördüğün gibi İstasyonunda yeni araçlar sağladık // Artık Kredi Kartı ile ödemeleri işleyebilirsin // Kılavuzuna bak // Şu kravatını da düzelt // Nerede olduğunu sanıyorsun? // İşine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#13
+
+# [ENGLISH]
+# Hello 100411 // I am informing you that as of today // You may receive credit notes as a means of payment // All information about their processing is in your manual... // Now keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Turkish: Alacak Notu
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bugünden itibaren // Alacak Notlarını ödeme aracı olarak alman mümkün // İşlenmeleriyle ilgili tüm bilgiler Kılavuzunda... // Şimdi çalışmaya devam et
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // We have received a transaction update // Food coupons have been enabled as a means of payment // You should see your manual // Now go back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Turkish: Gıda Kuponları
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // İşlemlerde bir güncelleme aldık // Gıda Kuponları ödeme aracı olarak etkinleştirildi // Kılavuzuna bakmalısın // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#15
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You should inquire about them and their operation at the manual... // By the way... // How do I look? // Today I have to go to a business meeting... // Anyway... // Go back to work immediately
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Turkish: İndirim Kuponları
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Muhtemelen duyduğun gibi // İndirim Kuponları dolaşıma sokuldu // Onlar ve işleyişleri hakkında Kılavuzdan bilgi edinmelisin... // Bu arada... // Nasıl görünüyorum? // Bugün bir iş toplantısına gitmem gerekiyor... // Neyse... // Derhal işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#16
+
+# [ENGLISH]
+# Employee 100411 // Due to the counterfeiters arrested yesterday // We have been instructed to thoroughly check the authenticity of items presented by citizens // You should be aware of the new procedure // Check your manual as soon as possible // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // Dün gözaltına alınan kalpazanlar nedeniyle // Vatandaşların sunduğu unsurların gerçekliğini kapsamlı şekilde kontrol etmemiz emredildi // Yeni prosedürü öğrenmelisin // Kılavuzunu en kısa sürede kontrol et // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#17
+
+# [ENGLISH]
+# Employee 100411 // I'm informing you that the 'Eating Better' program is in force // That means that you will have to control the degree of obesity of the citizens // And cancel any product that is harmful to these beasts... // First of all, please check your manual and inform yourself about it // Now go back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Turkish: Daha İyi Beslen
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // 'Daha İyi Beslen' programının yürürlükte olduğunu bildiriyorum // Bu, vatandaşların obezite derecesini kontrol etmen gerektiği anlamına geliyor // Ve bu ucubeler için zararlı olan her ürünü iptal etmelisin... // Her şeyden önce Kılavuzuna bak ve konu hakkında bilgi edin // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#18
+
+# [ENGLISH]
+# Hello employee 100411 // The 'Eating Better' program has been expanded // It now incorporates certain food intolerances // You must detect it in citizens and proceed according to regulations // Check your manual for more information // Now back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Turkish: Daha İyi Beslen
+
+# [TRANSLATION]
+<<<
+Merhaba çalışan 100411 // 'Daha İyi Beslen' programı genişletildi // Artık bazı gıda intoleranslarını da kapsıyor // Bunları vatandaşlarda tespit etmeli ve yönetmeliklere göre işlem yapmalısın // Daha fazla bilgi için Kılavuzuna bak // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // The 'Eating Better' program has been expanded // Your station has been outfitted with equipment to test citizens' blood pressure // You must read your manual // And comply with new directives // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Turkish: Daha İyi Beslen
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // 'Daha İyi Beslen' programı genişletildi // İstasyonun vatandaşların kan basıncını analiz etmek için ekipmanla donatıldı // Kılavuzunu okumalı // Ve yeni direktiflere uymalısın // İşine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#20
+
+# [ENGLISH]
+# Hello 100411 // Today we are in mourning... // I still can't believe it... // It seems like only yesterday that I met that family on a cruise trip... // How sad... // Anyway... // From today it will be your job to carry out breathalyzer checks // Your station has been adapted for this // You should consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+#
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bugün yas tutuyoruz... // Hâlâ inanamıyorum... // Sanki o aileyle bir gemi yolculuğunda daha dün karşılaşmışım gibi... // Ne üzücü... // Neyse... // Bugünden itibaren alkol kontrolleri yapmak senin görevin olacak // İstasyonun bunun için uyarlandı // Daha fazla bilgi için Kılavuzuna başvurmalısın // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#21
+
+# [ENGLISH]
+# Employee 100411 // As of today we have provided different types of brochures // To distribute to our citizens... // Although it is not mandatory... // It's only for... // Well... // You know... // To raise awareness... // Anyway // Back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Çalışan 100411 // Bugünden itibaren farklı türlerde broşürler sunduk // Vatandaşlara dağıtılsın diye... // Zorunlu olmasa da... // Sadece... // Şey... // Bilirsin... // Farkındalık yaratmak için... // Neyse // İşine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // Today there are new rules // Check your manual // You must control credit card payments // There is a prohibited list // You must respect it // Understood? // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Turkish: Kredi Kartı
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bugün yeni kurallar var // Kılavuzunu incele // Kredi Kartı ile yapılan ödemeleri kontrol etmelisin // Yasaklılar listesi var // Buna uymalısın // Anlaşıldı mı? // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#23
+
+# [ENGLISH]
+# Hello 100411 // From today you will have a new tool // It will help you to make a thorough analysis of the citizen // To prevent identity theft // For more information, see your manual // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Turkish: Kılavuz
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bugünden itibaren yeni bir aracın olacak // Bu, vatandaşın ayrıntılı bir analizini yapmana yarayacak // Kimlik hırsızlığını önlemek için // Daha fazla bilgi için Kılavuzuna başvur // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#24
+
+# [ENGLISH]
+# Hi 100411 // I was supervising your work // I usually do it later // But this time I have to go to a store... // I have to buy something to attend a costume event... // Yeah, costumes... // It's not my thing but there will be a lot of important people there and I have to make a good impression... // That's why I have to think it over... // And choose something that's up to the task... // Anyway... // Bye 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // İşini denetliyordum // Normalde bunu daha sonra yaparım // Ama bu sefer bir mağazaya gitmem gerekiyor... // Kostümlü bir etkinliğe katılmak için bir şey satın almalıyım... // Evet, kostümlü... // Bana göre değil ama orada birçok önemli insan olacak ve iyi bir izlenim bırakmam gerekiyor... // Bu yüzden iyice düşünmem gerek... // Ve seviyeye uygun bir şey seçmem gerek... // Neyse... // Hoşça kal 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#25
+
+# [ENGLISH]
+# Hello 100411 // I received your package... // As soon as I saw it I knew it was the perfect choice... // I decided to wear it and... // The party was a big success! // All the important people in Nowhere were impressed // I'm sure we'll do a lot of business in the future... // Anyway... // I must thank you in some way... // Take this // Enjoy it // Buy yourself... // Whatever it is that people like you buy...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Turkish: Nowhere
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Paketini aldım... // Görür görmez bunun mükemmel seçenek olduğunu anladım... // Onu giymeye karar verdim ve... // Parti tam bir başarıydı! // Nowhere'deki tüm önemli insanlar etkilendi // Gelecekte kesinlikle çok iş yapacağız... // Neyse... // Sana bir şekilde teşekkür etmeliyim... // Al // Tadını çıkar // Kendine... // Senin gibi insanların aldığı her neyse onu al...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#26
+
+# [ENGLISH]
+# Hello 100411 // I got your package... // I've tried everything // Every treatment out there... // And none of them worked // So I figured it would be a total waste of time to try it... // But it worked! // Look at this beautiful hair! // I've never had so much hair before // I'm so grateful // Have this 100411 // Now if you'll excuse me, I have to go admire my beauty in the mirror.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Paketin elime ulaştı... // Doğrusu her şeyi denedim // Var olan tüm tedavileri... // Ve hiçbiri işe yaramadı // Bu yüzden bunu denemenin tamamen zaman kaybı olacağını düşündüm... // Ama işe yaradı! // Şu güzel saçlara bak! // Daha önce hiç bu kadar çok saçım olmamıştı // Sana çok minnettarım // Bunu al 100411 // Beni mazur görürsen güzelliğimi aynada hayranlıkla izlemeye gitmeliyim
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#27
+
+# [ENGLISH]
+# Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been able to reach her // She hasn't come to work // Her friends don't know anything about her... // She vanished // Just like that... // Anyway // She was the winner of a special bonus this month // And since I couldn't deliver it... // We've decided to give it to you // Here // Enjoy it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // 100456 hakkında bir şey duydun mu? // Kayıp // Kimse onun yerini tespit edemedi // İşe gelmedi // Arkadaşları onun hakkında hiçbir şey bilmiyor... // Ortadan kayboldu // Sanki hiçbir şey olmamış gibi... // Neyse // Bu ay özel bir ikramiyenin kazananı oydu // Ve ona veremediğim için... // Onu sana vermeye karar verdik // Al // Tadını çıkar
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#28
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // I'll take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // Etkisiz hâle getirdiğin o zavallı sefil hayatta kalamadı // Artık öteki dünyada yemek dilenmeye gidebilir // Gönül rahatlığıyla eve dön // Sorun yaşamaman için her şeyi ben halledeceğim
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#29
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe I exaggerated a little... // But woe betide you if you open your mouth... // I've got to go now // I have an interview in a few minutes // Keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Haberleri gördün mü? // Artık tam bir kahramanım... // Şey... // Belki biraz abarttım... // Ama ağzını açarsan vay haline... // Artık gitmem gerek // Birkaç dakika içinde röportajım var // Çalışmaya devam et
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#30
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a national hero... // I may have exaggerated a bit with the story... // But I saved your ass // You owe me... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Haberleri gördün mü? // Tam bir ulusal kahramanım... // Hikâyeyi biraz abartmış olabilirim... // Ama canını kurtardım // Bana bir borcun var... // Şimdi işe dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#31
+
+# [ENGLISH]
+# Hello 100411 // Today I have received multiple calls // My bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But I managed to save you // Since you are a very hard worker // I blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish my boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bugün birçok telefon aldım // Amirlerim memnun değil // Nedenini biliyor musun? // Bakanın oğlunun tutuklanmasını emrettin // Kafanı istiyorlardı... // Ama seni kurtarmayı başardım // Çünkü çok çalışkansın // Hatan için başkasını suçladım // O zavallı talihsiz... // İşinde biraz daha çabalasaydı şimdi balık yemi olmazdı // Neyse... // Bu hata yüzünden her gün eve gitmeden önce botlarımı parlatmak zorunda kalacaksın // Şimdi işe dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#32
+
+# [ENGLISH]
+# Hello 100411 // I've been keeping a close eye on your performance... // You must not slack off // You know what happens to those who are not useful // They end up like that janitor // On the street // Only the strong survive here // There is no room for weakness... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Performansını yakından takip ediyorum... // Kendini ihmal etmemelisin // Yararlı olmayanlara ne olduğunu biliyor musun? // O hademe gibi sonları gelir // Sokakta // Burada sadece üstünler hayatta kalır // Zayıflıklara yer yok... // Şimdi işine dön
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#33
+
+# [ENGLISH]
+# Hello 100411 // We have detected a number of irregularities in our accounting records // So we are going to conduct a thorough investigation // at all the center's workstations // It will take a few days // But don't worry // I know you can be trusted // See you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Muhasebe kayıtlarımızda bir dizi usulsüzlük tespit ettik // Bu nedenle kapsamlı bir soruşturma yürüteceğiz // merkezdeki tüm çalışma İstasyonlarında // Birkaç günümüzü alacak // Ama endişelenme // Sana güvenilebileceğini biliyorum // Yarın görüşürüz
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#34
+
+# [ENGLISH]
+# Hello 100411 // I got word that someone robbed this station // And that you allowed it to be stolen without resistance... // If you want to keep working here // You'd better do your job... // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Birinin bu İstasyona saldırdığını öğrendim // Ve direnmeden çalmasına izin verdiğini... // Burada çalışmaya devam etmek istiyorsan // İşini yapman iyi olur... // Yarın görüşürüz
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#35
+
+# [ENGLISH]
+# Hello 100411 // Very well done // I saw how you neutralized that robber... // Maligno would be proud of you son // You're on a good path // I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Turkish: Maligno
+#
+# ID: ROBBERS
+# English: Robbers
+# Turkish: Soyguncular
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Çok iyi iş // O Soyguncuyu nasıl etkisiz hale getirdiğini gördüm... // Maligno seninle gurur duyardı, evlat // Doğru yoldasın // Yarın görüşürüz
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#36
+
+# [ENGLISH]
+# Hello 100411 // You've made a lot of mistakes lately // I've come to warn you... // You don't want to end up on the street // Do you? // I'll see you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Son zamanlarda çok fazla hata yaptın // Seni uyarmaya geldim... // Sokakta kalmak istemezsin // Değil mi? // Yarın görüşürüz 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#37
+
+# [ENGLISH]
+# Hi 100411 // Have you seen my wife around? // She's been very demanding lately... // I've been ignoring her for a while now // She's constantly looking for me... // And I don't feel that excitement we had when we were young... // The flame of love that once brought us together... // Has slowly faded away... // Anyway // It's time to go // See you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Karımı buralarda gördün mü? // Son zamanlarda çok talepkâr... // Gerçek şu ki, bu aralar onu görmezden geldim // Sürekli beni arıyor... // Ve gençken sahip olduğumuz o heyecanı artık hissetmiyorum... // Bir zamanlar bizi birleştiren aşkın alevi... // Yavaş yavaş sönüyor... // Neyse // Gitme vakti // Yarın görüşürüz 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#38
+
+# [ENGLISH]
+# Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I'll give them a call // See if that's the answer to the problems with my wife... // Anyway // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bana e-postayla gönderdiğin o broşürü gördüm... // Teşekkür ederim... // Onları arayacağım // Bakalım eşimle yaşadığım sorunların cevabı bu mu... // Neyse // Yarın görüşürüz
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#39
+
+# [ENGLISH]
+# Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually comes to drop off dinner for me... // But she hasn't shown up // I tried to call her but she's not picking up // I hope she's okay...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Bugün eşimi görmedim... // Endişeliyim... // Normalde bana akşam yemeği getirmeye gelir... // Ama ortaya çıkmadı // Onu aramayı denedim ama telefonu açmıyor // Umarım iyidir...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#40
+
+# [ENGLISH]
+# Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she got tired of me and decided to leave... // You have to be strong and move on... // I have an appointment today // Wish me luck...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Eşimi hâlâ bulamadılar... // Neyse... // Belki benden sıkıldı ve gitmeye karar verdi... // Güçlü olmak ve yolumuza devam etmek gerek... // Bugün bir randevum var // Bana şans dile...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#41
+
+# [ENGLISH]
+# Hello 100411 // My wife has asked me for a divorce... // She's claiming half of the assets... // Can you believe it? // I have a meeting with my lawyer tomorrow... // I didn't think it would come to this... // Anyway... // I have to go now. I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411 // Eşim boşanmak istedi... // Mal varlığının yarısını istiyor... // Buna inanabiliyor musun? // Yarın avukatımla görüşmem var... // Bu noktaya geleceğimizi düşünmemiştim... // Neyse... // Artık gitmeliyim // Yarın görüşürüz
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#42
+
+# [ENGLISH]
+# You! // You dirty maggot! // It was you who slept with my wife! // Do you think things are going to stay like this?! // You and that harlot will pay!!! // Get ready...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sen! // Lanet solucan! // Karımla yatan sendin! // İşlerin böyle kalacağını mı sanıyorsun?! // Sen ve o lanet kadın bunun bedelini ödeyeceksiniz!! // Hazırlan...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#43
+
+# [ENGLISH]
+# 100411... // What are all those bandages? // And those crutches? // Are you going to some kind of party? // Do I need to remind you that this is your job? // You can't come to work dressed as a mummy // I hope this doesn't happen again
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // Tüm bu sargılar da ne? // Ya bu koltuk değnekleri? // Bir tür partiye mi gidiyorsunuz? // Size buranın iş yeriniz olduğunu hatırlatmam gerekiyor mu? // İşe mumya kılığında gelemezsiniz // Umarım bu bir daha olmaz
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#44
+
+# [ENGLISH]
+# Hi 100411... // But... // What is that face? // Have you looked in the mirror? // Are you sick? // I remind you that sick leave here for low-class employees is completely prohibited // You had better recover quickly
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba 100411... // Ama... // Bu ne surat? // Kendinizi aynada gördünüz mü? // Hasta mısınız? // Alt sınıf çalışanlar için izinlerin burada tamamen yasak olduğunu hatırlatırım // En iyisi çabucak iyileşin
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#45
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been drinking alcohol excessively during work hours // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance // I hope you walk the straight and narrow from now on
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // Dün sizi acilen hastaneye götürmek zorunda kaldık // İş başında bayıldınız // İş sırasında aşırı alkol aldığınızı öğrendik // Buna izin veremeyiz // Usulüyle davranmazsanız işten çıkarılacaksınız // Bu son şansınız // Bundan sonra dosdoğru yürümenizi umuyorum
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#46
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been using drugs // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance to straighten up
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // Dün sizi acilen hastaneye götürmek zorunda kaldık // İş başında bayıldınız // Uyuşturucu kullandığınızı öğrendik // Buna izin veremeyiz // Usulüyle davranmazsanız işten çıkarılacaksınız // Bu, kendinize çeki düzen vermeniz için son şansınız
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#47
+
+# [ENGLISH]
+# Employee 100411... // That's it // The probationary period is over // And we have decided to dispense with you // I know // It was too little // In fact we still have many ways we would have liked to exploit you.... // But that's the way it is // I'd almost gotten used to that strange face you have..... // I don't usually shed tears when firing employees.... // And this one definitely won't be an exception either... // See you never 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Çalışan 100411... // Hepsi bu // Deneme süresi sona erdi // Ve senden vazgeçmeye karar verdik // Biliyorum // Çok azdı // Aslında seni sömürmek isteyeceğimiz daha birçok yolumuz vardı... // Ama işler böyle // Sahip olduğun o garip surata neredeyse alışmıştım... // Çalışanları kovarken genelde gözyaşı dökmem... // Ve bu kesinlikle bir istisna da olmayacak // Bir daha görüşmemek üzere, 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#48
+
+# [ENGLISH]
+# Good morning // employee 100411 // I have been evaluating the performance of your first day at the station // I'm not going to lie to you // The truth is I expected more from someone with your background // I will continue to watch you // In the meantime // we have provided your station with the tools that will allow you to detect counterfeits // Now get to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Turkish: İstasyon
+
+# [TRANSLATION]
+<<<
+Günaydın // çalışan 100411 // İstasyondaki ilk gününün performansını değerlendirdim // Sana yalan söylemeyeceğim // Doğrusu geçmişi olan birinden daha fazlasını bekliyordum // Seni izlemeye devam edeceğim // Bu arada // İstasyonunu sahteciliği tespit etmene olanak tanıyacak araçlarla donattık // Şimdi işe koyul
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#49
+
+# [ENGLISH]
+# So you think you're good enough not to receive an infraction // Well, we'll see about that 100411 // The last miserable guy who said that ran home // To cry in his mommy's arms // I hope you don't regret it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Demek ceza almayacak kadar iyi olduğunu sanıyorsun // Bakalım, göreceğiz 100411 // Bunu söyleyen son zavallı koşarak evine gitti // Annesinin kollarında ağlamaya // Umarım pişman olmazsın
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#50
+
+# [ENGLISH]
+# So you like finances, 100411? // Then you better keep a surplus in your personal finances // We don't tolerate debtors here // You've been warned
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Demek finanstan hoşlanıyorsun, 100411? // O hâlde kişisel mali durumunda fazla vermen iyi olur // Burada borçlulara tahammül etmeyiz // Uyarıldın
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#51
+
+# [ENGLISH]
+# Infinite mode? // You're unhinged 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Sonsuz mod mu? // Kafayı yemişsin, 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#52
+
+# [ENGLISH]
+# What happened? // Weren't you good enough not to receive infractions? // Grab your things // You're fired 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ne oldu? // Ceza almayacak kadar iyi değil miydin? // Eşyalarını al // Kovuldun, 100411
+>>>

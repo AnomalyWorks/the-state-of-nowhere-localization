@@ -1,0 +1,304 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#1
+
+# [ENGLISH]
+# Alcohol flask
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ALCOHOL_FLASK
+# English: Alcohol Flask
+# Chinese Traditional: 酒壺
+
+# [TRANSLATION]
+<<<
+酒壺
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#2
+
+# [ENGLISH]
+# Elegant silver flask. Filled with the finest alcohol. Drink in moderation
+
+# [CONTEXT]
+# Description of the Alcohol Flask inventory item
+
+# [TRANSLATION]
+<<<
+精緻的銀製酒壺。裝入最好的酒。適量飲用
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#3
+
+# [ENGLISH]
+# Is that drool? // Disgusting
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+真噁心！ // 這是你口水嗎？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#4
+
+# [ENGLISH]
+# Keep it // I don't drink
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+給你 // 我不喝酒
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#5
+
+# [ENGLISH]
+# That's a nice flask mate
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+這是個不錯的酒壺，朋友
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#6
+
+# [ENGLISH]
+# I wouldn't want to drink from that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我可不想喝那個…
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#7
+
+# [ENGLISH]
+# Drinking at work isn't good
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+工作時喝酒不好
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#8
+
+# [ENGLISH]
+# Do you know how bad drinking alcohol is? // Me neither
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你知道喝酒有多傷身嗎？ // 我也不知道
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#9
+
+# [ENGLISH]
+# My old flask... // Hiccup! // So many memories... // Keep it // I gave it to you
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我那隻舊酒壺… // 隔！ // 多少回憶啊… // 留給你吧 // 送你了
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#10
+
+# [ENGLISH]
+# I'm not that drunk yet // to drink that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我還沒醉到 // 可以喝這個的程度
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#11
+
+# [ENGLISH]
+# Not even if it was the last alcohol in the world... // Well... // Maybe a sip...
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+好像這是世界上最後的酒了... // 好吧... // 也許...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#12
+
+# [ENGLISH]
+# Thanks // but I don't share my booze
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+謝謝 // 但我不會分享酒精
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#13
+
+# [ENGLISH]
+# I'm not crazy enough // to drink that thing
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我沒瘋 // 去喝這個
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#14
+
+# [ENGLISH]
+# What are you trying to do? // Get me drunk?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你想幹什麼？ // 讓我喝醉？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#15
+
+# [ENGLISH]
+# I can't drink on duty
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我值班時不能喝酒
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#16
+
+# [ENGLISH]
+# I'm an officer of the Law // I can't drink alcohol
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我是執法官！ // 不能喝酒
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#17
+
+# [ENGLISH]
+# Do you think an officer like me has those weaknesses?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你以為像我這樣的官員 // 會有這種弱點？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#18
+
+# [ENGLISH]
+# What do you say we go to my house // And have a few drinks on my couch
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不如去我家 // 在沙發上喝一杯如何
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#19
+
+# [ENGLISH]
+# I need food // No alcohol // Please
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我需要食物 // 不是酒精 // 拜託
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#20
+
+# [ENGLISH]
+# It is a flask with a nice engraving // It would be difficult to make a good imitation with the tools I have
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+這是一隻刻著漂亮花紋的酒壺 // 用我手頭的工具，恐怕很難做出像樣的仿品
+>>>

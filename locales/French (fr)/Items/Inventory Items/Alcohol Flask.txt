@@ -1,0 +1,304 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#1
+
+# [ENGLISH]
+# Alcohol flask
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: ALCOHOL_FLASK
+# English: Alcohol Flask
+# French: Flasque d'alcool
+
+# [TRANSLATION]
+<<<
+Flasque d'alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#2
+
+# [ENGLISH]
+# Elegant silver flask. Filled with the finest alcohol. Drink in moderation
+
+# [CONTEXT]
+# Description of the Alcohol Flask inventory item
+
+# [TRANSLATION]
+<<<
+Élégante flasque en argent. Remplie du meilleur alcool. Boire avec modération
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#3
+
+# [ENGLISH]
+# Is that drool? // Disgusting
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Quelle horreur ! // C'est ta bave ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#4
+
+# [ENGLISH]
+# Keep it // I don't drink
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tiens // Je ne bois pas d'alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#5
+
+# [ENGLISH]
+# That's a nice flask mate
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+C'est une belle flasque d'alcool, mon ami
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#6
+
+# [ENGLISH]
+# I wouldn't want to drink from that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je ne voudrais pas boire ça...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#7
+
+# [ENGLISH]
+# Drinking at work isn't good
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Boire pendant le travail, c'est mal
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#8
+
+# [ENGLISH]
+# Do you know how bad drinking alcohol is? // Me neither
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Savez-vous à quel point boire de l'alcool est nocif ? // Moi non plus
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#9
+
+# [ENGLISH]
+# My old flask... // Hiccup! // So many memories... // Keep it // I gave it to you
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ma vieille flasque... // Hip ! // Tant de souvenirs... // Garde-la // Je te l'ai donnée
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#10
+
+# [ENGLISH]
+# I'm not that drunk yet // to drink that
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je ne suis pas assez ivre // pour boire ça
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#11
+
+# [ENGLISH]
+# Not even if it was the last alcohol in the world... // Well... // Maybe a sip...
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Même si c'était le dernier alcool au monde... // Bon... // Peut-être...
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#12
+
+# [ENGLISH]
+# Thanks // but I don't share my booze
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merci // Mais je ne partage pas l'alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#13
+
+# [ENGLISH]
+# I'm not crazy enough // to drink that thing
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je ne suis pas assez fou // pour boire ça
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#14
+
+# [ENGLISH]
+# What are you trying to do? // Get me drunk?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Qu'est-ce que tu essaies de faire ? // Me saouler ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#15
+
+# [ENGLISH]
+# I can't drink on duty
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je ne peux pas boire pendant mon service
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#16
+
+# [ENGLISH]
+# I'm an officer of the Law // I can't drink alcohol
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Je suis un agent des forces de l'ordre ! // Je ne peux pas boire d'alcool
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#17
+
+# [ENGLISH]
+# Do you think an officer like me has those weaknesses?
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tu crois qu'un agent comme moi // a ce genre de faiblesses ?
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#18
+
+# [ENGLISH]
+# What do you say we go to my house // And have a few drinks on my couch
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Et si on allait plutôt chez moi // Et qu'on prenait quelques verres sur mon canapé
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#19
+
+# [ENGLISH]
+# I need food // No alcohol // Please
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+J'ai besoin de nourriture // Pas d'alcool // S'il te plaît
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_PETACAALCOHOL#20
+
+# [ENGLISH]
+# It is a flask with a nice engraving // It would be difficult to make a good imitation with the tools I have
+
+# [CONTEXT]
+# Dialogue associated with giving the Alcohol Flask to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+C'est une flasque avec une jolie gravure // Il serait difficile d'en faire une bonne imitation avec les outils que j'ai
+>>>

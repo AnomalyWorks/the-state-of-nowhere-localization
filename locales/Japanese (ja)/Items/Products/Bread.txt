@@ -1,0 +1,144 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#1
+
+# [ENGLISH]
+# Bread
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+パン
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#2
+
+# [ENGLISH]
+# I should bring bread to accompany my meals
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+食事と一緒にパンを買っておくべきだ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#3
+
+# [ENGLISH]
+# 'Don Maligno Bread' // 'Made with grains of the purest superior race' // Well, it looks like a normal bread to me.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+'Pan Don Maligno' // '最も純粋な高等種の穀物で作られた' // でも私には普通のパンに見える
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#4
+
+# [ENGLISH]
+# Do you like bread // Some come with seeds
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+パンは好き？ // 種が入っているものもあるよ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#5
+
+# [ENGLISH]
+# This bread... // It emanates a smell... // Sinister
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+このパン... // 漂う匂いが... // 不気味だ
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#6
+
+# [ENGLISH]
+# And now? // What bread will I have with my meals?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+それでどうする？ // 何のパンと一緒に食事をすればいい？
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#7
+
+# [ENGLISH]
+# My bread 'Don Maligno'... // It's not fair // As tasty as it is...
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Japanese: Don Maligno
+
+# [TRANSLATION]
+<<<
+僕のパン 'Don Maligno'... // ひどいよ // しかも美味しいのに
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#8
+
+# [ENGLISH]
+# Why are you canceling my bread? // I was planning to toast it.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+なぜ僕のパンを廃棄するの？ // 焼いて食べようとしてたのに
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PAN#9
+
+# [ENGLISH]
+# All right // The sinister aura of that bread gave me a bad feeling anyway.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Bread product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+まあいいよ // とにかくあのパンの不吉な雰囲気は引っかかっていたんだ
+>>>

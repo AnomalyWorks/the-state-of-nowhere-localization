@@ -1,0 +1,802 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#1
+
+# [ENGLISH]
+# Rent
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Оренда
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#2
+
+# [ENGLISH]
+# Food
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Їжа
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#3
+
+# [ENGLISH]
+# Household expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+
+# [TRANSLATION]
+<<<
+Витрати на домашнє господарство
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#4
+
+# [ENGLISH]
+# Nowhere State Taxes
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Ukrainian: Nowhere
+
+# [TRANSLATION]
+<<<
+Податки штату Nowhere
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#5
+
+# [ENGLISH]
+# Maligno Premium TV Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_TV
+# English: Maligno Premium TV Pack
+# Ukrainian: Maligno Premium TV Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium TV Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#6
+
+# [ENGLISH]
+# Maligno Ultra Gold Internet Pack 256kbps
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_INTERNET
+# English: Maligno Ultra Gold Internet Pack 256kbps
+# Ukrainian: Maligno Ultra Gold Internet Pack 256kbps
+
+# [TRANSLATION]
+<<<
+Maligno Ultra Gold Internet Pack 256kbps
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#7
+
+# [ENGLISH]
+# Maligno Premium XXX Pack + Feet Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNO_XXX
+# English: Maligno Premium XXX Pack + Feet Pack
+# Ukrainian: Maligno Premium XXX Pack + Feet Pack
+
+# [TRANSLATION]
+<<<
+Maligno Premium XXX Pack + Feet Pack
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#8
+
+# [ENGLISH]
+# Maligno insurance
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Ukrainian: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno Страхування
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#9
+
+# [ENGLISH]
+# Medical expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+
+# [TRANSLATION]
+<<<
+Медичні витрати
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#10
+
+# [ENGLISH]
+# Arrest expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+
+# [TRANSLATION]
+<<<
+Витрати за арешт
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#11
+
+# [ENGLISH]
+# Gift for Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: WIFE
+# English: Wife
+# Ukrainian: Дружина
+
+# [TRANSLATION]
+<<<
+Подарунок для Дружини
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#12
+
+# [ENGLISH]
+# Gift for Supervisor's ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Ukrainian: Керівник
+
+# [TRANSLATION]
+<<<
+Подарунок для колишньої дружини Керівника
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#13
+
+# [ENGLISH]
+# Gift for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+#
+# ID: LOVER
+# English: Lover
+# Ukrainian: Коханець
+
+# [TRANSLATION]
+<<<
+Подарунок для Сина (Коханець)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#14
+
+# [ENGLISH]
+# Gift son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Ukrainian: Керівник
+
+# [TRANSLATION]
+<<<
+Подарунок для Сина (колишня дружина Керівника)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#15
+
+# [ENGLISH]
+# Gift for Son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+
+# [TRANSLATION]
+<<<
+Подарунок для Сина
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#16
+
+# [ENGLISH]
+# Gift for Lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: LOVER
+# English: Lover
+# Ukrainian: Коханець
+
+# [TRANSLATION]
+<<<
+Подарунок для Коханця
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#17
+
+# [ENGLISH]
+# Gift for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+#
+# ID: PET
+# English: Pet
+# Ukrainian: Домашня тварина
+
+# [TRANSLATION]
+<<<
+Подарунок для Домашньої тварини
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#18
+
+# [ENGLISH]
+# son's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+
+# [TRANSLATION]
+<<<
+Витрати Сина
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#19
+
+# [ENGLISH]
+# son's expenses (lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+#
+# ID: LOVER
+# English: Lover
+# Ukrainian: Коханець
+
+# [TRANSLATION]
+<<<
+Витрати Сина (Коханець)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#20
+
+# [ENGLISH]
+# Son exp. (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Ukrainian: Керівник
+
+# [TRANSLATION]
+<<<
+Витрати Сина (колишня дружина Керівника)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#21
+
+# [ENGLISH]
+# wife's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: WIFE
+# English: Wife
+# Ukrainian: Дружина
+
+# [TRANSLATION]
+<<<
+Витрати дружини
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#22
+
+# [ENGLISH]
+# Sup. ex-Wife expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Ukrainian: Керівник
+
+# [TRANSLATION]
+<<<
+Витрати екс-дружини (керівник)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#23
+
+# [ENGLISH]
+# pet expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: PET
+# English: Pet
+# Ukrainian: Домашня тварина
+
+# [TRANSLATION]
+<<<
+Витрати на домашню тварину
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#24
+
+# [ENGLISH]
+# lover's expenses
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: EXPENSE
+# English: Expense
+# Ukrainian: Витрата
+#
+# ID: LOVER
+# English: Lover
+# Ukrainian: Коханець
+
+# [TRANSLATION]
+<<<
+Витрати на коханця
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#25
+
+# [ENGLISH]
+# Medicines for son
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+
+# [TRANSLATION]
+<<<
+Ліки для сина
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#26
+
+# [ENGLISH]
+# Medicines for son (Lover)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+#
+# ID: LOVER
+# English: Lover
+# Ukrainian: Коханець
+
+# [TRANSLATION]
+<<<
+Ліки для сина (коханець)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#27
+
+# [ENGLISH]
+# Med. son (Sup. ex-Wife)
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: SON
+# English: Son
+# Ukrainian: Син
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Ukrainian: Керівник
+
+# [TRANSLATION]
+<<<
+Ліки для сина (екс-дружина, керівник)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#28
+
+# [ENGLISH]
+# Medicines for wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: WIFE
+# English: Wife
+# Ukrainian: Дружина
+
+# [TRANSLATION]
+<<<
+Ліки для дружини
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#29
+
+# [ENGLISH]
+# Med. Sup. ex-Wife
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: SUPERVISOR
+# English: Supervisor
+# Ukrainian: Керівник
+
+# [TRANSLATION]
+<<<
+Ліки для екс-дружини (керівник)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#30
+
+# [ENGLISH]
+# Medicines for lover
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: LOVER
+# English: Lover
+# Ukrainian: Коханець
+
+# [TRANSLATION]
+<<<
+Ліки для коханця
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#31
+
+# [ENGLISH]
+# Medicines for Pet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MEDICINES
+# English: Medicines
+# Ukrainian: Ліки
+#
+# ID: PET
+# English: Pet
+# Ukrainian: Домашня тварина
+
+# [TRANSLATION]
+<<<
+Ліки для домашньої тварини
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#32
+
+# [ENGLISH]
+# Condoms sexual serv. provided
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Презервативи (надання секс. послуг)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#33
+
+# [ENGLISH]
+# Condoms sexual serv. received
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Презервативи (отримання секс. послуг)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#34
+
+# [ENGLISH]
+# Gift pack for the entire family
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+
+# [TRANSLATION]
+<<<
+Набір подарунків для всієї родини
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#35
+
+# [ENGLISH]
+# Don Maligno Gift Pack
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: GIFT
+# English: Gift
+# Ukrainian: Подарунок
+
+# [TRANSLATION]
+<<<
+Набір подарунків Don Maligno
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_GASTOSDIA#36
+
+# [ENGLISH]
+# Kidnapping ransom
+
+# [CONTEXT]
+# 
+
+# [TRANSLATION]
+<<<
+Порятунок з полону
+>>>

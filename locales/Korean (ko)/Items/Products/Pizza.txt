@@ -1,0 +1,143 @@
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#1
+
+# [ENGLISH]
+# Pizza
+
+# [CONTEXT]
+# Food product name
+
+# [TRANSLATION]
+<<<
+피자
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#2
+
+# [ENGLISH]
+# Pizza is the best invention of mankind
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+피자는 인류의 가장 위대한 발명이다.
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#3
+
+# [ENGLISH]
+# That you don't like pizza? // What world do you come from?
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+피자가 마음에 안 들어요? // 어떤 세계에서 온 건가요?
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#4
+
+# [ENGLISH]
+# 'Pizza Don Maligno' // 'The Nowhere government is not responsible for any adverse effects that may result from the consumption of this product' // Great.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DON_MALIGNO
+# English: Don Maligno
+# Korean: Don Maligno
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+
+# [TRANSLATION]
+<<<
+'Don Maligno 피자' // 'Nowhere 정부는 이 제품의 섭취로 인해 발생할 수 있는 부작용에 대해 책임지지 않습니다' // 훌륭해
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#5
+
+# [ENGLISH]
+# What's your favorite pizza? // The one where I stay out of your business? // Oh // I understand.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+네가 좋아하는 피자는 뭐야? // '내 일에 간섭하지 마' 그거? // 아 // 이해해
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#6
+
+# [ENGLISH]
+# You cancelled my pizza... // I never met anyone as mean as you.
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+피자를 취소시켰어... // 너만큼 사악한 사람은 처음 봤어
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#7
+
+# [ENGLISH]
+# Pizza? // No // Please don't
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+피자? // 아니요 // 제발
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#8
+
+# [ENGLISH]
+# It must be a mistake // I have to eat pizza // Lots of it
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+실수일 거야 // 나는 피자를 먹어야 해 // 많이
+>>>
+
+# ============================================================================
+# [KEY]
+# PRODUCTOS_PIZZA#9
+
+# [ENGLISH]
+# Really? // I'll miss that pizza... // Its melted cheese... // I want to cry
+
+# [CONTEXT]
+# Dialogue for a citizen referring to the Pizza product. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+진짜요? // 그 피자가 그립겠어요... // 그 녹인 치즈가... // 울고 싶어져요
+>>>

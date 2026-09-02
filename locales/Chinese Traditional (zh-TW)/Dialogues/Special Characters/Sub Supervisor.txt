@@ -1,0 +1,188 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#1
+
+# [ENGLISH]
+# Sub-Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Chinese Traditional: 副主管
+
+# [TRANSLATION]
+<<<
+副主管
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#2
+
+# [ENGLISH]
+# Hello Employee 100411 // I am the sub-supervisor // I'm in charge here—well, second in charge // The supervisor is above me // But soon I will take his position... // One day he will make a mistake and I'll be there ready to seize the opportunity... // Muahahahaha // Sorry // Get back to work 100411
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Traditional: 主管
+#
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Chinese Traditional: 副主管
+
+# [TRANSLATION]
+<<<
+你好 員工100411 // 我是副主管 // 我是這裡職級最高的人 // 當然，在主管之後... // 但我很快就會接替他的位置... // 總有一天他會犯錯，而我會在那裡準備好抓住機會... // 哇哈哈哈哈 // 抱歉 // 繼續你的工作吧 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#4
+
+# [ENGLISH]
+# 100411 // There are new rules // People from certain cities will not be allowed // You should check your manual
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+100411 // 有新的規定 // 某些城市的人將不被允許入內 // 你應該查看你的手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#5
+
+# [ENGLISH]
+# 100411 // There are more regulations regarding product sales // You will have to verify the citizens' age when selling them products // Check your manual for more information
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Chinese Traditional: 手冊
+
+# [TRANSLATION]
+<<<
+100411 // 關於商品銷售有更多規定 // 你在向市民銷售商品時應檢查其年齡 // 更多信息請查看你的手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#11
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You must inform yourself about them and their procedures in the manual // Now get to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Traditional: 折價券
+
+# [TRANSLATION]
+<<<
+你好 100411 // 你可能已經聽說 // 折價券已經開始流通 // 你必須在手冊中了解它們及其操作 // 現在開始工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#13
+
+# [ENGLISH]
+# 100411 // Due to the tragic outcome of that family // Starting today, your duty will be to conduct alcohol breath tests // You must consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // 由於那家人的悲劇結局 // 從今天起你的任務將是進行酒精檢查 // 你必須查閱手冊獲取更多信息 // 現在回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // Starting today, we have made available different types of leaflets // To be distributed among the citizens // Although it's not mandatory // That is all // Return to your work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+員工 100411 // 從今天起我們安排了不同類型的傳單 // 以便在市民中分發 // 雖然這不是強制的 // 就這些 // 回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#18
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // The supervisor will take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Traditional: 主管
+
+# [TRANSLATION]
+<<<
+100411 // 你制服的那個可憐蟲沒有活下來 // 現在他可以去另一個世界乞討食物了 // 安心回家吧 // 主管會處理好一切，以免你有麻煩
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // Today we have received multiple calls // Our bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But the supervisor has managed to save you // Since you are a very hard worker // He blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish the supervisor's boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Chinese Traditional: 主管
+
+# [TRANSLATION]
+<<<
+你好 100411 // 今天我們接到了多次投訴 // 我們的上司們很不滿 // 你知道為什麼嗎 // 你下令逮捕了部長的兒子 // 他們想要你的腦袋... // 但主管成功地救了你 // 因為你非常勤懇 // 他把你的錯誤歸咎於了別人 // 那個可憐的倒楣蛋... // 如果他在工作上再努力一點的話，現在就不會成為魚食了 // 總之... // 因為這個錯誤，你得每天在回家之前給主管擦亮靴子 // 現在回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // We found out that someone robbed this station // And that you let them steal without putting up any resistance... // If you want to keep working here // You'd better do your job... // We'll see you tomorrow
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 100411 // 我們得知有人襲擊了這個站點 // 而你任由其搶劫而未加反抗... // 如果你想繼續在這裡工作 // 最好做好你的工作... // 明天見
+>>>

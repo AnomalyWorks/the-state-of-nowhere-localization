@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# Korean: 사기꾼
+
+# [TRANSLATION]
+<<<
+사기꾼
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 친구 // 추가 수입을 올리고 싶은 생각 있어? // 대단한 사기꾼이 되어볼래? // 마음이 정해지면 // 전화해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+알겠어 // 가능할 때 거기에 갈게
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+
+# [TRANSLATION]
+<<<
+안녕 // 그러니까 결정했군... // 사기의 세계에 발을 들이기로... // 좋아 // 시작하는 데 도움이 될 물건을 하나 가져왔어... // 이 예쁜 녀석은 네 금전 등록기 옆에 설치하면 돼 // 버튼 하나만 누르면 의심받지 않고 위조지폐를 내줄 거야 // 물론 네가 사기를 칠 때마다 내가 작은 수수료를 챙길 거고... // 하지만 그 얘기는 하지 말자... // 항상 조심해야 해 // 어떤 사람들은 네 사기를 눈치챌 수도 있어 // 그리고 널 신고할 수도 있지 // 신고가 너무 많이 쌓여서 눈에 띄면 체포될 수도 있어 // 아이들과 노인들을 노려 // 그들은 눈치채지 못하거든 // 그리고 친구, 경찰을 상대로 사기 칠 생각은 꿈도 꾸지 마... // 아무튼 // 행운을 빌어
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Korean: 신용카드 리더기
+
+# [TRANSLATION]
+<<<
+안녕, 친구 // 사기 사업이 아주 잘되고 있는 것 같군... // 내가 뭔가 하나 줄게... // 이 멋진 기계는 네 신용카드 리더기에 부착하면 돼 // 이게 무슨 일을 하냐고? // 네가 입력한 신용카드 정보를 복사해서 나한테 보내는 거야 // 카드를 하나 복사할 때마다 추가 수입을 얻게 될 거야, 친구 // 그리고 기억해 // 경찰은 멀리해... // 행운을 빌어
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Korean: Mark Shadow
+
+# [TRANSLATION]
+<<<
+안녕, 친구 // 소식을 듣자마자 달려와서 알려주러 왔어... // 정말 조심해야 해 // 잠복 경찰이 근처를 돌아다니고 있어 // 평범한 시민인 척하고 있거든... // 어떻게 알아보냐고? // 다행히 내 정보원들이 이름을 알아냈어... // Mark Shadow // 기억해 둬 // 걱정할 필요는 없어 // 그냥 경계하면서 바보 같은 짓만 하지 않으면 돼... // 뭐 // 그게 다야 // 안녕
+>>>

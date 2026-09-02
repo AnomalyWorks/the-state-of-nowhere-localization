@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# Italian: Truffatore
+
+# [TRANSLATION]
+<<<
+Truffatore
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Ciao amico // Ti interessa guadagnare qualche entrata extra? // Diventare un grande truffatore? // Se ti decidi // Chiamami
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Va bene // Andrò lì quando potrò
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Italian: Registratore di cassa
+
+# [TRANSLATION]
+<<<
+Ciao // Quindi hai deciso... // di entrare nel mondo delle truffe... // Bene // Ho qui qualcosa che ti servirà per iniziare... // Questa bellezza si installa accanto al Registratore di cassa che hai // E ti darà denaro falso senza destare sospetti premendo un pulsante // Naturalmente mi prenderò una piccola commissione per ogni truffa che farai... // Ma non parliamone... // Dovrai stare attento // Alcune persone potrebbero accorgersi della tua truffa // E potrebbero denunciarti // Se attirerai troppa attenzione con le denunce, potrebbero arrestarti // Concentrati su bambini e anziani // Quelli non se ne accorgono // E non ti venga nemmeno in mente di truffare i poliziotti, amico... // Insomma // Buona fortuna
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Italian: Lettore di carte di credito
+
+# [TRANSLATION]
+<<<
+Ciao amico // Vedo che te la cavi molto bene nel business delle truffe... // Lascia che ti dia qualcosa... // Questa bella macchina si fissa al Lettore di carte di credito che hai // E cosa fa? // Beh, copia i dati che inserisci dalle carte di credito e me li invia // Per ogni carta che copierai, guadagnerai un'entrata extra, amico // E ricorda // Stai alla larga dai poliziotti... // Buona fortuna
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Italian: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Ciao, amico // Sono venuto di corsa ad avvisarti non appena l'ho saputo... // Devi stare molto attento // C'è un poliziotto sotto copertura che si aggira qui intorno // Fingendosi un normale cittadino... // E come lo riconosci? // Beh, fortunatamente i miei contatti sono riusciti a darmi un nome... // Mark Shadow // Ricordatelo // Non devi preoccuparti // Devi solo stare attento e non fare nessuna stupidaggine... // Bene // Era tutto // Addio
+>>>

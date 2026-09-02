@@ -1,0 +1,179 @@
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#1
+
+# [ENGLISH]
+# Guard
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_GUARD
+# English: Guard
+# German: Wachmann
+
+# [TRANSLATION]
+<<<
+Wachmann
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#2
+
+# [ENGLISH]
+# Hi // I'm the guard // in charge of detention and security here // You know // I was thinking... // we guards get paid more for every detention we make // so if you could provide us with more people to detain... // maybe I could even give you some extra income... // I'm not telling you to arrest innocent people... // No // No way... // hehehe // Anyway // Think about it // It's good to have a friend to look out for you... // Don't you think so?
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hallo // Ich bin der Wachmann // zuständig für die Inhaftierung und Sicherheit hier // Weißt du? // Ich habe nachgedacht... // wir Wachleute werden für jede Verhaftung, die wir machen, besser bezahlt // also, wenn du uns mehr Leute zum Festnehmen liefern würdest... // könnte ich dir vielleicht sogar ein paar zusätzliche Einnahmen geben... // ich sage nicht, dass du unschuldige Leute verhaften sollst... // Nein // Auf keinen Fall... // hehehe // Wie auch immer // Denk darüber nach // Es ist gut, einen Freund zu haben, der auf dich aufpasst... // Findest du nicht?
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#3
+
+# [ENGLISH]
+# Hi! // Great job! // Here's your share // And by the way // Don't worry about those people // They're in a better place // You know the special detention center? // They say it's very nice // Full of amenities // Medical care // Free TV // Board games // Electric fences 24 hours a day // Automatic firing turrets... // Paradise... // I'm leaving you // I must return to my post
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# German: Spezialhaftzentrum
+
+# [TRANSLATION]
+<<<
+Hallo! // Sehr gute Arbeit! // Hier ist dein Anteil // Und übrigens // Mach dir keine Sorgen um diese Leute // Sie sind an einem besseren Ort // Kennst du das Spezialhaftzentrum? // Man sagt, es sei sehr schön // Voller Annehmlichkeiten // Medizinische Versorgung // Kostenloses Fernsehen // Brettspiele // Elektrische Zäune rund um die Uhr // Automatische Geschütztürme... // Das Paradies... // Ich lasse dich dann // Ich muss zu meinem Posten zurück
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#4
+
+# [ENGLISH]
+# What's up! // I'll bring you your money... // Ouch!! // My arm hurts... // Do you know of any cream or something to ease the pain? // I hit the last wretch I arrested pretty hard... // But don't worry... // I'm fine...  // Though I couldn't say the same // of the poor guy I beat up... // Well // Duty calls
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Wie geht's! // Ich bringe dir dein Geld... // Aua! // Mein Arm tut weh... // Kennst du irgendeine Creme oder etwas, das den Schmerz lindert? // Ich habe den letzten Elenden, den ich festgenommen habe, sehr hart geschlagen... // Aber mach dir keine Sorgen... // Mir geht es gut... // Auch wenn ich das nicht von dem // armen Kerl sagen könnte, den ich verprügelt habe... // Na gut // Die Pflicht ruft
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#5
+
+# [ENGLISH]
+# Good morning! // Take your detention money // Enjoy // You've earned it... // By the way... // What a beautiful day to smash heads... // Get back to work...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Guten Morgen! // Nimm dein Geld für die Festnahmen // Lass es dir gutgehen // Du hast es dir verdient... // Übrigens... // Was für ein schöner Tag, um Köpfe einzuschlagen... // Zurück an die Arbeit
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#6
+
+# [ENGLISH]
+# There you are!! // My number one accomplice... // How's your day? // Look // Here, I brought you more money...  // Take care of it // Don't spend it so fast... // Invest it // Oh! // I must go // There's a wretch who requires my attentions
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Da bist du ja!! // Mein Komplize Nummer eins... // Wie läuft dein Tag? // Schau // Ich bringe dir noch mehr Geld... // Pass darauf auf // Gib es nicht so schnell aus... // Investiere es // Oh! // Ich muss los // Da ist ein Elender, der meine Aufmerksamkeit braucht
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#7
+
+# [ENGLISH]
+# Pffft! // How tiring... // Who knew that teaching the beautiful art of guard brutality // would be so exhausting... // Here's your pay for the detainees... // Keep it up
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Puh! // Was für eine Erschöpfung... // Wer hätte gedacht, dass es so anstrengend wäre, die schöne Kunst der Brutalität der Wachen zu lehren // ... // Hier ist dein Lohn für die Gefangenen... // Mach weiter so
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#8
+
+# [ENGLISH]
+# Hello friend // I must tell you that I'm being transferred to another distribution center // I won't be able to continue our deal // But anyway... // You will always have a place in my heart... // It was a pleasure doing business with you... // I'm very bad at goodbyes // I'll miss you... // Here I leave you your last paycheck
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# German: Verteilungszentrum
+
+# [TRANSLATION]
+<<<
+Hallo, Freund // Ich muss dir sagen, dass man mich in ein anderes Verteilungszentrum versetzt // Ich kann unser Geschäft nicht mehr weiterführen // Aber na ja... // Du wirst immer einen Platz in meinem Herzen haben... // Es war mir ein Vergnügen, mit dir Geschäfte zu machen... // Ich bin sehr schlecht im Verabschieden // Ich werde dich vermissen... // Hier ist deine letzte Bezahlung
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#9
+
+# [ENGLISH]
+# Good morning // Looks like you weren't convinced by what I told you... // You should know that there's a lot of money at stake // You could get that plastic surgery you need so much // hehe // Think about it // But not too much...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Guten Morgen // Es scheint, als hätte dich das, was ich dir gesagt habe, nicht überzeugt... // Du solltest wissen, dass viel Geld auf dem Spiel steht // Du könntest dir die Schönheitsoperation machen lassen, die du so dringend brauchst // hehe // Denk darüber nach // Aber nicht zu lange...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#10
+
+# [ENGLISH]
+# So... // My colleagues are not happy with your decision... // But still // I support you // Stay calm... // Although I don't know how long I can keep them under control... // Whatever // Have a nice day...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Wie geht's? // Meine Kollegen sind mit deiner Entscheidung nicht zufrieden... // Aber trotzdem // Ich unterstütze dich // Bleib ruhig... // Obwohl ich nicht weiß, wie lange ich sie noch unter Kontrolle halten kann... // Wie auch immer // Ich wünsche dir einen schönen Tag...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#11
+
+# [ENGLISH]
+# How lucky you are // Apparently you don't need extra income... // I don't have enough money // I have children // And they are very demanding // They always want me to buy them this or that // They are not satisfied // hehe // Well... // That's the way it is... // By the way be careful when you leave your shift // It gets really dark... // The perfect opportunity to go unnoticed // And mug someone...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Du hast aber Glück // Anscheinend brauchst du kein zusätzliches Einkommen... // Mein Geld reicht nicht // Ich habe Kinder // Und sie sind sehr anspruchsvoll // Sie wollen immer, dass ich ihnen dies oder das kaufe // Sie geben sich nicht zufrieden // hehe // Na ja... // So ist das eben... // Übrigens pass auf, wenn du nach deiner Schicht rausgehst // Es wird sehr dunkel... // Die perfekte Gelegenheit, unbemerkt zu bleiben // Und jemanden zu überfallen...
+>>>

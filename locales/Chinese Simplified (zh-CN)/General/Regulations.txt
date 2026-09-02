@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+违反
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+应接纳有效公民
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+
+# [TRANSLATION]
+<<<
+偷窃产品的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# Chinese Simplified: 劫匪
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# Chinese Simplified: 已消除威胁
+
+# [TRANSLATION]
+<<<
+劫匪应被消除威胁
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+公民应使用身份证件处理，若未出示则应被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+身份证件过期的公民应被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+出示他人身份证件的公民应被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Chinese Simplified: 身份证件
+
+# [TRANSLATION]
+<<<
+出示假身份证件的公民应被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+
+# [TRANSLATION]
+<<<
+来自受限制城市的公民应被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Chinese Simplified: 通缉犯
+
+# [TRANSLATION]
+<<<
+通缉犯必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+
+# [TRANSLATION]
+<<<
+血液酒精浓度过高的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+产品必须附带相应代码进行处理
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# Chinese Simplified: 未成年人
+
+# [TRANSLATION]
+<<<
+禁止向未成年人出售不适宜的产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# Chinese Simplified: 老年人
+
+# [TRANSLATION]
+<<<
+禁止向老年人出售不适宜的产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# Chinese Simplified: 肥胖者
+
+# [TRANSLATION]
+<<<
+禁止向肥胖者出售不适宜的产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# Chinese Simplified: 重度肥胖者
+
+# [TRANSLATION]
+<<<
+禁止向重度肥胖者出售不适宜的产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# Chinese Simplified: 高血压患者
+
+# [TRANSLATION]
+<<<
+禁止向高血压患者出售含盐产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+禁止向检测阳性的公民出售含酒精产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Chinese Simplified: 食物不耐受
+
+# [TRANSLATION]
+<<<
+禁止向食物不耐受的公民出售含果糖产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Chinese Simplified: 食物不耐受
+
+# [TRANSLATION]
+<<<
+禁止向食物不耐受的公民出售含蔗糖产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Chinese Simplified: 食物不耐受
+
+# [TRANSLATION]
+<<<
+禁止向食物不耐受的公民出售含乳糖产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# Chinese Simplified: 食物不耐受
+
+# [TRANSLATION]
+<<<
+禁止向食物不耐受的公民出售含麸质产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Chinese Simplified: 禁止人员名单
+
+# [TRANSLATION]
+<<<
+禁止销售公民禁售产品列表中的产品
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# Chinese Simplified: 禁止人员名单
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# Chinese Simplified: 商品类别
+
+# [TRANSLATION]
+<<<
+禁止销售公民禁售类别列表中的商品类别
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+
+# [TRANSLATION]
+<<<
+公民必须出示某种支付方式，否则将被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+
+# [TRANSLATION]
+<<<
+公民在支付中不得出现资金不足
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+出示假币的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+坚持使用破损、污损或破坏的纸币支付的公民必须被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: BILLS
+# English: Bills
+# Chinese Simplified: 纸币
+
+# [TRANSLATION]
+<<<
+出示标记纸币的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+出示他人信用卡的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+出示带禁止标记信用卡的公民必须被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+出示禁止银行信用卡的公民必须被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Chinese Simplified: 信用卡
+
+# [TRANSLATION]
+<<<
+出示无资金信用卡的公民必须被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+
+# [TRANSLATION]
+<<<
+出示他人贷项通知单的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+
+# [TRANSLATION]
+<<<
+出示过期贷项通知单的公民必须被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+
+# [TRANSLATION]
+<<<
+出示伪造贷项通知单的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+
+# [TRANSLATION]
+<<<
+出示他人食品券的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+
+# [TRANSLATION]
+<<<
+出示伪造食品券的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: REJECTED
+# English: Rejected
+# Chinese Simplified: 已拒绝
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+
+# [TRANSLATION]
+<<<
+出示过期食品券的公民必须被拒绝
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Chinese Simplified: 公民
+#
+# ID: ARRESTED
+# English: Arrested
+# Chinese Simplified: 已逮捕
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+
+# [TRANSLATION]
+<<<
+出示虚假优惠券的公民必须被逮捕
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+
+# [TRANSLATION]
+<<<
+过期优惠券不应被接受且应被作废
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+
+# [TRANSLATION]
+<<<
+已接受的优惠券应在指定区域打孔
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Chinese Simplified: 贷项通知单
+
+# [TRANSLATION]
+<<<
+贷项通知单应在指定区域与相应发票装订在一起
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Chinese Simplified: 食品券
+
+# [TRANSLATION]
+<<<
+食品券应在指定区域盖章
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+不应因找零超付而出现现金短缺
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Chinese Simplified: 优惠券
+
+# [TRANSLATION]
+<<<
+优惠券应被接受或作废
+>>>

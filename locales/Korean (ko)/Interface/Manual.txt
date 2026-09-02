@@ -1,0 +1,7075 @@
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#00
+
+# [ENGLISH]
+# Your task as the operator of station 65 will be to process the citizens who come to buy food in compliance with current regulations. This generally involves the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: PROCEDURES
+# English: Procedures
+# Korean: 절차
+
+# [TRANSLATION]
+<<<
+작업대 65의 운영자로서 귀하의 임무는 규정을 준수하여 식품을 구매하러 온 시민들을 처리하는 것이며, 이는 일반적으로 다음 절차를 포함합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#01
+
+# [ENGLISH]
+# In cases where established regulations are not met, you may apply the following procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Korean: 절차
+
+# [TRANSLATION]
+<<<
+규정을 준수하지 않을 경우 다음 절차를 적용할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#1
+
+# [ENGLISH]
+# manual
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+매뉴얼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#02
+
+# [ENGLISH]
+# Check the procedures mentioned above for more information
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Korean: 절차
+
+# [TRANSLATION]
+<<<
+추가 정보는 언급된 절차를 참조하십시오
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#2
+
+# [ENGLISH]
+# Today's Updates
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+오늘의 업데이트
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#3
+
+# [ENGLISH]
+# Employee 100411, the following updates are available at your Workstation. Consult the corresponding section. May Maligno light your path
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORKSTATION
+# English: Workstation
+# Korean: 작업 공간
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+
+# [TRANSLATION]
+<<<
+직원 100411번의 작업 공간에는 다음과 같은 업데이트가 있습니다. 해당 섹션을 참조하세요. Maligno가 여러분의 길을 비추길 바랍니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#4
+
+# [ENGLISH]
+# The following rules have been incorporated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Korean: 규정
+
+# [TRANSLATION]
+<<<
+다음 규정이 도입되었습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#5
+
+# [ENGLISH]
+# The following procedures have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Korean: 절차
+
+# [TRANSLATION]
+<<<
+다음 절차가 포함되었고/또는 업데이트되었습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#6
+
+# [ENGLISH]
+# The following elements have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+작업대에 다음과 같은 요소가 추가되었습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#7
+
+# [ENGLISH]
+# The following documents have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+다음 문서들이 추가 및/또는 업데이트되었습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#8
+
+# [ENGLISH]
+# No updates were incorporated into the station today
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+오늘 작업대에 대한 업데이트가 이루어지지 않았습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#9
+
+# [ENGLISH]
+# The following work areas have been added and/or updated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+다음 작업 구역이 추가 및/또는 업데이트되었습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#10
+
+# [ENGLISH]
+# Procedures
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PROCEDURES
+# English: Procedures
+# Korean: 절차
+
+# [TRANSLATION]
+<<<
+절차
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#11
+
+# [ENGLISH]
+# Involved elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+
+# [TRANSLATION]
+<<<
+관련 요소
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#12
+
+# [ENGLISH]
+# Involved Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+관련 문서
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#13
+
+# [ENGLISH]
+# Identify citizen
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민 식별
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#14
+
+# [ENGLISH]
+# Upon arrival at the station, through the call action, citizens must submit their identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: CALL_ACTION
+# English: Call Action
+# Korean: 호출 행동
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+작업대에 나타날 때 호출 행동을 통해 시민은 신분증을 제시해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#15
+
+# [ENGLISH]
+# It must then be swiped through the identification card reader. This action will display all associated data on the main monitor.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Korean: 신분증 리더기
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+
+# [TRANSLATION]
+<<<
+그런 다음 신분증 리더기에 카드를 스캔해야 하며, 이를 통해 메인 모니터에 관련 데이터가 표시됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#16
+
+# [ENGLISH]
+# Process products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 처리
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#17
+
+# [ENGLISH]
+# Process description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+프로세스 설명
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#18
+
+# [ENGLISH]
+# It is initiated when products are requested through the call action.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Korean: 호출 행동
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+호출 행동을 통해 제품이 요청될 때 시작됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#19
+
+# [ENGLISH]
+# Read products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 읽기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#20
+
+# [ENGLISH]
+# Weigh products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 무게 달기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#21
+
+# [ENGLISH]
+# Check products
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 확인
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#22
+
+# [ENGLISH]
+# To begin reading the products, slide the product from the product input depot to the product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 읽기를 시작하려면 제품을 제품 입구에서 제품 판독기로 밀어 넣어야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#23
+
+# [ENGLISH]
+# This will grant access to the product reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+이렇게 하면 상품 리더의 작업 영역에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#24
+
+# [ENGLISH]
+# To do this, slide the product from the product input depot toward the scale at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: SCALE
+# English: Scale
+# Korean: 저울
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Korean: 입고 창고
+
+# [TRANSLATION]
+<<<
+이를 위해 제품을 입고 창고에서 작업대의 저울로 옮겨야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#25
+
+# [ENGLISH]
+# In the event of a reading error, the product must then be read manually through the manual product reader access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Korean: 수동 제품 리더기
+
+# [TRANSLATION]
+<<<
+읽기 오류 시에는 수동 제품 리더기 접근을 통해 제품을 수동으로 읽어야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#26
+
+# [ENGLISH]
+# This will grant access to the Manual Product Reader's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Korean: 수동 제품 리더기
+
+# [TRANSLATION]
+<<<
+이를 통해 수동 제품 리더기의 작업 구역에 접근하게 됩니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#27
+
+# [ENGLISH]
+# During product reading, you may encounter products without barcodes. These require generation through the scale
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: SCALE
+# English: Scale
+# Korean: 저울
+
+# [TRANSLATION]
+<<<
+제품을 스캔하는 동안 바코드가 없는 제품을 찾을 수 있습니다. 이러한 제품은 저울을 통해 생성해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#28
+
+# [ENGLISH]
+# This will grant access to the scale's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: SCALE
+# English: Scale
+# Korean: 저울
+
+# [TRANSLATION]
+<<<
+이렇게 하면 저울의 작업 구역에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#29
+
+# [ENGLISH]
+# Upon completion of product reading, the order list will be generated and can be reviewed via the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: ORDER_LIST
+# English: Order List
+# Korean: 주문 목록
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+제품 스캔을 완료하면 주문 목록이 생성되며, 검사대를 통해 검토할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#30
+
+# [ENGLISH]
+# If no problems are presented, the delivery of the products must be activated
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+문제가 없을 경우 제품을 인도해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#31
+
+# [ENGLISH]
+# If products need to be denied from the order list, access to the inspection table must be gained through its access point
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: ORDER_LIST
+# English: Order List
+# Korean: 주문 목록
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+
+# [TRANSLATION]
+<<<
+주문 목록의 제품을 거부해야 하는 경우, 해당 접근 경로를 통해 검사대로 이동해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#32
+
+# [ENGLISH]
+# This will grant access to the inspection table's work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+이렇게 하면 검사대 작업 구역에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#33
+
+# [ENGLISH]
+# Process payment
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+결제 처리
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#34
+
+# [ENGLISH]
+# Upon completion of product delivery, the citizen must provide payment for the products.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+제품 전달이 완료되면, 시민은 그에 대한 지불을 제공해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#35
+
+# [ENGLISH]
+# And it encompasses the following processes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+그리고 다음 프로세스를 포함합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#36
+
+# [ENGLISH]
+# Process bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+지폐 처리
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#37
+
+# [ENGLISH]
+# This will grant access to the cash register's work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+
+# [TRANSLATION]
+<<<
+이렇게 하면 금전 등록기의 작업 구역에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#38
+
+# [ENGLISH]
+# Once payment is processed, the transaction must be finalized by providing the receipt to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TICKET
+# English: Receipt
+# Korean: 영수증
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+결제가 처리된 후 구매를 완료하려면 시민에게 영수증을 발급해야 합니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#39
+
+# [ENGLISH]
+# Payment may involve one or more of the following documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+지불은 다음 문서 중 일부를 포함할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#40
+
+# [ENGLISH]
+# Perform actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+
+# [TRANSLATION]
+<<<
+행동 수행
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#41
+
+# [ENGLISH]
+# If action regarding citizens is required, it may be carried out through the action unit access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+
+# [TRANSLATION]
+<<<
+시민에 대해 어떤 행동을 수행해야 할 경우 행동 단위를 통해 수행할 수 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#42
+
+# [ENGLISH]
+# Citizens call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Korean: 호출 행동
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민 호출 행동
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#43
+
+# [ENGLISH]
+# Through this, citizens are called to be served at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+이를 통해 시민을 작업대에서 응대하도록 호출합니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#44
+
+# [ENGLISH]
+# Station access points
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+작업대 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#45
+
+# [ENGLISH]
+# Products call action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CALL_ACTION
+# English: Call Action
+# Korean: 호출 행동
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 호출 행동
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#46
+
+# [ENGLISH]
+# It allows the initiation of product intake into the product input depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Korean: 입고 창고
+
+# [TRANSLATION]
+<<<
+제품이 입고 창고로 반입되는 것을 시작할 수 있게 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#47
+
+# [ENGLISH]
+# Product output depot access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Korean: 출고 창고
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 출고 창고에 대한 접근.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#48
+
+# [ENGLISH]
+# Station actions
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+작업대 작업
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#49
+
+# [ENGLISH]
+# Product delivery action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+#
+# ID: PRODUCT_DELIVERY
+# English: Product Delivery
+# Korean: 제품 전달
+
+# [TRANSLATION]
+<<<
+제품 전달 행동.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#50
+
+# [ENGLISH]
+# With it, products are authorized and made available to the citizen through the Product Output Depot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Korean: 출고 창고
+
+# [TRANSLATION]
+<<<
+그것을 통해 제품을 승인하고 출고 창고를 통해 시민에게 제공합니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#51
+
+# [ENGLISH]
+# Manual product reader access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Korean: 수동 제품 리더기
+
+# [TRANSLATION]
+<<<
+수동 제품 리더기에 대한 접근.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#52
+
+# [ENGLISH]
+# Through it, the Manual Product Reader is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Korean: 수동 제품 리더기
+
+# [TRANSLATION]
+<<<
+그것을 통해 수동 제품 리더기에 접근합니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#53
+
+# [ENGLISH]
+# ID card reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Korean: 신분증 리더기
+
+# [TRANSLATION]
+<<<
+신분증 리더기.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#54
+
+# [ENGLISH]
+# Station element where identification cards must be swiped to be read
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+작업대의 요소로, 신분증을 읽기 위해 슬라이드해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#55
+
+# [ENGLISH]
+# Main monitor
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+
+# [TRANSLATION]
+<<<
+메인 모니터
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#56
+
+# [ENGLISH]
+# Station element consisting of two monitors that display the data from an identification card when read. The data consists of a portrait that captures the citizen's physical characteristics and associated personal information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+작업대의 요소로, 두 개의 모니터로 구성되어 신분증이 읽힐 때 데이터를 반영합니다. 데이터는 시민의 신체적 특징을 결합한 초상화와 관련 개인 정보로 구성됩니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#57
+
+# [ENGLISH]
+# Product input depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INPUT_DEPOT
+# English: Input Depot
+# Korean: 입고 창고
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+입고 창고 제품
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#58
+
+# [ENGLISH]
+# Station element where products are taken to be processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+작업대에서 제품을 가져와 가공하는 요소
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#59
+
+# [ENGLISH]
+# Main Monitor Navigation Control
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Korean: 탐색 컨트롤
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+
+# [TRANSLATION]
+<<<
+메인 모니터 탐색 컨트롤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#60
+
+# [ENGLISH]
+# It allows access to additional information on the main monitor related to the citizen's product prohibitions.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민의 제품 제한과 관련된 정보를 메인 모니터에서 추가로 확인할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#61
+
+# [ENGLISH]
+# Product reader
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_READER
+# English: Product Reader
+# Korean: 제품 리더기
+
+# [TRANSLATION]
+<<<
+제품 리더기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#62
+
+# [ENGLISH]
+# Products must be slid from right to left across the table to be read by the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품을 리더기가 읽으려면 테이블 위에서 오른쪽에서 왼쪽으로 밀어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#63
+
+# [ENGLISH]
+# Some products may not have barcodes, which prevents the product from being read until it is first processed on the scale.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: SCALE
+# English: Scale
+# Korean: 저울
+
+# [TRANSLATION]
+<<<
+일부 제품에는 바코드가 없을 수 있어, 저울에서 먼저 처리하지 않으면 읽을 수 없습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#64
+
+# [ENGLISH]
+# During product reading, reading errors may occur. If these are repeated, the product must be processed using the manual product reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Korean: 수동 제품 리더기
+
+# [TRANSLATION]
+<<<
+제품을 읽는 동안 읽기 오류가 발생할 수 있습니다. 오류가 반복되면 수동 제품 리더기를 통해 처리해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#65
+
+# [ENGLISH]
+# Product output depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Korean: 출고 창고
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+출고 창고 제품
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#66
+
+# [ENGLISH]
+# Accessible through the product output depot access. It is the work area where it is determined whether a product on the citizen's order list will be approved or not.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Korean: 출고 창고
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: ORDER_LIST
+# English: Order List
+# Korean: 주문 목록
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+출고 창고 접근을 통해 이용할 수 있습니다. 이 작업 구역에서는 시민의 주문 목록에 있는 제품이 승인될지 여부가 결정됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#67
+
+# [ENGLISH]
+# Cash Register
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+
+# [TRANSLATION]
+<<<
+금전 등록기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#68
+
+# [ENGLISH]
+# Station component where citizen payment documents are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+작업대의 요소로, 시민의 지불 문서가 보관되는 곳입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#69
+
+# [ENGLISH]
+# Accessible when a payment method is swiped through the cash register. It is the work area where the citizen's change is processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+금전 등록기를 통해 결제 수단을 스캔할 때 이용할 수 있습니다. 이 작업 구역에서는 시민에게 거슬러주는 금액을 처리합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#70
+
+# [ENGLISH]
+# Inspection table
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+검사대
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#71
+
+# [ENGLISH]
+# Accessible through the inspection table access. It is the work area where different types of documents are inspected and processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+검사대 접근을 통해 이용할 수 있습니다. 이 작업 구역에서는 다양한 유형의 문서가 검사 및 처리됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#72
+
+# [ENGLISH]
+# It is equipped with the following series of tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+다음 도구 세트가 포함되어 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#73
+
+# [ENGLISH]
+# Magnifying glass
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Korean: 돋보기
+
+# [TRANSLATION]
+<<<
+돋보기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#74
+
+# [ENGLISH]
+# Its function is to reveal whether a authenticity seal is authentic. It can also be used to reveal hidden information on documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Korean: 정품 인증 도장
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+이 도구의 기능은 정품 인증 도장이 진품인지 밝혀내는 것입니다. 또한 문서에 숨겨진 정보를 밝혀내는 데 사용할 수도 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#75
+
+# [ENGLISH]
+# Hole Punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: HOLE_PUNCH
+# English: Hole Punch
+# Korean: 천공기
+
+# [TRANSLATION]
+<<<
+천공기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#76
+
+# [ENGLISH]
+# Its function is to punch holes in documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+이 도구의 역할은 문서에 구멍을 뚫는 것입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#77
+
+# [ENGLISH]
+# Auxiliary Documents Tray
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Korean: 보조 문서 트레이
+
+# [TRANSLATION]
+<<<
+보조 문서 트레이
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#78
+
+# [ENGLISH]
+# This tray provides auxiliary documents with additional information, necessary to properly operate in citizen service.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Korean: 보조 문서
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+이 트레이에는 시민 응대 시 적절하게 운영하기 위해 필요한 추가 정보가 포함된 보조 문서가 제공됩니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#79
+
+# [ENGLISH]
+# Stapler
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAPLER
+# English: Stapler
+# Korean: 스테이플러
+
+# [TRANSLATION]
+<<<
+스테이플러
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#80
+
+# [ENGLISH]
+# Its function is to bind certain documents by means of a staple.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+귀하의 작업은 스테이플러를 사용하여 특정 문서를 제본하는 것입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#81
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STAMP
+# English: Stamp
+# Korean: 도장
+
+# [TRANSLATION]
+<<<
+도장
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#82
+
+# [ENGLISH]
+# Its function is to stamp documents.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+이 도구의 기능은 문서에 도장을 찍는 것입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#83
+
+# [ENGLISH]
+# Performed Tests Viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: P_TESTS_VIEWER
+# English: Performed Tests Viewer
+# Korean: 실시한 검사 보기
+
+# [TRANSLATION]
+<<<
+실시한 검사 보기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#84
+
+# [ENGLISH]
+# This viewer displays the information of the various tests that have been performed on the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+이 보기에는 시민에게 실시된 다양한 검사의 정보가 반영됩니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#86
+
+# [ENGLISH]
+# Accessible through the manual Product Reader access. It is the work area where products are read manually.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MANUAL_PROD_READER
+# English: Manual Product Reader
+# Korean: 수동 제품 리더기
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+수동 제품 리더기를 통해 접근할 수 있습니다. 이는 제품을 수동으로 읽는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#87
+
+# [ENGLISH]
+# Inspection table access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+검사대 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#88
+
+# [ENGLISH]
+# Through it, the inspection table is accessed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+이를 통해 검사대에 접근할 수 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#90
+
+# [ENGLISH]
+# Accessible when a product is slid onto the scale. It is the work area where barcodes are generated for products that do not have them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: SCALE
+# English: Scale
+# Korean: 저울
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+제품을 저울 위로 미끄러뜨릴 때 접근할 수 있습니다. 이는 바코드가 없는 제품을 위해 바코드를 생성하는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#92
+
+# [ENGLISH]
+# Accessible through the inventory access. It is the work area where objects that can be used to interact with citizens are stored.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: INVENTORY
+# English: Inventory
+# Korean: 인벤토리
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: OBJECT
+# English: Object
+# Korean: 물건
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+인벤토리 접근을 통해 이용할 수 있습니다. 시민들과 상호작용하는 데 사용할 수 있는 물건을 보관하는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#93
+
+# [ENGLISH]
+# Telephone
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: TELEPHONE
+# English: Telephone
+# Korean: 전화기
+
+# [TRANSLATION]
+<<<
+전화기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#94
+
+# [ENGLISH]
+# Accessible through the telephone access. It is the work area where calls are made.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: TELEPHONE
+# English: Telephone
+# Korean: 전화기
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+전화기 접근을 통해 이용할 수 있습니다. 전화를 거는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#95
+
+# [ENGLISH]
+# Inventory access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: INVENTORY
+# English: Inventory
+# Korean: 인벤토리
+
+# [TRANSLATION]
+<<<
+인벤토리 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#96
+
+# [ENGLISH]
+# It allows access to the inventory.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INVENTORY
+# English: Inventory
+# Korean: 인벤토리
+
+# [TRANSLATION]
+<<<
+인벤토리에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#97
+
+# [ENGLISH]
+# Telephone access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: TELEPHONE
+# English: Telephone
+# Korean: 전화기
+
+# [TRANSLATION]
+<<<
+전화기 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#98
+
+# [ENGLISH]
+# It allows access to the telephone.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: TELEPHONE
+# English: Telephone
+# Korean: 전화기
+
+# [TRANSLATION]
+<<<
+전화기에 입장할 수 있는 접근입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#99
+
+# [ENGLISH]
+# Authenticity seal
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Korean: 정품 인증 도장
+
+# [TRANSLATION]
+<<<
+정품 인증 도장
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#100
+
+# [ENGLISH]
+# They are used to validate the authenticity of certain documents. To do so, they must meet the following characteristics.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+특정 문서의 진위를 검증하는 데 사용됩니다. 이를 위해 다음 특징을 충족해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#101
+
+# [ENGLISH]
+# Have the following shape and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+다음 모양과 색상을 가져야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#102
+
+# [ENGLISH]
+# Illuminate when exposed to the inspection table's magnifying glass.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Korean: 돋보기
+
+# [TRANSLATION]
+<<<
+검사대의 돋보기에 비추면 빛나야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#103
+
+# [ENGLISH]
+# ID Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+신분증
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#104
+
+# [ENGLISH]
+# Identification cards are documents presented by citizens that must be read through the ID card reader available at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ID_CARD_READER
+# English: Identification Card Reader
+# Korean: 신분증 리더기
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+신분증은 시민이 제출하며 작업대에 비치된 신분증 리더기를 통해 읽어야 하는 문서입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#105
+
+# [ENGLISH]
+# Authenticity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+진위
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#106
+
+# [ENGLISH]
+# For an identification card to be authentic, it must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+신분증이 진정성 있으려면 다음 요건을 충족해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#107
+
+# [ENGLISH]
+# Match in layout, shape, and color
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+배치, 형태 및 색상에서 일치해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#108
+
+# [ENGLISH]
+# Its two authenticity seals must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Korean: 정품 인증 도장
+
+# [TRANSLATION]
+<<<
+귀하의 두 정품 인증 도장은 진품이어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#109
+
+# [ENGLISH]
+# Validity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+유효성
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#110
+
+# [ENGLISH]
+# Identification cards have a validity period. This data can be viewed on the Main Monitor, in the Expiration field when the card is inserted into the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+
+# [TRANSLATION]
+<<<
+신분증은 유효 기간이 있습니다. 이 정보는 카드를 리더기에 넣을 때 메인 모니터의 만료 필드에 표시될 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#111
+
+# [ENGLISH]
+# Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+지폐
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#112
+
+# [ENGLISH]
+# Bills are one of the accepted forms of payment at distribution centers. It must be processed at the cash register provided at the workstation.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+#
+# ID: WORKSTATION
+# English: Workstation
+# Korean: 작업 공간
+
+# [TRANSLATION]
+<<<
+지폐는 유통 센터에서 수락되는 결제 방법 중 하나입니다. 작업 공간에 마련된 금전 등록기에서 처리해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#113
+
+# [ENGLISH]
+# Match in layout and shape
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+배치와 형태에서 일치해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#114
+
+# [ENGLISH]
+# Its authenticity seal must be authentic
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTHENTICITY_SEAL
+# English: Authenticity Seal
+# Korean: 정품 인증 도장
+
+# [TRANSLATION]
+<<<
+귀하의 정품 인증 도장은 진품이어야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#115
+
+# [ENGLISH]
+# For bills to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+지폐가 진품이려면 이러한 요구 사항을 충족해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#116
+
+# [ENGLISH]
+# Marked Bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Korean: 표시된 지폐
+
+# [TRANSLATION]
+<<<
+표시된 지폐
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#117
+
+# [ENGLISH]
+# Money has a marking system consisting of a one-letter and seven-number code on its back, the meaning of which is as follows
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+돈에는 한 글자와 일곱 숫자로 구성된 코드가 있는 표시 시스템이 있으며, 그 뒷면에 있으며 그 의미는 다음과 같습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#118
+
+# [ENGLISH]
+# Letter code F: These are valid bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+문자 F 코드: 유효한 지폐입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#119
+
+# [ENGLISH]
+# Letter code X: These are bills suspected of being under surveillance
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+문자 X 코드: 감시 중인 것으로 짐작되는 지폐입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#120
+
+# [ENGLISH]
+# Bills suspected of being under surveillance must be verified by their UV code, only visible with the inspection table's magnifying glass. The bill will be marked if the last four digits of the UV code are present in the document listing UV codes under surveillance.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+#
+# ID: MAGNIFYING_GLASS
+# English: Magnifying Glass
+# Korean: 돋보기
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Korean: UV 코드 목록
+
+# [TRANSLATION]
+<<<
+감시 중인 것으로 짐작되는 지폐는 UV 코드로 확인해야 하며, 검사대의 돋보기로만 볼 수 있습니다. UV 코드의 마지막 네 자리가 감시 중인 UV 코드 목록 문서에 있으면 지폐가 표시됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#121
+
+# [ENGLISH]
+# Bills status
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+지폐 상태
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#122
+
+# [ENGLISH]
+# Bills provided by citizens must be in perfect condition. They must not have vandalism, tears, stains, or color deterioration.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민이 제공한 지폐는 완벽한 상태여야 합니다. 훼손, 찢김, 얼룩 또는 색상 저하가 없어야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#124
+
+# [ENGLISH]
+# It is a document generated upon completion of product reading. It reflects the products requested by the citizen, their approval status, and a series of labels corresponding to the different categories to which the product belongs.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: CATEGORY
+# English: Category
+# Korean: 카테고리
+#
+# ID: LABEL
+# English: Label
+# Korean: 라벨
+
+# [TRANSLATION]
+<<<
+이것은 제품 읽기가 완료된 후 생성되는 문서입니다. 시민이 요청한 제품, 승인 상태 및 제품이 속하는 다양한 카테고리에 해당하는 일련의 라벨이 반영되어 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#125
+
+# [ENGLISH]
+# To cancel a product from the order list, the indicated area must be stamped with the product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: ORDER_LIST
+# English: Order List
+# Korean: 주문 목록
+#
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Korean: 제품 거부기
+
+# [TRANSLATION]
+<<<
+주문 목록에서 제품을 취소하려면 제품 거부기로 지정된 영역에 도장을 찍어야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#127
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary documents tray. It displays the meaning of each of the labels on the order list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Korean: 보조 문서
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Korean: 보조 문서 트레이
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: ORDER_LIST
+# English: Order List
+# Korean: 주문 목록
+#
+# ID: LABEL
+# English: Label
+# Korean: 라벨
+
+# [TRANSLATION]
+<<<
+이것은 검사대의 보조 문서 트레이에서 가져온 문서입니다. 주문 목록에서 각 라벨의 의미가 반영되어 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#128
+
+# [ENGLISH]
+# The following actions have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+작업대에 다음 행동들이 통합되었습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#129
+
+# [ENGLISH]
+# The following accesses have been added to the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+작업대에 다음 접근이 추가되었습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#147
+
+# [ENGLISH]
+# Action Unit Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+
+# [TRANSLATION]
+<<<
+행동 단위 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#148
+
+# [ENGLISH]
+# It allows access to the action unit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+
+# [TRANSLATION]
+<<<
+행동 단위에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#149
+
+# [ENGLISH]
+# Action Unit
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+
+# [TRANSLATION]
+<<<
+행동 단위
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#150
+
+# [ENGLISH]
+# Accessible through the action unit access. It is the work area where different types of actions are performed on citizens.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+행동 단위 접근을 통해 이용 가능합니다. 이는 시민을 대상으로 다양한 유형의 행동을 수행하는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#152
+
+# [ENGLISH]
+# Irregularity Notifier Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Korean: 이상 알림기
+
+# [TRANSLATION]
+<<<
+이상 알림기 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#153
+
+# [ENGLISH]
+# It allows access to the Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Korean: 이상 알림기
+
+# [TRANSLATION]
+<<<
+이상 알림기에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#154
+
+# [ENGLISH]
+# Irregularity Notifier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Korean: 이상 알림기
+
+# [TRANSLATION]
+<<<
+이상 알림기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#155
+
+# [ENGLISH]
+# Accessible through the irregularity notifier access. It is the work area that allows informing the citizen of irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Korean: 이상 알림기
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+이상 알림기 접근을 통해 접근할 수 있습니다. 이는 시민이 이상 사항을 알릴 수 있는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#156
+
+# [ENGLISH]
+# Work Shift Log Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Korean: 근무 교대 기록
+
+# [TRANSLATION]
+<<<
+근무 교대 기록 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#157
+
+# [ENGLISH]
+# It allows access to the Work Shift Log.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Korean: 근무 교대 기록
+
+# [TRANSLATION]
+<<<
+근무 교대 기록에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#158
+
+# [ENGLISH]
+# Work Shift Log
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Korean: 근무 교대 기록
+
+# [TRANSLATION]
+<<<
+근무 교대 기록
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#159
+
+# [ENGLISH]
+# Accessible through the work shift log access. It is the work area that allows both starting and ending the work shift at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: WORK_SHIFT_LOG
+# English: Work Shift Log
+# Korean: 근무 교대 기록
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+근무 교대 기록 접근을 통해 접근할 수 있습니다. 이는 작업대에서 근무 교대를 시작하거나 종료할 수 있는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#160
+
+# [ENGLISH]
+# Station Elements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+
+# [TRANSLATION]
+<<<
+작업대 요소
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#161
+
+# [ENGLISH]
+# Home
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+시작
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#162
+
+# [ENGLISH]
+# Main Menu
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+메인 메뉴
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#163
+
+# [ENGLISH]
+# Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+문서
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#164
+
+# [ENGLISH]
+# Work Areas
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+작업 구역
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#165
+
+# [ENGLISH]
+# Report Irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+이상 사항 알리기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#166
+
+# [ENGLISH]
+# It allows access to the Product Output Depot
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OUPUT_DEPOT
+# English: Output Depot
+# Korean: 출고 창고
+
+# [TRANSLATION]
+<<<
+출고 창고에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#167
+
+# [ENGLISH]
+# Read products manually
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 수동 입력
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#168
+
+# [ENGLISH]
+# Receipt
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RECEIPT
+# English: Receipt
+# Korean: 영수증
+
+# [TRANSLATION]
+<<<
+영수증
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#169
+
+# [ENGLISH]
+# It is generated upon completion of product delivery. And it must be given to the citizen to approve and finalize the purchase.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+제품 전달 완료 후 생성됩니다. 그리고 구매를 승인하고 마무리하기 위해 시민에게 전달되어야 합니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#170
+
+# [ENGLISH]
+# The citizen places a payment method on the inspection table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+
+# [TRANSLATION]
+<<<
+시민이 검사대에서 결제 수단을 제시합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#171
+
+# [ENGLISH]
+# Once verified, the payment method must be deposited into the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+
+# [TRANSLATION]
+<<<
+확인 후, 결제 수단은 금전 등록기에 입금되어야 합니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#172
+
+# [ENGLISH]
+# This will provide access to the irregularity notifier work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Korean: 이상 알림기
+
+# [TRANSLATION]
+<<<
+이렇게 하면 이상 알림기 작업 구역에 접근할 수 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#173
+
+# [ENGLISH]
+# This will provide access to the action unit work area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+
+# [TRANSLATION]
+<<<
+이렇게 하면 행동 단위 작업 구역에 접근할 수 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#174
+
+# [ENGLISH]
+# If any irregularities are found during citizen service, they can be reported through the irregularity notifier access.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: IRREGULARITY_NOTIFIER
+# English: Irregularity Notifier
+# Korean: 이상 알림기
+
+# [TRANSLATION]
+<<<
+시민을 응대하는 동안 이상을 발견한 경우 이상 알림기 접근을 통해 보고할 수 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#175
+
+# [ENGLISH]
+# Element where citizens' payment methods are deposited.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민의 결제 수단이 보관되는 요소입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#176
+
+# [ENGLISH]
+# Element where products are processed to be read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품을 읽기 위해 처리하는 요소
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#177
+
+# [ENGLISH]
+# Component where products are processed to be weighed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품을 계량하기 위해 처리하는 요소
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#178
+
+# [ENGLISH]
+# Within this area, each product carried by the citizen is displayed, grouped into two zones: one for approval and one for disapproval.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+이 영역에는 시민이 가져오는 제품이 승인 영역과 비승인 영역으로 구분되어 각각 반영됩니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#179
+
+# [ENGLISH]
+# Associated with each product, there is a mechanism that will allow the product to be moved between these zones to determine whether it will be approved or not, before later being authorized at the station
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+각 제품에는 나중에 작업대에서 식품이 승인될 때 제품이 승인될지 여부를 결정하기 위해 이 구역 간에 제품을 이동할 수 있는 메커니즘이 연결되어 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#180
+
+# [ENGLISH]
+# Work area description
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+작업 구역 설명
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#181
+
+# [ENGLISH]
+# Accessible when a product is slid through the product reader. It is the work area where products are read.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Korean: 제품 리더기
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+제품 리더기를 통해 제품이 미끄러질 때 접근 가능합니다. 이것은 제품을 읽는 작업 구역입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#182
+
+# [ENGLISH]
+# To do this, the drawer must be opened, the corresponding amount must be counted and confirmed to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+이를 위해 트레이를 열고, 쌓고, 시민에게 전달해야 할 해당 금액을 확인해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#183
+
+# [ENGLISH]
+# Clear change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+잔돈 정리
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#184
+
+# [ENGLISH]
+# Accept change
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+잔돈 수락
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#185
+
+# [ENGLISH]
+# References
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+참조
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#186
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the product's barcode.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+시작하려면 제품의 바코드 위에 스캐너를 배치해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#187
+
+# [ENGLISH]
+# With the scanner in position, proceed to reveal the product code by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+스캐너가 위치하면, 스캐너 버튼을 누른 상태로 제품 코드를 공개합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#188
+
+# [ENGLISH]
+# Once the product code is revealed, enter and accept it using the keyboard, thus completing the entry.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 코드가 공개되면, 키보드를 통해 입력 및 수용하여 입력을 마칩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#189
+
+# [ENGLISH]
+# Delete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+코드 삭제
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#190
+
+# [ENGLISH]
+# Accept Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+코드 수용
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#191
+
+# [ENGLISH]
+# Autocomplete Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+코드 자동 완성
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#192
+
+# [ENGLISH]
+# Scan Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+코드 스캔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#193
+
+# [ENGLISH]
+# To begin, the corresponding product must be located in the product code list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+시작하려면 제품 코드 목록에서 해당 제품을 검색해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#194
+
+# [ENGLISH]
+# Once the corresponding code is found, it must be entered using the numeric keypad. Then, print and attach the barcode to the product.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+해당 코드를 찾은 후에는 키보드로 입력한 다음 인쇄하여 제품에 바코드를 붙여야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#195
+
+# [ENGLISH]
+# Print Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+코드 인쇄
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#196
+
+# [ENGLISH]
+# Autosearch Code
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+코드 자동 검색
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#197
+
+# [ENGLISH]
+# To give an object to a citizen, it must be dragged toward them.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Korean: 물건
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민에게 물건을 전달하려면 해당 물건을 시민에게로 드래그해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#198
+
+# [ENGLISH]
+# Use Object
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Korean: 물건
+
+# [TRANSLATION]
+<<<
+물건 사용
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#199
+
+# [ENGLISH]
+# Calls can be made through free dialing or through a saved contact.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+전화는 번호를 자유롭게 입력하거나 저장된 연락처를 통해 걸 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#200
+
+# [ENGLISH]
+# Make a call
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+통화하기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#201
+
+# [ENGLISH]
+# Contact List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+연락처 목록
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#202
+
+# [ENGLISH]
+# Free Dialing
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+자유 다이얼
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#203
+
+# [ENGLISH]
+# Reject
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: REJECT
+# English: Reject
+# Korean: 거부
+
+# [TRANSLATION]
+<<<
+거부
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#204
+
+# [ENGLISH]
+# Scan fingerprints
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+지문 스캔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#205
+
+# [ENGLISH]
+# Arrest
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ARREST
+# English: Arrest
+# Korean: 체포
+
+# [TRANSLATION]
+<<<
+체포
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#206
+
+# [ENGLISH]
+# Scan Body
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+신체 스캔
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#207
+
+# [ENGLISH]
+# Neutralize
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZE
+# English: Neutralize
+# Korean: 무력화
+
+# [TRANSLATION]
+<<<
+무력화
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#208
+
+# [ENGLISH]
+# Measure Pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Korean: 압력 측정
+
+# [TRANSLATION]
+<<<
+압력 측정
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#209
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Korean: 알코올 측정
+
+# [TRANSLATION]
+<<<
+알코올 측정
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#210
+
+# [ENGLISH]
+# To register entry or exit, insert the card through the device's slot.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+출입 등록을 위해 기기 슬롯에 카드를 삽입하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#211
+
+# [ENGLISH]
+# Approve / Disapprove product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 승인 / 불승인
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#212
+
+# [ENGLISH]
+# Change Calculator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_CALC
+# English: Change Calc.
+# Korean: Change Calc.
+
+# [TRANSLATION]
+<<<
+Change Calc.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#213
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of change to be given to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Korean: 개선
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민에게 제공해야 하는 거스름돈 금액을 볼 수 있게 하는 개선 사항
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#214
+
+# [ENGLISH]
+# Change Accumulator
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CHANGE_ACCUM
+# English: Change Accum.
+# Korean: Change Accum.
+
+# [TRANSLATION]
+<<<
+Change Accum.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#215
+
+# [ENGLISH]
+# Improvement that allows displaying the amount of money in the change tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Korean: 개선
+
+# [TRANSLATION]
+<<<
+거스름돈 트레이에 있는 금액을 볼 수 있게 하는 개선 사項
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#216
+
+# [ENGLISH]
+# Autocomplete
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_COMPLETE
+# English: Auto Complete
+# Korean: Auto Complete
+
+# [TRANSLATION]
+<<<
+Auto Complete
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#217
+
+# [ENGLISH]
+# Improvement that allows automatically completing a scanned code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Korean: 개선
+#
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+개선: 입력된 코드를 자동으로 완료할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#218
+
+# [ENGLISH]
+# Improvement that allows automatically completing the current code from the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Korean: 개선
+#
+# ID: CODE
+# English: Code
+# Korean: 코드
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+개선: 제품 목록의 현재 코드를 자동으로 완료할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#219
+
+# [ENGLISH]
+# Autosearch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUTO_SEARCH
+# English: Auto Search
+# Korean: Auto Search
+
+# [TRANSLATION]
+<<<
+Auto Search
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#220
+
+# [ENGLISH]
+# Improvement that allows automatically searching for a product in the product list.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Korean: 개선
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+개선: 제품 목록에서 제품을 자동으로 검색할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#221
+
+# [ENGLISH]
+# Improvements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IMPROV
+# English: Improv.
+# Korean: 개선
+
+# [TRANSLATION]
+<<<
+개선
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#222
+
+# [ENGLISH]
+# Rules in force
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Korean: 규정
+
+# [TRANSLATION]
+<<<
+현행 규정
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#223
+
+# [ENGLISH]
+# Non-compliance with any of the following rules by the worker will result in a penalty to their income.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: RULE
+# English: Rule
+# Korean: 규정
+
+# [TRANSLATION]
+<<<
+아래의 규정을 직원이 위반할 경우 소득에 벌금이 부과됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#224
+
+# [ENGLISH]
+# Tools
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+도구
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#225
+
+# [ENGLISH]
+# see work area
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+작업 구역 보기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#226
+
+# [ENGLISH]
+# Auxiliary Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUXILIARY_DOCS
+# English: Auxiliary Documents
+# Korean: 보조 문서
+
+# [TRANSLATION]
+<<<
+보조 문서
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#227
+
+# [ENGLISH]
+# Remove Aux. Documents
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: AUX_DOCS
+# English: Aux. Documents
+# Korean: 보조 문서
+
+# [TRANSLATION]
+<<<
+보조 문서 삭제
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#228
+
+# [ENGLISH]
+# Deny product
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+
+# [TRANSLATION]
+<<<
+제품 거부
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#229
+
+# [ENGLISH]
+# Product denier
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT_DENIER
+# English: Product Denier
+# Korean: 제품 거부기
+
+# [TRANSLATION]
+<<<
+제품 거부기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#230
+
+# [ENGLISH]
+# Its function is to deny products from citizens. To do this, you must position and activate the stamp on the area of the product to be denied
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+그 기능은 시민들의 제품을 거부하는 것입니다. 이를 위해 거부할 제품 영역에 도장을 위치시키고 작동시켜야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#231
+
+# [ENGLISH]
+# It records important and frequently used phone numbers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+여기에는 중요한 전화번호와 자주 사용하는 번호가 기록됩니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#232
+
+# [ENGLISH]
+# Consult this document at the inspection table for more information. You will find the meaning of the labels on the front of the document, and aditional information on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: LABEL
+# English: Label
+# Korean: 라벨
+
+# [TRANSLATION]
+<<<
+검사대에서 이 문서를 참조하여 자세한 정보를 확인하십시오. 라벨의 의미는 앞면에, 추가 정보는 뒷면에 있습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#233
+
+# [ENGLISH]
+# Calculate BMI Action
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION
+# English: Action
+# Korean: 행동
+#
+# ID: BMI
+# English: BMI
+# Korean: BMI
+
+# [TRANSLATION]
+<<<
+BMI 계산 작업
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#234
+
+# [ENGLISH]
+# This function allows you to obtain the citizen's Body Mass Index. Consult the valid obesity values in the food references document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: FOOD_REFERENCES
+# English: Food References
+# Korean: 식품 참고 자료
+#
+# ID: OBESITY
+# English: Obesity
+# Korean: 비만
+
+# [TRANSLATION]
+<<<
+시민의 BMI를 확인할 수 있습니다. 식품 참고 자료 문서에서 유효한 비만 값을 확인하십시오。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#235
+
+# [ENGLISH]
+# View Performed Tests
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+실시된 테스트 보기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#236
+
+# [ENGLISH]
+# Missing Persons Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Korean: 실종자
+
+# [TRANSLATION]
+<<<
+실종자 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#237
+
+# [ENGLISH]
+# It allows access to the missing persons database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Korean: 실종자
+
+# [TRANSLATION]
+<<<
+실종자 명부에 접근할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#238
+
+# [ENGLISH]
+# Wanted Criminals Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+
+# [TRANSLATION]
+<<<
+수배 범죄자 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#239
+
+# [ENGLISH]
+# It allows access to the wanted criminals database
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+
+# [TRANSLATION]
+<<<
+수배 범죄자 명부에 접근할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#240
+
+# [ENGLISH]
+# Accessible through the missing persons access, it is the work area where all personal data associated with each missing person is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Korean: 실종자
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+실종자 접근을 통해 접근 가능하며, 각 실종자와 관련된 모든 개인 정보가 표시되는 작업 구역입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#241
+
+# [ENGLISH]
+# Accessible through the wanted criminals access, it is the work area where all personal data associated with each wanted criminal is displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+수배 범죄자 접근을 통해 접근 가능하며, 각 수배 범죄자와 관련된 모든 개인 정보가 표시되는 작업 구역입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#242
+
+# [ENGLISH]
+# To be able to collect the reward, you must call the indicated number while the citizen is present at the station.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+보상을 받으려면 시민이 작업대에 있는 동안 지정된 번호로 전화해야 합니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#243
+
+# [ENGLISH]
+# Quick viewer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Korean: Quick Viewer
+
+# [TRANSLATION]
+<<<
+Quick Viewer
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#244
+
+# [ENGLISH]
+# It allows quick and summarized display of all missing persons to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Korean: 실종자
+
+# [TRANSLATION]
+<<<
+실종자들을 빠르고 간략하게 확인하여 쉽게 비교할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#245
+
+# [ENGLISH]
+# It allows quick and summarized display of all wanted criminals to facilitate cross-referencing.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+
+# [TRANSLATION]
+<<<
+수배 범죄자들을 빠르고 간략하게 확인하여 쉽게 비교할 수 있습니다
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#246
+
+# [ENGLISH]
+# Quick viewer access (wanted criminals)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Korean: Quick Viewer
+
+# [TRANSLATION]
+<<<
+접근 Quick Viewer (수배 범죄자)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#247
+
+# [ENGLISH]
+# Quick viewer access (missing persons)
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Korean: 실종자
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Korean: Quick Viewer
+
+# [TRANSLATION]
+<<<
+접근 Quick Viewer (실종자)
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#248
+
+# [ENGLISH]
+# It provides access to the quick viewer of wanted criminals.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Korean: Quick Viewer
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# Korean: 수배 범죄자
+
+# [TRANSLATION]
+<<<
+수배 범죄자의 Quick Viewer에 대한 접근을 허용합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#249
+
+# [ENGLISH]
+# It provides access to the quick viewer of missing persons.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: QUICK_VIEWER
+# English: Quick Viewer
+# Korean: Quick Viewer
+#
+# ID: MISSING_PERSONS
+# English: Missing Persons
+# Korean: 실종자
+
+# [TRANSLATION]
+<<<
+실종자의 Quick Viewer에 대한 접근을 허용합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#250
+
+# [ENGLISH]
+# For food coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+식품 쿠폰이 진정성이 있으려면 이 요구 사항을 충족해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#251
+
+# [ENGLISH]
+# Food coupons have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+식품 쿠폰에는 유효 기간이 있습니다. 이 정보는 문서의 앞면에 표시될 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#252
+
+# [ENGLISH]
+# Food coupons are one of the accepted forms of payment at the distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+
+# [TRANSLATION]
+<<<
+식품 쿠폰은 유통 센터에서 허용되는 결제 수단 중 하나입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#253
+
+# [ENGLISH]
+# Stamp
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+도장
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#254
+
+# [ENGLISH]
+# Its validity must be verified and it must be stamped at the inspection table, before being deposited in the station's cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+
+# [TRANSLATION]
+<<<
+그 유효성이 확인되고 검사대에서 도장이 찍힌 후, 역의 금전 등록기에 입금되어야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#255
+
+# [ENGLISH]
+# Neutralizer
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+중화기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#256
+
+# [ENGLISH]
+# Work area for neutralizing hostile citizens. To accomplish this, you must perform precise shots.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+적대적인 시민을 무력화하는 작업 구역입니다. 이를 수행하려면 정확한 사격을 실시해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#257
+
+# [ENGLISH]
+# Remember that you have limited ammunition and time to complete the neutralization.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NEUTRALIZATION
+# English: Neutralization
+# Korean: 무력화
+
+# [TRANSLATION]
+<<<
+무력화를 수행할 탄약과 시간이 제한되어 있음을 유의하십시오.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#258
+
+# [ENGLISH]
+# Mail Access
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MAIL
+# English: Mail
+# Korean: 우편
+
+# [TRANSLATION]
+<<<
+우편 접근
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#259
+
+# [ENGLISH]
+# It allows access to the mail.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MAIL
+# English: Mail
+# Korean: 우편
+
+# [TRANSLATION]
+<<<
+우편에 입장할 수 있는 접근입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#260
+
+# [ENGLISH]
+# Mail
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIL
+# English: Mail
+# Korean: 우편
+
+# [TRANSLATION]
+<<<
+우편
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#261
+
+# [ENGLISH]
+# Accessible through mail access. It is the workspace where inventory items can be sent to saved contacts. To send an item, you must first prepare the package.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACCESS
+# English: Access
+# Korean: 접근
+#
+# ID: MAIL
+# English: Mail
+# Korean: 우편
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: OBJECT
+# English: Object
+# Korean: 물건
+#
+# ID: INVENTORY
+# English: Inventory
+# Korean: 인벤토리
+
+# [TRANSLATION]
+<<<
+우편 접근을 통해 이용할 수 있습니다. 예약된 연락처에게 인벤토리의 물건을 보낼 수 있는 작업 구역입니다. 물건을 보내려면 먼저 소포를 준비해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#262
+
+# [ENGLISH]
+# To do this, first you will have an empty box on the table.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+먼저 빈 상자를 테이블 위에 놓습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#263
+
+# [ENGLISH]
+# Secondly, you must place the item to be sent in the box.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Korean: 물건
+
+# [TRANSLATION]
+<<<
+다음으로, 보낼 물건을 상자 안에 넣습니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#264
+
+# [ENGLISH]
+# After that, you must wrap the box with the shipping wrapper.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+그 후, 발송 포장재로 상자를 감쌉니다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#265
+
+# [ENGLISH]
+# At this stage, you can select the contact to whom you want to send the package and proceed to print the ticket.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+이 단계에서는 패킷을 보내고자 하는 연락처를 선택하고 티켓을 인쇄할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#266
+
+# [ENGLISH]
+# To finalize and send the package, you must attach the generated ticket and place the package in the shipping deposit.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+패킷을 보내려면 생성된 티켓을 붙이고 패킷을 배송 보관소에 보관해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#267
+
+# [ENGLISH]
+# Map of cities
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAP
+# English: Map
+# Korean: 지도
+
+# [TRANSLATION]
+<<<
+도시 지도
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#268
+
+# [ENGLISH]
+# List of UV Codes
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: UV_CODES_LIST
+# English: List of UV Codes
+# Korean: UV 코드 목록
+
+# [TRANSLATION]
+<<<
+UV 코드 목록
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#269
+
+# [ENGLISH]
+# Credit Cards List
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARDS_LIST
+# English: Credit Cards List
+# Korean: 신용카드 목록
+
+# [TRANSLATION]
+<<<
+신용카드 목록
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#270
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the cities of Nowhere authorized to receive food from the distribution center.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Korean: 보조 문서 트레이
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+
+# [TRANSLATION]
+<<<
+이것은 검사대의 보조 문서 트레이에서 가져온 문서입니다. 여기에는 유통 센터에서 식품을 수신할 수 있는 Nowhere의 도시가 반영되어 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#271
+
+# [ENGLISH]
+# Credit notes are one of the accepted forms of payment at distribution centers.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+
+# [TRANSLATION]
+<<<
+대변전표는 유통 센터에서 허용되는 지불 방법 중 하나입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#272
+
+# [ENGLISH]
+# Its validity must be verified and the associated invoice must be stapled at the inspection table, before being deposited at the cash register.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: CASH_REGISTER
+# English: Cash Register
+# Korean: 금전 등록기
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+유효성을 확인하고 검사대에서 관련 첨부 파일을 첨부한 후 작업대의 금전 등록기에 보관해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#273
+
+# [ENGLISH]
+# Credit notes have a validity period. This information is shown on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+대변전표에는 유효 기간이 있습니다. 이 정보는 문서의 정면에 반영될 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#274
+
+# [ENGLISH]
+# In order for credit notes to be authentic, they must meet the following requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+
+# [TRANSLATION]
+<<<
+대변전표가 진짜이려면 이러한 요구 사항을 충족해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#275
+
+# [ENGLISH]
+# Element that displays the weight of the citizen present at the station. A weight exceeding that registered on the main monitor may indicate possible theft.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+
+# [TRANSLATION]
+<<<
+작업대에 있는 시민의 무게를 반영하는 요소. 메인 모니터에 기록된 것과 비교하여 무게가 초과되면 도둑질 가능성을 나타낼 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#276
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where citizens' bodies are scanned for irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Korean: 이상
+
+# [TRANSLATION]
+<<<
+행동 단위를 통해 접근할 수 있는 작업 구역으로, 시민의 몸을 스캔하여 이상을 찾습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#277
+
+# [ENGLISH]
+# To begin, the scanner must be deployed over the citizen's body.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시작하려면 시민의 몸 위에 스캐너를 배치해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#278
+
+# [ENGLISH]
+# With the scanner in position, proceed to scan the citizen's body by holding down the scanner button.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+스캐너가 제자리에 있으면, 스캐너 버튼을 누른 채로 시민의 몸을 스캔해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#279
+
+# [ENGLISH]
+# Once the scan is complete, the navigation controls will be deployed, and the operator must proceed to identify any irregularities.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: NAVIGATION_CONTROL
+# English: Navigation Control
+# Korean: 탐색 컨트롤
+#
+# ID: IRREGULARITY
+# English: Irregularity
+# Korean: 이상
+
+# [TRANSLATION]
+<<<
+스캔이 완료되면 탐색 컨트롤이 표시되고, 이상을 찾아야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#280
+
+# [ENGLISH]
+# Check for irregularity
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IRREGULARITY
+# English: Irregularity
+# Korean: 이상
+
+# [TRANSLATION]
+<<<
+이상 확인
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#281
+
+# [ENGLISH]
+# Refer to the considerations on the back of the document for further information.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+더 많은 정보를 위해 문서의 뒷면에 있는 고려 사항을 검토하세요.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#282
+
+# [ENGLISH]
+# It is a document from the auxiliary document tray of the inspection table. It lists the UV codes of marked bills.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Korean: 보조 문서 트레이
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: MARKED_BILLS
+# English: Marked Bills
+# Korean: 표시된 지폐
+
+# [TRANSLATION]
+<<<
+이것은 검사대의 보조 문서 트레이에서 나온 문서입니다. 여기에는 표시된 지폐의 자외선 코드가 나열되어 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#283
+
+# [ENGLISH]
+# Credit cards are one of the accepted forms of payment at distribution centers and must be processed with the credit card reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+#
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+#
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Korean: 신용카드 리더기
+
+# [TRANSLATION]
+<<<
+신용카드는 유통 센터에서 사용 가능한 결제 수단 중 하나이며, 신용카드 리더기를 사용하여 처리해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#284
+
+# [ENGLISH]
+# Credit cards display their code and the cardholder's information on the front, and their security code on the back.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+#
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+신용카드는 앞면에 코드와 소유자 정보가 표시되고, 뒷면에 보안 코드가 표시됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#285
+
+# [ENGLISH]
+# Element of the station where credit card payments are processed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ELEMENTS
+# English: Elements
+# Korean: 요소
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+작업대에서 신용카드로 결제를 처리하는 요소.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#286
+
+# [ENGLISH]
+# Work area for processing credit card payments, accessible when a card is swiped at the station's reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+작업대의 리더기에 신용카드를 스와이프하면 접근할 수 있는, 신용카드 결제를 처리하는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#287
+
+# [ENGLISH]
+# Afterwards, enter the last 4 digits of the credit card code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+그 후 신용카드 코드의 마지막 4자리를 입력해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#288
+
+# [ENGLISH]
+# Then, enter the credit card security code.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+#
+# ID: CODE
+# English: Code
+# Korean: 코드
+
+# [TRANSLATION]
+<<<
+그 다음에는 신용카드의 보안 코드를 입력해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#289
+
+# [ENGLISH]
+# Once the codes are entered, if the credit card has funds, the printing of the ticket to be signed by the citizen will be enabled.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CODE
+# English: Code
+# Korean: 코드
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+코드를 입력한 후, 신용카드에 잔액이 있으면 시민의 서명을 위한 티켓 인쇄가 가능해집니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#290
+
+# [ENGLISH]
+# Once generated, the ticket must be given to the citizen through the tray to be signed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+생성된 티켓은 서명을 위해 트레이를 통해 시민에게 전달되어야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#291
+
+# [ENGLISH]
+# The citizen will provide the signed ticket, and it must match the signature on the card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민은 서명된 티켓을 제공하며, 이는 카드에 표시된 서명과 일치해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#292
+
+# [ENGLISH]
+# If the signatures do not match, it is because it is someone else's card and you must proceed according to the regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+서명이 일치하지 않으면, 이는 타인의 카드가 사용된 것이며 규정에 따라 처리해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#293
+
+# [ENGLISH]
+# If the signatures match, the credit card processing should be concluded by storing the ticket in the indicated tray.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+서명이 일치하면, 해당 슬릿에 영수증을 보관하며 신용카드 처리를 완료해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#294
+
+# [ENGLISH]
+# To begin, slide the credit card through the reader.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+시작하려면 신용카드를 리더기에 연결해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#295
+
+# [ENGLISH]
+# Request Sign
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+서명 요청
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#296
+
+# [ENGLISH]
+# Clone Card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+카드 복제
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#297
+
+# [ENGLISH]
+# Print Ticket
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+영수증 인쇄
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#298
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where breathalyzer tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+행동 단위를 통해 접근할 수 있으며, 음주 테스트를 수행하는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#299
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of intoxication.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+다음과 같은 특징은 시민들의 음주 상태를 나타낼 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#300
+
+# [ENGLISH]
+# To verify the citizens' state of intoxication, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민의 취정 상태를 확인하기 위해 먼저 장치를 준비해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#301
+
+# [ENGLISH]
+# To begin, used mouthpieces must be discarded.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+먼저 사용한 마우스피스를 폐기해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#302
+
+# [ENGLISH]
+# Then, the used mouthpiece discarded from the device must be replaced with a new one.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+그런 다음 장치에서 사용된 마우스피스를 새로운 것으로 교체해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#303
+
+# [ENGLISH]
+# Finally, the device will be brought to the citizen's mouth to begin the test.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+마지막으로 시민의 입에 장치를 가져가 테스트를 시작할 수 있도록 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#304
+
+# [ENGLISH]
+# With the device prepared, proceed with the test by holding the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+준비된 장치로 테스트를 진행하며, 측정이 완료될 때까지 장치의 버튼을 유지합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#305
+
+# [ENGLISH]
+# Measure Alcohol
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: MEASURE_ALCOHOL
+# English: Measure Alcohol
+# Korean: 알코올 측정
+
+# [TRANSLATION]
+<<<
+알코올 측정
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#306
+
+# [ENGLISH]
+# staple
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+잠그다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#307
+
+# [ENGLISH]
+# punch
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+천공하다。
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#308
+
+# [ENGLISH]
+# Discount coupons are documents that can be submitted together with a payment method, covering a percentage of the citizen's purchase amount. They must be processed before the payment method.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+할인 쿠폰은 결제 수단과 함께 제공되어 시민의 구매 금액의 일정 비율을 충당하는 문서입니다. 결제 전에 처리해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#309
+
+# [ENGLISH]
+# Their validity must be verified and they must be punched at the inspection table, then deposited in the station's cash register to be accepted
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+유효성을 확인하고 검사대에서 천공한 후, 정리를 위해 역의 금고에 보관해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#310
+
+# [ENGLISH]
+# Discount coupons have a validity period. This information can be seen on the front of the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+#
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+할인 쿠폰은 유효 기간이 있습니다. 해당 정보는 문서의 앞면에 표시됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#311
+
+# [ENGLISH]
+# Expired coupons must be voided by being stamped on the back, in the indicated area.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+만료된 쿠폰은 지정된 영역의 뒷면에 도장을 찍어 무효화해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#312
+
+# [ENGLISH]
+# For discount coupons to be authentic, they must meet these requirements
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+할인 쿠폰이 진품이려면 다음과 같은 요구 사항을 충족해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#313
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where the citizen's fingerprints are checked in order to verify their identity.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manualsv
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+행동 단위를 통해 시민의 지문을 확인하여 신원을 검증하는 작업 구역에 접근할 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#314
+
+# [ENGLISH]
+# To begin, the fingerprint file associated with the identification card must be consulted. For this, it is first necessary to read the identification card.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+
+# [TRANSLATION]
+<<<
+먼저 신분증에 연결된 지문 파일을 조회해야 합니다. 이를 위해 먼저 신분증을 읽어들여야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#315
+
+# [ENGLISH]
+# Next, the citizen's fingerprint will be read, keeping the finger on the reader until the scan is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+그런 다음 시민의 지문을 읽습니다. 읽기가 완료될 때까지 손가락을 리더기에 유지해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#316
+
+# [ENGLISH]
+# The fingerprints must then be checked for a match. If they do not match, the associated identification card does not belong to the citizen and the procedure must continue according to regulations.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# Korean: 신분증
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+그런 다음 지문이 일치하는지 확인해야 합니다. 일치하지 않으면 해당 신분증은 해당 시민의 것이 아니며, 규정에 따라 조치를 취해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#317
+
+# [ENGLISH]
+# Open File
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+파일 열기
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#318
+
+# [ENGLISH]
+# It is a document from the inspection table's auxiliary document tray. It displays the accepted brands and banks associated with the credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+#
+# ID: AUXILIARY_DOCS_TRAY
+# English: Auxiliary Documents Tray
+# Korean: 보조 문서 트레이
+#
+# ID: INSPECTION_TABLE
+# English: Inspection table
+# Korean: 검사대
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+검사대의 보조 문서 트레이에 있는 문서입니다. 여기에는 신용카드와 관련된 허용된 브랜드와 은행이 반영되어 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#319
+
+# [ENGLISH]
+# Allowed brands and banks will have a checkmark on the document.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: DOCUMENTS
+# English: Documents
+# Korean: 문서
+
+# [TRANSLATION]
+<<<
+허용된 브랜드와 은행은 문서에서 체크 표시가 됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#320
+
+# [ENGLISH]
+# Accessible through the action unit, it is the work area where blood pressure tests are performed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: ACTION_UNIT
+# English: Action Unit
+# Korean: 행동 단위
+#
+# ID: WORK_AREAS
+# English: Work Areas
+# Korean: 작업 구역
+
+# [TRANSLATION]
+<<<
+행동 단위를 통해 접근할 수 있으며, 이는 혈압 테스트를 수행하는 작업 구역입니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#321
+
+# [ENGLISH]
+# The following characteristics in citizens can be an indicator of hypertension.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민의 다음 특징은 고혈압의 지표가 될 수 있습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#322
+
+# [ENGLISH]
+# To verify citizens' blood pressure, the device must first be prepared.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민의 혈압을 확인하려면 먼저 장치를 준비해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#323
+
+# [ENGLISH]
+# To begin, the cuff must be placed on the citizen's arm.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시작하려면 시민의 팔에 커프를 끼워야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#324
+
+# [ENGLISH]
+# Next, the device's stethoscope must be positioned under the cuff
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+그 후에는 장치의 청진기를 커프 아래에 위치시켜야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#325
+
+# [ENGLISH]
+# With the device prepared, the test will proceed by repeatedly pressing the device's button until the measurement is complete.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+준비된 장치로 테스트를 진행하며, 측정이 완료될 때까지 장치 버튼을 순차적으로 누릅니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#326
+
+# [ENGLISH]
+# Measure pressure
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MEASURE_PRESSURE
+# English: Measure Pressure
+# Korean: 압력 측정
+
+# [TRANSLATION]
+<<<
+압력 측정
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#327
+
+# [ENGLISH]
+# Unauthorized Modifications
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+무단 수정
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#328
+
+# [ENGLISH]
+# Counterfeit bills
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+
+# [TRANSLATION]
+<<<
+위조 지폐
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#329
+
+# [ENGLISH]
+# They are inventory objects that can be given to citizens with various issues such as addictions, obesity, blood pressure, and intolerances, as appropriate.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: OBJECT
+# English: Object
+# Korean: 물건
+#
+# ID: INVENTORY
+# English: Inventory
+# Korean: 인벤토리
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+이것은 중독, 비만, 혈압 및 불내성과 같은 다양한 문제를 가진 시민들에게 전달될 수 있는 인벤토리 물건입니다. 상황에 따라 적절하게.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#330
+
+# [ENGLISH]
+# Distribution is not mandatory, but for each pamphlet distributed, an additional income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+배달은 필수적이지 않지만, 배포된 전단지마다 하루 종료 시 추가 수입이 발생합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#331
+
+# [ENGLISH]
+# Functionality that allows giving counterfeit bill change to the citizen.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: BILLS
+# English: Bills
+# Korean: 지폐
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+시민에게 위조 지폐로 거스름돈을 제공하는 기능.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#332
+
+# [ENGLISH]
+# For each successful scam carried out without being discovered, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+발각되지 않고 완료된 사기 건당 하루 종료 시 추가 수입이 발생합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#333
+
+# [ENGLISH]
+# Modification of the credit card reader that allows cloning credit cards.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Korean: 신용카드 리더기
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+신용카드를 복제할 수 있게 하는 신용카드 리더기의 수정.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#334
+
+# [ENGLISH]
+# To clone a credit card, the front and back of the card must first be captured.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+신용카드를 복제하려면 먼저 카드의 앞면과 뒷면을 촬영해야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#335
+
+# [ENGLISH]
+# Then, to complete the cloning, the data must be sent.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+그런 다음, 복제를 완료하려면 데이터를 보내야 합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#336
+
+# [ENGLISH]
+# For each cloned card, an extra income will be received at the end of the day.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+복제된 카드마다 하루 종료 시 추가 수입이 발생합니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#337
+
+# [ENGLISH]
+# Capture card
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+카드 캡처
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#338
+
+# [ENGLISH]
+# Send data
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+데이터 전송
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#339
+
+# [ENGLISH]
+# On the main monitor, some product restrictions that citizens have are displayed.
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [GLOSSARY]
+# ID: MAIN_MONITOR
+# English: Main Monitor
+# Korean: 메인 모니터
+#
+# ID: PRODUCT
+# English: Product
+# Korean: 제품
+#
+# ID: CITIZENS
+# English: Citizens
+# Korean: 시민
+
+# [TRANSLATION]
+<<<
+메인 모니터에는 시민들이 가지고 있는 일부 제품 금지 사항이 표시됩니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#340
+
+# [ENGLISH]
+# Controls
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+컨트롤
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#341
+
+# [ENGLISH]
+# This game is designed to be played entirely with just the mouse
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+이 게임은 마우스만으로 전체 게임을 플레이할 수 있도록 설계되었습니다.
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#342
+
+# [ENGLISH]
+# Additionally, certain keys such as the following are enabled
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+추가로 특정 키의 사용이 가능하며, 예를 들어
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#343
+
+# [ENGLISH]
+# Escape, Enter, Delete, Number keys, Arrow keys
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+Escape, Enter, 삭제, 숫자 키, 방향 키
+>>>
+
+# ============================================================================
+# [KEY]
+# INTERFAZ-GRA_REGISTRO#344
+
+# [ENGLISH]
+# Ok
+
+# [CONTEXT]
+# Procedure manual text. Must maintain the formal tone typical of instruction manuals
+
+# [TRANSLATION]
+<<<
+확인
+>>>

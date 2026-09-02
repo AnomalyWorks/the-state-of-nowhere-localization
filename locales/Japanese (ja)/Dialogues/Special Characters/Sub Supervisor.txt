@@ -1,0 +1,188 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#1
+
+# [ENGLISH]
+# Sub-Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Japanese: 副監督官
+
+# [TRANSLATION]
+<<<
+副監督官
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#2
+
+# [ENGLISH]
+# Hello Employee 100411 // I am the sub-supervisor // I'm in charge here—well, second in charge // The supervisor is above me // But soon I will take his position... // One day he will make a mistake and I'll be there ready to seize the opportunity... // Muahahahaha // Sorry // Get back to work 100411
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+#
+# ID: SUB_SUPERVISOR
+# English: Sub-Supervisor
+# Japanese: 副監督官
+
+# [TRANSLATION]
+<<<
+こんにちは 従業員100411 // 私は副監督官です // ここでは最も階級の高い人物です // 当然、監督官の次には... // でもすぐにそのポストを奪います // いつか彼は失敗するでしょう、その時私は準備万端でその機会を掴みます... // ムアハハハハハ // すみません // 仕事を続けてください 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#4
+
+# [ENGLISH]
+# 100411 // There are new rules // People from certain cities will not be allowed // You should check your manual
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+100411 // 新しいルールがあります // 特定の都市からの人々は入場禁止です // マニュアルを確認すべきだ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#5
+
+# [ENGLISH]
+# 100411 // There are more regulations regarding product sales // You will have to verify the citizens' age when selling them products // Check your manual for more information
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Japanese: マニュアル
+
+# [TRANSLATION]
+<<<
+100411 // 商品の販売に関する規則が更多あります // 商品を販売する際は市民の年齢を確認すべきです // 詳細はマニュアルを確認してください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#11
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You must inform yourself about them and their procedures in the manual // Now get to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Japanese: 割引クーポン
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // おそらく知っているだろう // 割引クーポンが流通し始めた // 割引クーポンとその使用方法についてマニュアルで確認しておくべきだ // さあ仕事に取りかかれ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#13
+
+# [ENGLISH]
+# 100411 // Due to the tragic outcome of that family // Starting today, your duty will be to conduct alcohol breath tests // You must consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // その家族の悲劇的な結末のために // 今日から君の仕事は飲酒検査を行うことになる // より多くの情報のためにマニュアルを確認すべきだ // 今仕事をに戻れ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // Starting today, we have made available different types of leaflets // To be distributed among the citizens // Although it's not mandatory // That is all // Return to your work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+従業員 100411 // 今日から私たちは異なる種類のフライヤーを用意した // 市民に配布するために // 必須ではないが // それが全てだ // 仕事をに戻れ
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#18
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // The supervisor will take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+
+# [TRANSLATION]
+<<<
+100411 // あの君が無力化した可怜なやつは助からなかった // もう別の世界で食べ物を乞うことができるだろう // 安心して家に戻れ // 監督官がすべてを整えて問題ないようにする
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // Today we have received multiple calls // Our bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But the supervisor has managed to save you // Since you are a very hard worker // He blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish the supervisor's boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Japanese: 監督官
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 今日は何度も呼び出しを受けました // 上司たちは不満を漏らしています // なぜだと思いますか // あなたのせいで大臣の息子が逮捕されたのです // 彼らはあなたの首を欲しがっていました // でも監督官があなたを救ってくれました // あなたはとても勤勉ですから // 彼はあなたの過失を他の誰かのせいにしました // あの可哀想な人... // もう少し仕事を頑張っていれば、今頃魚の餌にはなっていなかったのでしょう // とにかく... // この過失のため、あなたは毎日家に帰る前に監督官のブーツを磨かなければなりません // さあ、仕事に戻ってください
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUBSUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // We found out that someone robbed this station // And that you let them steal without putting up any resistance... // If you want to keep working here // You'd better do your job... // We'll see you tomorrow
+
+# [CONTEXT]
+# Sub-Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+こんにちは 100411 // 誰かがこの駅を襲撃したと聞いています // そして君は抵抗せずに盗むのを許したと... // ここで働き続けたいなら // 仕事に集中すべきだ... // 明日会おう
+>>>

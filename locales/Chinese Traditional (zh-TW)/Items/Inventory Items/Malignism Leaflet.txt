@@ -1,0 +1,494 @@
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#1
+
+# [ENGLISH]
+# Malignism Leaflet
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: MALIGNISM_LEAFLET
+# English: Malignism Leaflet
+# Chinese Traditional: 馬利格諾主義宣導手冊
+
+# [TRANSLATION]
+<<<
+馬利格諾主義宣導手冊
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#2
+
+# [ENGLISH]
+# Join Malignism. Ensure your place in paradise by giving away just your home and all your money.
+
+# [CONTEXT]
+# Description of the Malignism Leaflet inventory item
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Traditional: 馬利格諾主義
+
+# [TRANSLATION]
+<<<
+加入馬利格諾主義。只需獻出你的家園和全部財產，即可確保你在天堂有一席之地。
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#3
+
+# [ENGLISH]
+# No // Thanks
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+不 // 謝謝
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#4
+
+# [ENGLISH]
+# I'm not ready for that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我還沒準備好
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#5
+
+# [ENGLISH]
+# That's interesting // I'll think about it
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+有意思 // 我會考慮一下
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#6
+
+# [ENGLISH]
+# Malignism? // I'll think about it
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Traditional: 馬利格諾主義
+
+# [TRANSLATION]
+<<<
+馬利格諾主義？ // 我會考慮一下
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#7
+
+# [ENGLISH]
+# Sorry // I follow another religion
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+抱歉 // 我信仰別的宗教
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#8
+
+# [ENGLISH]
+# Malignism? // Maybe later
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Traditional: 馬利格諾主義
+
+# [TRANSLATION]
+<<<
+馬利格諾主義？ // 也許以後吧
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#9
+
+# [ENGLISH]
+# The police together with Maligno
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+警察站在Maligno這邊！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#10
+
+# [ENGLISH]
+# Hail Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno 萬歲！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#11
+
+# [ENGLISH]
+# Praised be to Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno 榮光！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#12
+
+# [ENGLISH]
+# I swear loyalty to Maligno!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+向 Maligno 宣誓效忠！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#13
+
+# [ENGLISH]
+# How blind I was // What if Maligno truly has the answers? // You've convinced me // I will join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+我以前真是眼瞎 // 萬一 Maligno 真的有答案呢？ // 你說服我了 // 我加入
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#14
+
+# [ENGLISH]
+# That Maligno... // He wasn't as bad as I thought // He may indeed be our salvation // I'll join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+那個 Maligno... // 沒有我想的那麼壞嘛 // 或許他真的是我們的救星 // 我加入
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#15
+
+# [ENGLISH]
+# Oh... // I was blinded... // Forgive me great Maligno // I will go and join
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+哦... // 我被蒙蔽了雙眼... // 原諒我吧偉大的 Maligno // 我這就去加入
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#16
+
+# [ENGLISH]
+# Maligno promises to save us // I was so dumb // I will look for his forgiveness
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno承諾會拯救我們…… // 我真是個傻瓜…… // 我會去請求他的原諒
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#17
+
+# [ENGLISH]
+# Do you think I'm stupid to fall for that?
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你以為我是傻子會上這種當嗎？
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#18
+
+# [ENGLISH]
+# Maligno? // My loyalty is with the resistance
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Maligno？ // 我的忠誠屬於抵抗組織！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#19
+
+# [ENGLISH]
+# I will never betray my people!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我絕不會背叛我的同伴！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#20
+
+# [ENGLISH]
+# Maligno and his bunch of lies will fall!
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+Maligno和他那一幫騙子必將垮台！
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#21
+
+# [ENGLISH]
+# I see you are one of us // Thank you for serving Maligno.
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+看來你是我們的人 // 感謝你為Maligno效勞
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#22
+
+# [ENGLISH]
+# Keep working // Maligno will reward you my son
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+繼續工作吧 // Maligno會報答你的，孩子
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#23
+
+# [ENGLISH]
+# Malignism is strong in you // Keep it up my son
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MALIGNISM
+# English: Malignism
+# Chinese Traditional: 馬利格諾主義
+
+# [TRANSLATION]
+<<<
+馬利格諾主義在你體內強大 // 繼續保持，孩子
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#24
+
+# [ENGLISH]
+# That's right // Keep working for Maligno // You already have a guaranteed place in paradise.
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+對了 // 繼續為Maligno工作 // 你在天堂已經有一個位置了
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#25
+
+# [ENGLISH]
+# Never // Maligno is a cruel and despicable being // This whole situation is his fault
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Chinese Traditional: Maligno
+
+# [TRANSLATION]
+<<<
+絕不 // Maligno是個殘忍又可鄙的存在 // 這一切全是他的錯
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#26
+
+# [ENGLISH]
+# I'm not drunk enough yet // To join that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我還沒醉得夠厲害 // 還不足以加入那個
+>>>
+
+# ============================================================================
+# [KEY]
+# ALMACENABLES_FOLLETOMALIGNISMO#27
+
+# [ENGLISH]
+# I'm not high enough yet // To join that
+
+# [CONTEXT]
+# Dialogue associated with giving the Malignism Leaflet to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+我還沒嗑得夠嗨 // 還不足以加入那個
+>>>

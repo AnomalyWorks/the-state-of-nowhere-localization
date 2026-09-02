@@ -1,0 +1,1096 @@
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#1
+
+# [ENGLISH]
+# Violation
+
+# [CONTEXT]
+# Refers to rules that must be followed
+
+# [TRANSLATION]
+<<<
+Verstoß
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#2
+
+# [ENGLISH]
+# Valid citizens must be accepted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Gültige Bürger müssen akzeptiert werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#3
+
+# [ENGLISH]
+# Citizens stealing products must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+
+# [TRANSLATION]
+<<<
+Bürger, die Produkte stehlen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#4
+
+# [ENGLISH]
+# Robbers must be neutralized
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ROBBERS
+# English: Robbers
+# German: Räuber
+#
+# ID: NEUTRALIZED
+# English: Neutralized
+# German: Neutralisiert
+
+# [TRANSLATION]
+<<<
+Räuber müssen neutralisiert werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#5
+
+# [ENGLISH]
+# Citizens must be processed with an ID card and must be rejected if it is not presented
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Bürger müssen mit einer Identifikationskarte bearbeitet und abgewiesen werden, wenn sie diese nicht vorlegen
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#6
+
+# [ENGLISH]
+# Citizens with expired ID cards must be rejected.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Bürger mit einer abgelaufenen Identifikationskarte müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#7
+
+# [ENGLISH]
+# Citizens presenting someone else's identification card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Bürger, die die Identifikationskarte einer anderen Person vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#8
+
+# [ENGLISH]
+# Citizens presenting a false ID card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: IDENTIFICATION_CARD
+# English: Identification Card
+# German: Identifikationskarte
+
+# [TRANSLATION]
+<<<
+Bürger, die eine gefälschte Identifikationskarte vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#9
+
+# [ENGLISH]
+# Citizens of restricted cities must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+
+# [TRANSLATION]
+<<<
+Bürger aus eingeschränkten Städten müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#10
+
+# [ENGLISH]
+# Wanted criminals must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: WANTED_CRIMINALS
+# English: Wanted Criminals
+# German: Gesuchte Kriminelle
+
+# [TRANSLATION]
+<<<
+Gesuchte Kriminelle müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#11
+
+# [ENGLISH]
+# Citizens with a high blood alcohol level must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+
+# [TRANSLATION]
+<<<
+Bürger mit hohem Blutalkoholspiegel müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#12
+
+# [ENGLISH]
+# Products must be processed with their corresponding code
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Produkte müssen mit dem entsprechenden Code bearbeitet werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#13
+
+# [ENGLISH]
+# Sale of products not suitable for minors is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: MINORS
+# English: Minors
+# German: Minderjährige
+
+# [TRANSLATION]
+<<<
+Der Verkauf von ungeeigneten Produkten an Minderjährige ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#14
+
+# [ENGLISH]
+# Sale of products not suitable for the elderly is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: ELDERLY
+# English: Elderly
+# German: Ältere Menschen
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten, die für Ältere Menschen nicht geeignet sind, ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#15
+
+# [ENGLISH]
+# Sale of products not suitable for the obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: OBESE
+# English: Obese
+# German: Adipöse
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten, die für Adipöse nicht geeignet sind, ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#16
+
+# [ENGLISH]
+# Sale of products not suitable for the severely obese is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: S_OBESE
+# English: Severely Obese
+# German: Schwer Adipöse
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten, die für Schwer Adipöse nicht geeignet sind, ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#17
+
+# [ENGLISH]
+# Sale of products containing salt to hypertensive individuals is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: HYPERTENSIVE
+# English: Hypertensive
+# German: Hypertoniker
+
+# [TRANSLATION]
+<<<
+Der Verkauf von salzhaltigen Produkten an Hypertoniker ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#18
+
+# [ENGLISH]
+# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Der Verkauf von alkoholhaltigen Produkten an Bürger mit positivem Test ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#19
+
+# [ENGLISH]
+# Sale of products containing fructose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# German: Lebensmittelunverträglichkeiten
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten mit Fruktose an Bürger mit Lebensmittelunverträglichkeiten ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#20
+
+# [ENGLISH]
+# Sale of products containing sucrose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# German: Lebensmittelunverträglichkeiten
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten mit Saccharose an Bürger mit Lebensmittelunverträglichkeiten ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#21
+
+# [ENGLISH]
+# Sale of products containing lactose to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# German: Lebensmittelunverträglichkeiten
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten mit Laktose an Bürger mit Lebensmittelunverträglichkeiten ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#22
+
+# [ENGLISH]
+# Sale of products containing gluten to citizens with food intolerances is prohibited
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: FOOD_INTOLERANCES
+# English: Food Intolerances
+# German: Lebensmittelunverträglichkeiten
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten mit Gluten an Bürger mit Lebensmittelunverträglichkeiten ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#23
+
+# [ENGLISH]
+# Sale of products on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# German: Liste der Verbotenen
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produkten auf der Liste der Verbotenen des Bürgers ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#24
+
+# [ENGLISH]
+# Sale of product categories on the citizen's prohibited list is forbidden
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: PROHIBITED_LIST
+# English: Prohibited List
+# German: Liste der Verbotenen
+#
+# ID: PRODUCT_CATEGORIES
+# English: Product Categories
+# German: Produktkategorien
+
+# [TRANSLATION]
+<<<
+Der Verkauf von Produktkategorien auf der Liste der Verbotenen des Bürgers ist verboten
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#25
+
+# [ENGLISH]
+# Citizens must provide a payment method, or they must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+
+# [TRANSLATION]
+<<<
+Bürger müssen ein Zahlungsmittel vorlegen oder werden abgewiesen
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#26
+
+# [ENGLISH]
+# Citizens must provide the full payment amount
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+
+# [TRANSLATION]
+<<<
+Bürger dürfen bei Zahlungen kein Geld fehlen lassen
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#27
+
+# [ENGLISH]
+# Citizens who present counterfeit bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Bürger, die gefälschte Banknoten vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#28
+
+# [ENGLISH]
+# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Bürger, die darauf bestehen, mit zerrissenen, beschmutzten oder verunstalteten Banknoten zu bezahlen, müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#29
+
+# [ENGLISH]
+# Citizens who present marked bills must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: BILLS
+# English: Bills
+# German: Banknoten
+
+# [TRANSLATION]
+<<<
+Bürger, die markierte Banknoten vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#30
+
+# [ENGLISH]
+# Citizens presenting another person's credit card must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Bürger, die eine fremde Kreditkarte vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#31
+
+# [ENGLISH]
+# Citizens presenting credit cards from prohibited brands must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Bürger, die eine Kreditkarte mit verbotener Marke vorlegen, müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#32
+
+# [ENGLISH]
+# Citizens who present credit cards with prohibited banks must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Bürger, die Kreditkarten von verbotenen Banken vorlegen, müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#33
+
+# [ENGLISH]
+# Citizens presenting credit cards with insufficient funds must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# German: Kreditkarte
+
+# [TRANSLATION]
+<<<
+Bürger, die eine Kreditkarte ohne Guthaben vorlegen, müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#34
+
+# [ENGLISH]
+# Citizens who present someone else's credit note must be arrested.
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Bürger, die eine fremde Gutschrift vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#35
+
+# [ENGLISH]
+# Citizens presenting expired credit notes must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Bürger, die eine abgelaufene Gutschrift vorlegen, müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#36
+
+# [ENGLISH]
+# Citizens presenting false credit notes must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Bürger, die eine gefälschte Gutschrift vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#37
+
+# [ENGLISH]
+# Citizens presenting another person's food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+
+# [TRANSLATION]
+<<<
+Bürger, die fremde Lebensmittelgutscheine vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#38
+
+# [ENGLISH]
+# Citizens presenting fake food coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+
+# [TRANSLATION]
+<<<
+Bürger, die gefälschte Lebensmittelgutscheine vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#39
+
+# [ENGLISH]
+# Citizens presenting expired food coupons must be rejected
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: REJECTED
+# English: Rejected
+# German: Abgewiesen
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+
+# [TRANSLATION]
+<<<
+Bürger, die abgelaufene Lebensmittelgutscheine vorlegen, müssen abgewiesen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#41
+
+# [ENGLISH]
+# Citizens presenting fake discount coupons must be arrested
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CITIZENS
+# English: Citizens
+# German: Bürger
+#
+# ID: ARRESTED
+# English: Arrested
+# German: Festgenommen
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Bürger, die gefälschte Rabattgutscheine vorlegen, müssen festgenommen werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#42
+
+# [ENGLISH]
+# Expired discount coupons must not be accepted and must be voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Abgelaufene Rabattgutscheine dürfen nicht angenommen werden und müssen entwertet werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#43
+
+# [ENGLISH]
+# Accepted discount coupons must be punched in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Angenommene Rabattgutscheine müssen im angegebenen Bereich gelocht werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#44
+
+# [ENGLISH]
+# Credit notes must be stapled to their respective invoices in the indicated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: CREDIT_NOTE
+# English: Credit note
+# German: Gutschrift
+
+# [TRANSLATION]
+<<<
+Gutschriften müssen zusammen mit der jeweiligen Rechnung im angegebenen Bereich geheftet werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#45
+
+# [ENGLISH]
+# The food coupons must be sealed in the designated area
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: FOOD_COUPONS
+# English: Food coupons
+# German: Lebensmittelgutscheine
+
+# [TRANSLATION]
+<<<
+Lebensmittelgutscheine müssen im angegebenen Bereich abgestempelt werden
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#46
+
+# [ENGLISH]
+# Cash shortages caused by giving excess change are not permitted
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [TRANSLATION]
+<<<
+Es dürfen keine Kassenfehlbeträge durch zu viel herausgegebenes Wechselgeld entstehen
+>>>
+
+# ============================================================================
+# [KEY]
+# ASPECTOS-GEN_RESTRICCIONES#47
+
+# [ENGLISH]
+# Discount coupons must be accepted or voided
+
+# [CONTEXT]
+# Description of a rule to be followed
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# German: Rabattgutscheine
+
+# [TRANSLATION]
+<<<
+Rabattgutscheine müssen angenommen oder entwertet werden
+>>>

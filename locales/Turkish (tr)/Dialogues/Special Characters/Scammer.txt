@@ -1,0 +1,109 @@
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#1
+
+# [ENGLISH]
+# Scammer
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_SCAMMER
+# English: Scammer
+# Turkish: Dolandırıcı
+
+# [TRANSLATION]
+<<<
+Dolandırıcı
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#2
+
+# [ENGLISH]
+# Hello friend // Are you interested in earning some extra income? // Being a great scammer? // If you make up your mind // Call me
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Merhaba dostum // Biraz ek gelir elde etmek ister misin? // Büyük bir dolandırıcı olmak mı? // Karar verirsen // Beni ara
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#3
+
+# [ENGLISH]
+# Okay // I'll go there when I can
+
+# [CONTEXT]
+# Scammer's call dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Tamam // Müsait olduğumda oraya gideceğim
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#4
+
+# [ENGLISH]
+# Hi // So you have decided // to get started in the world of scams? // Well, // Here's something to get you started... // This cutie is installed next to the cash register you have // And it will grant you fake money without raising suspicions by pressing a button // Of course, I'll take a small commission for every scam you run... // But let's not talk about it... // You'll have to be vigilant // Some people might notice your scam // And they might report you // If you draw too much attention with reports you might get arrested // Concentrate on children and old people // They don't notice // And don't even think of scamming police officers, my friend... // Anyway // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CASH_REGISTER
+# English: Cash Register
+# Turkish: Yazar Kasa
+
+# [TRANSLATION]
+<<<
+Merhaba // Demek karar verdin... // dolandırıcılık dünyasına adım atmaya... // Pekâlâ // Başlamana yardımcı olacak bir şey getirdim... // Bu güzellik, sahip olduğun Yazar Kasa'nın yanına takılır // Ve bir düğmeye basarak şüphe uyandırmadan sana sahte para verir // Elbette yaptığın her dolandırıcılıktan küçük bir komisyon alacağım... // Ama bundan bahsetmeyelim... // Dikkatli olmalısın // Bazı insanlar dolandırıcılığını fark edebilir // Ve seni ihbar edebilirler // İhbarlarla çok dikkat çekersen seni tutuklayabilirler // Çocuklara ve yaşlılara odaklan // Onlar fark etmez // Sakın polisleri dolandırmaya kalkma, dostum... // Neyse // Bol şans
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#5
+
+# [ENGLISH]
+# Hello friend // I see you're doing very well in the scam business... // Let me give you something... // This nice little machine attaches to your credit card reader // And what does it do? // Well, it copies the data you enter from the credit cards and sends it to me // For each card you copy you'll earn an extra income // And remember // Stay away from the cops... // Good luck
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: CREDIT_CARD_READER
+# English: Credit Card Reader
+# Turkish: Kredi Kartı Okuyucu
+
+# [TRANSLATION]
+<<<
+Merhaba dostum // Dolandırıcılık işini çok iyi yürüttüğünü görüyorum... // Sana bir şey vereyim... // Bu güzel makine, sahip olduğun Kredi Kartı Okuyucu'ya takılır // Peki ne işe yarıyor? // Kredi kartlarından girdiğin verileri kopyalayıp bana gönderiyor // Kopyaladığın her kart için ekstra gelir elde edeceksin, dostum // Ve unutma // Polislerden uzak dur... // Bol şans
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_ESTAFADOR#6
+
+# [ENGLISH]
+# Hello friend // I came running to warn you as soon as I heard about it... // You should be very careful // There's an undercover cop on the prowl // Posing as an ordinary citizen... // And how do you spot him? // Well, fortunately my contacts were able to give me a name... // Mark Shadow // Remember that // You don't have to worry // Just be careful and don't do anything stupid... // Well // That was all // Goodbye
+
+# [CONTEXT]
+# Scammer's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PJ_POLICE_U
+# English: Mark Shadow
+# Turkish: Mark Shadow
+
+# [TRANSLATION]
+<<<
+Selam, dostum // Öğrenir öğrenmez seni uyarmak için koşa koşa geldim... // Çok dikkatli olmalısın // Ortalıkta dolaşan gizli bir polis var // Normal, sıradan bir vatandaş gibi davranıyor... // Peki onu nasıl tespit edersin? // Neyse ki bağlantılarım bana bir isim verebildi... // Mark Shadow // Unutma // Endişelenmene gerek yok // Sadece dikkatli olmalı ve aptalca bir şey yapmamalısın... // Neyse // Hepsi bu kadar // Hoşça kal
+>>>

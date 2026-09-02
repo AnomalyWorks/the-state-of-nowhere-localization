@@ -1,0 +1,997 @@
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#1
+
+# [ENGLISH]
+# Supervisor
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Korean: 감독관
+
+# [TRANSLATION]
+<<<
+감독관
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#2
+
+# [ENGLISH]
+# Good morning // I'll be your supervisor // Let's see what we have here... // workstation 65... // Employee 100411... // You seem to have experience in this... // If you have any questions, consult your manual // There you will find indications of the elements you have at your station // In addition to the current regulations // Respect the regulations // Don't make mistakes and you'll do well // Each mistake will count as a penalty in your salary... // Anyway... // May the glory of Maligno shine upon you... // Employee 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SUPERVISOR
+# English: Supervisor
+# Korean: 감독관
+#
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+#
+# ID: WORKSTATION
+# English: Workstation
+# Korean: 작업 공간
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+좋은 아침입니다 // 저는 여러분의 감독관이 될 것입니다 // 여기서 뭔가를 봅시다... // 작업 공간 65... // 직원 100411... // 이 일에 경험이 있으신 것 같습니다 // 어떤 의문이 있으면 매뉴얼을 참조하세요 // 거기에서 작업 공간에 있는 요소에 대한 지침을 찾을 수 있습니다 // 현재 규정 외에도 // 규정을 준수하세요 // 실수를 하지 않으면 잘 될 것입니다 // 각 위반은 급여에서 벌점으로 간주됩니다... // 어쨌든... // Maligno의 영광이 여러분 위에 비추길 바랍니다... // 직원 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#3
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see the news? // Arrest those criminals // We have also installed new equipment // Check your manual for more information // You'll be fitted with the other gadgets soon... // This station used to be empty // The last wretch who used it left his entrails scattered all over the place // Yeah... // He was attacked... // You should have seen it... // We're refurbishing // Equipment's missing // You've got enough to operate though // Now get back to your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+안녕 직원 100411 // 뉴스 봤어? // 그 악당들을 체포해 // 그리고 우리는 새 장비를 설치했어 // 추가 정보를 위해 매뉴얼을 확인해 // 곧 나머지 기계도 설치해 줄 거야... // 이 작업대는 예전에 비어 있었어 // 마지막으로 사용한 불쌍한 놈은 여기저기 내장을 흩뿌렸어 // 응... // 그 놈을 강탈했어... // 네가 봤을 텐데... // 우리는 개조하고 있어 // 장비가 부족해 // 운영하기에는 충분하지만 // 이제 일하러 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#4
+
+# [ENGLISH]
+# Employee 100411 // Did you see the news? // There are new rules // Check your manual... // You must cancel non-compliant products // We must educate these people // Only then will we build a better Nowhere... // Now do your job
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+직원 100411 // 뉴스 봤어? // 새로운 규칙이 있어 // 너의 매뉴얼 확인해... // 규정을 충족하지 않는 제품은 무효화해야 해 // 우리는 이 사람들을 교육해야 해 // 그래야 더 나은 Nowhere를 만들 수 있어... // 이제 네 일을 해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#5
+
+# [ENGLISH]
+# Hello employee 100411 // The product readers have been crashing lately... // I don't know what it could be... // They were the cheapest on the market... // Anyway... // You can enter the products manually if you have any problems // See the manual for more information...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: PRODUCT_READER
+# English: Product Reader
+# Korean: 제품 리더기
+
+# [TRANSLATION]
+<<<
+안녕, 직원 100411 // 요즘 상품 리더기가 계속 고장 나고 있어... // 뭐가 문제인지 모르겠군... // 시장에서 제일 싼 걸 샀는데 말이야... // 아무튼... // 문제가 생기면 상품을 수동으로 입력하면 돼 // 자세한 내용은 매뉴얼을 참고하도록
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#6
+
+# [ENGLISH]
+# Hello employee 100411 // As you can see, we have placed a storage unit in your station // There you can store your belongings // By the way... // I saw this and perhaps it could be useful to you // Don't thank me // Return to your work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+안녕, 직원 100411 // 보다시피 네 작업대에 보관함을 설치해 뒀다 // 거기에 네 소지품을 보관할 수 있어 // 그런데 말이야... // 이걸 봤는데, 어쩌면 네게 쓸모가 있을지도 모르겠군 // 고맙다는 말은 됐어 // 일이나 계속해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#7
+
+# [ENGLISH]
+# Hello employee 100411 // Did you see about the missing minister's son // It breaks my heart... // That's why new equipment has been sent // You can see it in your manual // Your new job will be to check if any of the citizens // are present in the missing list... // Anyway... // Go back to your job 100411 // And by the way // There are juicy rewards for those who find these people // It would be a good opportunity for you // You could get that much needed plastic surgery...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+직원 100411 // 장관의 아들이 실종됐다는 소식 들었나? // 가슴이 찢어지는군... // 그 때문에 새 장비가 들어왔어 // 자세한 내용은 매뉴얼에서 확인할 수 있다 // 네 새로운 업무는 시민들 중 누군가가 // 실종자 명단에 올라 있는지 확인하는 거야... // 아무튼... // 일이나 계속해, 100411 // 아, 그리고 // 이 사람들을 찾아내면 두둑한 보상을 받을 수 있어 // 너한테는 좋은 기회가 되겠군 // 그렇게 절실히 필요한 성형수술을 받을 수도 있을 테니...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#8
+
+# [ENGLISH]
+# Hello 100411 // We have been sent new equipment // You can see it in your manual // You will be able to verify if a citizen is a wanted criminal // The state of Nowhere has zero tolerance for criminals // You must arrest them // It is your duty now employee 100411 // Do not forget to claim the reward before proceeding with the arrest
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 새 장비를 보냈어 // 네 매뉴얼에서 볼 수 있어 // 시민이 수배범인지 확인할 수 있어 // Nowhere 주는 범죄자에게 무관용이야 // 그들을 체포해야 해 // 이제 네 의무야 직원 100411 // 체포하기 전에 보상을 청구하는 거 잊지 마
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#9
+
+# [ENGLISH]
+# Hello 100411 // We have received a call from the police department of investigations // They have informed us about marked money // Money that they use to track certain criminals // You must arrest any individual with marked bills // That will be your new task employee 100411 // For more information please consult your manual.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 수사경찰서에서 전화를 받았어 // 표시된 돈에 대해 알려줬어 // 특정 범죄자를 추적하는 데 사용되는 돈이야 // 표시된 돈을 가진 사람은 누구든지 체포해야 해 // 그것이 네 새 임무야 직원 100411 // 더 자세한 정보는 네 매뉴얼을 참조해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#10
+
+# [ENGLISH]
+# Employee 100411 // Are you aware of the situation? // Thefts are becoming more frequent in the distribution centers // But don't worry // A scanner system has been implemented in the station // With it you will be able to detect if these bad guys have hidden products in their clothes // That's all employee 100411 // Don't forget to check your manual...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+#
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+직원 100411 // 상황을 알고 계십니까? // 유통 센터에서 도난이 더 빈번해지고 있습니다 // 하지만 진정하세요 // 작업대에 스캐너 시스템이 구현되었습니다 // 이를 통해 범죄자들이 옷에 제품을 숨기고 있는지 감지할 수 있습니다 // 이것으로 끝입니다, 직원 100411 // 매뉴얼을 꼭 확인하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#11
+
+# [ENGLISH]
+# Hello employee 100411 // New defense tools have arrived for the distribution center // You will be in charge of their operation // Last night's brutal assault has prompted the authorities to take serious measures... // Anyway // You can find more information in the manual // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Korean: 유통 센터
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+안녕하세요, 직원 100411 // 유통 센터를 위한 새로운 방어 도구가 도착했습니다 // 그것들의 운영은 당신의 책임입니다 // 어젯밤의 잔인한 공격으로 당국이 심각한 조치를 취하게 되었습니다... // 하여튼 // 매뉴얼에서 더 많은 정보를 찾을 수 있습니다 // 이제 다시 일하러 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#12
+
+# [ENGLISH]
+# Hello 100411 // As you will see, we have provided new tools at your station // You can now process credit card payments // Check your manual // And fix that tie // Where do you think you are? // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+안녕하세요, 100411 // 보시다시피 작업대에 새로운 도구를 배치했습니다 // 이제 신용카드로 결제를 처리할 수 있습니다 // 매뉴얼을 확인하세요 // 그리고 그 넥타이를 고쳐 입으세요 // 당신이 어디 있다고 생각합니까? // 다시 일하러 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#13
+
+# [ENGLISH]
+# Hello 100411 // I am informing you that as of today // You may receive credit notes as a means of payment // All information about their processing is in your manual... // Now keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: CREDIT_NOTE
+# English: Credit note
+# Korean: 대변전표
+
+# [TRANSLATION]
+<<<
+안녕하세요, 100411 // 오늘부터 알려드립니다 // 결제 수단으로 대변전표를 받을 수 있습니다 // 그 처리에 대한 모든 정보는 매뉴얼에 있습니다... // 이제 계속 일하세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#14
+
+# [ENGLISH]
+# Employee 100411 // We have received a transaction update // Food coupons have been enabled as a means of payment // You should see your manual // Now go back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: FOOD_COUPONS
+# English: Food coupons
+# Korean: 식품 쿠폰
+
+# [TRANSLATION]
+<<<
+직원 100411 // 운영 시스템에서 업데이트를 받았습니다 // 식품 쿠폰이 결제 수단으로 활성화되었습니다 // 매뉴얼을 확인하는 것이 좋겠습니다 // 이제 다시 일하러 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#15
+
+# [ENGLISH]
+# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You should inquire about them and their operation at the manual... // By the way... // How do I look? // Today I have to go to a business meeting... // Anyway... // Go back to work immediately
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Korean: 할인 쿠폰
+
+# [TRANSLATION]
+<<<
+안녕하세요 100411 // 아마도 들었겠지만 // 할인 쿠폰이 유통에 들어갔습니다 // 매뉴얼에서 그들과 그들의 운영에 대해 알아봐야 합니다... // 그런데... // 제가 어떻게 보이나요? // 오늘 저는 비즈니스 회의에 가야 합니다... // 하여간... // 즉시 작업으로 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#16
+
+# [ENGLISH]
+# Employee 100411 // Due to the counterfeiters arrested yesterday // We have been instructed to thoroughly check the authenticity of items presented by citizens // You should be aware of the new procedure // Check your manual as soon as possible // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+직원 100411 // 어제 체포된 위조범 때문에 // 시민들이 제출하는 문서의 진위를 철저히 확인하라는 명령을 받았습니다 // 새로운 절차를 알아봐야 합니다 // 가능한 한 빨리 매뉴얼을 확인하세요 // 이제 작업으로 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#17
+
+# [ENGLISH]
+# Employee 100411 // I'm informing you that the 'Eating Better' program is in force // That means that you will have to control the degree of obesity of the citizens // And cancel any product that is harmful to these beasts... // First of all, please check your manual and inform yourself about it // Now go back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Korean: 더 건강하게 먹기
+
+# [TRANSLATION]
+<<<
+직원 100411 // '더 건강하게 먹기' 프로그램이 현재 시행 중임을 알려드립니다 // 이는 시민들의 비만도를 확인해야 한다는 것을 의미합니다 // 그리고 이 괴물들에게 해로운 모든 제품을 무효화해야 합니다... // 무엇보다도 매뉴얼을 확인하고 관련 정보를 알아보세요 // 이제 작업으로 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#18
+
+# [ENGLISH]
+# Hello employee 100411 // The 'Eating Better' program has been expanded // It now incorporates certain food intolerances // You must detect it in citizens and proceed according to regulations // Check your manual for more information // Now back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Korean: 더 건강하게 먹기
+
+# [TRANSLATION]
+<<<
+안녕하세요, 직원 100411 // '더 건강하게 먹기' 프로그램이 확장되었습니다 // 이제 특정 식품 불내증을 포함합니다 // 시민들에게서 이를 발견하고 규정에 따라 절차를 밟아야 합니다 // 추가 정보를 위해 매뉴얼을 확인하세요 // 이제 작업으로 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#19
+
+# [ENGLISH]
+# Hello 100411 // The 'Eating Better' program has been expanded // Your station has been outfitted with equipment to test citizens' blood pressure // You must read your manual // And comply with new directives // Get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: EATING_BETTER
+# English: Eating Better
+# Korean: 더 건강하게 먹기
+
+# [TRANSLATION]
+<<<
+안녕하세요 100411 // '더 건강하게 먹기' 프로그램이 확장되었습니다 // 시민들의 혈압을 분석하기 위한 장비로 작업대가 갖춰졌습니다 // 매뉴얼을 읽어야 합니다 // 그리고 새로운 지침을 따라야 합니다 // 작업으로 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#20
+
+# [ENGLISH]
+# Hello 100411 // Today we are in mourning... // I still can't believe it... // It seems like only yesterday that I met that family on a cruise trip... // How sad... // Anyway... // From today it will be your job to carry out breathalyzer checks // Your station has been adapted for this // You should consult your manual for more information // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+#
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+안녕하세요 100411 // 오늘 우리는 애도 중입니다 // 아직도 믿을 수가 없습니다 // 마치 어제 크루즈 여행에서 그 가족을 만난 것 같습니다 // 정말 슬프네요 // 어쨌든 // 오늘부터 음주 측정을 하는 것이 당신의 일입니다 // 당신의 작업대가 그것에 맞게 조정되었습니다 // 자세한 정보를 위해 매뉴얼을 참조해야 합니다 // 이제 일하러 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#21
+
+# [ENGLISH]
+# Employee 100411 // As of today we have provided different types of brochures // To distribute to our citizens... // Although it is not mandatory... // It's only for... // Well... // You know... // To raise awareness... // Anyway // Back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+직원 100411 // 오늘부터 우리는 다양한 유형의 전단지를 준비했습니다 // 시민들 사이에 배포되도록... // 의무 사항은 아니지만... // 그것만을 위해... // 음... // 네가 알다시피... // 인식을 창조하기 위해... // 어쨌든 // 네 일로 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#22
+
+# [ENGLISH]
+# Hello 100411 // Today there are new rules // Check your manual // You must control credit card payments // There is a prohibited list // You must respect it // Understood? // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+#
+# ID: CREDIT_CARD
+# English: Credit Card
+# Korean: 신용카드
+
+# [TRANSLATION]
+<<<
+안녕하세요 100411 // 오늘 새로운 규칙이 있습니다 // 매뉴얼을 확인하세요 // 신용카드 결제를 관리해야 합니다 // 금지된 목록이 있습니다 // 그것을 존중해야 합니다 // 이해했나요? // 이제 일하러 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#23
+
+# [ENGLISH]
+# Hello 100411 // From today you will have a new tool // It will help you to make a thorough analysis of the citizen // To prevent identity theft // For more information, see your manual // Now get back to work.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: MANUAL
+# English: Manual
+# Korean: 매뉴얼
+
+# [TRANSLATION]
+<<<
+안녕하세요 100411 // 오늘부터 새로운 도구를 사용할 수 있습니다 // 이 도구는 시민을 면밀히 분석하는 데 사용됩니다 // 신원 도용을 방지하기 위해 // 자세한 정보를 위해 매뉴얼을 참조하세요 // 이제 일하러 돌아가세요
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#24
+
+# [ENGLISH]
+# Hi 100411 // I was supervising your work // I usually do it later // But this time I have to go to a store... // I have to buy something to attend a costume event... // Yeah, costumes... // It's not my thing but there will be a lot of important people there and I have to make a good impression... // That's why I have to think it over... // And choose something that's up to the task... // Anyway... // Bye 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 네 작업을 감독하고 있었어 // 보통은 좀 늦게 하는데 // 이번에는 가게에 갈 일이 있어... // 의상 파티에 참석할 무언가를 사야 해... // 그래, 의상 파티... // 내 스타일은 아닌데, 많은 중요 인물들이 올 거고 좋은 인상을 남겨야 하거든... // 그래서 신중하게 고려해야 해... // 그리고 적합한 것을 골라야 하고... // 하여튼... // 안녕 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#25
+
+# [ENGLISH]
+# Hello 100411 // I received your package... // As soon as I saw it I knew it was the perfect choice... // I decided to wear it and... // The party was a big success! // All the important people in Nowhere were impressed // I'm sure we'll do a lot of business in the future... // Anyway... // I must thank you in some way... // Take this // Enjoy it // Buy yourself... // Whatever it is that people like you buy...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: COUNTRY_NAME
+# English: Nowhere
+# Korean: Nowhere
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 네 소포를 받았어... // 딱 보자마자 이게 완벽한 선택이라는 걸 알았어... // 가져가기로 했는데... // 파티는 대성공이었어! // Nowhere의 모든 중요 인물들이 감명을 받았어 // 앞으로 우리는 분명히 많은 거래를 할 거야... // 하여간... // 어떤 식으로든 네게 감사해야 해... // 이거 받아 // 즐겨 // 넌 뭐든 사... // 너 같은 사람이 살 법한 뭔가를...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#26
+
+# [ENGLISH]
+# Hello 100411 // I got your package... // I've tried everything // Every treatment out there... // And none of them worked // So I figured it would be a total waste of time to try it... // But it worked! // Look at this beautiful hair! // I've never had so much hair before // I'm so grateful // Have this 100411 // Now if you'll excuse me, I have to go admire my beauty in the mirror.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕, 100411 // 네 소포가 도착했어... // 솔직히 안 해본 게 없을 정도야 // 존재하는 모든 치료법을 다 써봤지... // 하지만 아무것도 효과가 없었어 // 그래서 이것도 해봐야 완전히 시간 낭비일 거라고 생각했지... // 그런데 효과가 있었어! // 이 멋진 머리숱 좀 봐! // 이렇게 머리카락이 많았던 적은 한 번도 없어 // 정말 고맙다 // 이걸 받아, 100411 // 그럼 실례하지, 거울을 보며 내 아름다움을 감상하러 가야겠어
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#27
+
+# [ENGLISH]
+# Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been able to reach her // She hasn't come to work // Her friends don't know anything about her... // She vanished // Just like that... // Anyway // She was the winner of a special bonus this month // And since I couldn't deliver it... // We've decided to give it to you // Here // Enjoy it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 100456에 대해 아는 게 있어? // 그녀가 실종됐대 // 아무도 찾을 수 없었어 // 출근도 안 했고 // 친구들도 그녀에 대해 아무것도 몰라... // 사라져버렸어 // 마치 아무 일도 없었던 것처럼... // 하여간 // 그녀는 이번 달 특별 보너스 당첨자야 // 그리고 내가 그녀에게 전달하지 못했기 때문에... // 우리 그걸 너에게 주기로 했어 // 이거 받아 // 실컷 써
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#28
+
+# [ENGLISH]
+# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // I'll take care of fixing everything so you don't have any problems
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411 // 네가 제압한 그 불쌍한 실패자는 살아남지 못했어 // 이제 저세상에서 먹을 것을 구걸할 수 있겠지 // 집에 가서 편히 쉬어 // 내가 모든 것을 정리해서 네게 문제가 없도록 할게
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#29
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe I exaggerated a little... // But woe betide you if you open your mouth... // I've got to go now // I have an interview in a few minutes // Keep working
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 뉴스 봤어? // 이제 나는 완전한 영웅이야... // 글쎄... // 아마 좀 과장했을 수도 있어... // 하지만 말을 털어놓으면 너는 불쌍해질 거야... // 이제 가야 해 // 몇 분 후에 인터뷰가 있어 // 계속 일해
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#30
+
+# [ENGLISH]
+# Hello 100411 // Have you seen the news? // I'm a national hero... // I may have exaggerated a bit with the story... // But I saved your ass // You owe me... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 뉴스 봤어? // 나는 완전한 국가 영웅이야... // 아마 이야기를 좀 과장했을 수도 있어... // 하지만 나는 네 목숨을 구했어 // 네가 나에게 빚진 게 하나 있어... // 이제 일하러 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#31
+
+# [ENGLISH]
+# Hello 100411 // Today I have received multiple calls // My bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But I managed to save you // Since you are a very hard worker // I blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish my boots every day before going home // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 오늘 나는 여러 전화를 받았어 // 상사들이 불만이 많아 // 왜인지 알아? // 장관의 아들을 체포하라고 명령했거든 // 그들은 네 머리를 원했어... // 하지만 나는 널 구했어 // 네가 매우 부지런하기 때문에, // 네 실수를 다른 사람한테 뒤집어씌웠어 // 그 불쌍한 놈... // 그가 일에 더 노력했으면 지금 물고기 밥이 안 됐을 텐데 // 하여튼... // 이 실수 때문에 집에 가기 전에 매일 나한테 구두를 닦아야 할 거야 // 이제 일하러 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#32
+
+# [ENGLISH]
+# Hello 100411 // I've been keeping a close eye on your performance... // You must not slack off // You know what happens to those who are not useful // They end up like that janitor // On the street // Only the strong survive here // There is no room for weakness... // Now get back to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 나는 네 실적을 면밀히 따르고 있어... // 게을리하면 안 돼 // 쓸모없는 사람들이 어떻게 되는지 알아? // 그 청소부처럼 끝나 // 거리에서 // 여기서는 상급자만 살아남아 // 약점은 용납되지 않아... // 이제 일하러 돌아가
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#33
+
+# [ENGLISH]
+# Hello 100411 // We have detected a number of irregularities in our accounting records // So we are going to conduct a thorough investigation // at all the center's workstations // It will take a few days // But don't worry // I know you can be trusted // See you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 우리는 회계 기록에서 일련의 비정상을 감지했습니다 // 그래서 우리는 센터의 모든 작업대에서 철저한 조사를 실시할 것입니다 // 우리에게는 며칠 걸릴 것입니다 // 하지만 걱정하지 마세요 // 나는 당신이 믿을 만하다는 것을 알고 있습니다 // 내일 봅시다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#34
+
+# [ENGLISH]
+# Hello 100411 // I got word that someone robbed this station // And that you allowed it to be stolen without resistance... // If you want to keep working here // You'd better do your job... // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 누군가가 이 작업대를 습격했다는 말을 들었습니다 // 그리고 당신이 저항하지 않고 도둑맞게 했다는 것을... // 여기서 계속 일하고 싶다면 // 당신은 자신의 일을 하는 것이 좋을 것입니다... // 내일 봅시다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#35
+
+# [ENGLISH]
+# Hello 100411 // Very well done // I saw how you neutralized that robber... // Maligno would be proud of you son // You're on a good path // I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: PRESIDENT_NAME
+# English: Maligno
+# Korean: Maligno
+#
+# ID: ROBBERS
+# English: Robbers
+# Korean: 강도
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 아주 잘 했습니다 // 당신이 그 강도를 제압하는 것을 보았습니다... // Maligno는 너를 자랑스러워할 것이다 아들 // 당신은 좋은 길을 가고 있습니다 // 내일 봅시다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#36
+
+# [ENGLISH]
+# Hello 100411 // You've made a lot of mistakes lately // I've come to warn you... // You don't want to end up on the street // Do you? // I'll see you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 최근에 당신은 많은 위반을 저질렀습니다 // 당신에게 경고하러 왔습니다... // 당신은 거리에 나앉고 싶지 않을 것입니다 // 그렇지 않나요? // 내일 봅시다 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#37
+
+# [ENGLISH]
+# Hi 100411 // Have you seen my wife around? // She's been very demanding lately... // I've been ignoring her for a while now // She's constantly looking for me... // And I don't feel that excitement we had when we were young... // The flame of love that once brought us together... // Has slowly faded away... // Anyway // It's time to go // See you tomorrow 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 여기서 제 아내를 보셨나요? // 최근에 그녀는 매우 까다롭습니다... // 사실 저는 이 시간 동안 그녀를 무시했습니다 // 그녀는 끊임없이 나를 찾습니다... // 그리고 우리가 젊었을 때 가졌던 그 흥분을 느끼지 못합니다... // 한때 우리를 묶어주었던 사랑의 불꽃... // 점차적으로 꺼져가고 있습니다... // 어쨌든 // 떠날 시간입니다 // 내일 봅시다 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#38
+
+# [ENGLISH]
+# Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I'll give them a call // See if that's the answer to the problems with my wife... // Anyway // See you tomorrow
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 네가 메일로 보낸 그 전단지 봤어... // 고마워... // 내가 전화할게 // 아내 문제에 대한 답인지 확인해 보자... // 어쨌든 // 내일 보자
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#39
+
+# [ENGLISH]
+# Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually comes to drop off dinner for me... // But she hasn't shown up // I tried to call her but she's not picking up // I hope she's okay...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 오늘 아내를 못 봤어... // 걱정돼... // 보통 저녁을 가져다주는데... // 하지만 나타나지 않았어 // 전화해봤는데 안 받아... // 괜찮길 바래...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#40
+
+# [ENGLISH]
+# Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she got tired of me and decided to leave... // You have to be strong and move on... // I have an appointment today // Wish me luck...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 아직 아내를 못 찾았어... // 어쨌든... // 아마 지쳐서 떠나기로 한 걸지도... // 강하고 계속 살아야 해... // 오늘 약속 있어 // 행운을 빌어줘...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#41
+
+# [ENGLISH]
+# Hello 100411 // My wife has asked me for a divorce... // She's claiming half of the assets... // Can you believe it? // I have a meeting with my lawyer tomorrow... // I didn't think it would come to this... // Anyway... // I have to go now. I'll see you tomorrow.
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕 100411 // 아내가 이혼을 요청했어... // 재산의 절반을 요구하고 있어... // 믿을 수 있어? // 내일 변호사와 회의가 있어... // 이렇게 될 줄은 몰랐어... // 어쨌든... // 이제 가야 해 // 내일 보자
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#42
+
+# [ENGLISH]
+# You! // You dirty maggot! // It was you who slept with my wife! // Do you think things are going to stay like this?! // You and that harlot will pay!!! // Get ready...
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+너! // 저주받은 벌레야! // 네가 내 아내와 잠 잔 거야! // 그렇게 끝날 줄 알았어?! // 너 그 사내년이와 함께 대가를 치를 거야!! // 각오해...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#43
+
+# [ENGLISH]
+# 100411... // What are all those bandages? // And those crutches? // Are you going to some kind of party? // Do I need to remind you that this is your job? // You can't come to work dressed as a mummy // I hope this doesn't happen again
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 그 붕대들이 다 뭐야? // 그 목발은 또 뭐야? // 뭐 파티에 가는 거야? // 이게 당신의 일이라는 걸 다시 알려드려야 하나? // 미라처럼 하고 출근하면 안 됩니다 // 다시는 이런 일이 없기를 바랍니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#44
+
+# [ENGLISH]
+# Hi 100411... // But... // What is that face? // Have you looked in the mirror? // Are you sick? // I remind you that sick leave here for low-class employees is completely prohibited // You had better recover quickly
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+안녕, 100411... // 그런데... // 그게 무슨 얼굴이야? // 거울로 봤어? // 아픈 거야? // 저급 사원에게는 휴가가 완전히 금지되어 있다는 걸 다시 알려드립니다 // 빨리 회복하는 게 좋을 겁니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#45
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been drinking alcohol excessively during work hours // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance // I hope you walk the straight and narrow from now on
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 어제 응급으로 병원에 실려 가셨습니다 // 일하던 중에 기절하신 겁니다 // 근무 중 과도한 음주를 하고 계셨다는 걸 알게 되었습니다 // 이런 일은 절대 허용할 수 없습니다 // 만약 행동을 개선하지 않으면 해고될 것입니다 // 이것이 마지막 기회입니다 // 이제부터는 바르게 행동하시기 바랍니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#46
+
+# [ENGLISH]
+# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been using drugs // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance to straighten up
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+100411... // 어제 응급으로 병원에 실려 가셨습니다 // 일하던 중에 기절하신 겁니다 // 마약을 하고 계셨다는 걸 알게 되었습니다 // 이런 일은 절대 허용할 수 없습니다 // 만약 행동을 개선하지 않으면 해고될 것입니다 // 이것이 바로잡을 마지막 기회입니다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#47
+
+# [ENGLISH]
+# Employee 100411... // That's it // The probationary period is over // And we have decided to dispense with you // I know // It was too little // In fact we still have many ways we would have liked to exploit you.... // But that's the way it is // I'd almost gotten used to that strange face you have..... // I don't usually shed tears when firing employees.... // And this one definitely won't be an exception either... // See you never 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+직원 100411... // 이게 전부다 // 수습 기간이 끝났다 // 그리고 우리는 너를 내보내기로 결정했다 // 알아 // 정말 짧았지 // 사실 아직도 너를 착취해 보고 싶었던 방법이 아주 많이 남아 있었는데... // 하지만 원래 이런 법이지 // 이제 네 그 이상한 얼굴에도 거의 익숙해질 참이었는데... // 나는 직원을 해고할 때 보통 눈물을 흘리지 않아... // 그리고 이번에도 절대 예외는 아닐 거다 // 다시는 보지 말자, 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#48
+
+# [ENGLISH]
+# Good morning // employee 100411 // I have been evaluating the performance of your first day at the station // I'm not going to lie to you // The truth is I expected more from someone with your background // I will continue to watch you // In the meantime // we have provided your station with the tools that will allow you to detect counterfeits // Now get to work
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: STATION
+# English: Station
+# Korean: 작업대
+
+# [TRANSLATION]
+<<<
+좋은 아침이다 // 직원 100411 // 작업대에서 보낸 첫날의 업무 성과를 평가해 봤다 // 솔직히 말하지 // 네 경력을 생각하면 좀 더 나을 줄 알았다 // 계속 지켜보겠다 // 그동안 // 네 작업대에는 위조품을 탐지할 수 있는 도구를 마련해 두었다 // 이제 일하도록
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#49
+
+# [ENGLISH]
+# So you think you're good enough not to receive an infraction // Well, we'll see about that 100411 // The last miserable guy who said that ran home // To cry in his mommy's arms // I hope you don't regret it
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+그러니까 넌 벌금 통지서를 하나도 받지 않을 만큼 잘한다고 생각하는 건가 // 글쎄, 그건 두고 보자고, 100411 // 마지막으로 그런 말을 했던 한심한 녀석은 집으로 냅다 도망갔지 // 엄마 품에 안겨 울려고 말이야 // 후회하지 않길 바란다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#50
+
+# [ENGLISH]
+# So you like finances, 100411? // Then you better keep a surplus in your personal finances // We don't tolerate debtors here // You've been warned
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+그래서 금융을 좋아한다는 건가, 100411? // 그렇다면 개인 재정에서 흑자를 유지하는 게 좋을 거다 // 여기서는 빚진 자들을 용납하지 않아 // 경고는 했다
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#51
+
+# [ENGLISH]
+# Infinite mode? // You're unhinged 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+무한 모드? // 너 미쳤어 100411
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_SUPERVISOR#52
+
+# [ENGLISH]
+# What happened? // Weren't you good enough not to receive infractions? // Grab your things // You're fired 100411
+
+# [CONTEXT]
+# Supervisor's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+무슨 일이야? // 네가 벌점 받지 않을 정도로 괜찮다고 하지 않았어? // 짐 챙겨 // 네 해고야 100411
+>>>

@@ -1,0 +1,179 @@
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#1
+
+# [ENGLISH]
+# Guard
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: PJ_GUARD
+# English: Guard
+# Chinese Traditional: 警衛
+
+# [TRANSLATION]
+<<<
+警衛
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#2
+
+# [ENGLISH]
+# Hi // I'm the guard // in charge of detention and security here // You know // I was thinking... // we guards get paid more for every detention we make // so if you could provide us with more people to detain... // maybe I could even give you some extra income... // I'm not telling you to arrest innocent people... // No // No way... // hehehe // Anyway // Think about it // It's good to have a friend to look out for you... // Don't you think so?
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你好 // 我是警衛 // 負責這裡的拘留和安保工作 // 知道嗎？ // 我在想... // 我們警衛每拘留一個人都會得到更多報酬 // 所以如果你能提供更多人給我們拘留... // 也許我還能給你一些額外收入... // 我不是讓你逮捕無辜的人... // 不 // 絕對不行... // 嘿嘿嘿 // 總之 // 考慮一下 // 有個關心你的朋友是好事... // 你覺得呢？
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#3
+
+# [ENGLISH]
+# Hi! // Great job! // Here's your share // And by the way // Don't worry about those people // They're in a better place // You know the special detention center? // They say it's very nice // Full of amenities // Medical care // Free TV // Board games // Electric fences 24 hours a day // Automatic firing turrets... // Paradise... // I'm leaving you // I must return to my post
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: SPECIAL_DETENTION_CENTER
+# English: Special detention center
+# Chinese Traditional: 特別拘留中心
+
+# [TRANSLATION]
+<<<
+你好！ // 幹得好！ // 這是你的份 // 順便說一下 // 別擔心那些人 // 她們在一個更好的地方 // 你知道特別拘留中心嗎？ // 聽說那裡很好 // 設施齊全 // 醫療服務 // 免費電視 // 桌遊 // 24小時電網 // 自動砲塔... // 天堂... // 我走了 // 我得回到我的崗位
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#4
+
+# [ENGLISH]
+# What's up! // I'll bring you your money... // Ouch!! // My arm hurts... // Do you know of any cream or something to ease the pain? // I hit the last wretch I arrested pretty hard... // But don't worry... // I'm fine...  // Though I couldn't say the same // of the poor guy I beat up... // Well // Duty calls
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+怎麼樣？ // 我給你帶錢來了... // 哎喲！！ // 我的胳膊疼... // 你知道什麼藥膏或東西可以緩解疼痛嗎？ // 我把最後一個倒楣的傢伙打得太狠了... // 但別擔心... // 我沒事... // 雖然我不能說同樣的話 // 對於那個被我揍的可憐傢伙... // 好吧 // 職責召喚
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#5
+
+# [ENGLISH]
+# Good morning! // Take your detention money // Enjoy // You've earned it... // By the way... // What a beautiful day to smash heads... // Get back to work...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+早上好！ // 拿走你的拘留報酬 // 享受吧 // 這是你賺的... // 順便說一下... // 多麼美好的一天來粉碎腦袋... // 回去工作
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#6
+
+# [ENGLISH]
+# There you are!! // My number one accomplice... // How's your day? // Look // Here, I brought you more money...  // Take care of it // Don't spend it so fast... // Invest it // Oh! // I must go // There's a wretch who requires my attentions
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你在這裡啊！ // 我的一號同夥... // 你今天怎麼樣？ // 看 // 我給你帶了更多錢... // 保管好它 // 別花得太快... // 投資它 // 噢！ // 我得走了 // 有一個需要我關照的倒楣蛋
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#7
+
+# [ENGLISH]
+# Pffft! // How tiring... // Who knew that teaching the beautiful art of guard brutality // would be so exhausting... // Here's your pay for the detainees... // Keep it up
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+呼！ // 好累啊... // 誰能想到教導警衛們 // 殘暴的藝術 // 會這麼令人疲憊... // 這是抓到犯人的報酬... // 繼續保持
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#8
+
+# [ENGLISH]
+# Hello friend // I must tell you that I'm being transferred to another distribution center // I won't be able to continue our deal // But anyway... // You will always have a place in my heart... // It was a pleasure doing business with you... // I'm very bad at goodbyes // I'll miss you... // Here I leave you your last paycheck
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISTRIBUTION_CENTER
+# English: Distribution Center
+# Chinese Traditional: 配送中心
+
+# [TRANSLATION]
+<<<
+嘿朋友 // 我得告訴你我要被調到另一個配送中心了 // 以後不能再繼續我們的交易了 // 不過算了... // 你永遠會在我心裡佔有一席之地... // 和你做生意很愉快... // 我不太擅長告別 // 會想你的... //這是最後一筆報酬
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#9
+
+# [ENGLISH]
+# Good morning // Looks like you weren't convinced by what I told you... // You should know that there's a lot of money at stake // You could get that plastic surgery you need so much // hehe // Think about it // But not too much...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+早上好 // 看來我說的話沒說服你... // 你應該知道這涉及一大筆錢 // 你可以去做那個你急需的整形手術 // 嘿嘿 // 考慮一下吧 // 但也別想太久...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#10
+
+# [ENGLISH]
+# So... // My colleagues are not happy with your decision... // But still // I support you // Stay calm... // Although I don't know how long I can keep them under control... // Whatever // Have a nice day...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+最近怎麼樣 // 我的同事們對你的決定不太滿意... // 不過沒關係 // 我支持你 // 放心吧... // 雖然我不知道還能控制他們多久... // 隨便吧 // 祝你今天過得愉快...
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-COM_GUARDIA#11
+
+# [ENGLISH]
+# How lucky you are // Apparently you don't need extra income... // I don't have enough money // I have children // And they are very demanding // They always want me to buy them this or that // They are not satisfied // hehe // Well... // That's the way it is... // By the way be careful when you leave your shift // It gets really dark... // The perfect opportunity to go unnoticed // And mug someone...
+
+# [CONTEXT]
+# Guard's dialogue. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+你真幸運 // 看來你不需要額外收入... // 我可不夠錢花 // 我有孩子 // 而且他們要求特別多 // 總是要我買這個買那個 // 怎麼都不滿足 // 嘿嘿 // 好吧... // 就是這麼回事... // 對了，下班出去的時候小心點 // 外面會變得很黑... // 正是神不知鬼不覺行動的好機會 // 也很適合搶個人...
+>>>

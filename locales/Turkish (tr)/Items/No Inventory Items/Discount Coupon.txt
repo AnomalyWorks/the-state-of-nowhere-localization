@@ -1,0 +1,74 @@
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#1
+
+# [ENGLISH]
+# Discount Coupon
+
+# [CONTEXT]
+# 
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Turkish: İndirim Kuponları
+
+# [TRANSLATION]
+<<<
+İndirim Kuponu
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#3
+
+# [ENGLISH]
+# It's a discount coupon // For my purchase
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Turkish: İndirim Kuponları
+
+# [TRANSLATION]
+<<<
+Bu bir indirim kuponu // Alışverişim için
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#4
+
+# [ENGLISH]
+# It's my discount coupon // You have to process it
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [GLOSSARY]
+# ID: DISCOUNT_COUPONS
+# English: Discount coupons
+# Turkish: İndirim Kuponları
+
+# [TRANSLATION]
+<<<
+Bu benim indirim kuponum // Onu işlemen gerek
+>>>
+
+# ============================================================================
+# [KEY]
+# NO-ALM_CUPONDESCUENTO#5
+
+# [ENGLISH]
+# No // You have to process it yourself
+
+# [CONTEXT]
+# Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
+
+# [TRANSLATION]
+<<<
+Hayır // Senin işlemen gerek
+>>>
