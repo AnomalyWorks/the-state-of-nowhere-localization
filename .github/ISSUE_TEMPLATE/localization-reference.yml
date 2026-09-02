@@ -1,0 +1,111 @@
+name: Localization Reference Issue
+description: Report a problem with context, glossary information, English reference text, or other protected localization data.
+title: "[Reference] "
+labels:
+  - localization-reference
+body:
+  - type: dropdown
+    id: reference_type
+    attributes:
+      label: Reference type
+      description: What kind of localization information does this report concern?
+      options:
+        - Context
+        - Glossary term
+        - Glossary association
+        - English reference
+        - Other reference information
+    validations:
+      required: true
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Select the affected language. For language-independent issues, select English (en) or explain the scope below.
+      options:
+        - Spanish (es)
+        - English (en)
+        - Portuguese (pt)
+        - French (fr)
+        - German (de)
+        - Italian (it)
+        - Polish (pl)
+        - Turkish (tr)
+        - Romanian (ro)
+        - Russian (ru)
+        - Ukrainian (uk)
+        - Korean (ko)
+        - Japanese (ja)
+        - Chinese Simplified (zh-CN)
+        - Chinese Traditional (zh-TW)
+    validations:
+      required: true
+
+  - type: input
+    id: key
+    attributes:
+      label: Localization key
+      description: Enter the affected localization key, when applicable.
+      placeholder: "INTERNAL_KEY#1"
+    validations:
+      required: false
+
+  - type: input
+    id: glossary_id
+    attributes:
+      label: Glossary ID
+      description: If this report concerns a glossary term, enter its glossary ID.
+      placeholder: "TERM_ID"
+    validations:
+      required: false
+
+  - type: textarea
+    id: current_information
+    attributes:
+      label: Current reference information
+      description: Paste or describe the context, glossary information, English reference, or other information you believe should be reviewed.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested_change
+    attributes:
+      label: Suggested change
+      description: Explain how you think the reference information could be improved.
+    validations:
+      required: false
+
+  - type: textarea
+    id: explanation
+    attributes:
+      label: Reason or explanation
+      description: Explain why the current information may be missing, unclear, incomplete, incorrect, or otherwise problematic.
+    validations:
+      required: true
+
+  - type: input
+    id: credit_name
+    attributes:
+      label: Preferred credit name
+      description: Optional. Leave blank to use your GitHub username.
+      placeholder: "Nickname"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: no_credit
+    attributes:
+      label: Credits
+      options:
+        - label: I prefer not to be credited for this contribution.
+          required: false
+
+  - type: checkboxes
+    id: contribution_terms
+    attributes:
+      label: Contribution terms
+      description: By submitting this report, you agree to the contribution terms described in CONTRIBUTING.md.
+      options:
+        - label: I have read and agree to the contribution terms.
+          required: true

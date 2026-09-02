@@ -1,0 +1,88 @@
+name: Translation Suggestion
+description: Suggest an improvement to an existing translation.
+title: "[Translation] "
+labels:
+  - translation
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Select the language affected by this suggestion.
+      options:
+        - Spanish (es)
+        - English (en)
+        - Portuguese (pt)
+        - French (fr)
+        - German (de)
+        - Italian (it)
+        - Polish (pl)
+        - Turkish (tr)
+        - Romanian (ro)
+        - Russian (ru)
+        - Ukrainian (uk)
+        - Korean (ko)
+        - Japanese (ja)
+        - Chinese Simplified (zh-CN)
+        - Chinese Traditional (zh-TW)
+    validations:
+      required: true
+
+  - type: input
+    id: key
+    attributes:
+      label: Localization key
+      description: Enter the localization key shown in the [KEY] section.
+      placeholder: "INTERNAL_KEY#1"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_translation
+    attributes:
+      label: Current translation
+      description: Paste the current translation if possible.
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggested_translation
+    attributes:
+      label: Suggested translation
+      description: Enter your proposed translation.
+    validations:
+      required: true
+
+  - type: textarea
+    id: explanation
+    attributes:
+      label: Reason or explanation
+      description: Explain why you believe the translation should be changed, if useful.
+    validations:
+      required: false
+
+  - type: input
+    id: credit_name
+    attributes:
+      label: Preferred credit name
+      description: Optional. Leave blank to use your GitHub username.
+      placeholder: "Nickname"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: no_credit
+    attributes:
+      label: Credits
+      options:
+        - label: I prefer not to be credited for this contribution.
+          required: false
+
+  - type: checkboxes
+    id: contribution_terms
+    attributes:
+      label: Contribution terms
+      description: By submitting this suggestion, you agree to the contribution terms described in CONTRIBUTING.md.
+      options:
+        - label: I have read and agree to the contribution terms.
+          required: true
