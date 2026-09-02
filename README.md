@@ -26,7 +26,7 @@ The files are organized by language and by game content so contributors can work
 
 Each localization entry is presented in a human-readable structured block:
 
-```text
+```text id="wyj0if"
 # [KEY]
 # INTERNAL_KEY#1
 
@@ -79,7 +79,7 @@ The text between `<<<` and `>>>` is the translation for the current language.
 
 ## Contributing
 
-There are two ways to help improve the translations of **The State of Nowhere**.
+There are three ways to help improve the localization of **The State of Nowhere**.
 
 ### Pull Requests
 
@@ -97,10 +97,19 @@ The issue form will allow you to specify the language, localization key, current
 
 You do not need to know how to use Git or create a pull request to contribute this way.
 
+### Localization Reference Issues
+
+If you notice a problem with protected reference information, you can open a **Localization Reference Issue**.
+
+This can be used to report missing, unclear, incomplete, or incorrect context; suggest improvements to canonical glossary terms or glossary associations; report a problem with an English reference; or point out other reference information that could affect translation quality.
+
+Protected reference information should not be modified directly through a pull request. If a proposed change is accepted, it will be incorporated by the repository maintainer.
+
 ## Contributor credits
 
-Contributors whose accepted pull requests or translation suggestions result in meaningful localization improvements may be credited in the localization credits of **The State of Nowhere**.
+Contributors whose accepted pull requests, translation suggestions, or localization reference reports result in meaningful localization improvements may be credited in the localization credits of **The State of Nowhere**.
 
 By default, your GitHub username can be used for attribution. You may also provide a preferred nickname or request not to be credited.
 
-For detailed contribution instructions, rules, and contribution terms, please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request or translation suggestion.
+For detailed contribution instructions, rules, and contribution terms, please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request, translation suggestion, or localization reference report.
+
