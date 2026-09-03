@@ -2,12 +2,13 @@
 
 Thank you for helping improve the localization of **The State of Nowhere**.
 
-There are two ways to contribute translation improvements:
+There are three ways to contribute localization improvements:
 
 * Submit a **Pull Request** by editing the localization files directly.
 * Submit a **Translation Suggestion** issue if you prefer not to edit the repository yourself.
+* Submit a **Localization Reference Issue** to report problems or suggest improvements related to context, glossary information, English reference text, or other protected localization information.
 
-Both methods are welcome.
+All three methods are welcome.
 
 ## Localization entries
 
