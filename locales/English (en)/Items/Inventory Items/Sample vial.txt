@@ -2,8 +2,8 @@
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#1
 
-# [ENGLISH]
-# Sample vial
+# [SPANISH]
+# Frasco de muestras
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Sample vial
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#2
 
-# [ENGLISH]
-# A small glass vial containing samples. It has a worn official label.
+# [SPANISH]
+# Un pequeño frasco de vidrio con muestras. Tiene una etiqueta oficial gastada.
 
 # [CONTEXT]
 # Description of the Sample Vial item
@@ -36,8 +36,8 @@ A small glass vial containing samples. It has a worn official label.
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#3
 
-# [ENGLISH]
-# Put that vial away // It looks suspicious
+# [SPANISH]
+# Aleja ese frasco // Se ve sospechoso
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -51,8 +51,8 @@ Put that vial away // It looks suspicious
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#4
 
-# [ENGLISH]
-# What are you trying to do with that vial? // I don't want it.
+# [SPANISH]
+# ¿Qué intentas hacer con ese frasco? // No lo quiero
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -66,8 +66,8 @@ What are you trying to do with that vial? // I don't want it.
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#5
 
-# [ENGLISH]
-# That vial looks very old // Where did you get it from?
+# [SPANISH]
+# Ese frasco parece muy viejo // ¿De dónde lo sacaste?
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -81,8 +81,8 @@ That vial looks very old // Where did you get it from?
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#6
 
-# [ENGLISH]
-# That vial looks dangerous // I don't want it.
+# [SPANISH]
+# Ese frasco parece peligroso // No lo quiero
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -96,8 +96,8 @@ That vial looks dangerous // I don't want it.
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#7
 
-# [ENGLISH]
-# Where did you get that vial from? // It looks dangerous // Put it away.
+# [SPANISH]
+# ¿De donde sacaste ese frasco? // Se ve peligroso // Alejalo
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -111,8 +111,8 @@ Where did you get that vial from? // It looks dangerous // Put it away.
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#8
 
-# [ENGLISH]
-# If you don't want to get into trouble, you'd better put that away // It looks suspicious.
+# [SPANISH]
+# Si no quieres meterte en problemas será mejor que guardes eso // Se ve sospechoso
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -126,8 +126,8 @@ If you don't want to get into trouble, you'd better put that away // It looks su
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#9
 
-# [ENGLISH]
-# What? // Where did you get that from? // That's stolen evidence from an old case // Don't move! // You are under arrest for evidence theft
+# [SPANISH]
+# ¿Qué? // ¿De dónde sacaste eso? // Es evidencia robada de un viejo caso // ¡No te muevas! // Queda usted bajo arresto por el robo de evidencia
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -141,8 +141,8 @@ What? // Where did you get that from? // That's stolen evidence from an old case
 # [KEY]
 # ALMACENABLES_FRASCOMUESTRAS#10
 
-# [ENGLISH]
-# What? // Where did you get that from? // That's stolen evidence from an old case // Don't move! // Undercover Officer Mark Shadow // You are under arrest for evidence theft
+# [SPANISH]
+# ¿Qué? // ¿De dónde sacaste eso? // Es evidencia robada de un viejo caso // ¡No te muevas! // Oficial encubierto Mark Shadow // Queda usted bajo arresto por el robo de evidencia
 
 # [CONTEXT]
 # Dialogue associated with giving the Sample Vial to a common citizen or special character. Sentences are separated by // and must be preserved

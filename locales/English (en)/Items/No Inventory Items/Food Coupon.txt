@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_CUPONALIMENTO#1
 
-# [ENGLISH]
-# Food coupon
+# [SPANISH]
+# Cupón de Alimento
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Food coupon
 # [KEY]
 # NO-ALM_CUPONALIMENTO#3
 
-# [ENGLISH]
-# It's my food coupon // It's worth one purchase
+# [SPANISH]
+# Es mi cupón de alimento // Vale por una compra
 
 # [CONTEXT]
 # Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -40,8 +40,8 @@ It's my food coupon // It's worth one purchase
 # [KEY]
 # NO-ALM_CUPONALIMENTO#4
 
-# [ENGLISH]
-# It's my food coupon // You have to process it
+# [SPANISH]
+# Es mi cupón de alimento // Tienes que procesarlo
 
 # [CONTEXT]
 # Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -59,8 +59,8 @@ It's my food coupon // You have to process it
 # [KEY]
 # NO-ALM_CUPONALIMENTO#5
 
-# [ENGLISH]
-# No // You have to process it yourself
+# [SPANISH]
+# No // Tienes que procesarlo tú
 
 # [CONTEXT]
 # Dialogue associated with giving the Food Coupon to a common citizen or special character. Sentences are separated by // and must be preserved

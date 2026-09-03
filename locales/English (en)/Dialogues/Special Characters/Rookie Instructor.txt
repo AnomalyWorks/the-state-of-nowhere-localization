@@ -2,8 +2,8 @@
 # [KEY]
 # TUTORIAL_INTRODUCCION#1
 
-# [ENGLISH]
-# I'm the instructor for rookies // I came to give you a general overview of what you have to do on your first day // The first thing is to identify the citizen // To do this, you must read the citizen's Identification card
+# [SPANISH]
+# Soy el instructor de novatos // Vine a darte un repaso general de lo que tienes que hacer en tu primer dia // Lo primero es identificar al ciudadano // Para ello hay que leer la tarjeta de identificación del ciudadano
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -21,8 +21,8 @@ I'm the instructor for rookies // I came to give you a general overview of what 
 # [KEY]
 # TUTORIAL_INTRODUCCION#2
 
-# [ENGLISH]
-# But before doing that, open the inspection table // There you can observe the documents in more detail // Try to rotate the Identification card with a right click and then come back here
+# [SPANISH]
+# Pero antes de hacerlo abre la mesa de inspección // Allí puedes observar con mas detalles los documentos // Trata de girar la tarjeta de identificación con click derecho y luego vuelve aquí
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -43,8 +43,8 @@ But before doing that, open the inspection table // There you can observe the do
 # [KEY]
 # TUTORIAL_INTRODUCCION#3
 
-# [ENGLISH]
-# About time // Now insert the card into the Identification Card Reader to identify the citizen
+# [SPANISH]
+# Ya era hora // Ahora inserta la tarjeta en el lector de tarjetas de identificación para identificar al ciudadano
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -62,8 +62,8 @@ About time // Now insert the card into the Identification Card Reader to identif
 # [KEY]
 # TUTORIAL_INTRODUCCION#4
 
-# [ENGLISH]
-# You did it! // I can't believe it // Now it's time for you to process the citizen's products // Use the products call action
+# [SPANISH]
+# ¡Lo lograste! // No puedo creerlo // Ahora es momento de que proceses los productos del ciudadano // Acciona la llamada de productos
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -81,8 +81,8 @@ You did it! // I can't believe it // Now it's time for you to process the citize
 # [KEY]
 # TUTORIAL_INTRODUCCION#5
 
-# [ENGLISH]
-# Now you must read them // Drag the product to the product reader to start
+# [SPANISH]
+# Ahora debes leerlos // Arrastra el producto hacia el lector de productos para empezar
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -100,8 +100,8 @@ Now you must read them // Drag the product to the product reader to start
 # [KEY]
 # TUTORIAL_INTRODUCCION#6
 
-# [ENGLISH]
-# Wow // You're faster than you look // And I didn't even have faith in you // Now it's time to process the payment // Let's assume I didn't present the payment // What you must always do in case of an irregularity like that is report it // Report that the citizen didn't provide payment
+# [SPANISH]
+# Vaya // Eres más rapido de lo que pareces // Y yo que no te tenía fé // Ahora es momento de procesar el pago // Pero supongamos que no presento el pago // Lo que tu debes hacer siempre ante una irregularidad como esa es notificarla // Notifica que el ciudadano no presentó el pago
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -115,8 +115,8 @@ Wow // You're faster than you look // And I didn't even have faith in you // Now
 # [KEY]
 # TUTORIAL_INTRODUCCION#7
 
-# [ENGLISH]
-# Good // Now it's time to process the payment // Remember to give the correct change and then accept it
+# [SPANISH]
+# Bien // Ahora es momento de procesar el pago // Recuerda dar bien el cambio y luego aceptarlo
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -130,8 +130,8 @@ Good // Now it's time to process the payment // Remember to give the correct cha
 # [KEY]
 # TUTORIAL_INTRODUCCION#8
 
-# [ENGLISH]
-# We're almost done // Now to finalize the transaction, you must hand me the receipt
+# [SPANISH]
+# Ya casi terminamos // Ahora para finalizar la transacción debes entregarme el ticket
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -149,8 +149,8 @@ We're almost done // Now to finalize the transaction, you must hand me the recei
 # [KEY]
 # TUTORIAL_INTRODUCCION#9
 
-# [ENGLISH]
-# Under normal circumstances, that will approve the purchase and the citizen will leave with the products // Keep that in mind // Now just let me tell you one more thing // You can execute actions on citizens // Execute the reject action to make me leave
+# [SPANISH]
+# En circunstancias normales eso aprobará la compra y el ciudadano se irá con los productos // Ten en cuenta eso // Ahora solo dejame decirte algo más // Puedes ejecutar acciones sobre los ciudadanos // Ejecuta la acción de rechazar para que me vaya
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //
@@ -171,8 +171,8 @@ Under normal circumstances, that will approve the purchase and the citizen will 
 # [KEY]
 # TUTORIAL_INTRODUCCION#10
 
-# [ENGLISH]
-# That's all // You're not the sharpest operator // But I think you'll manage with that // From here on out, you're on your own // read the manual if you don't know how to do something
+# [SPANISH]
+# Eso es todo // No eres el operario más despierto // Pero creo que podrás arreglartelas con eso // De aquí en adelante estas solo // lee el manual si no sabes hacer algo
 
 # [CONTEXT]
 # Introductory tutorial dialogue. Sentences are separated by //

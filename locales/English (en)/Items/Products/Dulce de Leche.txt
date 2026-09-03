@@ -2,7 +2,7 @@
 # [KEY]
 # PRODUCTOS_DULCELECHE#1
 
-# [ENGLISH]
+# [SPANISH]
 # Dulce de Leche
 
 # [CONTEXT]
@@ -21,8 +21,8 @@ Dulce de Leche
 # [KEY]
 # PRODUCTOS_DULCELECHE#2
 
-# [ENGLISH]
-# Do you know what dulce de leche is made of? // Yes // Milk
+# [SPANISH]
+# ¿Sabes de qué está hecho el dulce de leche? // Sí // De leche
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -40,8 +40,8 @@ Do you know what dulce de leche is made of? // Yes // Milk
 # [KEY]
 # PRODUCTOS_DULCELECHE#3
 
-# [ENGLISH]
-# Don't you know dulce de leche? // It tastes delicious.
+# [SPANISH]
+# ¿No conoces el dulce de leche? // Sabe riquísimo
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -59,8 +59,8 @@ Don't you know dulce de leche? // It tastes delicious.
 # [KEY]
 # PRODUCTOS_DULCELECHE#4
 
-# [ENGLISH]
-# Do you like dulce de leche? // Don't you know it?
+# [SPANISH]
+# ¿Te gusta el dulce de leche? // ¿¡No lo conoces!?
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -78,8 +78,8 @@ Do you like dulce de leche? // Don't you know it?
 # [KEY]
 # PRODUCTOS_DULCELECHE#5
 
-# [ENGLISH]
-# Dulce de leche goes very well with toasts
+# [SPANISH]
+# El dulce de leche sabe muy bien con tostadas
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -97,8 +97,8 @@ Dulce de leche goes very well with toasts
 # [KEY]
 # PRODUCTOS_DULCELECHE#6
 
-# [ENGLISH]
-# My dulce de leche... // Please don't...
+# [SPANISH]
+# Mi dulce de leche... // Por favor no...
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -116,8 +116,8 @@ My dulce de leche... // Please don't...
 # [KEY]
 # PRODUCTOS_DULCELECHE#7
 
-# [ENGLISH]
-# No! // My dulce de leche... // Now what will I put on my toast?
+# [SPANISH]
+# ¡No! // Mi dulce de leche... // ¿Ahora que le pondré a mis tostadas?
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -135,8 +135,8 @@ No! // My dulce de leche... // Now what will I put on my toast?
 # [KEY]
 # PRODUCTOS_DULCELECHE#8
 
-# [ENGLISH]
-# What about my dulce de leche? // I'll have to settle for jam.
+# [SPANISH]
+# ¿Y mi dulce de leche? // Tendré que conformarme con una mermelada
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved
@@ -154,8 +154,8 @@ What about my dulce de leche? // I'll have to settle for jam.
 # [KEY]
 # PRODUCTOS_DULCELECHE#9
 
-# [ENGLISH]
-# It's okay... // I didn't want that dulce de leche anyway.
+# [SPANISH]
+# Está bien... // De todos modos no quería ese dulce de leche
 
 # [CONTEXT]
 # Dialogue for a citizen referring to the Dulce de Leche product. Sentences are separated by // and must be preserved

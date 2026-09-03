@@ -2,7 +2,7 @@
 # [KEY]
 # NO-COM_SUPERVISOR#1
 
-# [ENGLISH]
+# [SPANISH]
 # Supervisor
 
 # [CONTEXT]
@@ -21,8 +21,8 @@ Supervisor
 # [KEY]
 # NO-COM_SUPERVISOR#2
 
-# [ENGLISH]
-# Good morning // I'll be your supervisor // Let's see what we have here... // workstation 65... // Employee 100411... // You seem to have experience in this... // If you have any questions, consult your manual // There you will find indications of the elements you have at your station // In addition to the current regulations // Respect the regulations // Don't make mistakes and you'll do well // Each mistake will count as a penalty in your salary... // Anyway... // May the glory of Maligno shine upon you... // Employee 100411
+# [SPANISH]
+# Buenos días // Yo seré tu supervisor // Veamos que tenemos aquí... // estación de trabajo 65... // Empleado 100411... // Parece que tienes experiencia en esto... // Ante cualquier inquietud consulta el manual // Allí tendrás indicaciones de los elementos que dispones en tu estación // Además de la normativa vigente // Respeta la normativa // No cometas errores y te irá bien // Cada falta contará como penalización en tu salario... // En fin... // Que la gloria de Maligno resplandezca sobre ti... // Empleado 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -49,8 +49,8 @@ Good morning // I'll be your supervisor // Let's see what we have here... // wor
 # [KEY]
 # NO-COM_SUPERVISOR#3
 
-# [ENGLISH]
-# Hello employee 100411 // Did you see the news? // Arrest those criminals // We have also installed new equipment // Check your manual for more information // You'll be fitted with the other gadgets soon... // This station used to be empty // The last wretch who used it left his entrails scattered all over the place // Yeah... // He was attacked... // You should have seen it... // We're refurbishing // Equipment's missing // You've got enough to operate though // Now get back to your job
+# [SPANISH]
+# Hola empleado 100411 // ¿Viste las noticias? // Arresta a esos malvivientes // Además hemos instalado nuevo equipamiento // Revisa tu manual para más información // Pronto te pondrán los demás aparatos... // Esta estación solía estar vacía // El último miserable que la usó dejó sus entrañas esparcidas por todo el lugar // Sí... // Lo asaltaron... // lo hubieras visto... // Estamos reacondicionando // Falta equipamiento // Aunque tienes lo suficiente para operar // Ahora vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -71,8 +71,8 @@ Hello employee 100411 // Did you see the news? // Arrest those criminals // We h
 # [KEY]
 # NO-COM_SUPERVISOR#4
 
-# [ENGLISH]
-# Employee 100411 // Did you see the news? // There are new rules // Check your manual... // You must cancel non-compliant products // We must educate these people // Only then will we build a better Nowhere... // Now do your job
+# [SPANISH]
+# Empleado 100411 // ¿Viste las noticias? // Hay nuevas normas // Revisa tu manual... // Debes anular los productos que no cumplan con la normativa // Debemos educar a esta gente // Solo así construiremos un Nowhere mejor... // Ahora cumple con tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -93,8 +93,8 @@ Employee 100411 // Did you see the news? // There are new rules // Check your ma
 # [KEY]
 # NO-COM_SUPERVISOR#5
 
-# [ENGLISH]
-# Hello employee 100411 // The product readers have been crashing lately... // I don't know what it could be... // They were the cheapest on the market... // Anyway... // You can enter the products manually if you have any problems // See the manual for more information...
+# [SPANISH]
+# Hola empleado 100411 // Últimamente los lectores de productos están fallando... // No sé que puede ser... // Si eran los más baratos del mercado... // En fin... // Puedes ingresar los productos manualmente si te da algún problema // Consulta el manual para más información
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -115,8 +115,8 @@ Hello employee 100411 // The product readers have been crashing lately... // I d
 # [KEY]
 # NO-COM_SUPERVISOR#6
 
-# [ENGLISH]
-# Hello employee 100411 // As you can see, we have placed a storage unit in your station // There you can store your belongings // By the way... // I saw this and perhaps it could be useful to you // Don't thank me // Return to your work
+# [SPANISH]
+# Hola empleado 100411 // Como verás hemos puesto un almacén en tu estación // En él podrás almacenar tus pertenencias // Por cierto... // Vi esto y quizás pueda servirte // No me lo agradezcas // Vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -134,8 +134,8 @@ Hello employee 100411 // As you can see, we have placed a storage unit in your s
 # [KEY]
 # NO-COM_SUPERVISOR#7
 
-# [ENGLISH]
-# Hello employee 100411 // Did you see about the missing minister's son // It breaks my heart... // That's why new equipment has been sent // You can see it in your manual // Your new job will be to check if any of the citizens // are present in the missing list... // Anyway... // Go back to your job 100411 // And by the way // There are juicy rewards for those who find these people // It would be a good opportunity for you // You could get that much needed plastic surgery...
+# [SPANISH]
+# Empleado 100411 // ¿Viste lo del hijo del ministro desaparecido? // Me parte el corazón... // Por esa razón han enviado nuevo equipamiento // Lo puedes ver en tu manual // Tu nueva labor será verificar si alguno de los ciudadanos // está presente en la lista de desaparecidos... // En fin... // Vuelve a tu trabajo 100411 // Y por cierto // Hay jugosas recompensas para quienes encuentren a estas personas // Sería una buena oportunidad para ti // Podrías hacerte esa cirugía plástica que tanto te hace falta...
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -153,8 +153,8 @@ Hello employee 100411 // Did you see about the missing minister's son // It brea
 # [KEY]
 # NO-COM_SUPERVISOR#8
 
-# [ENGLISH]
-# Hello 100411 // We have been sent new equipment // You can see it in your manual // You will be able to verify if a citizen is a wanted criminal // The state of Nowhere has zero tolerance for criminals // You must arrest them // It is your duty now employee 100411 // Do not forget to claim the reward before proceeding with the arrest
+# [SPANISH]
+# Hola 100411 // Nos enviaron nuevo equipamiento // Lo puedes ver en tu manual // Podrás verificar si ciudadano es un criminal buscado // El estado de Nowhere tiene cero tolerancia hacia los criminales // Deberás arrestarlos // Es tu deber ahora empleado 100411 // No olvides de reclamar la recompensa antes de proceder con el arresto
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -175,8 +175,8 @@ Hello 100411 // We have been sent new equipment // You can see it in your manual
 # [KEY]
 # NO-COM_SUPERVISOR#9
 
-# [ENGLISH]
-# Hello 100411 // We have received a call from the police department of investigations // They have informed us about marked money // Money that they use to track certain criminals // You must arrest any individual with marked bills // That will be your new task employee 100411 // For more information please consult your manual.
+# [SPANISH]
+# Hola 100411 // Hemos recibido un llamado del departamento de policía de investigaciones // Nos han informado acerca de dinero marcado // Dinero que utilizan para rastrear ciertos criminales // Deberás arrestar a cualquier individuo con dinero marcado // Esa será tu nueva tarea empleado 100411 // Para más información consulta tu manual
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -194,8 +194,8 @@ Hello 100411 // We have received a call from the police department of investigat
 # [KEY]
 # NO-COM_SUPERVISOR#10
 
-# [ENGLISH]
-# Employee 100411 // Are you aware of the situation? // Thefts are becoming more frequent in the distribution centers // But don't worry // A scanner system has been implemented in the station // With it you will be able to detect if these bad guys have hidden products in their clothes // That's all employee 100411 // Don't forget to check your manual...
+# [SPANISH]
+# Empleado 100411 // ¿Estás al tanto de la situación? // Los robos se están haciendo más frecuentes en los centros de distribución // Pero tranquilo // Se ha implementado un sistema de escaner en la estación // Con ella podrás detectar si estos malvivientes llevan ocultos productos en sus ropas // Eso es todo empleado 100411 // No olvides consultar tu manual
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -219,8 +219,8 @@ Employee 100411 // Are you aware of the situation? // Thefts are becoming more f
 # [KEY]
 # NO-COM_SUPERVISOR#11
 
-# [ENGLISH]
-# Hello employee 100411 // New defense tools have arrived for the distribution center // You will be in charge of their operation // Last night's brutal assault has prompted the authorities to take serious measures... // Anyway // You can find more information in the manual // Now get back to work
+# [SPANISH]
+# Hola empleado 100411 // Han llegado nuevas herramientas de defensa para el centro de distribución // La operación de las mismas estará a tu cargo // El brutal asalto de anoche ha llevado a las autoridades a tomar serias medidas... // En fin // Puedes encontrar más información en el manual // Ahora vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -241,8 +241,8 @@ Hello employee 100411 // New defense tools have arrived for the distribution cen
 # [KEY]
 # NO-COM_SUPERVISOR#12
 
-# [ENGLISH]
-# Hello 100411 // As you will see, we have provided new tools at your station // You can now process credit card payments // Check your manual // And fix that tie // Where do you think you are? // Get back to work.
+# [SPANISH]
+# Hola 100411 // Como verás hemos dispuesto de nuevas herramientas en tu estación // Ya puedes procesar pagos con tarjeta de crédito // Consulta tu manual // Y arréglate esa corbata // ¿Dónde crees que estás? // Vuelve al trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -266,8 +266,8 @@ Hello 100411 // As you will see, we have provided new tools at your station // Y
 # [KEY]
 # NO-COM_SUPERVISOR#13
 
-# [ENGLISH]
-# Hello 100411 // I am informing you that as of today // You may receive credit notes as a means of payment // All information about their processing is in your manual... // Now keep working
+# [SPANISH]
+# Hola 100411 // Te comunico que desde hoy // Es posible que recibas notas de crédito como medio de pago // Toda la información acerca de su procesamiento está en tu manual... // Ahora sigue trabajando
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -288,8 +288,8 @@ Hello 100411 // I am informing you that as of today // You may receive credit no
 # [KEY]
 # NO-COM_SUPERVISOR#14
 
-# [ENGLISH]
-# Employee 100411 // We have received a transaction update // Food coupons have been enabled as a means of payment // You should see your manual // Now go back to work.
+# [SPANISH]
+# Empleado 100411 // Hemos recibido una actualización en la operatoria // Se han habilitado los cupones de alimentos como medio de pago // Deberías ver tu manual // Ahora vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -310,8 +310,8 @@ Employee 100411 // We have received a transaction update // Food coupons have be
 # [KEY]
 # NO-COM_SUPERVISOR#15
 
-# [ENGLISH]
-# Hello 100411 // As you may have heard // They have put discount coupons into circulation // You should inquire about them and their operation at the manual... // By the way... // How do I look? // Today I have to go to a business meeting... // Anyway... // Go back to work immediately
+# [SPANISH]
+# Hola 100411 // Como te habrás enterado // Han puesto en circulación cupones de descuento // Debes informarte acerca de ellos y su operatoria en el manual... // Por cierto... // ¿Cómo me veo? // Hoy tengo que ir a una reunión de negocios... // En fin... // Vuelve de inmediato a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -332,8 +332,8 @@ Hello 100411 // As you may have heard // They have put discount coupons into cir
 # [KEY]
 # NO-COM_SUPERVISOR#16
 
-# [ENGLISH]
-# Employee 100411 // Due to the counterfeiters arrested yesterday // We have been instructed to thoroughly check the authenticity of items presented by citizens // You should be aware of the new procedure // Check your manual as soon as possible // Now get back to work.
+# [SPANISH]
+# Empleado 100411 // Debido a los falsificadores detenidos ayer // Nos han ordenado controlar exhaustivamente la autenticidad de los elementos que presentan los ciudadanos // Debes ponerte al tanto del nuevo procedimiento // Verifica tu manual cuanto antes // Ahora vuelve al trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -347,8 +347,8 @@ Employee 100411 // Due to the counterfeiters arrested yesterday // We have been 
 # [KEY]
 # NO-COM_SUPERVISOR#17
 
-# [ENGLISH]
-# Employee 100411 // I'm informing you that the 'Eating Better' program is in force // That means that you will have to control the degree of obesity of the citizens // And cancel any product that is harmful to these beasts... // First of all, please check your manual and inform yourself about it // Now go back to work
+# [SPANISH]
+# Empleado 100411 // Te informo que se encuentra vigente el programa 'Comer mejor' // Eso significa que deberás controlar el grado de obesidad de los ciudadanos // Y anular cualquier producto que sea perjudicial para estos engendros... // Antes que nada consulta tu manual e informate al respecto // Ahora vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -369,8 +369,8 @@ Employee 100411 // I'm informing you that the 'Eating Better' program is in forc
 # [KEY]
 # NO-COM_SUPERVISOR#18
 
-# [ENGLISH]
-# Hello employee 100411 // The 'Eating Better' program has been expanded // It now incorporates certain food intolerances // You must detect it in citizens and proceed according to regulations // Check your manual for more information // Now back to work.
+# [SPANISH]
+# Hola empleado 100411 // El programa 'Comer mejor' se ha ampliado // El mismo ahora incorpora ciertas intolerancias alimenticias // Debes detectarla en los ciudadanos y proceder según la normativa // Verifica tu manual para más información // Ahora vuelve al trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -391,8 +391,8 @@ Hello employee 100411 // The 'Eating Better' program has been expanded // It now
 # [KEY]
 # NO-COM_SUPERVISOR#19
 
-# [ENGLISH]
-# Hello 100411 // The 'Eating Better' program has been expanded // Your station has been outfitted with equipment to test citizens' blood pressure // You must read your manual // And comply with new directives // Get back to work.
+# [SPANISH]
+# Hola 100411 // El programa 'Comer mejor' se ha ampliado // Se ha dotado tu estación con equipamiento para analizar la presión sanguínea de los ciudadanos // Debes leer tu manual // Y cumplir con las nuevas directivas // Vuelve a trabajar
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -416,8 +416,8 @@ Hello 100411 // The 'Eating Better' program has been expanded // Your station ha
 # [KEY]
 # NO-COM_SUPERVISOR#20
 
-# [ENGLISH]
-# Hello 100411 // Today we are in mourning... // I still can't believe it... // It seems like only yesterday that I met that family on a cruise trip... // How sad... // Anyway... // From today it will be your job to carry out breathalyzer checks // Your station has been adapted for this // You should consult your manual for more information // Now get back to work
+# [SPANISH]
+# Hola 100411 // Hoy estamos de luto... // Aún no puedo creerlo... // Parece como si fuera ayer que me encontré a esa familia en un viaje de crucero... // Qué triste... // En fin... // Desde hoy será tu labor ejercer controles de alcoholemia // Se ha adaptado tu estación para ello // Debes consultar tu manual para más información // Ahora vuelve a trabajar
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -438,8 +438,8 @@ Hello 100411 // Today we are in mourning... // I still can't believe it... // It
 # [KEY]
 # NO-COM_SUPERVISOR#21
 
-# [ENGLISH]
-# Employee 100411 // As of today we have provided different types of brochures // To distribute to our citizens... // Although it is not mandatory... // It's only for... // Well... // You know... // To raise awareness... // Anyway // Back to work
+# [SPANISH]
+# Empleado 100411 // Desde hoy hemos dispuesto diferentes tipos de folletería // Para que se distribuya entre los ciudadanos... // Aunque no es obligatorio... // Solo es para... // Bueno... // Tu sabes... // Crear conciencia... // En fin // Vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -453,8 +453,8 @@ Employee 100411 // As of today we have provided different types of brochures // 
 # [KEY]
 # NO-COM_SUPERVISOR#22
 
-# [ENGLISH]
-# Hello 100411 // Today there are new rules // Check your manual // You must control credit card payments // There is a prohibited list // You must respect it // Understood? // Now get back to work.
+# [SPANISH]
+# Hola 100411 // Hoy hay nuevas reglas // Revisa tu manual // Deberás controlar los pagos con tarjeta de crédito // Hay una lista de prohibidos // Deberás respetarla // ¿Entendido? // Ahora vuelve a trabajar
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -475,8 +475,8 @@ Hello 100411 // Today there are new rules // Check your manual // You must contr
 # [KEY]
 # NO-COM_SUPERVISOR#23
 
-# [ENGLISH]
-# Hello 100411 // From today you will have a new tool // It will help you to make a thorough analysis of the citizen // To prevent identity theft // For more information, see your manual // Now get back to work.
+# [SPANISH]
+# Hola 100411 // Desde hoy dispondrás de una nueva herramienta // Ésta te servirá para hacer un análisis minucioso del ciudadano // Para evitar los robos de identidad // Para más información consulta tu manual // Ahora vuelve al trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -494,8 +494,8 @@ Hello 100411 // From today you will have a new tool // It will help you to make 
 # [KEY]
 # NO-COM_SUPERVISOR#24
 
-# [ENGLISH]
-# Hi 100411 // I was supervising your work // I usually do it later // But this time I have to go to a store... // I have to buy something to attend a costume event... // Yeah, costumes... // It's not my thing but there will be a lot of important people there and I have to make a good impression... // That's why I have to think it over... // And choose something that's up to the task... // Anyway... // Bye 100411
+# [SPANISH]
+# Hola 100411 // Estaba supervisando tu trabajo // Normalmente lo hago más tarde // Pero en esta ocasión debo ir a una tienda... // Debo comprar algo para asistir a un evento de disfraces... // Sí, de disfraces... // No es lo mío pero habrá mucha gente importante y tengo que causar buena impresión... // Por eso mismo tengo que pensarlo bien... // Y elegir algo que esté a la altura... // En fin... // Adios 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -509,8 +509,8 @@ Hi 100411 // I was supervising your work // I usually do it later // But this ti
 # [KEY]
 # NO-COM_SUPERVISOR#25
 
-# [ENGLISH]
-# Hello 100411 // I received your package... // As soon as I saw it I knew it was the perfect choice... // I decided to wear it and... // The party was a big success! // All the important people in Nowhere were impressed // I'm sure we'll do a lot of business in the future... // Anyway... // I must thank you in some way... // Take this // Enjoy it // Buy yourself... // Whatever it is that people like you buy...
+# [SPANISH]
+# Hola 100411 // Recibí tu paquete... // Apenas lo vi supe que era la opción perfecta... // Decidí llevarlo y... // ¡La fiesta fué todo un éxito! // Toda la gente importante de Nowhere quedó impresionada // Seguro que en el futuro haremos muchos negocios... // En fin... // Debo agradecertelo de alguna manera... // Toma // Disfrutalo // Comprate... // Lo que sea que personas como tú se compren...
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -528,8 +528,8 @@ Hello 100411 // I received your package... // As soon as I saw it I knew it was 
 # [KEY]
 # NO-COM_SUPERVISOR#26
 
-# [ENGLISH]
-# Hello 100411 // I got your package... // I've tried everything // Every treatment out there... // And none of them worked // So I figured it would be a total waste of time to try it... // But it worked! // Look at this beautiful hair! // I've never had so much hair before // I'm so grateful // Have this 100411 // Now if you'll excuse me, I have to go admire my beauty in the mirror.
+# [SPANISH]
+# Hola 100411 // Me ha llegado tu paquete... // La verdad he probado de todo // Todos los tratamientos que existen... // Y ninguno funcionó // Por ello supuse que sería una total perdida de tiempo probarlo... // ¡Pero ha funcionado! // ¡Mira esta hermosa cabellera! // Nunca antes había tenido tanto cabello // Te estoy muy agradecido // Ten esto 100411 // Si me disculpas tengo que ir a admirar mi belleza al espejo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -543,8 +543,8 @@ Hello 100411 // I got your package... // I've tried everything // Every treatmen
 # [KEY]
 # NO-COM_SUPERVISOR#27
 
-# [ENGLISH]
-# Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been able to reach her // She hasn't come to work // Her friends don't know anything about her... // She vanished // Just like that... // Anyway // She was the winner of a special bonus this month // And since I couldn't deliver it... // We've decided to give it to you // Here // Enjoy it
+# [SPANISH]
+# Hola 100411 // ¿Has sabido algo de 100456? // Se encuentra desaparecida // Nadie ha podido localizarla // No ha venido a trabajar // Sus amigos no saben nada de ella... // Se esfumó // Como si nada... // En fin // Ella fué la ganadora de un bono especial este mes // Y como no he podido entregarselo... // Hemos decidido dartelo a ti // Toma // Disfrútalo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -558,8 +558,8 @@ Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been
 # [KEY]
 # NO-COM_SUPERVISOR#28
 
-# [ENGLISH]
-# 100411 // That poor wretch you neutralized didn't survive // He can go beg for food in the next world now // Return home in peace // I'll take care of fixing everything so you don't have any problems
+# [SPANISH]
+# 100411 // Ese pobre miserable que neutralizaste no sobrevivió // Ya podrá ir a mendigar comida al otro mundo // Vuelve a casa tranquilo // Yo me encargaré de arreglar todo para que no tengas problemas
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -573,8 +573,8 @@ Hello 100411 // Have you heard from 100456? // She is missing // Nobody has been
 # [KEY]
 # NO-COM_SUPERVISOR#29
 
-# [ENGLISH]
-# Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe I exaggerated a little... // But woe betide you if you open your mouth... // I've got to go now // I have an interview in a few minutes // Keep working
+# [SPANISH]
+# Hola 100411 // ¿Has visto las noticias? // Ahora soy todo un héroe... // Bueno... // Quizás exageré un poco... // Pero pobre de ti si abres la boca... // Ya debo irme // Tengo una entrevista en unos minutos // Sigue trabajando
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -588,8 +588,8 @@ Hello 100411 // Have you seen the news? // I'm a hero now... // Well... // Maybe
 # [KEY]
 # NO-COM_SUPERVISOR#30
 
-# [ENGLISH]
-# Hello 100411 // Have you seen the news? // I'm a national hero... // I may have exaggerated a bit with the story... // But I saved your ass // You owe me... // Now get back to work
+# [SPANISH]
+# Hola 100411 // ¿Has visto las noticias? // Soy todo un héroe nacional... // Quizás exageré un poco con el relato... // Pero te he salvado el pellejo // Me debes una... // Ahora vuelve al trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -603,8 +603,8 @@ Hello 100411 // Have you seen the news? // I'm a national hero... // I may have 
 # [KEY]
 # NO-COM_SUPERVISOR#31
 
-# [ENGLISH]
-# Hello 100411 // Today I have received multiple calls // My bosses are unhappy // Do you know why? // You ordered the arrest of the minister's son // They wanted your head... // But I managed to save you // Since you are a very hard worker // I blamed someone else for your mistake // That poor wretch... // If he had put a little more effort into his work, he wouldn't be fish food now // Anyway... // For this mistake, you are going to have to polish my boots every day before going home // Now get back to work
+# [SPANISH]
+# Hola 100411 // Hoy he recibido múltiples llamados // Mis jefes están descontentos // ¿Sabes por qué? // Ordenaste arrestar al hijo del ministro // Querían tu cabeza... // Pero he logrado salvarte // Ya que eres muy trabajador // Culpé a alguien más de tu error // Ese pobre infeliz... // Si se hubiera esforzado un poco más en su trabajo no sería comida para peces ahora // En fin... // Por este error vas a tener que lustrarme las botas todos los días antes de irte a casa // Ahora vuelve al trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -618,8 +618,8 @@ Hello 100411 // Today I have received multiple calls // My bosses are unhappy //
 # [KEY]
 # NO-COM_SUPERVISOR#32
 
-# [ENGLISH]
-# Hello 100411 // I've been keeping a close eye on your performance... // You must not slack off // You know what happens to those who are not useful // They end up like that janitor // On the street // Only the strong survive here // There is no room for weakness... // Now get back to work
+# [SPANISH]
+# Hola 100411 // He estado siguiendo de cerca tu rendimiento... // No debes descuidarte // ¿Sabes lo que les pasa a los que no son útiles? // Terminan como ese conserje // En la calle // Aquí solo sobreviven los superiores // No hay lugar para debilidades... // Ahora vuelve a tu trabajo
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -633,8 +633,8 @@ Hello 100411 // I've been keeping a close eye on your performance... // You must
 # [KEY]
 # NO-COM_SUPERVISOR#33
 
-# [ENGLISH]
-# Hello 100411 // We have detected a number of irregularities in our accounting records // So we are going to conduct a thorough investigation // at all the center's workstations // It will take a few days // But don't worry // I know you can be trusted // See you tomorrow.
+# [SPANISH]
+# Hola 100411 // Hemos detectado una serie de irregularidades en nuestros registros contables // Por ello vamos a realizar una exhaustiva investigación  // en todas las estaciones de trabajo del centro // Nos tomará algunos días // Pero tú no te preocupes // Yo sé que eres de fiar // Te veré mañana
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -652,8 +652,8 @@ Hello 100411 // We have detected a number of irregularities in our accounting re
 # [KEY]
 # NO-COM_SUPERVISOR#34
 
-# [ENGLISH]
-# Hello 100411 // I got word that someone robbed this station // And that you allowed it to be stolen without resistance... // If you want to keep working here // You'd better do your job... // See you tomorrow
+# [SPANISH]
+# Hola 100411 // Me he enterado de que alguien asaltó esta estación // Y que tú permitiste que robara sin oponer resistencia... // Si quieres seguir trabajando aquí // Será mejor que hagas tu trabajo... // Nos veremos mañana
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -671,8 +671,8 @@ Hello 100411 // I got word that someone robbed this station // And that you allo
 # [KEY]
 # NO-COM_SUPERVISOR#35
 
-# [ENGLISH]
-# Hello 100411 // Very well done // I saw how you neutralized that robber... // Maligno would be proud of you son // You're on a good path // I'll see you tomorrow.
+# [SPANISH]
+# Hola 100411 // Muy bien hecho // Vi cómo neutralizaste a ese asaltante... // Maligno estaría orgulloso de ti hijo // Vas por un buen camino // Te veré mañana
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -693,8 +693,8 @@ Hello 100411 // Very well done // I saw how you neutralized that robber... // Ma
 # [KEY]
 # NO-COM_SUPERVISOR#36
 
-# [ENGLISH]
-# Hello 100411 // You've made a lot of mistakes lately // I've come to warn you... // You don't want to end up on the street // Do you? // I'll see you tomorrow 100411
+# [SPANISH]
+# Hola 100411 // Últimamente has cometido muchas faltas // Vengo a advertirte... // No querrás terminar en la calle // ¿O sí? // Nos veremos mañana 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -708,8 +708,8 @@ Hello 100411 // You've made a lot of mistakes lately // I've come to warn you...
 # [KEY]
 # NO-COM_SUPERVISOR#37
 
-# [ENGLISH]
-# Hi 100411 // Have you seen my wife around? // She's been very demanding lately... // I've been ignoring her for a while now // She's constantly looking for me... // And I don't feel that excitement we had when we were young... // The flame of love that once brought us together... // Has slowly faded away... // Anyway // It's time to go // See you tomorrow 100411
+# [SPANISH]
+# Hola 100411 // ¿Viste a mi esposa por aquí? // Últimamente está muy demandante... // La verdad la he ignorado este tiempo // Me busca constantemente... // Y yo no siento esa excitación que teníamos cuando eramos jóvenes... // La llama del amor que nos unió una vez... // Ha ido apagándose gradualmente... // En fin // Es hora de irse // Nos vemos mañana 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -723,8 +723,8 @@ Hi 100411 // Have you seen my wife around? // She's been very demanding lately..
 # [KEY]
 # NO-COM_SUPERVISOR#38
 
-# [ENGLISH]
-# Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I'll give them a call // See if that's the answer to the problems with my wife... // Anyway // See you tomorrow
+# [SPANISH]
+# Hola 100411 // He visto ese folleto que me enviaste por correo... // Te agradezco... // Los llamaré // A ver si es la respuesta a los problemas con mi esposa... // En fin // Nos vemos mañana
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -738,8 +738,8 @@ Hi 100411 // I've seen that brochure you mailed me... // I appreciate it... // I
 # [KEY]
 # NO-COM_SUPERVISOR#39
 
-# [ENGLISH]
-# Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually comes to drop off dinner for me... // But she hasn't shown up // I tried to call her but she's not picking up // I hope she's okay...
+# [SPANISH]
+# Hola 100411 // Hoy no he visto a mi esposa... // Estoy preocupado... // Normalmente viene a dejarme la cena... // Pero no ha aparecido // Intenté llamarla pero no atiende // Espero que se encuentre bien...
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -753,8 +753,8 @@ Hello 100411 // I haven't seen my wife today... // I'm worried... // She usually
 # [KEY]
 # NO-COM_SUPERVISOR#40
 
-# [ENGLISH]
-# Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she got tired of me and decided to leave... // You have to be strong and move on... // I have an appointment today // Wish me luck...
+# [SPANISH]
+# Hola 100411 // Aún no han encontrado a mi esposa... // En fin... // Quizás se cansó de mí y decidió irse... // Hay que ser fuerte y seguir adelante... // Hoy tengo una cita // Deseame suerte...
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -768,8 +768,8 @@ Hello 100411 // They still haven't found my wife... // Anyway... // Maybe she go
 # [KEY]
 # NO-COM_SUPERVISOR#41
 
-# [ENGLISH]
-# Hello 100411 // My wife has asked me for a divorce... // She's claiming half of the assets... // Can you believe it? // I have a meeting with my lawyer tomorrow... // I didn't think it would come to this... // Anyway... // I have to go now. I'll see you tomorrow.
+# [SPANISH]
+# Hola 100411 // Mi esposa me pidió el divorcio... // Me reclama la mitad de los bienes... // ¿Lo puedes creer? // Mañana tengo reunión con mi abogado... // No creí que llegaramos a esto... // En fin... // Ya debo irme // Nos vemos mañana
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -783,8 +783,8 @@ Hello 100411 // My wife has asked me for a divorce... // She's claiming half of 
 # [KEY]
 # NO-COM_SUPERVISOR#42
 
-# [ENGLISH]
-# You! // You dirty maggot! // It was you who slept with my wife! // Do you think things are going to stay like this?! // You and that harlot will pay!!! // Get ready...
+# [SPANISH]
+# ¡Tú! // ¡Maldito gusano! // ¡Fuiste tú el que te acostabas con mi esposa! // ¡¿Crees que las cosas van a quedar así?! // ¡¡Tú y esa maldita me las pagarán!! // Prepárate...
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -798,8 +798,8 @@ You! // You dirty maggot! // It was you who slept with my wife! // Do you think 
 # [KEY]
 # NO-COM_SUPERVISOR#43
 
-# [ENGLISH]
-# 100411... // What are all those bandages? // And those crutches? // Are you going to some kind of party? // Do I need to remind you that this is your job? // You can't come to work dressed as a mummy // I hope this doesn't happen again
+# [SPANISH]
+# 100411... // ¿Qué son todas esas vendas? // ¿Y esas muletas? // ¿Va algún tipo de fiesta? // ¿Le tengo que recordar que este es su trabajo? // No puede venir disfrazado de momia a trabajar // Espero que no vuelva a ocurrir
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -813,8 +813,8 @@ You! // You dirty maggot! // It was you who slept with my wife! // Do you think 
 # [KEY]
 # NO-COM_SUPERVISOR#44
 
-# [ENGLISH]
-# Hi 100411... // But... // What is that face? // Have you looked in the mirror? // Are you sick? // I remind you that sick leave here for low-class employees is completely prohibited // You had better recover quickly
+# [SPANISH]
+# Hola 100411... // Pero... // ¿Qué es esa cara? // ¿Se ha visto en el espejo? // ¿Está enfermo? // Le recuerdo que las licencias aquí para empleados de clase baja están totalmente prohibidos // Será mejor que se recupere rápido
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -828,8 +828,8 @@ Hi 100411... // But... // What is that face? // Have you looked in the mirror? /
 # [KEY]
 # NO-COM_SUPERVISOR#45
 
-# [ENGLISH]
-# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been drinking alcohol excessively during work hours // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance // I hope you walk the straight and narrow from now on
+# [SPANISH]
+# 100411... // Ayer tuvimos que trasladarlo de emergencia al hospital // Se desmayó en pleno trabajo // Nos enteramos que ha estado bebiendo alcohol de manera excesiva durante el trabajo // Esto es algo que no podemos permitir // Si usted no se comporta será despedido // Esta es su última oportunidad // Espero que camine bien derechito a partir de ahora
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -843,8 +843,8 @@ Hi 100411... // But... // What is that face? // Have you looked in the mirror? /
 # [KEY]
 # NO-COM_SUPERVISOR#46
 
-# [ENGLISH]
-# 100411... // Yesterday we had to rush you to the hospital // You fainted right in the middle of work // We found out you've been using drugs // This is something we cannot allow // If you do not behave, you will be fired // This is your last chance to straighten up
+# [SPANISH]
+# 100411... // Ayer tuvimos que trasladarlo de emergencia al hospital // Se desmayó en pleno trabajo // Nos enteramos que ha estado drogándose // Esto es algo que no podemos permitir // Si usted no se comporta será despedido // Esta es su última oportunidad para enderezarse
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -858,8 +858,8 @@ Hi 100411... // But... // What is that face? // Have you looked in the mirror? /
 # [KEY]
 # NO-COM_SUPERVISOR#47
 
-# [ENGLISH]
-# Employee 100411... // That's it // The probationary period is over // And we have decided to dispense with you // I know // It was too little // In fact we still have many ways we would have liked to exploit you.... // But that's the way it is // I'd almost gotten used to that strange face you have..... // I don't usually shed tears when firing employees.... // And this one definitely won't be an exception either... // See you never 100411
+# [SPANISH]
+# Empleado 100411... // Eso es todo // El período de prueba ha concluido // Y hemos decidido prescindir de ti // Lo sé // Fue muy poco // De hecho aún tenemos muchas formas en las que nos hubiese gustado explotarte... // Pero así es esto // Ya casi me había acostumbrado a esa extraña cara que tienes... // No suelo derramar lágrimas al echar empleados... // Y definitivamente esta tampoco será la excepción // Hasta nunca 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -873,8 +873,8 @@ Employee 100411... // That's it // The probationary period is over // And we hav
 # [KEY]
 # NO-COM_SUPERVISOR#48
 
-# [ENGLISH]
-# Good morning // employee 100411 // I have been evaluating the performance of your first day at the station // I'm not going to lie to you // The truth is I expected more from someone with your background // I will continue to watch you // In the meantime // we have provided your station with the tools that will allow you to detect counterfeits // Now get to work
+# [SPANISH]
+# Buenos dias // empleado 100411 // Estuve evaluando el rendimiento de tu primer día en la estación // No te voy a engañar // La verdad esperaba algo mas de alguien con tus antecedentes // Te seguiré vigilando // Mientras tanto // hemos provisto tu estación de las herramientas que te permitirán detectar falsificaciones // Ahora ponte a trabajar
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -892,8 +892,8 @@ Good morning // employee 100411 // I have been evaluating the performance of you
 # [KEY]
 # NO-COM_SUPERVISOR#49
 
-# [ENGLISH]
-# So you think you're good enough not to receive an infraction // Well, we'll see about that 100411 // The last miserable guy who said that ran home // To cry in his mommy's arms // I hope you don't regret it
+# [SPANISH]
+# Asi que te crees lo suficientemente bueno para no recibir una infracción // Pues eso ya lo veremos 100411 // El ultimo miserable que dijo eso se fue corriendo a casa // A llorar a los brazos de su mami // Espero que no te arrepientas
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -907,8 +907,8 @@ So you think you're good enough not to receive an infraction // Well, we'll see 
 # [KEY]
 # NO-COM_SUPERVISOR#50
 
-# [ENGLISH]
-# So you like finances, 100411? // Then you better keep a surplus in your personal finances // We don't tolerate debtors here // You've been warned
+# [SPANISH]
+# ¿Asi que te gustan las finanzas 100411? // Pues será mejor que mantengas un superavit en tus finanzas personales // Aquí no toleramos a deudores // Ya estas avisado
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -922,8 +922,8 @@ So you like finances, 100411? // Then you better keep a surplus in your personal
 # [KEY]
 # NO-COM_SUPERVISOR#51
 
-# [ENGLISH]
-# Infinite mode? // You're unhinged 100411
+# [SPANISH]
+# ¿Modo infinito? // Estas desquiciado 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved
@@ -937,8 +937,8 @@ Infinite mode? // You're unhinged 100411
 # [KEY]
 # NO-COM_SUPERVISOR#52
 
-# [ENGLISH]
-# What happened? // Weren't you good enough not to receive infractions? // Grab your things // You're fired 100411
+# [SPANISH]
+# ¿Qué pasó? // ¿No que eras lo suficientemente bueno para no recibir infracciones? // Agarra tus cosas // Estás despedido 100411
 
 # [CONTEXT]
 # Supervisor's dialogue. Sentences are separated by // and must be preserved

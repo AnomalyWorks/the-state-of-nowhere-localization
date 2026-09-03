@@ -2,8 +2,8 @@
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#1
 
-# [ENGLISH]
-# Personal Data
+# [SPANISH]
+# Datos Personales
 
 # [CONTEXT]
 # 
@@ -17,8 +17,8 @@ Personal Data
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#2
 
-# [ENGLISH]
-# Name
+# [SPANISH]
+# Nombre
 
 # [CONTEXT]
 # 
@@ -32,7 +32,7 @@ Name
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#3
 
-# [ENGLISH]
+# [SPANISH]
 # Sex
 
 # [CONTEXT]
@@ -47,7 +47,7 @@ Sex
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#4
 
-# [ENGLISH]
+# [SPANISH]
 # Cod
 
 # [CONTEXT]
@@ -62,8 +62,8 @@ Cod
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#5
 
-# [ENGLISH]
-# Age
+# [SPANISH]
+# Edad
 
 # [CONTEXT]
 # 
@@ -77,7 +77,7 @@ Age
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#6
 
-# [ENGLISH]
+# [SPANISH]
 # Exp
 
 # [CONTEXT]
@@ -92,8 +92,8 @@ Exp
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#7
 
-# [ENGLISH]
-# Weight
+# [SPANISH]
+# Peso
 
 # [CONTEXT]
 # 
@@ -107,8 +107,8 @@ Weight
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#8
 
-# [ENGLISH]
-# City
+# [SPANISH]
+# Ciudad
 
 # [CONTEXT]
 # 
@@ -122,8 +122,8 @@ City
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#9
 
-# [ENGLISH]
-# Intolerances
+# [SPANISH]
+# Intolerancias
 
 # [CONTEXT]
 # Food intolerances
@@ -137,8 +137,8 @@ Intolerances
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#10
 
-# [ENGLISH]
-# Prohibited Products
+# [SPANISH]
+# Prohibiciones de Productos
 
 # [CONTEXT]
 # 
@@ -152,8 +152,8 @@ Prohibited Products
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#11
 
-# [ENGLISH]
-# Product categories
+# [SPANISH]
+# Categorías de productos
 
 # [CONTEXT]
 # 
@@ -171,8 +171,8 @@ Product categories
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#12
 
-# [ENGLISH]
-# Product codes
+# [SPANISH]
+# Codigos de productos
 
 # [CONTEXT]
 # 
@@ -186,7 +186,7 @@ Product codes
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#14
 
-# [ENGLISH]
+# [SPANISH]
 # manual
 
 # [CONTEXT]
@@ -205,8 +205,8 @@ manual
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#16
 
-# [ENGLISH]
-# Wanted
+# [SPANISH]
+# Buscados
 
 # [CONTEXT]
 # 
@@ -224,8 +224,8 @@ Wanted
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#17
 
-# [ENGLISH]
-# Missing
+# [SPANISH]
+# Perdidos
 
 # [CONTEXT]
 # 
@@ -243,8 +243,8 @@ Missing
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#18
 
-# [ENGLISH]
-# Loves us
+# [SPANISH]
+# Nos ama
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -258,8 +258,8 @@ Loves us
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#19
 
-# [ENGLISH]
-# Takes care of us
+# [SPANISH]
+# Nos cuida
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -273,8 +273,8 @@ Takes care of us
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#20
 
-# [ENGLISH]
-# Protects us
+# [SPANISH]
+# Nos protege
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -288,8 +288,8 @@ Protects us
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#21
 
-# [ENGLISH]
-# Is the future
+# [SPANISH]
+# Es el futuro
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -303,8 +303,8 @@ Is the future
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#22
 
-# [ENGLISH]
-# Will save Nowhere
+# [SPANISH]
+# Salvará Nowhere
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -322,8 +322,8 @@ Will save Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#23
 
-# [ENGLISH]
-# He will end Evil
+# [SPANISH]
+# Acabará con el mal
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -337,8 +337,8 @@ He will end Evil
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#24
 
-# [ENGLISH]
-# He is prosperity
+# [SPANISH]
+# Es prosperidad
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -352,8 +352,8 @@ He is prosperity
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#25
 
-# [ENGLISH]
-# He is salvation
+# [SPANISH]
+# Es la salvación
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -367,8 +367,8 @@ He is salvation
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#26
 
-# [ENGLISH]
-# He is watching us
+# [SPANISH]
+# Nos observa
 
 # [CONTEXT]
 # Advertising slogans referring to President Maligno
@@ -382,8 +382,8 @@ He is watching us
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#27
 
-# [ENGLISH]
-# Monday
+# [SPANISH]
+# Lunes
 
 # [CONTEXT]
 # 
@@ -397,8 +397,8 @@ Monday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#28
 
-# [ENGLISH]
-# Tuesday
+# [SPANISH]
+# Martes
 
 # [CONTEXT]
 # 
@@ -412,8 +412,8 @@ Tuesday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#29
 
-# [ENGLISH]
-# Wednesday
+# [SPANISH]
+# Miércoles
 
 # [CONTEXT]
 # 
@@ -427,8 +427,8 @@ Wednesday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#30
 
-# [ENGLISH]
-# Thursday
+# [SPANISH]
+# Jueves
 
 # [CONTEXT]
 # 
@@ -442,8 +442,8 @@ Thursday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#31
 
-# [ENGLISH]
-# Friday
+# [SPANISH]
+# Viernes
 
 # [CONTEXT]
 # 
@@ -457,8 +457,8 @@ Friday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#32
 
-# [ENGLISH]
-# Saturday
+# [SPANISH]
+# Sabado
 
 # [CONTEXT]
 # 
@@ -472,8 +472,8 @@ Saturday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#33
 
-# [ENGLISH]
-# Sunday
+# [SPANISH]
+# Domingo
 
 # [CONTEXT]
 # 
@@ -487,8 +487,8 @@ Sunday
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#34
 
-# [ENGLISH]
-# MON
+# [SPANISH]
+# LUN
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -502,8 +502,8 @@ MON
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#35
 
-# [ENGLISH]
-# TUE
+# [SPANISH]
+# MAR
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -517,8 +517,8 @@ TUE
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#36
 
-# [ENGLISH]
-# WED
+# [SPANISH]
+# MIE
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -532,8 +532,8 @@ WED
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#37
 
-# [ENGLISH]
-# THU
+# [SPANISH]
+# JUE
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -547,8 +547,8 @@ THU
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#38
 
-# [ENGLISH]
-# FRI
+# [SPANISH]
+# VIE
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -562,8 +562,8 @@ FRI
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#39
 
-# [ENGLISH]
-# SAT
+# [SPANISH]
+# SAB
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -577,8 +577,8 @@ SAT
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#40
 
-# [ENGLISH]
-# SUN
+# [SPANISH]
+# DOM
 
 # [CONTEXT]
 # Three-letter abbreviation for a day of the week. If no equivalent exists in the target language, keep it in English
@@ -592,8 +592,8 @@ SUN
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#41
 
-# [ENGLISH]
-# Day
+# [SPANISH]
+# dia
 
 # [CONTEXT]
 # 
@@ -607,8 +607,8 @@ Day
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#42
 
-# [ENGLISH]
-# Classification of food products
+# [SPANISH]
+# Clasificación productos alimenticios
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -622,7 +622,7 @@ Classification of food products
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#43
 
-# [ENGLISH]
+# [SPANISH]
 # General
 
 # [CONTEXT]
@@ -637,8 +637,8 @@ General
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#44
 
-# [ENGLISH]
-# Dairy products
+# [SPANISH]
+# Lacteos
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -652,8 +652,8 @@ Dairy products
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#45
 
-# [ENGLISH]
-# Meat
+# [SPANISH]
+# Carnes
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -667,8 +667,8 @@ Meat
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#46
 
-# [ENGLISH]
-# Fruits
+# [SPANISH]
+# Frutas
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -682,8 +682,8 @@ Fruits
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#47
 
-# [ENGLISH]
-# Vegetables
+# [SPANISH]
+# Verduras
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -697,8 +697,8 @@ Vegetables
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#48
 
-# [ENGLISH]
-# Canned goods
+# [SPANISH]
+# Conservas
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -712,8 +712,8 @@ Canned goods
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#49
 
-# [ENGLISH]
-# Drinks
+# [SPANISH]
+# Bebidas
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -727,8 +727,8 @@ Drinks
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#50
 
-# [ENGLISH]
-# baked goods
+# [SPANISH]
+# panificados
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -742,8 +742,8 @@ baked goods
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#51
 
-# [ENGLISH]
-# miscellaneous
+# [SPANISH]
+# varios
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -757,8 +757,8 @@ miscellaneous
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#52
 
-# [ENGLISH]
-# By composition
+# [SPANISH]
+# Según Composición
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -772,8 +772,8 @@ By composition
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#53
 
-# [ENGLISH]
-# Contains Gluten
+# [SPANISH]
+# Contiene Gluten
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -787,8 +787,8 @@ Contains Gluten
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#54
 
-# [ENGLISH]
-# Contains Fructose
+# [SPANISH]
+# Contiene Fructosa
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -802,8 +802,8 @@ Contains Fructose
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#55
 
-# [ENGLISH]
-# Contains Sucrose
+# [SPANISH]
+# Contiene Sacarosa
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -817,8 +817,8 @@ Contains Sucrose
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#56
 
-# [ENGLISH]
-# Contains Lactose
+# [SPANISH]
+# Contiene Lactosa
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -832,8 +832,8 @@ Contains Lactose
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#57
 
-# [ENGLISH]
-# Contains Salt
+# [SPANISH]
+# Contiene Sal
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -847,8 +847,8 @@ Contains Salt
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#58
 
-# [ENGLISH]
-# Contains Alcohol
+# [SPANISH]
+# Contiene Alcohol
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -862,8 +862,8 @@ Contains Alcohol
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#59
 
-# [ENGLISH]
-# By age
+# [SPANISH]
+# Según Edad
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -877,8 +877,8 @@ By age
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#60
 
-# [ENGLISH]
-# Not suitable for minors
+# [SPANISH]
+# No apto para menores
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -892,8 +892,8 @@ Not suitable for minors
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#61
 
-# [ENGLISH]
-# Not suitable for the elderly
+# [SPANISH]
+# No apto para ancianos
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -907,8 +907,8 @@ Not suitable for the elderly
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#62
 
-# [ENGLISH]
-# By Citizen weight
+# [SPANISH]
+# Según peso ciudadanos
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -922,8 +922,8 @@ By Citizen weight
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#63
 
-# [ENGLISH]
-# Not suitable for moderate overweight
+# [SPANISH]
+# No apto sobrepeso moderado
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -937,8 +937,8 @@ Not suitable for moderate overweight
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#64
 
-# [ENGLISH]
-# Not suitable for severe overweight
+# [SPANISH]
+# No apto sobrepeso severo
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -952,8 +952,8 @@ Not suitable for severe overweight
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#65
 
-# [ENGLISH]
-# By sales method
+# [SPANISH]
+# Según modalidad de venta
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -967,8 +967,8 @@ By sales method
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#66
 
-# [ENGLISH]
-# By unit
+# [SPANISH]
+# Por unidad
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -982,8 +982,8 @@ By unit
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#67
 
-# [ENGLISH]
-# By weight
+# [SPANISH]
+# Por peso
 
 # [CONTEXT]
 # Text related to food products and their classification labels
@@ -997,8 +997,8 @@ By weight
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#68
 
-# [ENGLISH]
-# Residence
+# [SPANISH]
+# Residencia
 
 # [CONTEXT]
 # 
@@ -1012,8 +1012,8 @@ Residence
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#69
 
-# [ENGLISH]
-# None
+# [SPANISH]
+# Ninguno
 
 # [CONTEXT]
 # 
@@ -1027,8 +1027,8 @@ None
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#70
 
-# [ENGLISH]
-# Code
+# [SPANISH]
+# Codigo
 
 # [CONTEXT]
 # 
@@ -1042,8 +1042,8 @@ Code
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#71
 
-# [ENGLISH]
-# Unit price
+# [SPANISH]
+# Precio unitario
 
 # [CONTEXT]
 # 
@@ -1057,8 +1057,8 @@ Unit price
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#72
 
-# [ENGLISH]
-# Quantity
+# [SPANISH]
+# Cantidad
 
 # [CONTEXT]
 # 
@@ -1072,8 +1072,8 @@ Quantity
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#73
 
-# [ENGLISH]
-# Total price
+# [SPANISH]
+# Precio Total
 
 # [CONTEXT]
 # 
@@ -1087,8 +1087,8 @@ Total price
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#74
 
-# [ENGLISH]
-# Dead or alive
+# [SPANISH]
+# Vivo o Muerto
 
 # [CONTEXT]
 # 
@@ -1102,8 +1102,8 @@ Dead or alive
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#75
 
-# [ENGLISH]
-# Only alive
+# [SPANISH]
+# Solo vivo
 
 # [CONTEXT]
 # 
@@ -1117,8 +1117,8 @@ Only alive
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#78
 
-# [ENGLISH]
-# Additional info
+# [SPANISH]
+# Info adicional
 
 # [CONTEXT]
 # 
@@ -1132,8 +1132,8 @@ Additional info
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#79
 
-# [ENGLISH]
-# Get the device ready
+# [SPANISH]
+# Prepare el dispositivo
 
 # [CONTEXT]
 # 
@@ -1147,8 +1147,8 @@ Get the device ready
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#80
 
-# [ENGLISH]
-# Device ready
+# [SPANISH]
+# Dispositivo preparado
 
 # [CONTEXT]
 # 
@@ -1162,8 +1162,8 @@ Device ready
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#81
 
-# [ENGLISH]
-# Analyzing
+# [SPANISH]
+# Analizando
 
 # [CONTEXT]
 # 
@@ -1177,8 +1177,8 @@ Analyzing
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#82
 
-# [ENGLISH]
-# Pressure
+# [SPANISH]
+# Presión
 
 # [CONTEXT]
 # 
@@ -1192,7 +1192,7 @@ Pressure
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#83
 
-# [ENGLISH]
+# [SPANISH]
 # Alcohol
 
 # [CONTEXT]
@@ -1207,8 +1207,8 @@ Alcohol
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#84
 
-# [ENGLISH]
-# None
+# [SPANISH]
+# Nulo
 
 # [CONTEXT]
 # 
@@ -1222,8 +1222,8 @@ None
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#85
 
-# [ENGLISH]
-# Low
+# [SPANISH]
+# Bajo
 
 # [CONTEXT]
 # 
@@ -1237,8 +1237,8 @@ Low
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#86
 
-# [ENGLISH]
-# High
+# [SPANISH]
+# Alto
 
 # [CONTEXT]
 # 
@@ -1252,8 +1252,8 @@ High
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#87
 
-# [ENGLISH]
-# Our President
+# [SPANISH]
+# Nuestro Presidente
 
 # [CONTEXT]
 # 
@@ -1267,8 +1267,8 @@ Our President
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#88
 
-# [ENGLISH]
-# Welcome to the
+# [SPANISH]
+# Bienvenido a la
 
 # [CONTEXT]
 # 
@@ -1282,8 +1282,8 @@ Welcome to the
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#89
 
-# [ENGLISH]
-# Station 65
+# [SPANISH]
+# Estación 65
 
 # [CONTEXT]
 # 
@@ -1301,8 +1301,8 @@ Station 65
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#90
 
-# [ENGLISH]
-# Distribution Center South 3412
+# [SPANISH]
+# Centro de distribucion sur 3412
 
 # [CONTEXT]
 # 
@@ -1320,8 +1320,8 @@ Distribution Center South 3412
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#91
 
-# [ENGLISH]
-# Comply with current regulations
+# [SPANISH]
+# Cumpla con la normativa vigente
 
 # [CONTEXT]
 # 
@@ -1335,8 +1335,8 @@ Comply with current regulations
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#92
 
-# [ENGLISH]
-# Consult the manual if you have any question
+# [SPANISH]
+# Consulte el manual ante cualquier inquietud
 
 # [CONTEXT]
 # 
@@ -1354,8 +1354,8 @@ Consult the manual if you have any question
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#93
 
-# [ENGLISH]
-# Honour Maligno
+# [SPANISH]
+# Honre a Maligno
 
 # [CONTEXT]
 # 
@@ -1373,8 +1373,8 @@ Honour Maligno
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#94
 
-# [ENGLISH]
-# No contacts available for sending packages
+# [SPANISH]
+# No dispone de contactos para enviar paquetes
 
 # [CONTEXT]
 # 
@@ -1392,8 +1392,8 @@ No contacts available for sending packages
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#95
 
-# [ENGLISH]
-# Prepare the package for shipment
+# [SPANISH]
+# Prepare el paquete para su envio
 
 # [CONTEXT]
 # 
@@ -1411,8 +1411,8 @@ Prepare the package for shipment
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#96
 
-# [ENGLISH]
-# Enter the object to be sent
+# [SPANISH]
+# Introduzca el objeto a enviar
 
 # [CONTEXT]
 # 
@@ -1426,8 +1426,8 @@ Enter the object to be sent
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#97
 
-# [ENGLISH]
-# Cover the package with the wrapping
+# [SPANISH]
+# Cubra el paquete con el envoltorio
 
 # [CONTEXT]
 # 
@@ -1445,8 +1445,8 @@ Cover the package with the wrapping
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#98
 
-# [ENGLISH]
-# Select the target contact and print the label
+# [SPANISH]
+# Seleccione el contacto destino e imprima la etiqueta
 
 # [CONTEXT]
 # 
@@ -1464,8 +1464,8 @@ Select the target contact and print the label
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#99
 
-# [ENGLISH]
-# Affix the label to the package
+# [SPANISH]
+# Pegue la etiqueta en el paquete
 
 # [CONTEXT]
 # 
@@ -1486,8 +1486,8 @@ Affix the label to the package
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#100
 
-# [ENGLISH]
-# Package ready for shipment
+# [SPANISH]
+# Paquete listo para enviar
 
 # [CONTEXT]
 # 
@@ -1505,8 +1505,8 @@ Package ready for shipment
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#101
 
-# [ENGLISH]
-# Package sent to selected contact
+# [SPANISH]
+# Paquete enviado al contacto seleccionado
 
 # [CONTEXT]
 # 
@@ -1524,8 +1524,8 @@ Package sent to selected contact
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#102
 
-# [ENGLISH]
-# Female
+# [SPANISH]
+# Femenino
 
 # [CONTEXT]
 # 
@@ -1539,8 +1539,8 @@ Female
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#103
 
-# [ENGLISH]
-# Male
+# [SPANISH]
+# Masculino
 
 # [CONTEXT]
 # 
@@ -1554,8 +1554,8 @@ Male
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#104
 
-# [ENGLISH]
-# place here
+# [SPANISH]
+# Pegar aqui
 
 # [CONTEXT]
 # For attaching a label
@@ -1569,8 +1569,8 @@ place here
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#105
 
-# [ENGLISH]
-# Reward
+# [SPANISH]
+# Recompensa
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1584,8 +1584,8 @@ Reward
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#106
 
-# [ENGLISH]
-# Call the number provided if you see this person and you will receive a reward.
+# [SPANISH]
+# Llame al numero indicado en caso de ver a esta persona y cobrara una recompensa.
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1599,8 +1599,8 @@ Call the number provided if you see this person and you will receive a reward.
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#107
 
-# [ENGLISH]
-# Son of an important minister of Nowhere. He was last seen heading to a pharmacy in search of his medication. Any information will be greatly rewarded.
+# [SPANISH]
+# Hijo de un importante ministro de Nowhere. fue visto por ultima vez camino a una farmacia en busca de sus medicinas. sera bien recompensada cualquier informacion.
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1618,8 +1618,8 @@ Son of an important minister of Nowhere. He was last seen heading to a pharmacy 
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#108
 
-# [ENGLISH]
-# He is wanted for multiple cold-blooded murders, kidnappings, and resisting authority. Dangerous individual, proceed with caution.
+# [SPANISH]
+# Buscado por múltiples asesinatos cometidos a sangre fria, secuestros y resistencia a la autoridad. Sujeto peligroso, proceder con cautela.
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1633,8 +1633,8 @@ He is wanted for multiple cold-blooded murders, kidnappings, and resisting autho
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#109
 
-# [ENGLISH]
-# Wanted for fraud in various cities of Nowhere
+# [SPANISH]
+# Buscado por fraude en diferentes ciudades de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1652,8 +1652,8 @@ Wanted for fraud in various cities of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#110
 
-# [ENGLISH]
-# Wanted for tax evasion
+# [SPANISH]
+# Buscado por evasión de impuestos
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1667,8 +1667,8 @@ Wanted for tax evasion
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#111
 
-# [ENGLISH]
-# Wanted for fraud. He calls himself a 'defender of the unprotected'. Proceed without mercy
+# [SPANISH]
+# Buscado por estafa. Se hace llamar a sí mismo 'defensor de los desprotegidos'. Proceder sin misericordia
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1682,8 +1682,8 @@ Wanted for fraud. He calls himself a 'defender of the unprotected'. Proceed with
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#112
 
-# [ENGLISH]
-# Wanted for inflicting injuries on an important and well-known businessman in Nowhere. Proceed with violence
+# [SPANISH]
+# Buscado por infringir lesiones a un importante y reconocido empresario de Nowhere. Proceder con violencia
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1701,8 +1701,8 @@ Wanted for inflicting injuries on an important and well-known businessman in Now
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#113
 
-# [ENGLISH]
-# Wanted for multiple robberies from important citizens of Nowhere. Any information will be highly rewarded
+# [SPANISH]
+# Buscado por múltiples robos a importantes ciudadanos de Nowhere. Cualquier tipo de información será altamente recompensada
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1720,8 +1720,8 @@ Wanted for multiple robberies from important citizens of Nowhere. Any informatio
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#114
 
-# [ENGLISH]
-# Wanted for treason against the state of Nowhere. Any information leading to his capture will be rewarded
+# [SPANISH]
+# Buscado por traición al estado de Nowhere. Se recompensará cualquier información que contribuya a su captura
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1739,8 +1739,8 @@ Wanted for treason against the state of Nowhere. Any information leading to his 
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#115
 
-# [ENGLISH]
-# Wanted for spreading slander about our esteemed President Maligno
+# [SPANISH]
+# Buscado por difundir improperios sobre nuestro excelentisimo presidente Maligno
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1758,8 +1758,8 @@ Wanted for spreading slander about our esteemed President Maligno
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#116
 
-# [ENGLISH]
-# Wanted for questioning the sexual prowess of our esteemed President of Nowhere
+# [SPANISH]
+# Buscado por poner en duda la capacidad sexual en la cama de nuestro excelentisimo presidente de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1777,8 +1777,8 @@ Wanted for questioning the sexual prowess of our esteemed President of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#117
 
-# [ENGLISH]
-# Wanted for spreading slander about the late mother of our beloved President Maligno. Proceed without mercy
+# [SPANISH]
+# Buscado por difundir agravios hacia la difunta madre de nuestro amado presidente Maligno. Proceder sin misericordia
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1796,8 +1796,8 @@ Wanted for spreading slander about the late mother of our beloved President Mali
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#118
 
-# [ENGLISH]
-# Wanted for sleeping on benches in front of high-end citizens' businesses. Outrageous
+# [SPANISH]
+# Buscado por dormir en bancas frente a comercios de ciudadanos de alto poder adquisitivo. Inaudito
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1811,8 +1811,8 @@ Wanted for sleeping on benches in front of high-end citizens' businesses. Outrag
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#119
 
-# [ENGLISH]
-# Wanted for encouraging aspirations that are not appropriate for their low social class to others of the same condition
+# [SPANISH]
+# Buscado por incentivar tener aspiraciones que no son propias de su baja clase social a otros de su misma condición
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1826,8 +1826,8 @@ Wanted for encouraging aspirations that are not appropriate for their low social
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#120
 
-# [ENGLISH]
-# Wanted for attempting to cause confusion among the citizens of Nowhere, using terms such as 'indoctrination' and 'mind control'
+# [SPANISH]
+# Buscado por intentar causar confusión entre los ciudadanos de Nowhere, usando terminos como 'adoctrinamiento' y 'control mental'
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1845,8 +1845,8 @@ Wanted for attempting to cause confusion among the citizens of Nowhere, using te
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#121
 
-# [ENGLISH]
-# Wanted for the theft of a food truck
+# [SPANISH]
+# Buscado por el robo de un camión de alimentos
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1860,8 +1860,8 @@ Wanted for the theft of a food truck
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#122
 
-# [ENGLISH]
-# Wanted for robbing a wealthy family in Nowhere
+# [SPANISH]
+# Buscado por el robo a una adinerada familia de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1879,8 +1879,8 @@ Wanted for robbing a wealthy family in Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#123
 
-# [ENGLISH]
-# Wanted for indecent exposure oneself shirtless while shouting 'Bocaaaaa'
+# [SPANISH]
+# Buscado por exhibirse obscenamente sin remera al grito de 'Bocaaaaa'
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons. Do not translate the expression 'Bocaaaaa'. It is an expression referring to the chant of a Boca Juniors football club supporter
@@ -1894,8 +1894,8 @@ Wanted for indecent exposure oneself shirtless while shouting 'Bocaaaaa'
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#124
 
-# [ENGLISH]
-# Wanted for resisting authority
+# [SPANISH]
+# Buscado por resistirse a la autoridad
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1909,8 +1909,8 @@ Wanted for resisting authority
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#125
 
-# [ENGLISH]
-# Wanted for obscenely exposing
+# [SPANISH]
+# Buscado por exhibirse obscenamente
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1924,8 +1924,8 @@ Wanted for obscenely exposing
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#126
 
-# [ENGLISH]
-# Wanted for attacking a police officer
+# [SPANISH]
+# Buscado por atacar a un oficial de policía
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1939,8 +1939,8 @@ Wanted for attacking a police officer
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#127
 
-# [ENGLISH]
-# Wanted for slandering the honorable state of Nowhere
+# [SPANISH]
+# Buscado por calumniar al honorable estado de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1958,8 +1958,8 @@ Wanted for slandering the honorable state of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#128
 
-# [ENGLISH]
-# Wanted for urinating on an informational sign of the state of Nowhere
+# [SPANISH]
+# Buscado por orinarse en un cartel informativo del estado de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1977,8 +1977,8 @@ Wanted for urinating on an informational sign of the state of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#129
 
-# [ENGLISH]
-# Missing person. Last seen leaving a renowned spa center
+# [SPANISH]
+# Persona desaparecida. Se lo vio por ultima vez a la salida de un reconocido centro de spa
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -1992,8 +1992,8 @@ Missing person. Last seen leaving a renowned spa center
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#130
 
-# [ENGLISH]
-# Son of a very wealthy family from Nowhere missing. Any kind of information will be rewarded
+# [SPANISH]
+# Hijo de una familia muy acaudalada de Nowhere desaparecido. Se recompensará cualquier tipo de información
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2011,8 +2011,8 @@ Son of a very wealthy family from Nowhere missing. Any kind of information will 
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#131
 
-# [ENGLISH]
-# Prominent real estate businessman missing. Any information leading to his whereabouts will be generously rewarded
+# [SPANISH]
+# Importante empresario del sector inmobiliario desaparecido. Cualquier información que de con su paradero será bien recompensada
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2026,8 +2026,8 @@ Prominent real estate businessman missing. Any information leading to his wherea
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#132
 
-# [ENGLISH]
-# Last seen leaving a party
+# [SPANISH]
+# Visto por última vez a la salida de una fiesta
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2041,8 +2041,8 @@ Last seen leaving a party
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#133
 
-# [ENGLISH]
-# Missing while surfing on the beaches of Nowhere
+# [SPANISH]
+# Desaparecido mientras surfeaba en las playas de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2060,8 +2060,8 @@ Missing while surfing on the beaches of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#134
 
-# [ENGLISH]
-# Missing while driving his luxury car back to his mansion
+# [SPANISH]
+# Desaparecido mientras conducía su auto de lujo de vuelta a su mansión
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2075,8 +2075,8 @@ Missing while driving his luxury car back to his mansion
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#135
 
-# [ENGLISH]
-# Missing while practicing skydiving
+# [SPANISH]
+# Desaparecido practicando paracaidismo
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2090,8 +2090,8 @@ Missing while practicing skydiving
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#136
 
-# [ENGLISH]
-# Missing while taking a walk through the shopping center of Nowhere
+# [SPANISH]
+# Desaparecido mientras realizaba una caminata por el centro comercial de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2109,8 +2109,8 @@ Missing while taking a walk through the shopping center of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#137
 
-# [ENGLISH]
-# Missing after leaving a prominent restaurant
+# [SPANISH]
+# Desaparecido a la salida de un importante restaurante
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2124,8 +2124,8 @@ Missing after leaving a prominent restaurant
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#138
 
-# [ENGLISH]
-# Missing while performing maintenance tasks at the state offices of Nowhere
+# [SPANISH]
+# Desaparecido mientras hacia tareas de mantenimiento en las oficinas estatales de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2143,8 +2143,8 @@ Missing while performing maintenance tasks at the state offices of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#139
 
-# [ENGLISH]
-# Missing while performing cleaning tasks at the state offices of Nowhere
+# [SPANISH]
+# Desaparecido mientras hacia tareas de limpieza en las oficinas estatales de Nowhere
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2162,8 +2162,8 @@ Missing while performing cleaning tasks at the state offices of Nowhere
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#140
 
-# [ENGLISH]
-# Renowned hunter of exotic species missing. Any kind of information will be rewarded
+# [SPANISH]
+# Renombrado cazador de especies exóticas desaparecido. Se recompensará cualquier tipo de información
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2177,8 +2177,8 @@ Renowned hunter of exotic species missing. Any kind of information will be rewar
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#141
 
-# [ENGLISH]
-# Renowned stockbroker missing
+# [SPANISH]
+# Renombrado agente de bolsa desaparecido
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2192,8 +2192,8 @@ Renowned stockbroker missing
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#142
 
-# [ENGLISH]
-# Renowned businessman missing. Last seen at the laundromat in his city
+# [SPANISH]
+# Renombrado empresario desaparecido. Se lo vio por última vez en la lavandería de su ciudad
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2207,8 +2207,8 @@ Renowned businessman missing. Last seen at the laundromat in his city
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#143
 
-# [ENGLISH]
-# Ranch hand missing
+# [SPANISH]
+# Peón de estancia desaparecido
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2222,8 +2222,8 @@ Ranch hand missing
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#144
 
-# [ENGLISH]
-# Any information leading to the whereabouts of the missing person will be greatly rewarded
+# [SPANISH]
+# Cualquier información que conduzca al paradero del desaparecido, será muy bien recompensada
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2237,8 +2237,8 @@ Any information leading to the whereabouts of the missing person will be greatly
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#145
 
-# [ENGLISH]
-# Any precise information that helps discover the whereabouts of this person will be rewarded
+# [SPANISH]
+# Será recompensado cualquier dato preciso que ayude a descubrir el paradero de esta persona
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2252,8 +2252,8 @@ Any precise information that helps discover the whereabouts of this person will 
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#146
 
-# [ENGLISH]
-# The individual may exhibit behaviors associated with mental illness
+# [SPANISH]
+# El individuo puede presentar comportamientos asociados a enajenación mental
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2267,8 +2267,8 @@ The individual may exhibit behaviors associated with mental illness
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#147
 
-# [ENGLISH]
-# The missing subject may exhibit delusional ideas and extremely disorganized behaviors
+# [SPANISH]
+# El sujeto desaparecido puede presentar ideas delirantes y comportamientos extremadamente desordenados
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2282,8 +2282,8 @@ The missing subject may exhibit delusional ideas and extremely disorganized beha
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#148
 
-# [ENGLISH]
-# Renowned abstract artist missing. Last seen at an art exhibition of crushed apples
+# [SPANISH]
+# Renombrado artista abstracto desaparecido. Visto por ultima vez en una exposición artistica de manzanas aplastadas
 
 # [CONTEXT]
 # Text related to wanted criminals and missing persons
@@ -2297,8 +2297,8 @@ Renowned abstract artist missing. Last seen at an art exhibition of crushed appl
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#149
 
-# [ENGLISH]
-# Food Products
+# [SPANISH]
+# Productos alimenticios
 
 # [CONTEXT]
 # 
@@ -2312,8 +2312,8 @@ Food Products
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#150
 
-# [ENGLISH]
-# Foods with high nutritional value
+# [SPANISH]
+# Alimentos elaborados con alto valor nutricional
 
 # [CONTEXT]
 # 
@@ -2327,8 +2327,8 @@ Foods with high nutritional value
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#151
 
-# [ENGLISH]
-# Approval Zone
+# [SPANISH]
+# Zona Aprobacion
 
 # [CONTEXT]
 # 
@@ -2342,8 +2342,8 @@ Approval Zone
 # [KEY]
 # INTERFAZ-GRA_ELEMENTOSNUCLEOJUEGO#152
 
-# [ENGLISH]
-# Disapproval Zone
+# [SPANISH]
+# Zona Anulacion
 
 # [CONTEXT]
 # 

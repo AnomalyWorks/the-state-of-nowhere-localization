@@ -2,8 +2,8 @@
 # [KEY]
 # ALMACENABLES_BOLSADROGA#1
 
-# [ENGLISH]
-# Bag of drugs
+# [SPANISH]
+# Bolsa con droga
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Bag of drugs
 # [KEY]
 # ALMACENABLES_BOLSADROGA#2
 
-# [ENGLISH]
-# Pure drug of the finest quality. Consume responsibly.
+# [SPANISH]
+# Droga pura de la más fina calidad. Consumir con responsabilidad.
 
 # [CONTEXT]
 # Description of the bag of drugs inventory item
@@ -36,8 +36,8 @@ Pure drug of the finest quality. Consume responsibly.
 # [KEY]
 # ALMACENABLES_BOLSADROGA#3
 
-# [ENGLISH]
-# What is this? Sugar? No thank you
+# [SPANISH]
+# ¿Qué es esto? // ¿Azúcar? // No gracias
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -51,8 +51,8 @@ What is this? Sugar? No thank you
 # [KEY]
 # ALMACENABLES_BOLSADROGA#4
 
-# [ENGLISH]
-# What is that? // Put that away from me
+# [SPANISH]
+# ¿Y eso? // Alejalo de mí
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -66,8 +66,8 @@ What is that? // Put that away from me
 # [KEY]
 # ALMACENABLES_BOLSADROGA#5
 
-# [ENGLISH]
-# What is this? // I'll give it back to you
+# [SPANISH]
+# ¿Y esto? // Te lo devuelvo
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -81,8 +81,8 @@ What is this? // I'll give it back to you
 # [KEY]
 # ALMACENABLES_BOLSADROGA#6
 
-# [ENGLISH]
-# It looks like flour // Take it
+# [SPANISH]
+# Parece harina // Toma
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -96,8 +96,8 @@ It looks like flour // Take it
 # [KEY]
 # ALMACENABLES_BOLSADROGA#7
 
-# [ENGLISH]
-# What's that thing? // I'd rather you don't tell me
+# [SPANISH]
+# ¿Qué es eso? // Mejor no me lo digas
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -111,8 +111,8 @@ What's that thing? // I'd rather you don't tell me
 # [KEY]
 # ALMACENABLES_BOLSADROGA#8
 
-# [ENGLISH]
-# Sorry // I don't want weird stuff
+# [SPANISH]
+# Lo siento // No quiero cosas extrañas
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -126,8 +126,8 @@ Sorry // I don't want weird stuff
 # [KEY]
 # ALMACENABLES_BOLSADROGA#9
 
-# [ENGLISH]
-# Thank you // I was getting desperate already
+# [SPANISH]
+# Gracias // Ya me estaba desesperando
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -141,8 +141,8 @@ Thank you // I was getting desperate already
 # [KEY]
 # ALMACENABLES_BOLSADROGA#10
 
-# [ENGLISH]
-# I hope this one is stronger than the last one
+# [SPANISH]
+# Espero que sea más fuerte que la anterior
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -156,8 +156,8 @@ I hope this one is stronger than the last one
 # [KEY]
 # ALMACENABLES_BOLSADROGA#11
 
-# [ENGLISH]
-# I won't be able to hold out until I get home // Sniffffff!
+# [SPANISH]
+# No podré aguantar hasta llegar a casa // ¡Sniffff!
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -171,8 +171,8 @@ I won't be able to hold out until I get home // Sniffffff!
 # [KEY]
 # ALMACENABLES_BOLSADROGA#12
 
-# [ENGLISH]
-# Thank you // You can tell it's good quality
+# [SPANISH]
+# Gracias // Se ve que es de buena calidad
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -186,8 +186,8 @@ Thank you // You can tell it's good quality
 # [KEY]
 # ALMACENABLES_BOLSADROGA#13
 
-# [ENGLISH]
-# ¡Sniffff! // ¡Ufff! // That's really good
+# [SPANISH]
+# ¡Sniffff! // ¡Ufff! // Es un muy buen producto
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -201,8 +201,8 @@ Thank you // You can tell it's good quality
 # [KEY]
 # ALMACENABLES_BOLSADROGA#14
 
-# [ENGLISH]
-# It looks good // I'll try it and let you know
+# [SPANISH]
+# Tiene buena apariencia // Lo probaré y te diré
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -216,8 +216,8 @@ It looks good // I'll try it and let you know
 # [KEY]
 # ALMACENABLES_BOLSADROGA#15
 
-# [ENGLISH]
-# Good quality product
+# [SPANISH]
+# Producto de buena calidad
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -231,8 +231,8 @@ Good quality product
 # [KEY]
 # ALMACENABLES_BOLSADROGA#16
 
-# [ENGLISH]
-# Oh yeah! // Give me that dope baby!
+# [SPANISH]
+# ¡Oh sí! // ¡Dame esa droga nene!
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -246,8 +246,8 @@ Oh yeah! // Give me that dope baby!
 # [KEY]
 # ALMACENABLES_BOLSADROGA#17
 
-# [ENGLISH]
-# To relax // And forget my problems
+# [SPANISH]
+# Para relajarme // Y olvidar mis problemas
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -261,8 +261,8 @@ To relax // And forget my problems
 # [KEY]
 # ALMACENABLES_BOLSADROGA#18
 
-# [ENGLISH]
-# Can't miss it // At tonight's party
+# [SPANISH]
+# No puede faltar // En la fiesta de esta noche
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -276,8 +276,8 @@ Can't miss it // At tonight's party
 # [KEY]
 # ALMACENABLES_BOLSADROGA#19
 
-# [ENGLISH]
-# Thank you... // I can't live without the house special
+# [SPANISH]
+# Gracias... // No puedo vivir sin la especialidad de la casa
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -291,8 +291,8 @@ Thank you... // I can't live without the house special
 # [KEY]
 # ALMACENABLES_BOLSADROGA#20
 
-# [ENGLISH]
-# Oh yes // Come to your mistress
+# [SPANISH]
+# Oh sí // Ven con tu dueña
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -306,8 +306,8 @@ Oh yes // Come to your mistress
 # [KEY]
 # ALMACENABLES_BOLSADROGA#21
 
-# [ENGLISH]
-# The house specialty looks very good
+# [SPANISH]
+# La especialidad de la casa se ve muy bien
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -321,8 +321,8 @@ The house specialty looks very good
 # [KEY]
 # ALMACENABLES_BOLSADROGA#22
 
-# [ENGLISH]
-# Oh yes // That's what I wanted... // The house specialty
+# [SPANISH]
+# Oh sí // Eso es lo que quería... // La especialidad de la casa
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -336,8 +336,8 @@ Oh yes // That's what I wanted... // The house specialty
 # [KEY]
 # ALMACENABLES_BOLSADROGA#23
 
-# [ENGLISH]
-# Thank you handsome // But I already have that at home // And I also have other things...
+# [SPANISH]
+# Gracias hermoso // Pero ya tengo eso en mi casa // Y también tengo otras cosas...
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -351,8 +351,8 @@ Thank you handsome // But I already have that at home // And I also have other t
 # [KEY]
 # ALMACENABLES_BOLSADROGA#24
 
-# [ENGLISH]
-# No thanks // Hiccup! // I don't do those things // But I'd accept a bottle of wine
+# [SPANISH]
+# No gracias // ¡Hip! // No me meto esas cosas // Pero aceptaría una botella de vino
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -366,8 +366,8 @@ No thanks // Hiccup! // I don't do those things // But I'd accept a bottle of wi
 # [KEY]
 # ALMACENABLES_BOLSADROGA#25
 
-# [ENGLISH]
-# That's a dangerous business, friend // Be careful // If they catch you...
+# [SPANISH]
+# Ese es un negocio peligroso amigo // Ten cuidado // Si te atrapan...
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -381,8 +381,8 @@ That's a dangerous business, friend // Be careful // If they catch you...
 # [KEY]
 # ALMACENABLES_BOLSADROGA#26
 
-# [ENGLISH]
-# I'm hungry // If that's not food // I don't want it
+# [SPANISH]
+# Tengo hambre // Si eso no es comida // No lo quiero
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -396,8 +396,8 @@ I'm hungry // If that's not food // I don't want it
 # [KEY]
 # ALMACENABLES_BOLSADROGA#27
 
-# [ENGLISH]
-# I'm in a hurry // Please, keep that away from me
+# [SPANISH]
+# Tengo prisa // Aleja eso de mí por favor
 
 # [CONTEXT]
 # Dialogue associated with giving the bag of drugs to a common citizen or special character. Sentences are separated by // and must be preserved

@@ -2,8 +2,8 @@
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#1
 
-# [ENGLISH]
-# Violation
+# [SPANISH]
+# Violación
 
 # [CONTEXT]
 # Refers to rules that must be followed
@@ -17,8 +17,8 @@ Violation
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#2
 
-# [ENGLISH]
-# Valid citizens must be accepted
+# [SPANISH]
+# Se deben aceptar ciudadanos válidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -36,8 +36,8 @@ Valid citizens must be accepted
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#3
 
-# [ENGLISH]
-# Citizens stealing products must be arrested
+# [SPANISH]
+# Los ciudadanos que roben productos deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -58,8 +58,8 @@ Citizens stealing products must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#4
 
-# [ENGLISH]
-# Robbers must be neutralized
+# [SPANISH]
+# Los asaltantes deben ser neutralizados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -80,8 +80,8 @@ Robbers must be neutralized
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#5
 
-# [ENGLISH]
-# Citizens must be processed with an ID card and must be rejected if it is not presented
+# [SPANISH]
+# Los ciudadanos deben ser procesados con tarjeta de identificación y ser rechazados si no la presentan
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -105,8 +105,8 @@ Citizens must be processed with an ID card and must be rejected if it is not pre
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#6
 
-# [ENGLISH]
-# Citizens with expired ID cards must be rejected.
+# [SPANISH]
+# Los ciudadanos con tarjeta de identificación vencida deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -130,8 +130,8 @@ Citizens with expired ID cards must be rejected.
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#7
 
-# [ENGLISH]
-# Citizens presenting someone else's identification card must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten tarjeta de identificación ajena deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -155,8 +155,8 @@ Citizens presenting someone else's identification card must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#8
 
-# [ENGLISH]
-# Citizens presenting a false ID card must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten tarjeta de identificación falsa deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -180,8 +180,8 @@ Citizens presenting a false ID card must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#9
 
-# [ENGLISH]
-# Citizens of restricted cities must be rejected
+# [SPANISH]
+# Los ciudadanos de ciudades restringidas deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -202,8 +202,8 @@ Citizens of restricted cities must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#10
 
-# [ENGLISH]
-# Wanted criminals must be arrested
+# [SPANISH]
+# Los criminales buscados deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -224,8 +224,8 @@ Wanted criminals must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#11
 
-# [ENGLISH]
-# Citizens with a high blood alcohol level must be arrested
+# [SPANISH]
+# Los ciudadanos con alto nivel de alcoholemia deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -246,8 +246,8 @@ Citizens with a high blood alcohol level must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#12
 
-# [ENGLISH]
-# Products must be processed with their corresponding code
+# [SPANISH]
+# Los productos deberán ser procesados con su código correspondiente
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -261,8 +261,8 @@ Products must be processed with their corresponding code
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#13
 
-# [ENGLISH]
-# Sale of products not suitable for minors is prohibited
+# [SPANISH]
+# Prohibida la venta de productos no aptos a menores
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -280,8 +280,8 @@ Sale of products not suitable for minors is prohibited
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#14
 
-# [ENGLISH]
-# Sale of products not suitable for the elderly is prohibited
+# [SPANISH]
+# Prohibida la venta de productos no aptos a ancianos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -299,8 +299,8 @@ Sale of products not suitable for the elderly is prohibited
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#15
 
-# [ENGLISH]
-# Sale of products not suitable for the obese is prohibited
+# [SPANISH]
+# Prohibida la venta de productos no aptos a obesos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -318,8 +318,8 @@ Sale of products not suitable for the obese is prohibited
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#16
 
-# [ENGLISH]
-# Sale of products not suitable for the severely obese is prohibited
+# [SPANISH]
+# Prohibida la venta de productos no aptos a obesos severos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -337,8 +337,8 @@ Sale of products not suitable for the severely obese is prohibited
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#17
 
-# [ENGLISH]
-# Sale of products containing salt to hypertensive individuals is prohibited
+# [SPANISH]
+# Prohibida la venta de productos que contienen sal a hipertensos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -356,8 +356,8 @@ Sale of products containing salt to hypertensive individuals is prohibited
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#18
 
-# [ENGLISH]
-# Sale of products containing alcohol to citizens who test positive for alcohol is prohibited
+# [SPANISH]
+# Prohibida la venta de productos que contienen alcohol a ciudadanos con test positivo
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -375,8 +375,8 @@ Sale of products containing alcohol to citizens who test positive for alcohol is
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#19
 
-# [ENGLISH]
-# Sale of products containing fructose to citizens with food intolerances is prohibited
+# [SPANISH]
+# Prohibida la venta de productos con fructosa a ciudadanos con intolerancias alimentarias
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -397,8 +397,8 @@ Sale of products containing fructose to citizens with food intolerances is prohi
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#20
 
-# [ENGLISH]
-# Sale of products containing sucrose to citizens with food intolerances is prohibited
+# [SPANISH]
+# Prohibida la venta de productos con sacarosa a ciudadanos con intolerancias alimentarias
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -419,8 +419,8 @@ Sale of products containing sucrose to citizens with food intolerances is prohib
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#21
 
-# [ENGLISH]
-# Sale of products containing lactose to citizens with food intolerances is prohibited
+# [SPANISH]
+# Prohibida la venta de productos con lactosa a ciudadanos con intolerancias alimentarias
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -441,8 +441,8 @@ Sale of products containing lactose to citizens with food intolerances is prohib
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#22
 
-# [ENGLISH]
-# Sale of products containing gluten to citizens with food intolerances is prohibited
+# [SPANISH]
+# Prohibida la venta de productos con gluten a ciudadanos con intolerancias alimentarias
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -463,8 +463,8 @@ Sale of products containing gluten to citizens with food intolerances is prohibi
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#23
 
-# [ENGLISH]
-# Sale of products on the citizen's prohibited list is forbidden
+# [SPANISH]
+# Prohibida la venta de productos en lista de prohibidos del ciudadano
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -485,8 +485,8 @@ Sale of products on the citizen's prohibited list is forbidden
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#24
 
-# [ENGLISH]
-# Sale of product categories on the citizen's prohibited list is forbidden
+# [SPANISH]
+# Prohibida la venta de categorías de productos en lista de prohibidos del ciudadano
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -510,8 +510,8 @@ Sale of product categories on the citizen's prohibited list is forbidden
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#25
 
-# [ENGLISH]
-# Citizens must provide a payment method, or they must be rejected
+# [SPANISH]
+# Los ciudadanos deben presentar algún medio de pago o deberán ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -532,8 +532,8 @@ Citizens must provide a payment method, or they must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#26
 
-# [ENGLISH]
-# Citizens must provide the full payment amount
+# [SPANISH]
+# Los ciudadanos no deben presentar faltante de dinero en los pagos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -551,8 +551,8 @@ Citizens must provide the full payment amount
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#27
 
-# [ENGLISH]
-# Citizens who present counterfeit bills must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten billetes falsos deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -576,8 +576,8 @@ Citizens who present counterfeit bills must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#28
 
-# [ENGLISH]
-# Citizens who insist on paying with deteriorated, stained, or vandalized bills must be rejected
+# [SPANISH]
+# Los ciudadanos que insistan en pagar con billetes rotos, manchados o vandalizados deberán ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -598,8 +598,8 @@ Citizens who insist on paying with deteriorated, stained, or vandalized bills mu
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#29
 
-# [ENGLISH]
-# Citizens who present marked bills must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten billetes marcados deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -623,8 +623,8 @@ Citizens who present marked bills must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#30
 
-# [ENGLISH]
-# Citizens presenting another person's credit card must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten tarjeta crédito ajena deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -648,8 +648,8 @@ Citizens presenting another person's credit card must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#31
 
-# [ENGLISH]
-# Citizens presenting credit cards from prohibited brands must be rejected
+# [SPANISH]
+# Los ciudadanos que presenten tarjeta crédito con marca prohibida deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -673,8 +673,8 @@ Citizens presenting credit cards from prohibited brands must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#32
 
-# [ENGLISH]
-# Citizens who present credit cards with prohibited banks must be rejected
+# [SPANISH]
+# Los ciudadanos que presenten tarjetas de crédito con bancos prohibidos deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -698,8 +698,8 @@ Citizens who present credit cards with prohibited banks must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#33
 
-# [ENGLISH]
-# Citizens presenting credit cards with insufficient funds must be rejected
+# [SPANISH]
+# Los ciudadanos que presenten tarjeta crédito sin fondos deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -723,8 +723,8 @@ Citizens presenting credit cards with insufficient funds must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#34
 
-# [ENGLISH]
-# Citizens who present someone else's credit note must be arrested.
+# [SPANISH]
+# Los ciudadanos que presenten nota de crédito ajena deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -748,8 +748,8 @@ Citizens who present someone else's credit note must be arrested.
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#35
 
-# [ENGLISH]
-# Citizens presenting expired credit notes must be rejected
+# [SPANISH]
+# Los ciudadanos que presenten nota de crédito vencida deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -773,8 +773,8 @@ Citizens presenting expired credit notes must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#36
 
-# [ENGLISH]
-# Citizens presenting false credit notes must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten nota de crédito falsa deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -798,8 +798,8 @@ Citizens presenting false credit notes must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#37
 
-# [ENGLISH]
-# Citizens presenting another person's food coupons must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten cupones de alimentos ajenos deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -823,8 +823,8 @@ Citizens presenting another person's food coupons must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#38
 
-# [ENGLISH]
-# Citizens presenting fake food coupons must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten cupones de alimentos falsos deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -848,8 +848,8 @@ Citizens presenting fake food coupons must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#39
 
-# [ENGLISH]
-# Citizens presenting expired food coupons must be rejected
+# [SPANISH]
+# Los ciudadanos que presenten cupones de alimentos vencidos deben ser rechazados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -873,8 +873,8 @@ Citizens presenting expired food coupons must be rejected
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#41
 
-# [ENGLISH]
-# Citizens presenting fake discount coupons must be arrested
+# [SPANISH]
+# Los ciudadanos que presenten cupones de descuento falsos deben ser detenidos
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -898,8 +898,8 @@ Citizens presenting fake discount coupons must be arrested
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#42
 
-# [ENGLISH]
-# Expired discount coupons must not be accepted and must be voided
+# [SPANISH]
+# No se deben aceptar cupones de descuento vencidos y estos deben ser invalidados
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -917,8 +917,8 @@ Expired discount coupons must not be accepted and must be voided
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#43
 
-# [ENGLISH]
-# Accepted discount coupons must be punched in the indicated area
+# [SPANISH]
+# Los cupones de descuento aceptados deben ser perforados en la zona indicada
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -936,8 +936,8 @@ Accepted discount coupons must be punched in the indicated area
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#44
 
-# [ENGLISH]
-# Credit notes must be stapled to their respective invoices in the indicated area
+# [SPANISH]
+# Las notas de credito deben ser engrampadas con su respectiva factura en la zona indicada
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -955,8 +955,8 @@ Credit notes must be stapled to their respective invoices in the indicated area
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#45
 
-# [ENGLISH]
-# The food coupons must be sealed in the designated area
+# [SPANISH]
+# Los cupones de alimento deben ser sellados en la zona indicada
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -974,8 +974,8 @@ The food coupons must be sealed in the designated area
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#46
 
-# [ENGLISH]
-# Cash shortages caused by giving excess change are not permitted
+# [SPANISH]
+# No se deben producir faltantes de caja por sobrepago de cambio
 
 # [CONTEXT]
 # Description of a rule to be followed
@@ -989,8 +989,8 @@ Cash shortages caused by giving excess change are not permitted
 # [KEY]
 # ASPECTOS-GEN_RESTRICCIONES#47
 
-# [ENGLISH]
-# Discount coupons must be accepted or voided
+# [SPANISH]
+# Los cupones de descuento deben ser aceptados o invalidados
 
 # [CONTEXT]
 # Description of a rule to be followed

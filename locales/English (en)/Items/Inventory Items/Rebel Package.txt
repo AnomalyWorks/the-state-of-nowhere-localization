@@ -2,8 +2,8 @@
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#1
 
-# [ENGLISH]
-# Rebel Package
+# [SPANISH]
+# Paquete Rebelde
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Rebel Package
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#2
 
-# [ENGLISH]
-# Contains encrypted information. Deliver to:
+# [SPANISH]
+# Contiene información encriptada. Entregar a:
 
 # [CONTEXT]
 # Description of the Rebel Package inventory item
@@ -36,8 +36,8 @@ Contains encrypted information. Deliver to:
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#3
 
-# [ENGLISH]
-# What's this? // No thanks
+# [SPANISH]
+# ¿Qué es esto? // No gracias
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -51,8 +51,8 @@ What's this? // No thanks
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#4
 
-# [ENGLISH]
-# What does this mean? // Deliver to...?
+# [SPANISH]
+# ¿Qué significa esto? // ¿Entregar a...?
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -66,8 +66,8 @@ What does this mean? // Deliver to...?
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#5
 
-# [ENGLISH]
-# What's that? // I have no idea
+# [SPANISH]
+# ¿Qué es? // No tengo la menor idea
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -81,8 +81,8 @@ What's that? // I have no idea
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#6
 
-# [ENGLISH]
-# What is it for?
+# [SPANISH]
+# ¿Para qué sirve esto?
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -96,8 +96,8 @@ What is it for?
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#7
 
-# [ENGLISH]
-# I don't understand what it is
+# [SPANISH]
+# No entiendo qué es
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -111,8 +111,8 @@ I don't understand what it is
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#8
 
-# [ENGLISH]
-# What is it supposed to be used for?
+# [SPANISH]
+# ¿Para qué se supone que sirve?
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -126,8 +126,8 @@ What is it supposed to be used for?
 # [KEY]
 # ALMACENABLES_PAQUETEREBELDE#9
 
-# [ENGLISH]
-# Glory to the resistance! // End the regime! // End Maligno!
+# [SPANISH]
+# ¡Gloria a la resistencia! // ¡Abajo el régimen! // ¡Abajo Maligno!
 
 # [CONTEXT]
 # Dialogue associated with giving the Rebel Package to a common citizen or special character. Sentences are separated by // and must be preserved

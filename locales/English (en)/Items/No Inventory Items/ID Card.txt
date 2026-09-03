@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_TARJETAIDENTIFICACION#1
 
-# [ENGLISH]
-# Identification card
+# [SPANISH]
+# Tarjeta de Identificación
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Identification card
 # [KEY]
 # NO-ALM_TARJETAIDENTIFICACION#3
 
-# [ENGLISH]
-# It is my identification card // You should process it // Right?
+# [SPANISH]
+# Es mi tarjeta de identificación // Debes procesarla // ¿No?
 
 # [CONTEXT]
 # Dialogue associated with giving the Identification Card to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -40,8 +40,8 @@ It is my identification card // You should process it // Right?
 # [KEY]
 # NO-ALM_TARJETAIDENTIFICACION#4
 
-# [ENGLISH]
-# No // You have to process that yourself
+# [SPANISH]
+# No // Tienes que procesarla tú
 
 # [CONTEXT]
 # Dialogue associated with giving the Identification Card to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -55,8 +55,8 @@ No // You have to process that yourself
 # [KEY]
 # NO-ALM_TARJETAIDENTIFICACION#5
 
-# [ENGLISH]
-# Aren't you supposed to use it yourself?
+# [SPANISH]
+# ¿No se supone que debes usarla tú?
 
 # [CONTEXT]
 # Dialogue associated with giving the Identification Card to a common citizen or special character. Sentences are separated by // and must be preserved

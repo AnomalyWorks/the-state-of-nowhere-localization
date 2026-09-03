@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_CUPONDESCUENTO#1
 
-# [ENGLISH]
-# Discount Coupon
+# [SPANISH]
+# Cupón de Descuento
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Discount Coupon
 # [KEY]
 # NO-ALM_CUPONDESCUENTO#3
 
-# [ENGLISH]
-# It's a discount coupon // For my purchase
+# [SPANISH]
+# Es un cupón de descuento // Para mi compra
 
 # [CONTEXT]
 # Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -40,8 +40,8 @@ It's a discount coupon // For my purchase
 # [KEY]
 # NO-ALM_CUPONDESCUENTO#4
 
-# [ENGLISH]
-# It's my discount coupon // You have to process it
+# [SPANISH]
+# Es mi cupón de descuento // Tienes que procesarlo
 
 # [CONTEXT]
 # Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -59,8 +59,8 @@ It's my discount coupon // You have to process it
 # [KEY]
 # NO-ALM_CUPONDESCUENTO#5
 
-# [ENGLISH]
-# No // You have to process it yourself
+# [SPANISH]
+# No // Tienes que procesarlo tú
 
 # [CONTEXT]
 # Dialogue associated with giving the Discount Coupon to a common citizen or special character. Sentences are separated by // and must be preserved

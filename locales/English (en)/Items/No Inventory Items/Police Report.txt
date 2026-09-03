@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#1
 
-# [ENGLISH]
-# Police Report
+# [SPANISH]
+# Informe Policial
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Police Report
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#4
 
-# [ENGLISH]
-# Taxes
+# [SPANISH]
+# Impuestos
 
 # [CONTEXT]
 # 
@@ -36,8 +36,8 @@ Taxes
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#5
 
-# [ENGLISH]
-# Administrative charges
+# [SPANISH]
+# Cargos administrativos
 
 # [CONTEXT]
 # 
@@ -51,8 +51,8 @@ Administrative charges
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#7
 
-# [ENGLISH]
-# Resistance to authority
+# [SPANISH]
+# Resistencia a la autoridad
 
 # [CONTEXT]
 # Offense described in a police report
@@ -66,8 +66,8 @@ Resistance to authority
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#8
 
-# [ENGLISH]
-# Attempted Homicide
+# [SPANISH]
+# Tentativa de homicidio
 
 # [CONTEXT]
 # Offense described in a police report
@@ -81,8 +81,8 @@ Attempted Homicide
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#9
 
-# [ENGLISH]
-# Simple homicide
+# [SPANISH]
+# Homicidio simple
 
 # [CONTEXT]
 # Offense described in a police report
@@ -96,8 +96,8 @@ Simple homicide
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#10
 
-# [ENGLISH]
-# Multiple Homicide
+# [SPANISH]
+# Homicidio múltiple
 
 # [CONTEXT]
 # Offense described in a police report
@@ -111,8 +111,8 @@ Multiple Homicide
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#11
 
-# [ENGLISH]
-# Sale of narcotics
+# [SPANISH]
+# Comercialización de estupefacientes
 
 # [CONTEXT]
 # Offense described in a police report
@@ -126,8 +126,8 @@ Sale of narcotics
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#12
 
-# [ENGLISH]
-# Obscene exhibition
+# [SPANISH]
+# Exhibición obscena
 
 # [CONTEXT]
 # Offense described in a police report
@@ -141,8 +141,8 @@ Obscene exhibition
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#13
 
-# [ENGLISH]
-# Participation in a criminal organization
+# [SPANISH]
+# Participación asociación ilícita
 
 # [CONTEXT]
 # Offense described in a police report
@@ -156,8 +156,8 @@ Participation in a criminal organization
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#14
 
-# [ENGLISH]
-# Counterfeit
+# [SPANISH]
+# Falsificación
 
 # [CONTEXT]
 # Offense described in a police report
@@ -171,8 +171,8 @@ Counterfeit
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#15
 
-# [ENGLISH]
-# Prostitution
+# [SPANISH]
+# Prostitución
 
 # [CONTEXT]
 # Offense described in a police report
@@ -186,8 +186,8 @@ Prostitution
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#16
 
-# [ENGLISH]
-# Did you get arrested?
+# [SPANISH]
+# ¿Te arrestaron?
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -201,8 +201,8 @@ Did you get arrested?
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#17
 
-# [ENGLISH]
-# So... how cold are the cells?
+# [SPANISH]
+# ¿Y qué tan frías son las celdas?
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -216,8 +216,8 @@ So... how cold are the cells?
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#18
 
-# [ENGLISH]
-# So... how is food in prison?
+# [SPANISH]
+# ¿Y cómo es la comida en la cárcel?
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -231,8 +231,8 @@ So... how is food in prison?
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#19
 
-# [ENGLISH]
-# Did you bend over to pick up the soap?
+# [SPANISH]
+# ¿Te agachaste a recoger el jabón?
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -246,8 +246,8 @@ Did you bend over to pick up the soap?
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#21
 
-# [ENGLISH]
-# Do you see what happens when you break the law?
+# [SPANISH]
+# ¿Ve lo que pasa cuando no cumple con la ley?
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -261,8 +261,8 @@ Do you see what happens when you break the law?
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#22
 
-# [ENGLISH]
-# You'd better behave from now on
+# [SPANISH]
+# Será mejor que apartir de ahora se comporte
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -276,8 +276,8 @@ You'd better behave from now on
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#23
 
-# [ENGLISH]
-# Do you want me to add more charges? // That's what I thought
+# [SPANISH]
+# ¿Quieres que añada más cargos? // Eso pensaba
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -291,8 +291,8 @@ Do you want me to add more charges? // That's what I thought
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#24
 
-# [ENGLISH]
-# There won't be second chances // Obey the law
+# [SPANISH]
+# No habrá segundas oportunidades // Cumpla con la ley
 
 # [CONTEXT]
 # Dialogue associated with giving the Police Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -306,8 +306,8 @@ There won't be second chances // Obey the law
 # [KEY]
 # NO-ALM_INFORMEPOLICIAL#25
 
-# [ENGLISH]
-# Theft
+# [SPANISH]
+# Hurto
 
 # [CONTEXT]
 # Offense described in a police report

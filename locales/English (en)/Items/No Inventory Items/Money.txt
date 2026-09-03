@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_DINERO#1
 
-# [ENGLISH]
-# Bills
+# [SPANISH]
+# Billetes
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Bills
 # [KEY]
 # NO-ALM_DINERO#3
 
-# [ENGLISH]
-# It's the purchase money
+# [SPANISH]
+# Es el dinero de la compra
 
 # [CONTEXT]
 # Dialogue associated with giving the Money to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -36,8 +36,8 @@ It's the purchase money
 # [KEY]
 # NO-ALM_DINERO#4
 
-# [ENGLISH]
-# No // It is for the purchase
+# [SPANISH]
+# No // Es para la compra
 
 # [CONTEXT]
 # Dialogue associated with giving the Money to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -51,8 +51,8 @@ No // It is for the purchase
 # [KEY]
 # NO-ALM_DINERO#5
 
-# [ENGLISH]
-# You have to process the money
+# [SPANISH]
+# Tienes que procesar el dinero
 
 # [CONTEXT]
 # Dialogue associated with giving the Money to a common citizen or special character. Sentences are separated by // and must be preserved

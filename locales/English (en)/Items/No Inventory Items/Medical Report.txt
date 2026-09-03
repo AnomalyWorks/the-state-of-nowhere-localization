@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_INFORMEMEDICO#1
 
-# [ENGLISH]
-# Medical Report
+# [SPANISH]
+# Informe Médico
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Medical Report
 # [KEY]
 # NO-ALM_INFORMEMEDICO#3
 
-# [ENGLISH]
-# Multiple trauma and fractures
+# [SPANISH]
+# Múltiples golpes y fracturas
 
 # [CONTEXT]
 # Medical condition described in a medical report
@@ -36,8 +36,8 @@ Multiple trauma and fractures
 # [KEY]
 # NO-ALM_INFORMEMEDICO#4
 
-# [ENGLISH]
-# Sexually Transmitted Disease: Terminal Phase
+# [SPANISH]
+# Enfermedad de transmisión sexual: Fase Terminal
 
 # [CONTEXT]
 # Medical condition described in a medical report
@@ -51,8 +51,8 @@ Sexually Transmitted Disease: Terminal Phase
 # [KEY]
 # NO-ALM_INFORMEMEDICO#5
 
-# [ENGLISH]
-# Alcohol intoxication
+# [SPANISH]
+# Intoxicación por alcohol
 
 # [CONTEXT]
 # Medical condition described in a medical report
@@ -66,8 +66,8 @@ Alcohol intoxication
 # [KEY]
 # NO-ALM_INFORMEMEDICO#6
 
-# [ENGLISH]
-# Drug intoxication
+# [SPANISH]
+# Intoxicación por drogas
 
 # [CONTEXT]
 # Medical condition described in a medical report
@@ -81,8 +81,8 @@ Drug intoxication
 # [KEY]
 # NO-ALM_INFORMEMEDICO#7
 
-# [ENGLISH]
-# Firearm injury
+# [SPANISH]
+# Herida por arma de fuego
 
 # [CONTEXT]
 # Medical condition described in a medical report
@@ -96,8 +96,8 @@ Firearm injury
 # [KEY]
 # NO-ALM_INFORMEMEDICO#8
 
-# [ENGLISH]
-# Did you get out of the hospital? // That's good
+# [SPANISH]
+# ¿Saliste del hospital? // Qué bueno
 
 # [CONTEXT]
 # Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -111,8 +111,8 @@ Did you get out of the hospital? // That's good
 # [KEY]
 # NO-ALM_INFORMEMEDICO#9
 
-# [ENGLISH]
-# You should be more careful next time.
+# [SPANISH]
+# Debes tener más cuidado la próxima vez
 
 # [CONTEXT]
 # Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -126,8 +126,8 @@ You should be more careful next time.
 # [KEY]
 # NO-ALM_INFORMEMEDICO#10
 
-# [ENGLISH]
-# I wish you a quick recovery
+# [SPANISH]
+# Te deseo una pronta recuperación
 
 # [CONTEXT]
 # Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -141,8 +141,8 @@ I wish you a quick recovery
 # [KEY]
 # NO-ALM_INFORMEMEDICO#11
 
-# [ENGLISH]
-# It could've been worse
+# [SPANISH]
+# Podría haber sido peor
 
 # [CONTEXT]
 # Dialogue associated with giving the Medical Report to a common citizen or special character. Sentences are separated by // and must be preserved

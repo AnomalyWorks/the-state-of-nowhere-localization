@@ -2,8 +2,8 @@
 # [KEY]
 # NO-ALM_TARJETACREDITO#1
 
-# [ENGLISH]
-# Credit Card
+# [SPANISH]
+# Tarjeta de Crédito
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Credit Card
 # [KEY]
 # NO-ALM_TARJETACREDITO#3
 
-# [ENGLISH]
-# That's my credit card // To pay for the purchase
+# [SPANISH]
+# Es mi tarjeta de crédito // Para pagar la compra
 
 # [CONTEXT]
 # Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -40,8 +40,8 @@ That's my credit card // To pay for the purchase
 # [KEY]
 # NO-ALM_TARJETACREDITO#4
 
-# [ENGLISH]
-# That's my credit card // You have to process it
+# [SPANISH]
+# Es mi tarjeta de crédito // Tienes que procesarlo
 
 # [CONTEXT]
 # Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -59,8 +59,8 @@ That's my credit card // You have to process it
 # [KEY]
 # NO-ALM_TARJETACREDITO#5
 
-# [ENGLISH]
-# No // It's for the payment // You have to process it yourself
+# [SPANISH]
+# No // Es para el pago // Tienes que procesarlo tú
 
 # [CONTEXT]
 # Dialogue associated with giving the Credit Card to a common citizen or special character. Sentences are separated by // and must be preserved

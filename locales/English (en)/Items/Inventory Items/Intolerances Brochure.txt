@@ -2,8 +2,8 @@
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#1
 
-# [ENGLISH]
-# Intolerances Brochure
+# [SPANISH]
+# Folleto de Intolerancias
 
 # [CONTEXT]
 # 
@@ -21,8 +21,8 @@ Intolerances Brochure
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#2
 
-# [ENGLISH]
-# Intolerance problems? We have the best food programs for you! Join us!
+# [SPANISH]
+# ¿Problemas de intolerancia? ¡Nosotros tenemos los mejores programas alimenticios para usted! ¡Únase!
 
 # [CONTEXT]
 # Description of the Intolerances Brochure inventory item
@@ -36,8 +36,8 @@ Intolerance problems? We have the best food programs for you! Join us!
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#3
 
-# [ENGLISH]
-# Intolerances? // You're wrong
+# [SPANISH]
+# ¿Intolerancias? // Te equivocas
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -51,8 +51,8 @@ Intolerances? // You're wrong
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#4
 
-# [ENGLISH]
-# I don't suffer from that, my friend
+# [SPANISH]
+# No sufro de eso amigo
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -66,8 +66,8 @@ I don't suffer from that, my friend
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#5
 
-# [ENGLISH]
-# What? // I don't have that
+# [SPANISH]
+# ¿Qué? // Yo no tengo eso
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -81,8 +81,8 @@ What? // I don't have that
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#6
 
-# [ENGLISH]
-# You should keep that // I don't need it
+# [SPANISH]
+# Deberías guardarlo // Yo no lo necesito
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -96,8 +96,8 @@ You should keep that // I don't need it
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#7
 
-# [ENGLISH]
-# I don't have any intolerances
+# [SPANISH]
+# No sufro de ninguna intolerancia
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -111,8 +111,8 @@ I don't have any intolerances
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#8
 
-# [ENGLISH]
-# You're mistaken // I don't have any intolerances
+# [SPANISH]
+# Te equivocas // No tengo intolerancias
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -126,8 +126,8 @@ You're mistaken // I don't have any intolerances
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#9
 
-# [ENGLISH]
-# Oh! // Thank you for your concern
+# [SPANISH]
+# ¡Oh! // Gracias por preocuparte
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -141,8 +141,8 @@ Oh! // Thank you for your concern
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#10
 
-# [ENGLISH]
-# Thanks // I'll read it later
+# [SPANISH]
+# Gracias // Luego lo leeré
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -156,8 +156,8 @@ Thanks // I'll read it later
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#11
 
-# [ENGLISH]
-# Thank you so much... // You care for my health
+# [SPANISH]
+# Muchas gracias... // Te preocupas por mi salud
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -171,8 +171,8 @@ Thank you so much... // You care for my health
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#12
 
-# [ENGLISH]
-# Oh... // Interesting // I'll read it
+# [SPANISH]
+# Oh... // Interesante // Lo leeré
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -186,8 +186,8 @@ Oh... // Interesting // I'll read it
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#13
 
-# [ENGLISH]
-# Me? // A prestigious law officer? // Never!
+# [SPANISH]
+# ¿Yo? // ¿Un prestigioso oficial de la ley? // ¡Nunca!
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -201,8 +201,8 @@ Me? // A prestigious law officer? // Never!
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#14
 
-# [ENGLISH]
-# What are you suggesting? // Do you want me to arrest you?
+# [SPANISH]
+# ¿Qué sugieres? // ¿Quieres que te arreste?
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -216,8 +216,8 @@ What are you suggesting? // Do you want me to arrest you?
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#15
 
-# [ENGLISH]
-# Don't get smart // Or I'll take you to a cell
+# [SPANISH]
+# No te pases de listo // O te llevo a una celda
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -231,8 +231,8 @@ Don't get smart // Or I'll take you to a cell
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#16
 
-# [ENGLISH]
-# Do you want to piss me off? // I can put you in a cell
+# [SPANISH]
+# ¿Quieres hacerme enojar? // Puedo meterte a una celda
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved
@@ -246,8 +246,8 @@ Do you want to piss me off? // I can put you in a cell
 # [KEY]
 # ALMACENABLES_FOLLETOINTOLERANCIA#17
 
-# [ENGLISH]
-# Intolerances? // I don't even have anything to eat my friend
+# [SPANISH]
+# ¿Intolerancias? // Ni siquiera tengo algo para comer amigo
 
 # [CONTEXT]
 # Dialogue associated with giving the Intolerances Brochure to a common citizen or special character. Sentences are separated by // and must be preserved

@@ -2,8 +2,8 @@
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#1
 
-# [ENGLISH]
-# How? // My ID card is fake? // It must be a mistake.
+# [SPANISH]
+# ¿Cómo? // ¿Mi tarjeta de identificación es falsa? // Tiene que ser un error
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -17,8 +17,8 @@ How? // My ID card is fake? // It must be a mistake.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#2
 
-# [ENGLISH]
-# Wow // You discovered my fake ID card... // I congratulate you
+# [SPANISH]
+# Vaya // Descubriste mi tarjeta de identificacion falsa... // Te felicito
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -32,8 +32,8 @@ Wow // You discovered my fake ID card... // I congratulate you
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#3
 
-# [ENGLISH]
-# My ID card is not fake // You are wrong
+# [SPANISH]
+# Mi tarjeta de identificacion no es falsa // Estás equivocado
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -47,8 +47,8 @@ My ID card is not fake // You are wrong
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#4
 
-# [ENGLISH]
-# You figured me out buddy // The ID card is fake // You're very good.
+# [SPANISH]
+# Me descubriste, amigo // La tarjeta de identificación es falsa // Eres muy bueno
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -62,8 +62,8 @@ You figured me out buddy // The ID card is fake // You're very good.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#5
 
-# [ENGLISH]
-# My ID card is not a fake // Check it out // It has the stamps on it.
+# [SPANISH]
+# Mi tarjeta de identificacion no es falsa // Revisa bien // Tiene los sellos
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -81,8 +81,8 @@ My ID card is not a fake // Check it out // It has the stamps on it.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#6
 
-# [ENGLISH]
-# Oh... // You realized... // I won't forge again // Please don't rat me out...
+# [SPANISH]
+# Oh... // Te diste cuenta... // No volveré a falsificar // No me delates por favor
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -96,8 +96,8 @@ Oh... // You realized... // I won't forge again // Please don't rat me out...
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#7
 
-# [ENGLISH]
-# How? // It can't be // I was told it was an undetectable replica.
+# [SPANISH]
+# ¿Cómo? // No puede ser // Me dijeron que era una réplica indetectable
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -111,8 +111,8 @@ How? // It can't be // I was told it was an undetectable replica.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#8
 
-# [ENGLISH]
-# What do you mean, fakes? // No way // The guy who sold me the falsifications told me that nobody would notice.
+# [SPANISH]
+# ¿Cómo que falsos? // No puede ser // El tipo que me vendio las falsificaciones me dijo que nadie se daría cuenta
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -126,8 +126,8 @@ What do you mean, fakes? // No way // The guy who sold me the falsifications tol
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#9
 
-# [ENGLISH]
-# False? // Must be an error // Check it again
+# [SPANISH]
+# ¿Falso? // Debe ser un error // Compruébalo de nuevo
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -141,8 +141,8 @@ False? // Must be an error // Check it again
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#10
 
-# [ENGLISH]
-# But it's an exact replica // How could you tell?
+# [SPANISH]
+# Pero si es una réplica exacta // ¿Cómo te diste cuenta?
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a fake ID card. Sentences are separated by // and must be preserved
@@ -156,8 +156,8 @@ But it's an exact replica // How could you tell?
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#11
 
-# [ENGLISH]
-# That the bill is counterfeit? // It must be a mistake!
+# [SPANISH]
+# ¿Que el billete es falso? // ¡Deber ser un error!
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -175,8 +175,8 @@ That the bill is counterfeit? // It must be a mistake!
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#12
 
-# [ENGLISH]
-# Counterfeit? // You're crazy // That bill is real.
+# [SPANISH]
+# ¿Falsificación? // Estás loco // Ese billete es verdadero
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -194,8 +194,8 @@ Counterfeit? // You're crazy // That bill is real.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#13
 
-# [ENGLISH]
-# But this is a new bill! // Maligno announced it recently // Didn't you hear about it?
+# [SPANISH]
+# ¡Pero si este billete es nuevo! // Maligno lo anunció hace poco // ¿No te enteraste?
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -216,8 +216,8 @@ But this is a new bill! // Maligno announced it recently // Didn't you hear abou
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#14
 
-# [ENGLISH]
-# It can't be // They just handed me that bill.
+# [SPANISH]
+# No puede ser // Ese billete recién me lo entregaron
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -235,8 +235,8 @@ It can't be // They just handed me that bill.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#15
 
-# [ENGLISH]
-# How did you figure it out // I made that bill myself // With the latest technology
+# [SPANISH]
+# ¿Cómo te diste cuenta? // Si ese billete lo hice yo mismo // Con la última tecnología
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -254,8 +254,8 @@ How did you figure it out // I made that bill myself // With the latest technolo
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#16
 
-# [ENGLISH]
-# It's authentic! // Isn't that the seal of authenticity?
+# [SPANISH]
+# ¡Es verdadera! // ¿No es ese el sello de autenticidad?
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -273,8 +273,8 @@ It's authentic! // Isn't that the seal of authenticity?
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#17
 
-# [ENGLISH]
-# Counterfeit? // But I just got it // Look // It has the seal of authenticity.
+# [SPANISH]
+# ¿Falsificación? // Pero si me la acaban de dar // Mira // Tiene el sello de autenticidad
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -292,8 +292,8 @@ Counterfeit? // But I just got it // Look // It has the seal of authenticity.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#18
 
-# [ENGLISH]
-# What do you mean it's a fake? // But it has all the stamps // I made sure to put them on properly
+# [SPANISH]
+# ¿Cómo que es falso? // Pero si tiene todos los sellos // Yo mismo me encargué de pegarlos bien
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -311,8 +311,8 @@ What do you mean it's a fake? // But it has all the stamps // I made sure to put
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#19
 
-# [ENGLISH]
-# Fake? // But look // It has Nowhere's seal of authenticity.
+# [SPANISH]
+# ¿Falso? // Pero mira // Tiene el sello de autenticidad de Nowhere
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -333,8 +333,8 @@ Fake? // But look // It has Nowhere's seal of authenticity.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#20
 
-# [ENGLISH]
-# You noticed // You're the first one // What gave it away // The seals of authenticity?
+# [SPANISH]
+# Te diste cuenta // Eres el primero // ¿Qué fueron? // ¿Los sellos de autenticidad?
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit bill. Sentences are separated by // and must be preserved
@@ -352,8 +352,8 @@ You noticed // You're the first one // What gave it away // The seals of authent
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#21
 
-# [ENGLISH]
-# My credit note is fake? // How can this be possible?
+# [SPANISH]
+# ¿Mi nota de crédito es falsa? // ¿Cómo puede ser posible?
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
@@ -367,8 +367,8 @@ My credit note is fake? // How can this be possible?
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#22
 
-# [ENGLISH]
-# This credit note is authentic // Check again
+# [SPANISH]
+# Esa nota de crédito es auténtica // Revisa de nuevo
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
@@ -382,8 +382,8 @@ This credit note is authentic // Check again
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#23
 
-# [ENGLISH]
-# I didn't forge that credit note... // Well, yes, I did
+# [SPANISH]
+# Yo no falsifiqué esa nota de crédito... // Bueno sí
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
@@ -397,8 +397,8 @@ I didn't forge that credit note... // Well, yes, I did
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#24
 
-# [ENGLISH]
-# Come on // It's not a fake credit note // It says it right there // 'This is not a forgery'
+# [SPANISH]
+# Vamos // No es una nota de crédito falsa // Lo dice ahí // 'Esto no es una falsificacion'
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
@@ -412,8 +412,8 @@ Come on // It's not a fake credit note // It says it right there // 'This is not
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#25
 
-# [ENGLISH]
-# Yes // I forged that credit note // So what?
+# [SPANISH]
+# Sí // Falsifiqué esa nota de crédito // ¿Y qué?
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit credit note. Sentences are separated by // and must be preserved
@@ -427,8 +427,8 @@ Yes // I forged that credit note // So what?
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#26
 
-# [ENGLISH]
-# The coupon is authentic // Check it again please
+# [SPANISH]
+# Es un cupón auténtico // Por favor revisa de nuevo
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
@@ -442,8 +442,8 @@ The coupon is authentic // Check it again please
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#27
 
-# [ENGLISH]
-# What? // Don't look at me like that // I didn't forge that coupon.
+# [SPANISH]
+# ¿Qué? // No me mires así // Yo no falsifiqué ese cupón
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
@@ -457,8 +457,8 @@ What? // Don't look at me like that // I didn't forge that coupon.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#28
 
-# [ENGLISH]
-# Shoot // The guy who gave me that coupon said that they wouldn't notice.
+# [SPANISH]
+# Rayos // El tipo que me dió ese cupón dijo que no se darían cuenta
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
@@ -472,8 +472,8 @@ Shoot // The guy who gave me that coupon said that they wouldn't notice.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#29
 
-# [ENGLISH]
-# Oh... // You got me, buddy // Don't rat me out // I'll never fake coupons again.
+# [SPANISH]
+# Oh... // Me descubriste amigo // No me delates // No volveré a falsificar cupones
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
@@ -487,8 +487,8 @@ Oh... // You got me, buddy // Don't rat me out // I'll never fake coupons again.
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#30
 
-# [ENGLISH]
-# That my coupon is fake? // Do you know how crazy that sounds? // ...
+# [SPANISH]
+# ¿Que mi cupón es falso? // ¿Sabes lo descabellado que suena eso? // ...
 
 # [CONTEXT]
 # Generic dialogue for a reported irregularity due to a counterfeit coupon. Sentences are separated by // and must be preserved
@@ -502,8 +502,8 @@ That my coupon is fake? // Do you know how crazy that sounds? // ...
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#31
 
-# [ENGLISH]
-# Alright // What do you say if I give you some bills // And you forget about that fake card
+# [SPANISH]
+# Bueno // Que dices si te doy algunos billetes // Y te olvidas de esa tarjeta falsa
 
 # [CONTEXT]
 # Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
@@ -521,8 +521,8 @@ Alright // What do you say if I give you some bills // And you forget about that
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#32
 
-# [ENGLISH]
-# Please don't arrest me // Ignore my fake ID card // I'll pay you
+# [SPANISH]
+# No me arrestes por favor // Ignora mi tarjeta de identificación falsa // Te pagaré
 
 # [CONTEXT]
 # Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
@@ -536,8 +536,8 @@ Please don't arrest me // Ignore my fake ID card // I'll pay you
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#33
 
-# [ENGLISH]
-# Are you going to arrest me for the fake card? // Maybe a bribe will change your mind
+# [SPANISH]
+# ¿Me vas a arrestar por la tarjeta falsa? // Un soborno quizas te haga cambiar de opinión
 
 # [CONTEXT]
 # Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
@@ -551,8 +551,8 @@ Are you going to arrest me for the fake card? // Maybe a bribe will change your 
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#34
 
-# [ENGLISH]
-# Hey // I could give you money // If you overlook that fake card
+# [SPANISH]
+# Oye // Podría darte dinero // Si ignoras eso de la tarjeta falsa
 
 # [CONTEXT]
 # Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
@@ -566,8 +566,8 @@ Hey // I could give you money // If you overlook that fake card
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#35
 
-# [ENGLISH]
-# Come on // Let me give you some money to forget about it // It's just a fake ID card
+# [SPANISH]
+# Vamos // Dejame pagarte un dinerito para que lo olvides // Es solo una tarjeta de identificacion falsa
 
 # [CONTEXT]
 # Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
@@ -581,8 +581,8 @@ Come on // Let me give you some money to forget about it // It's just a fake ID 
 # [KEY]
 # DIALOGOS-GEN_FALSIFICADOR#36
 
-# [ENGLISH]
-# Please // I can't go to prison // I'm just a humble counterfeiter // Let me give you money
+# [SPANISH]
+# Por favor // No puedo ir a prision // Soy un humilde falsificador // Dejame darte dinero
 
 # [CONTEXT]
 # Bribery attempt dialogue to overlook a fake document. Sentences are separated by // and must be preserved
