@@ -6,7 +6,7 @@ There are three ways to contribute localization improvements:
 
 * Submit a **Pull Request** by editing the localization files directly.
 * Submit a **Translation Suggestion** issue if you prefer not to edit the repository yourself.
-* Submit a **Localization Reference Issue** to report problems or suggest improvements related to context, glossary information, English reference text, or other protected localization information.
+* Submit a **Localization Reference Issue** to report problems or suggest improvements related to context, glossary information, reference text, or other protected localization information.
 
 All three methods are welcome.
 
@@ -16,7 +16,7 @@ Localization files contain structured entries with reference information and one
 
 Only text inside the following region may be edited:
 
-```text id="k73d8f"
+```text
 # [TRANSLATION]
 <<<
 This text may be edited.
@@ -37,6 +37,7 @@ Do not modify:
 
 * `[KEY]`
 * `[ENGLISH]`
+* `[SPANISH]`
 * `[CONTEXT]`
 * `[GLOSSARY]`
 * glossary IDs
@@ -47,15 +48,19 @@ Do not modify:
 
 Those sections are maintained as reference and metadata for the localization system.
 
-If you notice a problem in protected information such as the English reference, context, glossary, key, or repository structure, please report it through an issue instead of modifying it directly.
+If you notice a problem in protected information such as the reference text, context, glossary, key, or repository structure, please report it through an issue instead of modifying it directly.
 
-## English reference
+## Reference text
 
-`[ENGLISH]` contains the English version of the game line and should be used as the primary translation reference.
+For most languages, `[ENGLISH]` contains the English version of the game line and should be used as the primary translation reference.
+
+For **English (en)**, `[SPANISH]` contains the original Spanish version of the game line and should be used as the primary translation reference.
+
+The reference text is protected and must not be modified directly.
 
 ## Context
 
-`[CONTEXT]` explains information that may not be obvious from the English text alone, such as who is speaking, what is happening, where a UI label appears, or what a line refers to.
+`[CONTEXT]` explains information that may not be obvious from the reference text alone, such as who is speaking, what is happening, where a UI label appears, or what a line refers to.
 
 Always take the provided context into account when evaluating or modifying a translation.
 
@@ -65,7 +70,7 @@ When `[GLOSSARY]` is present, use the canonical localized term shown for the cur
 
 Example:
 
-```text id="q9kj3v"
+```text
 # [GLOSSARY]
 # ID: MALIGNISM
 # English: Malignism
@@ -114,7 +119,7 @@ This includes cases such as:
 * context that is unclear, incomplete, misleading, or could be improved;
 * a glossary term that you believe is incorrect or unnatural in a particular language;
 * a glossary term that should be added to a line;
-* an `[ENGLISH]` reference that appears to contain an error or does not accurately represent the intended meaning;
+* an `[ENGLISH]` or `[SPANISH]` reference that appears to contain an error or does not accurately represent the intended meaning;
 * any other problem with protected localization information that could affect translation quality.
 
 Please explain the problem and, when possible, suggest how you think it could be improved.
@@ -144,5 +149,4 @@ Minor, automated, spam, or purely technical contributions may be excluded from t
 Credits acknowledge localization contributions and do not imply ownership of the game or its intellectual property.
 
 Thank you for helping make **The State of Nowhere** accessible to more players.
-
 

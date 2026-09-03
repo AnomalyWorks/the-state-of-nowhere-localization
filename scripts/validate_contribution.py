@@ -225,7 +225,7 @@ def validate_file(base_sha, path):
             "<<<\n"
             "editable translation\n"
             ">>>\n\n"
-            "KEY, ENGLISH, CONTEXT, GLOSSARY, structural markers, spacing "
+            "KEY, reference text, CONTEXT, GLOSSARY, structural markers, spacing "
             "outside translation blocks, and all other protected content "
             "must remain unchanged."
         )
